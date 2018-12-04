@@ -10,102 +10,87 @@
 
 ### Lucene
 
-*   [Lucene 官网](https://hacpai.com/forward?goto=https%3A%2F%2Flucene.apache.org%2F)
+*   [Lucene 官网](https://lucene.apache.org/)
 
-*   [Lucene Wiki](https://hacpai.com/forward?goto=https%3A%2F%2Fwiki.apache.org%2Flucene-java%2FFrontPage)
+*   [Lucene Wiki](https://wiki.apache.org/lucene-java/FrontPage)
 
-*   [索引结构 -Lucene6.6.0](https://hacpai.com/forward?goto=https%3A%2F%2Flucene.apache.org%2Fcore%2F6_6_0%2Fcore%2Forg%2Fapache%2Flucene%2Fcodecs%2Flucene62%2Fpackage-summary.html%23package.description)
+*   [索引结构 -Lucene6.6.0](https://lucene.apache.org/core/6_6_0/core/org/apache/lucene/codecs/lucene62/package-summary.html#package.description)
 
     ### Solr
 
-*   [Solr 官网](https://hacpai.com/forward?goto=http%3A%2F%2Flucene.apache.org%2Fsolr%2F)
+*   [Solr 官网](http://lucene.apache.org/solr/)
 
-*   [Solr Wiki](https://hacpai.com/forward?goto=https%3A%2F%2Fwiki.apache.org%2Fsolr%2F)
+*   [Solr Wiki](https://wiki.apache.org/solr/)
 
     ### Elastic
 
-*   [Elastic 官网](https://hacpai.com/forward?goto=https%3A%2F%2Fwww.elastic.co%2F)
+*   [Elastic 官网](https://www.elastic.co/cn/)
 
-*   [Elastic Blog](https://hacpai.com/forward?goto=https%3A%2F%2Fwww.elastic.co%2Fblog%23sthash.khjrgPU5.dpbs)
+*   [Elastic Blog](https://www.elastic.co/blog#sthash.khjrgPU5.dpbs)
 
-*   [Elastic Formus](https://hacpai.com/forward?goto=https%3A%2F%2Fdiscuss.elastic.co%2F)
+*   [Elastic Formus](https://discuss.elastic.co/)
 
-*   [Elasticsearch: 权威指南 - 中文版](https://hacpai.com/forward?goto=https%3A%2F%2Fwww.elastic.co%2Fguide%2Fcn%2Felasticsearch%2Fguide%2Fcurrent%2Findex.html)
+*   [Elasticsearch: 权威指南 - 中文版](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 
-*   [Elastic 中文社区](https://hacpai.com/forward?goto=https%3A%2F%2Felasticsearch.cn%2F)
+*   [Elastic 中文社区](https://elasticsearch.cn/)
 
     ### LucidWorks
 
-*   [LucidWorks](https://hacpai.com/forward?goto=https%3A%2F%2Flucidworks.com%2F)
+*   [LucidWorks](https://lucidworks.com/)
 
-*   [LucidWorks Blog](https://hacpai.com/forward?goto=https%3A%2F%2Flucidworks.com%2Fblog%2F%23blog%2F)
+*   [LucidWorks Blog](https://lucidworks.com/blog/#blog/)
 
     ### 中文分词
 
-*   [ansj 分词](https://hacpai.com/forward?goto=https%3A%2F%2Fgithub.com%2FNLPchina%2Fansj_seg)
+*   [ansj 分词](https://github.com/NLPchina/ansj_seg?)
 
-*   [HanLP 分词](https://hacpai.com/forward?goto=https%3A%2F%2Fgithub.com%2Fhankcs%2FHanLP)
+*   [HanLP 分词](https://github.com/hankcs/HanLP)
 
-*   [ES-Analysis-IK](https://hacpai.com/forward?goto=https%3A%2F%2Fgithub.com%2Fmedcl%2Felasticsearch-analysis-ik)
+*   [ES-Analysis-IK](https://github.com/medcl/elasticsearch-analysis-ik)
 
 ## 大公司
 
 ### 阿里
 
-*   [一淘 购物搜索引擎架构的变与不变（视频） - 20130127 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fshopping-search-engine-framework-variable)
-    _音频质量不高，听起来比较费劲。_
-
-*   [天猫推荐算法团队的那些事儿 - 20140401 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2014%2F04%2Ftmall-recommendation-team)
+*   [天猫推荐算法团队的那些事儿 - 20140401 - infoQ](https://www.infoq.cn/article/2014%2F04%2Ftmall-recommendation-team)
     _本文以访谈的方式呈现，对搜索和推荐算法进行了简单的比较，提到了 AB 测试和离线测试，主要对推荐算法团队的工作方式、工作考评、任务分配、招聘等进行了介绍。_
 
-*   [天猫推荐算法实践（视频） - 20140622 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Ftianmao-recommendation-algorithm-practice)
-    _简单介绍了天猫推荐业务、推荐系统架构，较为详细的分析了双 11 个性化会场案例，主要是针对品牌的个性化推荐，最后引出阿里巴巴大数据竞赛、天猫推荐算法大赛，题目是：开放 2011 年 4 月 -8 月用户对品牌的行为数据（点击、购买、收藏、加入购物车等），预测这些用户在 2011 年 9 月购买的品牌。_
-    推荐：[天池大数据竞赛](https://hacpai.com/forward?goto=https%3A%2F%2Ftianchi.aliyun.com%2Fcompetition%2Findex.htm%3Fspm%3D5176.100065.111.2.EdzxZN%26id%3D) [天池数据集](https://hacpai.com/forward?goto=https%3A%2F%2Ftianchi.aliyun.com%2Fdatalab%2Findex.htm%3Fspm%3D5176.100066.1234.9.WioQNV)
+*    推荐：[天池大数据竞赛](https://hacpai.com/forward?goto=https%3A%2F%2Ftianchi.aliyun.com%2Fcompetition%2Findex.htm%3Fspm%3D5176.100065.111.2.EdzxZN%26id%3D) [天池数据集](https://hacpai.com/forward?goto=https%3A%2F%2Ftianchi.aliyun.com%2Fdatalab%2Findex.htm%3Fspm%3D5176.100066.1234.9.WioQNV)
 
-*   [天猫 11.11：搜索引擎实时秒级更新 - 20141111 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2014%2F11%2Ftmall-1111-search-engine)
+*   [天猫 11.11：搜索引擎实时秒级更新 - 20141111 - infoQ](https://www.infoq.cn/article/2014%2F11%2Ftmall-1111-search-engine)
     _文章简单介绍了阿里搜索引擎架构，提到了以下内容：1）为提高数据实时性（库存、价格等），去掉应用层和业务层的缓存，重点提升引擎层的服务能力。2）排序链，根据业务场景定制排序链。3）sku 搜索，搜索结果和属性导航联动（标类产品）。_
 
 *   [基于 Hadoop 生态技术构建阿里搜索离线系统（视频） - 20141205 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Falibaba-search-offline-system-based-on-hadoop)
     _主要介绍了：1）阿里搜索业务（1688、淘宝、天猫、一淘、openSearch）；2）搜索技术体系；3）搜索离线系统；4）实时计算方案；5）集群优化与管理；_
+*   [阿里搜索离线技术团队负责人谈 Hadoop：阿里离线平台、YARN 和 iStream](https://www.infoq.cn/article/2014%2F09%2Fhadoop-alibaba-yarn)
 
-*   [开放搜索服务系统架构：从系统、平台到开放服务（视频） - 20150610 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fopen-search-service-system-architecture)
-    _简单介绍了：1）搜索引擎的基础数据结构（倒排索引） 2）阿里搜索架构演变：单机架构；分布式架构（自动分发部署、集群资源复用）；平台化（系统插件化）；服务化（openSearch 自助式云搜索服务、多租户数据模型）。 讲解循序渐进，思路清晰，推荐。_
-
-*   [B2B 搜索领域的算法挑战（视频） - 20150722 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fb2b-search-field-algorithm-challenges)
-
-*   [阿里搜索实时计算和在线学习系统 PORA 介绍（视频） - 20160308 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Falibaba-search-real-time-computing-and-online-learning-system)
-
-*   [基于 Apache Flink 的实时计算引擎 Blink 在阿里搜索中的应用 - 20170216 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Freal-time-computing-engine-blink-in-alibaba-search)
-
-*   [LTR（Learning To Rank）在个性化电商搜索领域的应用（视频） - 20170419 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Flearning-to-rank-in-the-field-of-personalized-electric-business-search)
+*   [基于 Apache Flink 的实时计算引擎 Blink 在阿里搜索中的应用 - 20170216 - infoQ](https://www.infoq.cn/article/real-time-computing-engine-blink-in-alibaba-search)
 
 **阿里搜索事业部技术团队**
 阿里集团搜索、推荐、图像技术的大本营，大数据时代的创新主场。
 
-*   [阿里搜索事业部技术团队](https://hacpai.com/forward?goto=https%3A%2F%2Fyq.aliyun.com%2Fteams%2F23%3Fspm%3D5176.100239.0.0.IlfIYv)
+*   [阿里搜索事业部技术团队](https://yq.aliyun.com/teams/23?spm=5176.100239.0.0.IlfIYv)
 
-*   [OpenSearch：轻松构建大数据搜索服务 - 20160222](https://hacpai.com/forward?goto=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F4266%3Fspm%3D5176.100244.teamhomeleft.1.M2nbqK)
+*   [OpenSearch：轻松构建大数据搜索服务 - 20160222](https://yq.aliyun.com/articles/67156?spm=a2c4e.11163080.searchblog.9.56c42ec17lRdd2)
 
-*   [搜索双链路实时计算体系 @双 11 实战 - 20160111](https://hacpai.com/forward?goto=https%3A%2F%2Fyq.aliyun.com%2Farticles%2F2699%3Fspm%3D5176.100244.teamhomeleft.95.WweKDa)
+*   [搜索双链路实时计算体系 @双 11 实战 - 20160111](https://yq.aliyun.com/articles/2699?spm=5176.100244.teamhomeleft.95.WweKDa)
 
 **阿里中间件团队博客**
 2012 年期间，阿里中间件博客记录了 20 多篇 Lucene、Solr 相关博文，主要记录了一些在项目开发过程中遇到的问题，以及部分源码解读。内容丰富、实用，但不是很系统。
 
-*   [阿里中间件团队博客](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F)
+*   [阿里中间件团队博客](http://jm.taobao.org/)
 
-*   [Solr/Lucene 日志分析 - 查询热点词 - 脚本工具 - 20120501](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F05%2F01%2Fsolr-lucene-log-analysis-discover-hot-words%2F)
+*   [Solr 调优参考 - 20120521](http://jm.taobao.org/2012/05/21/solr-tuning)
 
-*   [Solr 调优参考 - 20120521](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F05%2F21%2Fsolr-tuning%2F)
+*   [Solr Lucene 优劣势分析 - 20120626](http://jm.taobao.org/2012/06/26/solr-lucene-advantages-and-disadvantages)
 
-*   [Solr Lucene 优劣势分析 - 20120626](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F06%2F26%2Fsolr-lucene-advantages-and-disadvantages%2F)
+*   [SolrQuery 性能压测参考 - 20120731](http://jm.taobao.org/2012/07/31/solr-query-performance-test-reference)
 
-*   [SolrQuery 性能压测参考 - 20120731](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F07%2F31%2Fsolr-query-performance-test-reference%2F)
+*   [NumericField NumericRangeQuery 原理分析 - 20120731](http://jm.taobao.org/2012/07/31/numeric-field-numeric-range-query)
 
-*   [NumericField NumericRangeQuery 原理分析 - 20120731](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F07%2F31%2Fnumeric-field-numeric-range-query%2F)
+*   [Solr schema 编写指导 - 20120731](http://jm.taobao.org/2012/07/31/solr-schema-guide)
 
-*   [Solr schema 编写指导 - 20120731](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F07%2F31%2Fsolr-schema-guide%2F)
-
-*   [关于搜索挖掘所想 - 20120731](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F07%2F31%2Fthink-about-search%2F)
+*   [关于搜索挖掘所想 - 20120731](http://jm.taobao.org/2012/07/31/think-about-search/)
 
 *   [SolrQuery 挖掘 -- 单维度聚合分析 - 20120920](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F09%2F20%2Fsolrquery-mining%2F)
 

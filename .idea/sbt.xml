@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="$PROJECT_DIR$/../data-so-idx-job/index-field-process-job" />
+    <option name="maximumHeapSize" value="2048" />
+    <option name="vmParameters" value="" />
+  </component>
+</project>
