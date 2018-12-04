@@ -92,88 +92,58 @@
 
 *   [关于搜索挖掘所想 - 20120731](http://jm.taobao.org/2012/07/31/think-about-search/)
 
-*   [SolrQuery 挖掘 -- 单维度聚合分析 - 20120920](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F09%2F20%2Fsolrquery-mining%2F)
+*   [SolrQuery 挖掘 -- 单维度聚合分析 - 20120920](http://jm.taobao.org/2012/09/20/solrquery-mining)
 
-*   [我感受到的排序机制参考 - 20120920](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F09%2F20%2Fsort-of-mechanism-reference%2F)
+*   [我感受到的排序机制参考 - 20120920](http://jm.taobao.org/2012/09/20/sort-of-mechanism-reference)
 
-*   [垂直搜索新问题 - 20120920](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F09%2F20%2Fvertical-search-new-question%2F)
+*   [垂直搜索新问题 - 20120920](http://jm.taobao.org/2012/09/20/vertical-search-new-question)
 
-*   [Solr 平台化搜索实战必知场景 - 20120921](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F09%2F21%2Fsolar-search%2F)
+*   [Solr 平台化搜索实战必知场景 - 20120921](http://jm.taobao.org/2012/09/21/solar-search)
 
-*   [Solr Schema 配置小细节大问题 - 20121015](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F10%2F15%2Fsolr-schema-configuration-problem%2F)
+*   [Solr Schema 配置小细节大问题 - 20121015](http://jm.taobao.org/2012/10/15/solr-schema-configuration-problem/)
 
-*   [Solr DisjunctionMax 注解 - 20121015](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F10%2F15%2Fsolr-disjunctionmax%2F)
+*   [Solr DisjunctionMax 注解 - 20121015](http://jm.taobao.org/2012/10/15/solr-disjunctionmax/)
 
-*   [Sql Support within Solr- 类 Sql 的 solr 搜索实现 (1) - 20121015](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F10%2F15%2Fsql-support-within-solr%2F)
+*   [Sql Support within Solr- 类 Sql 的 solr 搜索实现 (1) - 20121015](http://jm.taobao.org/2012/10/15/sql-support-within-solr)
 
-*   [Sql Support within Solr- 类 Sql 的 solr 搜索实现 (2) - 20121015](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F10%2F15%2Fsolr-flux-source-code-sql-support-within-solr%2F)
+*   [Sql Support within Solr- 类 Sql 的 solr 搜索实现 (2) - 20121015](http://jm.taobao.org/2012/10/15/solr-flux-source-code-sql-support-within-solr/)
 
-*   [关于 TrieField 的全面认识、理解、运用 - 20121015](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F10%2F15%2Flearn-about-triefield%2F)
+*   [关于 TrieField 的全面认识、理解、运用 - 20121015](http://jm.taobao.org/2012/10/15/learn-about-triefield)
 
-*   [Solr Facet 引发思考 on the road - 20121029](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F10%2F29%2Fsolr-facet-on-the-road%2F)
+*   [Solr Facet 引发思考 on the road - 20121029](http://jm.taobao.org/2012/10/29/solr-facet-on-the-road/)
 
-*   [查询问题 ---queryparse 深入理解 - 20121029](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F10%2F29%2Fdeep-learn-queryparse%2F)
+*   [查询问题 ---queryparse 深入理解 - 20121029](http://jm.taobao.org/2012/10/29/deep-learn-queryparse)
 
-*   [TermRangeQuery 源码解析 - 20121106](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F11%2F06%2Ftermrangequery-source-code%2F)
+*   [TermRangeQuery 源码解析 - 20121106](http://jm.taobao.org/2012/11/06/termrangequery-source-code)
 
-*   [Solr 之缓存篇 - 20121106](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F11%2F06%2Fsolar-cache%2F)
+*   [Solr 之缓存篇 - 20121106](http://jm.taobao.org/2012/11/06/solar-cache/)
 
-*   [搜索的测试话题 - 20121113](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F11%2F13%2Ftest-topic-about-search%2F)
+*   [搜索的测试话题 - 20121113](http://jm.taobao.org/2012/11/13/test-topic-about-search)
 
-*   [关于搜索夜话 ---- 作为阶段序列的告别 - 20121113](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F11%2F13%2Fnight-talk-about-search%2F)
+*   [关于搜索夜话 ---- 作为阶段序列的告别 - 20121113](http://jm.taobao.org/2012/11/13/night-talk-about-search/)
 
-*   [solr 长文本搜索问题 - 20121210](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F12%2F10%2Fsolr-long-text-search-problem%2F)
+*   [solr 长文本搜索问题 - 20121210](http://jm.taobao.org/2012/12/10/solr-long-text-search-problem)
 
-*   [SolrCore2.9.1 源码分析备忘 - 20121210](https://hacpai.com/forward?goto=http%3A%2F%2Fjm.taobao.org%2F2012%2F12%2F10%2Fsolr-core-2-9-1-source-code-analyse%2F)
-
-### 腾讯
-
-*   [腾讯社区搜索架构演进（视频） - 20121107 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Ftencent-community-search)
+*   [SolrCore2.9.1 源码分析备忘 - 20121210](http://jm.taobao.org/2012/12/10/solr-core-2-9-1-source-code-analyse)
 
 ### 百度
 
-*   [大型搜索引擎的系统测试方法及案例分享（视频） - 20120717 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Flarge-scale-search-engine-system-testing-methods-and-case-sharing)
-
-*   [百度网页搜索，规模大幅膨胀下的架构优化实践（视频） - 20151214 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fbaidu-web-search-architecture-optimization-practice)
-
-*   [Eden – 百度搜索系统的 PaaS 架构设计和实践（视频） - 20161104 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Feden-baidu-search-system-paas-architecture-design-and-practice)
-
-*   [百度搜索开源基础架构系统解密（视频） - 20161208 - infoQ - 百度搜索基础架构团队](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fbaidu-search-open-source-infrastructure-system)
-
-*   [百度万亿量级数据库 Tera 架构应用、设计与实践全攻略 - 20170526 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2017%2F05%2Fdatabase-baidu-Tera)
-
-*   [Tera 在百亿级实时搜索架构中的应用（视频） - 20170601 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Ftera-in-the-ten-thousand-level-real-time-search-framework)
+*   [百度万亿量级数据库 Tera 架构应用、设计与实践全攻略 - 20170526 - infoQ](https://www.infoq.cn/article/2017%2F05%2Fdatabase-baidu-Tera)
 
 ### 京东
 
-*   [京东 618：揭秘大促销背后的个性化推荐 - 20150618 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2015%2F06%2Fjd-618-personalrecommendation)
+*   [京东 618：揭秘大促销背后的个性化推荐 - 20150618 - infoQ](https://www.infoq.cn/article/2015%2F06%2Fjd-618-personalrecommendation)
 
-*   [京东数据驱动下的个性化推荐（视频） - 20151008 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fpersonalized-recommendation-driven-by-jingdong-data)
+*   [京东 11.11：商品搜索系统架构设计 - 20151111 - infoQ](https://www.infoq.cn/article/jingdong-11-11-commodity-search-system-architecture-design?utm_source=6aiq.com)
 
-*   [京东 11.11：商品搜索系统架构设计 - 20151111 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fjingdong-11-11-commodity-search-system-architecture-design)
-
-*   [京东基于大数据技术的个性化电商搜索引擎（视频） - 20150209 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fjingdong-personalized-search-engine-based-on-big-data-technology)
-
-*   [京东 618：机器学习与商品数据挖掘和知识抽取 - 20170618 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2017%2F06%2Fjd-618-Machine-learning-commodit)
+*   [京东 618：机器学习与商品数据挖掘和知识抽取 - 20170618 - infoQ](https://www.infoq.cn/article/2017%2F06%2Fjd-618-Machine-learning-commodit)
 
 ### 美团点评
-
-*   [外卖商家排序的算法演进（视频） - 20161008 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Falgorithm-evolution-of-takeaway-businesses-sort)
 
 **美团点评技术团队博客**
 在国内互联网公司中，个人认为“美团点评技术团队博客”是最持之以恒的，而且非常干货。
 
-*   [美团点评技术团队](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2F)
-
-*   [搜索引擎关键字智能提示的一种实现 - 20140217](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2Fpinyin-suggest.html)
-
-*   [Solr Facet 技术的应用与研究 - 20140609](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2Fsolr-facet.html)
-
-*   [Solr 空间搜索原理分析与实践 - 20140902](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2Fsolr-spatial-search.html)
-
-*   [地理空间距离计算优化 - 20140905](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2Flucene-distance.html)
-
-*   [基于机器学习方法的 POI 品类推荐算法 - 20141218](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2Fcategory-recommend-base-ml.html)
+*   [美团点评技术团队](https://tech.meituan.com/)
 
 *   [美团 O2O 排序解决方案——线上篇 - 20151116](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2Fmeituan-search-rank.html)
 
