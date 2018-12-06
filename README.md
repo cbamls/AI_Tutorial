@@ -145,69 +145,47 @@
 
 *   [美团点评技术团队](https://tech.meituan.com/)
 
-*   [美团 O2O 排序解决方案——线上篇 - 20151116](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2Fmeituan-search-rank.html)
+*   [美团 O2O 排序解决方案——线下篇 - 20151207](https://tech.meituan.com/rerank_solution_offline.html)
 
-*   [美团 O2O 排序解决方案——线下篇 - 20151207](https://hacpai.com/forward?goto=https%3A%2F%2Ftech.meituan.com%2Frerank_solution_offline.html)
-
-*   [美团点评旅游搜索召回策略的演进 - 20170616](https://hacpai.com/forward?goto=http%3A%2F%2Ftech.meituan.com%2Ftravel-search-strategy.html)
+*   [美团点评旅游搜索召回策略的演进 - 20170616](http://www.6aiq.com/article/1522247441467)
 
 ### 携程
 
-*   [携程技术中心](https://hacpai.com/forward?goto=http%3A%2F%2Ftechshow.ctrip.com%2Farchives%2Fcategory%2Fshare)
-
-*   [携程用户数据采集与分析系统 - 20170518 - 携程技术中心](https://hacpai.com/forward?goto=http%3A%2F%2Ftechshow.ctrip.com%2Farchives%2F2120.html)
-
-*   [携程 ELK 日志分析平台深耕之路 - 20160302 - 携程技术中心](https://hacpai.com/forward?goto=http%3A%2F%2Ftechshow.ctrip.com%2Farchives%2F1042.html)
-
-*   [旅游行业垂直搜索的架构探索 - 20141212 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Farchitecture-exploration-travel-industry-vertical-search)
+*   [携程技术中心](https://cloud.tencent.com/developer/column/2048/tag-10149/page-8)
 
 ### 去哪儿
 
-*   [构建实时垂直搜索网站经验分享（视频） - 20120113 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fllc-real-time-vertical-search-site)
+*   [去哪儿网机票搜索系统的高并发架构设计 20170421 - infoQ](http://www.6aiq.com/article/1522670952812)
 
-*   [去哪儿网机票搜索系统的高并发架构设计 20170421 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fqunar-ticket-search-system)
-
-*   [去哪儿酒店算法服务平台 - 20170506 - 携程技术中心](https://hacpai.com/forward?goto=http%3A%2F%2Ftechshow.ctrip.com%2Farchives%2F2046.html)
-
-*   [去哪儿搜索引擎 QSearch 设计与实现（视频） - 20120711 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fqsearch)
 
 ### 搜狗
 
-*   [计算广告技术之大数据下的短文本相关性计算（视频） - 20150713 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fshort-text-correlation-computation-of-big-data)
+*   [搜狗搜索广告检索系统 - 弹性架构演进之路 - 20160111 - infoQ](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489709&idx=1&sn=dd82cbae0f01a13fcef39ac2925c6406&chksm=eba41b30dcd3922697fcbdd22188d919803c40841609f4a1280355b251b68a4d786fddcc8fb6&scene=27#wechat_redirect)
 
-*   [搜狗搜索广告检索系统 - 弹性架构演进之路 - 20160111 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fsogou-search-advertising-retrieval-system)
+*   [深度学习在搜狗无线搜索广告中的应用 - 20160808 - infoQ](https://www.infoq.cn/article/2016%2F08%2Fsougou-deep-learing-wireless-sea)
 
-*   [深度学习在搜狗无线搜索广告中的应用 - 20160808 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2016%2F08%2Fsougou-deep-learing-wireless-sea)
-
-*   [以搜狗为例，谈语音输入如何影响你的生活 - 20161208 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2016%2F12%2Fsougou-Voice-input-life)
-
+*   [以搜狗为例，谈语音输入如何影响你的生活 - 20161208 - infoQ](https://www.infoq.cn/article/2016%2F12%2Fsougou-Voice-input-life)
 ### 一号店
 
-*   [1 号店 11.11：分布式搜索引擎的架构实践 - 20151112 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fyhd-11-11-distributed-search-engine-architecture)
+*   [1 号店 11.11：分布式搜索引擎的架构实践 - 20151112 - infoQ](https://www.infoq.cn/article/yhd-11-11-distributed-search-engine-architecture)
 
 *   [1 号店 11.11：机器排序学习在电商搜索中的实战 - 20161111 - infoQ](http://www.6aiq.com/article/1522330692884)
 
-*   [机器学习在 1 号店商品匹配中的实践 - 20170506 - 携程技术中心](https://hacpai.com/forward?goto=http%3A%2F%2Ftechshow.ctrip.com%2Farchives%2F2049.html)
+*   [机器学习在 1 号店商品匹配中的实践 - 20170506 - 携程技术中心](https://cloud.tencent.com/developer/article/1063204)
 
 ### 待分类
 
 **国内**
 
-*   [**当当** 11.11：促销系统与交易系统的重构实践 - 20151113 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fdangdang-11-11-reconstruction-system-practise)
+*   [**当当** 11.11：促销系统与交易系统的重构实践 - 20151113 - infoQ](https://www.infoq.cn/article/dangdang-11-11-reconstruction-system-practise)
 
-*   [**苏宁易购** 11.11：商品详情系统架构设计 - 20151227 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fsuning-product-details-system-architecture-design)
+*   [**苏宁易购** 11.11：商品详情系统架构设计 - 20151227 - infoQ](https://www.infoq.cn/article/suning-product-details-system-architecture-design?)
 
-*   [**饿了么** 推荐系统的从 0 到 1 - 20170123 - 携程技术中心](https://hacpai.com/forward?goto=http%3A%2F%2Ftechshow.ctrip.com%2Farchives%2F1767.html)
+*   [**达观数据** 点击模型：提升算法精度的利器 - 20160315 - infoQ](https://www.infoq.cn/article/tool-to-improve-the-accuracy-of-algorithm)
 
-*   [**一点咨询** 如何深度融合搜索和推荐：兴趣引擎架构设计（视频） - 20170406 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fdesign-of-interest-engine-architecture)
+*   [**达观数据** 一个可供参考的搜索引擎排序架构实践案例 - 20160830 - infoQ](https://www.infoq.cn/article/a-search-engine-scheduling-architecture-for-reference?)
 
-*   [**易到用车** O2O 的实时搜索引擎（视频） - 20151019 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Freal-time-search-engine-of-o2o)
-
-*   [**达观数据** 点击模型：提升算法精度的利器 - 20160315 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Ftool-to-improve-the-accuracy-of-algorithm)
-
-*   [**达观数据** 一个可供参考的搜索引擎排序架构实践案例 - 20160830 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fa-search-engine-scheduling-architecture-for-reference)
-
-*   [**达观数据** "搜你所想" 之用户搜索意图识别 - 20170608 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fuser-search-intention-recognition)
+*   [**达观数据** "搜你所想" 之用户搜索意图识别 - 20170608 - infoQ](http://www.6aiq.com/article/1541861015217)
 
 *   [**链家网** 数据驱动在搜索优化与推荐策略中的实践 - 20170406 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fpractise-of-data-driven-search-and-optimize-in-lianjia)
 
