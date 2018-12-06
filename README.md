@@ -55,16 +55,15 @@
 *   [天猫推荐算法团队的那些事儿 - 20140401 - infoQ](https://www.infoq.cn/article/2014%2F04%2Ftmall-recommendation-team)
     _本文以访谈的方式呈现，对搜索和推荐算法进行了简单的比较，提到了 AB 测试和离线测试，主要对推荐算法团队的工作方式、工作考评、任务分配、招聘等进行了介绍。_
 
-*    推荐：[天池大数据竞赛](https://hacpai.com/forward?goto=https%3A%2F%2Ftianchi.aliyun.com%2Fcompetition%2Findex.htm%3Fspm%3D5176.100065.111.2.EdzxZN%26id%3D) [天池数据集](https://hacpai.com/forward?goto=https%3A%2F%2Ftianchi.aliyun.com%2Fdatalab%2Findex.htm%3Fspm%3D5176.100066.1234.9.WioQNV)
-
 *   [天猫 11.11：搜索引擎实时秒级更新 - 20141111 - infoQ](https://www.infoq.cn/article/2014%2F11%2Ftmall-1111-search-engine)
     _文章简单介绍了阿里搜索引擎架构，提到了以下内容：1）为提高数据实时性（库存、价格等），去掉应用层和业务层的缓存，重点提升引擎层的服务能力。2）排序链，根据业务场景定制排序链。3）sku 搜索，搜索结果和属性导航联动（标类产品）。_
 
-*   [基于 Hadoop 生态技术构建阿里搜索离线系统（视频） - 20141205 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Falibaba-search-offline-system-based-on-hadoop)
-    _主要介绍了：1）阿里搜索业务（1688、淘宝、天猫、一淘、openSearch）；2）搜索技术体系；3）搜索离线系统；4）实时计算方案；5）集群优化与管理；_
 *   [阿里搜索离线技术团队负责人谈 Hadoop：阿里离线平台、YARN 和 iStream](https://www.infoq.cn/article/2014%2F09%2Fhadoop-alibaba-yarn)
 
 *   [基于 Apache Flink 的实时计算引擎 Blink 在阿里搜索中的应用 - 20170216 - infoQ](https://www.infoq.cn/article/real-time-computing-engine-blink-in-alibaba-search)
+
+*   [阿里开源深度学习框架 XDL，面向广告、推荐、搜索场景 - 20181128 - AIQ](http://www.6aiq.com/article/1543939628501)
+*   [阿里巴巴搜索引擎平台 Ha3 揭秘 - 201811 - AIQ](http://www.6aiq.com/article/1543672176467)
 
 **阿里搜索事业部技术团队**
 阿里集团搜索、推荐、图像技术的大本营，大数据时代的创新主场。
@@ -147,7 +146,7 @@
 
 *   [美团 O2O 排序解决方案——线下篇 - 20151207](https://tech.meituan.com/rerank_solution_offline.html)
 
-*   [美团点评旅游搜索召回策略的演进 - 20170616](http://www.6aiq.com/article/1522247441467)
+*   [美团点评旅游搜索召回策略的演进 - 20170616 - AIQ](http://www.6aiq.com/article/1522247441467)
 
 ### 携程
 
@@ -155,7 +154,7 @@
 
 ### 去哪儿
 
-*   [去哪儿网机票搜索系统的高并发架构设计 20170421 - infoQ](http://www.6aiq.com/article/1522670952812)
+*   [去哪儿网机票搜索系统的高并发架构设计 20170421 - AIQ](http://www.6aiq.com/article/1522670952812)
 
 
 ### 搜狗
@@ -169,7 +168,7 @@
 
 *   [1 号店 11.11：分布式搜索引擎的架构实践 - 20151112 - infoQ](https://www.infoq.cn/article/yhd-11-11-distributed-search-engine-architecture)
 
-*   [1 号店 11.11：机器排序学习在电商搜索中的实战 - 20161111 - infoQ](http://www.6aiq.com/article/1522330692884)
+*   [1 号店 11.11：机器排序学习在电商搜索中的实战 - 20161111 - AIQ](http://www.6aiq.com/article/1522330692884)
 
 *   [机器学习在 1 号店商品匹配中的实践 - 20170506 - 携程技术中心](https://cloud.tencent.com/developer/article/1063204)
 
@@ -185,71 +184,59 @@
 
 *   [**达观数据** 一个可供参考的搜索引擎排序架构实践案例 - 20160830 - infoQ](https://www.infoq.cn/article/a-search-engine-scheduling-architecture-for-reference?)
 
-*   [**达观数据** "搜你所想" 之用户搜索意图识别 - 20170608 - infoQ](http://www.6aiq.com/article/1541861015217)
+*   [**达观数据** "搜你所想" 之用户搜索意图识别 - 20170608 - AIQ](http://www.6aiq.com/article/1541861015217)
 
-*   [**链家网** 数据驱动在搜索优化与推荐策略中的实践 - 20170406 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fpractise-of-data-driven-search-and-optimize-in-lianjia)
+*   [**链家网** 数据驱动在搜索优化与推荐策略中的实践 - 20170406 - infoQ](https://www.infoq.cn/article/practise-of-data-driven-search-and-optimize-in-lianjia?)
 
-*   [**豌豆荚** 发布应用内搜索协议 - 20140401 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2014%2F03%2Fwandoujia-search-protocol)
+*   [**深度学习在 Airbnb 大规模搜索排名上的实战经验 - 20181118 - AIQ](http://www.6aiq.com/article/1542878440663)
 
-*   [**豌豆荚** 工程师谈其新版应用搜索技术 - 20121206 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2012%2F12%2Fwandoujia-app-search)
+*   [**51 信用卡的个性化推荐体系 - 2018 - AIQ](http://www.6aiq.com/article/1542815641630)
 
-*   [**蘑菇街** 电商算法演化：从爆款模型到个性化模型（视频） - 20160523 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Felectricity-business-algorithm-evolution-of-mogujie)
-
-*   [**今日头条** 的个性化推荐 - 20150624 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Finterviews%2Finterview-with-dinghaifeng-talk-toutiao-personalized-recommendation)
-
-*   [**艺龙** 基于实时价格计算的电商检索系统（视频） - 20160715 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Felectricity-supplier-retrieval-system-based-on-real-time-price-calculation)
-
+*   [**苏宁 11.11：搜索引擎 Solr 在苏宁易购商品评价系统中的应用 - 20181105 - AIQ](http://www.6aiq.com/article/1542192071013)
 **国外**
 
-*   [**Twitter** 实时搜索引擎发展历程（视频） - 20160330 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Ftwitter-real-time-search-engine-development-process)
+*   [**Twitter** 实时检索 6700 亿条推文，细谈 Twitter 搜索引擎的演进历程 - 20160330 - infoQ](http://www.6aiq.com/article/1544116316790)
 
-*   [**Twitter** 是怎么做搜索的 - 20160219 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Finterviews%2Finterview-with-wangtian-talk-twitter-search)
-
-*   [**LinkedIn** 基于 Kafka 和 ElasticSearch 的实时日志分析系统 - 20170316 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Flinkedin-real-time-log-analysis-system-based-on-kafka-and-elasticsearch)
-
-*   [**Yelp** 是如何用数据驱动搜索过滤器的？ - 20151209 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2015%2F12%2FYelp-Search-filter)
-
-*   [**Instagram** 的热门趋势发现算法 - 20150707 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2015%2F07%2FInstagram-equality)
+*   [**Yelp** 是如何用数据驱动搜索过滤器的？ - 20151209 - infoQ](https://www.infoq.cn/article/2015%2F12%2FYelp-Search-filter)
 
 ## 开发应用
 
 ### 理论基础
 
-*   [我爱自然语言处理](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.52nlp.cn%2F) 推荐
+*   [我爱自然语言处理](http://www.52nlp.cn/) 推荐
 
-*   [漫话中文自动分词和语义识别](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.matrix67.com%2Fblog%2Farchives%2F4212) 膜拜中文系大牛 Matrix67
+*   [漫话中文自动分词和语义识别](http://www.matrix67.com/blog/archives/4212)
 
     ### 源码解读
 
-*   [刘超觉先](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.cnblogs.com%2Fforfuture1978%2F) 详细分析了 Lucene3.x 的源码，推荐。
+*   [刘超觉先](http://www.cnblogs.com/forfuture1978) 详细分析了 Lucene3.x 的源码，推荐。
 
-*   [Anatomy of an Elasticsearch Cluster: Part I](https://hacpai.com/forward?goto=https%3A%2F%2Fblog.insightdatascience.com%2Fanatomy-of-an-elasticsearch-cluster-part-i-7ac9a13b05db) - [infoQ 翻译](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fanalysis-of-elasticsearch-cluster-part01%3Futm_source%3Dinfoq%26utm_campaign%3Duser_page%26utm_medium%3Dlink)
+*   [Anatomy of an Elasticsearch Cluster: Part I](https://www.infoq.cn/article/analysis-of-elasticsearch-cluster-part01?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
 
-*   [Anatomy of an Elasticsearch Cluster: Part II](https://hacpai.com/forward?goto=https%3A%2F%2Fblog.insightdatascience.com%2Fanatomy-of-an-elasticsearch-cluster-part-ii-6db4e821b571) - [infoQ 翻译](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fanatomy-of-an-elasticsearch-cluster-part02%3Futm_source%3Dinfoq%26utm_campaign%3Duser_page%26utm_medium%3Dlink)
+*   [Anatomy of an Elasticsearch Cluster: Part II](https://www.infoq.cn/article/anatomy-of-an-elasticsearch-cluster-part02?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
 
-*   [Anatomy of an Elasticsearch Cluster: Part III](https://hacpai.com/forward?goto=https%3A%2F%2Fblog.insightdatascience.com%2Fanatomy-of-an-elasticsearch-cluster-part-iii-8bb6ac84488d) - [infoQ 翻译](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fanatomy-of-an-elasticsearch-cluster-part03%3Futm_source%3Dinfoq%26utm_campaign%3Duser_page%26utm_medium%3Dlink)
-
+*   [Anatomy of an Elasticsearch Cluster: Part III](https://www.infoq.cn/article/anatomy-of-an-elasticsearch-cluster-part03?utm_source=infoq)
     ### 常见问题
 
-*   [Stackoverflow - Lucene](https://hacpai.com/forward?goto=https%3A%2F%2Fstackoverflow.com%2Fquestions%2Ftagged%2Flucene%3Fsort%3Dvotes%26pageSize%3D15)
+*   [Stackoverflow - Lucene](https://stackoverflow.com/questions/tagged/lucene?sort=votes&pageSize=15&)
 
-*   [Stackoverflow - Solr](https://hacpai.com/forward?goto=https%3A%2F%2Fstackoverflow.com%2Fquestions%2Ftagged%2Fsolr%3Fsort%3Dvotes%26pageSize%3D15)
+*   [Stackoverflow - Solr](https://stackoverflow.com/questions/tagged/solr?sort=votes&pageSize=15)
 
-*   [Stackoverflow - Elastic](https://hacpai.com/forward?goto=https%3A%2F%2Fstackoverflow.com%2Fquestions%2Ftagged%2Felasticsearch%3Fsort%3Dvotes%26pageSize%3D15)
+*   [Stackoverflow - Elastic](https://stackoverflow.com/questions/tagged/elasticsearch)
 
     ### 其他
 
 *   [对话 Kibana 之父：如果需要，你应该自己动手编写工具 - 20170111 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2017%2F01%2FRashid-buildYourOwnTool)
 
-*   [配置高性能 Elasticsearch 集群的 9 个小贴士 - 20170104 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fnews%2F2017%2F01%2FElasticSearch-9)
+*   [配置高性能 Elasticsearch 集群的 9 个小贴士 - 20170104 - infoQ](https://www.infoq.cn/article/2017%2F01%2FElasticSearch-9)
 
 *   [基于 ElasticStack 的数据探索与分析 - 20161018 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Fpresentations%2Fdata-exploration-and-analysis-based-on-elasticstack)
 
-*   [使用 Akka、Kafka 和 ElasticSearch 等构建分析引擎 - 20160825 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Fuse-akka-kafka--build-analysis-engine)
+*   [使用 Akka、Kafka 和 ElasticSearch 等构建分析引擎 - 20160825 - infoQ](https://www.infoq.cn/article/use-akka-kafka--build-analysis-engine?)
 
-*   [万亿级日志与行为数据存储查询技术剖析 - 20170222 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Ftrillion-log-and-data-storage-query-techniques)
+*   [万亿级日志与行为数据存储查询技术剖析 - 20170222 - infoQ](https://www.infoq.cn/article/trillion-log-and-data-storage-query-techniques)
 
-*   [谷歌的自然语言部门是啥样的？ - 20160118 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2FInside-look-of-Google-NLU-Team)
+*   [谷歌的自然语言部门是啥样的？ - 20160118 - infoQ](https://www.infoq.cn/article/Inside-look-of-Google-NLU-Team)
 
 *   [通过 Baratine 将 Lucene 库暴露为微服务 - 20160225 - infoQ](https://hacpai.com/forward?goto=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2FBuilding-a-Lucene-Microservice-with-Baratine)
 
