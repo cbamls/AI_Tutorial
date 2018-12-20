@@ -145,6 +145,7 @@
 *   [美团点评技术团队](https://tech.meituan.com/)
 
 *   [美团 O2O 排序解决方案——线下篇 - 20151207](https://tech.meituan.com/rerank_solution_offline.html)
+*   [美团O2O排序解决方案——线上篇 - 2015-11-16 17:00](https://tech.meituan.com/meituan_search_rank.html)
 
 *   [美团点评旅游搜索召回策略的演进 - 20170616 - AIQ](http://www.6aiq.com/article/1522247441467)
 
