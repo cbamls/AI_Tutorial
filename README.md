@@ -1,13 +1,13 @@
 
 
-# 搜索 推荐 广告系统优质资源
+# 架构、搜索、推荐、广告系统优质资源
 
    后端架构、AI架构、搜索系统和 推荐系统技术资料整理。这篇文章意图是收集市面上质量不错的后端架构、AI架构、搜索、 推荐、 广告引擎技术资料，内容来源包括开源项目官网（Lucene、Solr、Elastic）、综合技术网站（AIQ 、infoQ、Stackoverflow、github 等、国内外知名互联网公司技术博客（阿里中间件团队博客、美团技术博客等）、知名技术牛人公众号博客等。
    以下整理的内容大致根据来源进行分类。
 
-> github地址：https://github.com/cbamls/full_stack_coder
+> github地址：https://github.com/cbamls/full_stack_coder 欢迎各位Star fork
 
-   个人视角有限，还望各位同行补充、丰富，谢谢。
+   个人视角有限，还望各位大佬进行PR补充、丰富，谢谢。
 
 * * *
 
