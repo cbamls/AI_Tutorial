@@ -1,12 +1,15 @@
 
-1. # 搜索 推荐 广告系统优质资源
 
-   搜索系统和 推荐系统技术资料整理
-   这篇文章意图是收集市面上质量不错的搜索 推荐 广告引擎技术资料，内容来源包括开源项目官网（Lucene、Solr、Elastic）、综合技术网站（AIQ 、infoQ、Stackoverflow、github 等）、专业技术网站（我爱自然语言处理等）、国内外知名互联网公司技术博客（阿里中间件团队博客、美团技术博客等）、知名技术牛人博客（Matrix67、刘超觉先等）等。
-   以下整理的内容大致根据来源进行分类，等这篇整理得差不多了再开一篇博客根据知识点进行梳理。
+# 搜索 推荐 广告系统优质资源
+
+   后端架构、AI架构、搜索系统和 推荐系统技术资料整理。这篇文章意图是收集市面上质量不错的后端架构、AI架构、搜索、 推荐、 广告引擎技术资料，内容来源包括开源项目官网（Lucene、Solr、Elastic）、综合技术网站（AIQ 、infoQ、Stackoverflow、github 等、国内外知名互联网公司技术博客（阿里中间件团队博客、美团技术博客等）、知名技术牛人公众号博客等。
+   以下整理的内容大致根据来源进行分类。
+
+> github地址：https://github.com/cbamls/full_stack_coder
+
    个人视角有限，还望各位同行补充、丰富，谢谢。
 
-   * * *
+* * *
 
    ## 开源相关
 
@@ -192,12 +195,12 @@
 
    *   [**链家网** 数据驱动在搜索优化与推荐策略中的实践 - 20170406 - infoQ](https://www.infoq.cn/article/practise-of-data-driven-search-and-optimize-in-lianjia?)
 
-   *   [**深度学习在 Airbnb 大规模搜索排名上的实战经验 - 20181118 - AIQ](http://www.6aiq.com/article/1542878440663)
+   *   [深度学习在 Airbnb 大规模搜索排名上的实战经验 - 20181118 - AIQ](http://www.6aiq.com/article/1542878440663)
 
-   *   [**51 信用卡的个性化推荐体系 - 2018 - AIQ](http://www.6aiq.com/article/1542815641630)
+   *   [51 信用卡的个性化推荐体系 - 2018 - AIQ](http://www.6aiq.com/article/1542815641630)
 
-   *   [**苏宁 11.11：搜索引擎 Solr 在苏宁易购商品评价系统中的应用 - 20181105 - AIQ](http://www.6aiq.com/article/1542192071013)
-   **国外**
+   *   [苏宁 11.11：搜索引擎 Solr 在苏宁易购商品评价系统中的应用 - 20181105 - AIQ](http://www.6aiq.com/article/1542192071013)
+      **国外**
 
    *   [**Twitter** 实时检索 6700 亿条推文，细谈 Twitter 搜索引擎的演进历程 - 20160330 - infoQ](http://www.6aiq.com/article/1544116316790)
 
