@@ -251,7 +251,7 @@
    * * *
 
 ## 人工智能领域文集
-1. [Tensorflow 的 checkpoint 教程](http://www.6aiq.com/article/1571815127141)
+1. [Tensorflow 2.0 的 checkpoint 教程](http://www.6aiq.com/article/1571815127141)
 2. [陈曦：性能与稳定并存 Elasticsearch 调优实践](http://www.6aiq.com/article/1571732516452)
 3. [3000 台服务器不宕机，微博广告系统全景运维大法](http://www.6aiq.com/article/1571677045133)
 4. [由 Finalizer 和 SocksSocketImpl 引起的 Fullgc 问题盘点](http://www.6aiq.com/article/1571404213343)
