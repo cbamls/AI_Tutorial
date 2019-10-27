@@ -253,7 +253,7 @@
 ## 人工智能领域文集
 1. [网络图模型知识点综述](http://www.6aiq.com/article/1571972208208)
 2. [360 展示广告召回系统的演进](http://www.6aiq.com/article/1571971895488)
-3. [Tensorflow 2.0 的 checkpoint 教程](http://www.6aiq.com/article/1571815127141)
+3. [Tensorflow 的 checkpoint 教程](http://www.6aiq.com/article/1571815127141)
 4. [陈曦：性能与稳定并存 Elasticsearch 调优实践](http://www.6aiq.com/article/1571732516452)
 5. [3000 台服务器不宕机，微博广告系统全景运维大法](http://www.6aiq.com/article/1571677045133)
 6. [由 Finalizer 和 SocksSocketImpl 引起的 Fullgc 问题盘点](http://www.6aiq.com/article/1571404213343)
