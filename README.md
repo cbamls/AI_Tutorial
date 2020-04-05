@@ -253,8 +253,8 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
    * * *
 
 ## 人工智能领域文集
-1. [零基础入门数据挖掘——特征工程实战](http://www.6aiq.com/article/1586106887770)
-2. [零基础入门数据挖掘——数据分析实战](http://www.6aiq.com/article/1586105589491)
+1. [数据挖掘之——特征工程实战](http://www.6aiq.com/article/1586106887770)
+2. [数据挖掘之——数据分析实战](http://www.6aiq.com/article/1586105589491)
 3. [DevOps 在企业项目中的实践落地](http://www.6aiq.com/article/1585905712490)
 4. [怎样评价推荐系统的结果质量？](http://www.6aiq.com/article/1585889732552)
 5. [初探 GNN- 文本表示学习](http://www.6aiq.com/article/1585850401339)
