@@ -255,8 +255,8 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 ## 人工智能领域文集
 1. [Lucene 源码系列——默认 merge 策略 TieredMergePolicy](http://www.6aiq.com/article/1586729013844)
 2. [Lucene 源码系列—— LogMergePolicy](http://www.6aiq.com/article/1586728693319)
-3. [Lucene 源码系列——FixedBitSet](http://www.6aiq.com/article/1586728053601)
-4. [Lucene 源码系列——Automaton](http://www.6aiq.com/article/1586727300878)
+3. [Lucene 源码系列——工具类 FixedBitSet](http://www.6aiq.com/article/1586728053601)
+4. [Lucene 源码系列——Automaton 有穷自动机 (DFA)](http://www.6aiq.com/article/1586727300878)
 5. [Lucene 源码分析——BKD-Tree](http://www.6aiq.com/article/1586727114589)
 6. [Lucene 源码系列——查询原理（下）](http://www.6aiq.com/article/1586726305297)
 7. [Lucene 源码系列——查询原理（上）](http://www.6aiq.com/article/1586725343175)
