@@ -376,7 +376,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 121. [Flink Checkpoint 原理流程以及常见失败原因分析](http://www.6aiq.com/article/1583379214916)
 122. [58 同城智能语音质检系统架构实践](http://www.6aiq.com/article/1583378899830)
 123. [淘系高级技术专家的十年 | 既往不恋，纵情向前！](http://www.6aiq.com/article/1583337560922)
-124. [关系图谱在贝壳的构建和应用](http://www.6aiq.com/article/1583336718096)
+124. [【贝壳找房】关系图谱在贝壳的构建和应用](http://www.6aiq.com/article/1583336718096)
 125. [NLP.TM[28] | 浅谈 NLP 算法工程师的核心竞争力](http://www.6aiq.com/article/1583253222840)
 126. [机器学习的可解释性：因果推理和稳定学习](http://www.6aiq.com/article/1583248832365)
 127. [远程办公 | 适应时代的工作模式](http://www.6aiq.com/article/1583219808129)
