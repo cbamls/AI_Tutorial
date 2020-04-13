@@ -671,7 +671,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 416. [万字长文带你解读 NLP 深度学习的各类模型](http://www.6aiq.com/article/1552543604417)
 417. [基于深度强化学习的新闻推荐模型 DRN](http://www.6aiq.com/article/1552543182669)
 418. [基于 Tensorflow 高阶 API 构建大规模分布式深度学习模型系列: 开篇](http://www.6aiq.com/article/1552542944433)
-419. [【贝壳网】贝壳搜索平台实时流总体架构设计](http://www.6aiq.com/article/1552233110275)
+419. [【贝壳找房】贝壳搜索平台实时流总体架构设计](http://www.6aiq.com/article/1552233110275)
 420. [【贝壳网】贝壳搜索为什么能知道你想住哪？](http://www.6aiq.com/article/1552232944397)
 421. [百度中文纠错技术](http://www.6aiq.com/article/1552219868606)
 422. [版本控制工具——Git 常用操作](http://www.6aiq.com/article/1552219465292)
