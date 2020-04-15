@@ -255,7 +255,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 ## 人工智能领域文集
 1. [贝壳找房—【图数据库系列】Dgraph 原理篇](http://www.6aiq.com/article/1586914787766)
 2. [贝壳找房—【图数据库系列】Dgraph 简介篇](http://www.6aiq.com/article/1586914360530)
-3. [贝壳找房—图数据库系列之 JanusGraph VS Dgraph：贝壳分布式图数据库技术选型之路](http://www.6aiq.com/article/1586913224622)
+3. [贝壳找房—【图数据库系列】之 JanusGraph VS Dgraph：贝壳分布式图数据库技术选型之路](http://www.6aiq.com/article/1586913224622)
 4. [阿里—飞猪的“猜你喜欢”如何排序？](http://www.6aiq.com/article/1586889401079)
 5. [你所不知道的，华为项目管理之道！](http://www.6aiq.com/article/1586881221586)
 6. [智变·未来——九章云极 COOL NEWS 发布会](http://www.6aiq.com/article/1586876421988)
