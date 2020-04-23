@@ -253,7 +253,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
    * * *
 
 ## 人工智能领域文集
-1. [高维特征向量检索算法 (LSH PQ HNSW)](http://www.6aiq.com/article/1587522027341)
+1. [大规模特征向量检索算法总结 (LSH PQ HNSW)](http://www.6aiq.com/article/1587522027341)
 2. [贝壳找房—置信度计算在语音识别系统中的应用](http://www.6aiq.com/article/1587504411849)
 3. [产品经理，项目经理和技术经理是如何一起协作管理的？](http://www.6aiq.com/article/1587485708783)
 4. [Lucene 源码系列——索引文件的生成（十二）之 dim&&dii](http://www.6aiq.com/article/1587435452608)
