@@ -290,7 +290,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 35. [京东电商搜索中的语义检索与商品排序](http://www.6aiq.com/article/1591222526206)
 36. [滴滴数据驱动利器之 AB/Test 实践](http://www.6aiq.com/article/1590721840299)
 37. [美团配送 A/B 评估体系建设与实践](http://www.6aiq.com/article/1590713207541)
-38. [从一句情话来了解语言模型的发展](http://www.6aiq.com/article/1590668236351)
+38. [谈一谈NLP中语言模型的发展](http://www.6aiq.com/article/1590668236351)
 39. [见微知著，你真的搞懂 Google 的 Wide&Deep 模型了吗？](http://www.6aiq.com/article/1590621527145)
 40. [用户画像技术及方法论](http://www.6aiq.com/article/1590620967182)
 41. [【布道师系列】杨健——30 天到 3 分钟的改变！下篇](http://www.6aiq.com/article/1590576735796)
