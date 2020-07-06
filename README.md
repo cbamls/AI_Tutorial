@@ -508,7 +508,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 253. [图解自监督学习，人工智能蛋糕中最大的一块](http://www.6aiq.com/article/1583122538455)
 254. [让 AI“读懂”短视频，爱奇艺内容标签技术解析](http://www.6aiq.com/article/1583079469781)
 255. [字节跳动自研万亿级图数据库 & 图计算实践](http://www.6aiq.com/article/1583079309385)
-256. [墨刀 - 在线 Markdown 编辑器](http://www.6aiq.com/article/1583073862690)
+256. [水墨 - 在线 Markdown 编辑器](http://www.6aiq.com/article/1583073862690)
 257. [如何扩充知识图谱中的同义词](http://www.6aiq.com/article/1582980568844)
 258. [万字长文梳理 CTR 预估模型发展过程与关系图谱](http://www.6aiq.com/article/1582913103652)
 259. [BERT 的嵌入层是如何实现的？看完你就明白了](http://www.6aiq.com/article/1582912523500)
