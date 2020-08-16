@@ -253,7 +253,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
    * * *
 
 ## 人工智能领域文集
-1. [Elasticsearch DSL 中 queries/filters 执行顺序探秘](http://www.6aiq.com/article/1597589414980)
+1. [Elasticsearch DSL 语法中 queries/filters 执行顺序探秘](http://www.6aiq.com/article/1597589414980)
 2. [基于内容和上下文的音乐推荐](http://www.6aiq.com/article/1597279671639)
 3. [滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析](http://www.6aiq.com/article/1597279092295)
 4. [ES 在十几亿的数量级下如何提升查询效率？](http://www.6aiq.com/article/1597241622140)
