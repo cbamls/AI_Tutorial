@@ -256,7 +256,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 1. [使用 SQL 窗口函数进行增长数据分析](http://www.6aiq.com/article/1599342496358)
 2. [第四范式 | 推荐系统架构治理](http://www.6aiq.com/article/1599342117931)
 3. [腾讯 | 深度 CTR 预估模型在应用宝推荐系统中的探索](http://www.6aiq.com/article/1599341548357)
-4. [深度学习在商业排序的应用实践](http://www.6aiq.com/article/1599176232017)
+4. [58 同城 | 深度学习在商业排序的应用实践](http://www.6aiq.com/article/1599176232017)
 5. [CSCNN：新一代京东电商广告排序模型](http://www.6aiq.com/article/1599175201402)
 6. [Elasticsearch 性能调优](http://www.6aiq.com/article/1599172919053)
 7. [第四范式 | 基于 Spark 的大规模推荐系统特征工程](http://www.6aiq.com/article/1599059997953)
