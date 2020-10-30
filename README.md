@@ -253,7 +253,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
    * * *
 
 ## 人工智能领域文集
-1. [《领域驱动设计》核心知识梳理笔记](https://www.6aiq.com/article/1604021305358)
+1. [《领域驱动设计 DDD》核心知识梳理笔记](https://www.6aiq.com/article/1604021305358)
 2. [网易严选 | "全能选手"—Embedding 召回表征算法实践](https://www.6aiq.com/article/1603932138697)
 3. [滴滴 Elasticsearch 集群跨版本升级与平台重构之路](https://www.6aiq.com/article/1603809321990)
 4. [京东推荐系统中的兴趣拓展如何驱动业务持续增长](https://www.6aiq.com/article/1603629689702)
