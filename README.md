@@ -253,7 +253,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
    * * *
 
 ## 人工智能领域文集
-1. [干货 | 做用户，绕不开用户画像！](https://www.6aiq.com/article/1604358945687)
+1. [干货 | 用户画像在用户生命周期中的应用](https://www.6aiq.com/article/1604358945687)
 2. [腾讯技术 | 新一代搜索引擎项目 ZeroSearch 设计探索](https://www.6aiq.com/article/1604358516545)
 3. [推荐系统中如何做多目标优化](https://www.6aiq.com/article/1604194668368)
 4. [360 展示广告智能化演进](https://www.6aiq.com/article/1604192697376)
