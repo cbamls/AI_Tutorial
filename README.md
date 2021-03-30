@@ -255,7 +255,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 ## 人工智能领域文集
 1. [贝壳找房基于 Druid 的 OLAP 引擎应用实践](https://www.6aiq.com/article/1617065714002)
 2. [机器学习模型如何优化干货总结](https://www.6aiq.com/article/1617065280244)
-3. [BERT 在58同城搜索的实践](https://www.6aiq.com/article/1617063677499)
+3. [深度语义模型BERT在58同城搜索的实践](https://www.6aiq.com/article/1617063677499)
 4. [爱奇艺大数据生态的实时数仓建设](https://www.6aiq.com/article/1617062552612)
 5. [多目标排序模型在腾讯 QQ 看点推荐系统中的应用实践](https://www.6aiq.com/article/1616884898601)
 6. [网易游戏基于 Flink 的流式 ETL 建设](https://www.6aiq.com/article/1616288274918)
