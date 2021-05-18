@@ -7,7 +7,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 
 > github地址：https://github.com/cbamls/AI_Tutorial
 >
-> 资源网站地址: https://cbamls.github.io/AI_Tutorial/
+> 资源网站地址: https://www.6aiq.com/
 
    个人视角有限，还望各位大佬进行PR补充、丰富，谢谢。
 
