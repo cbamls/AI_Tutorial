@@ -14,7 +14,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 * * *
 
 ## 人工智能领域文集
-1. [2021.09.05 AIQ-ChangeLogs](https://www.6aiq.com/article/1630883385945)
+1. [2021.09.05 AIQ-ChangeLogs](https://www.6aiq.com/article/1630884303165)
 2. [2021 年七月中旬，虾皮北京提前批 - 算法工程师 5 道面试题](https://www.6aiq.com/article/1630696606845)
 3. [闲鱼是如何做个性化商品选品及人群画像分析的](https://www.6aiq.com/article/1630676477382)
 4. [腾讯基于兴趣点图谱的内容理解](https://www.6aiq.com/article/1630676224202)
