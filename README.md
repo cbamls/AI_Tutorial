@@ -24,7 +24,7 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 8. [推荐系统全链路（3）召回粗排精排 - 级联漏斗下篇](https://www.6aiq.com/article/1634686328965)
 9. [推荐系统全链路（2）召回粗排精排 - 级联漏斗上篇](https://www.6aiq.com/article/1634686246960)
 10. [推荐系统全链路（1）：召回粗排精排 - 各有所长](https://www.6aiq.com/article/1634686176165)
-11. [腾讯技术 | 一文搞懂 CTR 建模](https://www.6aiq.com/article/1634679557947)
+11. [腾讯 CTR 建模过程中的实践总结](https://www.6aiq.com/article/1634679557947)
 12. [KDD'21 | 淘宝搜索中语义向量检索技术](https://www.6aiq.com/article/1634663299219)
 13. [百度 NLP 技术在智能招聘中的应用研究](https://www.6aiq.com/article/1634513421719)
 14. [深入互联网广告中的出价模式 — 再谈 oCPX 中的双出价](https://www.6aiq.com/article/1634513201969)
