@@ -1,19 +1,30 @@
+<p align="center">
+  <img src="https://www.6aiq.com/images/logo.png"/>
+  <br>中文 | <a href="README_en.md">English</a>
+  <br>AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。这篇文章意图是收集市面上质量不错的后端架构、AI架构、搜索、 推荐、 广告引擎技术资料，内容来源包括开源项目官网（Lucene、Solr、Elastic）、综合技术网站（AIQ 、infoQ、Stackoverflow、github 等、国内外知名互联网
+</p>
 
+<p align="center">
+  <a href="https://img.6aiq.com/2021/10/qrcode_for_gh_55a79183406f_430-27ebd613.jpg"><img src="https://img.shields.io/badge/Talk-公众号-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+  <a href="https://github.com/cbamls/AI_Tutorial/stargazers"><img src="https://img.shields.io/github/stars/cbamls/AI_Tutorial.svg?style=popout-square" alt="GitHub stars"></a>
+  <a href="https://github.com/cbamls/AI_Tutorial/issues"><img src="https://img.shields.io/github/issues/cbamls/AI_Tutorial.svg?style=popout-square" alt="GitHub issues"></a>
+    <a href="https://www.6aiq.com"><img src="https://img.shields.io/badge/AIQ-AIQ人工智能社区-red.svg?style=popout-square" alt="AIQ"></a>
+</p>
 
-# 人工智能、机器学习、深度学习、搜索系统、推荐系统、广告系统学习资料干货汇总
+## 人工智能、机器学习、深度学习、搜索系统、推荐系统、广告系统学习资料干货汇总
 
-AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。这篇文章意图是收集市面上质量不错的后端架构、AI架构、搜索、 推荐、 广告引擎技术资料，内容来源包括开源项目官网（Lucene、Solr、Elastic）、综合技术网站（AIQ 、infoQ、Stackoverflow、github 等、国内外知名互联网公司技术博客（阿里中间件团队博客、美团技术博客等）、知名技术牛人公众号博客等。
-
+公司技术博客（阿里中间件团队博客、美团技术博客等）、知名技术牛人公众号博客等。
 
 > github地址：https://github.com/cbamls/AI_Tutorial
->
+> 
 > 资源网站地址: https://www.6aiq.com/
 
-   个人视角有限，还望各位大佬进行PR补充、丰富，谢谢。
+个人视角有限，还望各位大佬进行PR补充、丰富，谢谢。
 
-* * *
+---
 
 ## 人工智能领域文集
+
 1. [王元：新一代人工智能算法平台设计和背后的逻辑](https://www.6aiq.com/article/1637526497554)
 2. [搜索系统，推荐系统，广告系统架构及人工智能算法技术资料最全整理](https://www.6aiq.com/article/1637284735849)
 3. [58 技术 | 招聘商业智能搜索召回体系搭建](https://www.6aiq.com/article/1637284287947)
@@ -1597,4 +1608,5 @@ AI架构、搜索系统、 推荐系统、广告系统等技术资料整理。�
 1581. [今日头条算法原理（全文）](https://www.6aiq.com/article/1522748336680)
 1582. [机器学习新手必须掌握的十大算法指南](https://www.6aiq.com/article/1522587084375)
 1583. [近期 GitHub 上最热门的开源项目（附链接）](https://www.6aiq.com/article/1522576797701)
-1584. [深度 | 可视化 LSTM 网络：探索「记忆」的形成](https://www.6aiq.com/article/1522509138216)
+1584. [深度 | 可视化 LSTM 网络：探索「记忆」的形成
+
