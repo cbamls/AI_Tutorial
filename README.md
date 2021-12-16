@@ -24,7 +24,7 @@
 ---
 
 ## 人工智能领域文集
-1. [九章云极 DataCanvas 公司实力荣登「WISE 2021 新经济之王」年度硬核企业榜](https://www.6aiq.com/article/1639675196353)
+1. [九章云极 DataCanvas 荣获“2021 真榜•中国最具价值创新企业榜单”](https://www.6aiq.com/article/1639675196353)
 2. [网易严选实时计算平台建设实践](https://www.6aiq.com/article/1639438996585)
 3. [TDM 到二向箔：阿里妈妈展示广告 Match 底层技术架构演进](https://www.6aiq.com/article/1639438705383)
 4. [淘系技术 | 端智能技术体系概述](https://www.6aiq.com/article/1639437466877)
