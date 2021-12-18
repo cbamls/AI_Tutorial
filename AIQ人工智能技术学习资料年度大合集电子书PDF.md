@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.6aiq.com/images/logo.png"/>
   <br>中文 | <a href="README_en.md">English</a>
-  <br>全面整理高质量的人工智能、大数据等技术资料。内容主要来自开源项目官网、综合技术网站（AIQ 、InfoQ、Stackoverflow、Github 等、国内外知名互联网公司技术博客(FAANG、Alibaba、Meituan etc)、知名技术公众号(DatafunTalk、阿里技术等)。
+  <br>全面整理高质量的人工智能、大数据等技术资料。内容主要来自开源项目官网、综合技术网站（AIQ 、InfoQ、Stackoverflow、Github 等、国内外知名互联网公司技术博客（阿里中间件团队博客、美团技术博客等）、知名技术牛人公众号博客等。
 </p>
 
 **我们有一个梦想**：随着全球工业界在AI道路上的不断探索与沉淀，笔耕不缀，很多很多年后， AIQ终将成为人工智能领域的“史家之绝唱，无韵之离骚”。——“苦练基本功”<br>
@@ -22,8 +22,6 @@
 > Website: https://www.6aiq.com
 >
 > Mail:       88cbam@gmail.com
->
-> Version: 2021.12.18 By Ershu
 
 
 
