@@ -14,7 +14,10 @@
   <a href="https://github.com/cbamls/AI_Tutorial/issues"><img src="https://img.shields.io/github/issues/cbamls/AI_Tutorial.svg?style=popout-square" alt="GitHub issues"></a>
     <a href="https://www.6aiq.com"><img src="https://img.shields.io/badge/AIQ-AIQ人工智能社区-red.svg?style=popout-square" alt="AIQ"></a>
 </p>
+<div style="color: red; font-size: 10px">宣传、广告、招聘、投稿免费合作 请扫码加群
+</div>
 
+<img src="https://img.6aiq.com/2022/04/image-14d6dfde.png" alt="AIQ-人工智能"> </img>
 
 
 > Github：https://github.com/cbamls/AI_Tutorial
