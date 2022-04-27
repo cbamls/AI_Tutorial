@@ -15,7 +15,7 @@
     <a href="https://www.6aiq.com"><img src="https://img.shields.io/badge/AIQ-AIQ人工智能社区-red.svg?style=popout-square" alt="AIQ"></a>
 </p>
 <div style="color: red; font-size: 10px">宣传、广告、招聘、投稿免费合作 请扫码加微信拉入“人工智能大佬2群”</div>
-![image.png](https://img.6aiq.com/2022/04/image-d04082de.png)
+![281651075033_ pic](https://user-images.githubusercontent.com/12781382/165561415-0f545629-e248-4923-b9a0-9e9e0132fcad.jpg)
 
 
 
