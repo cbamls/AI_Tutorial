@@ -17,7 +17,7 @@
 <div style="color: red; font-size: 10px">宣传、广告、招聘、投稿免费合作 请扫码加群
 </div>
 
-<img src="https://img.6aiq.com/2022/04/image-78371ed6.png" alt="AIQ-人工智能"> </img>
+<img src="https://img.6aiq.com/2022/04/image-78371ed6.png" alt="AIQ-人工智能"/>
 
 
 > Github：https://github.com/cbamls/AI_Tutorial
@@ -26,7 +26,6 @@
 >
 > Mail:       88cbam@gmail.com
 >
-> Version: 2021.12.18 By Ershu
 
 
 
