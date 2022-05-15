@@ -32,7 +32,7 @@
 ---
 
 ## 人工智能领域文集
-1. [银行工资流水单怎么打](https://www.6aiq.com/article/1652627060651)
+1. [李晓亮：腾讯搜索词推荐算法探索实践](https://www.6aiq.com/article/1652634100366)
 2. [周力博士：小冰 AI+AI 对谈技术的探索与应用](https://www.6aiq.com/article/1652459587534)
 3. [美团大脑中的商品理解与样本治理](https://www.6aiq.com/article/1652459085275)
 4. [网易严选时序预测算法实践](https://www.6aiq.com/article/1652458697875)
