@@ -33,7 +33,7 @@
 
 ## 人工智能领域文集
 1. [字节跳动｜自研万亿级图数据库 ByteGraph 及其应用与挑战](https://www.6aiq.com/article/1662301908875)
-2. [阿里技术｜序列特征在推荐算法中的应用](https://www.6aiq.com/article/1662301406672)
+2. [阿里技术｜行为序列特征在推荐算法中的应用实践](https://www.6aiq.com/article/1662301406672)
 3. [腾讯技术｜深度模型推理加速的术与道](https://www.6aiq.com/article/1662281420188)
 4. [京东基于时序知识图谱的问答系统](https://www.6aiq.com/article/1662120249483)
 5. [智能制造系统主要包括哪些部分？](https://www.6aiq.com/article/1662088376860)
