@@ -456,7 +456,7 @@
 422. [如何设计一个复杂的业务系统 (DDD 实践)?](https://www.6aiq.com/article/1646268063782)
 423. [百度爱番番 | 大规模异构数据的线索列表进化之路](https://www.6aiq.com/article/1646267859801)
 424. [李茶：虎牙直播推荐系统架构详解](https://www.6aiq.com/article/1646267319366)
-425. [美团搜索中查询改写技术的探索与实践](https://www.6aiq.com/article/1645745968583)
+425. [干货 | 美团搜索中查询改写技术的探索与实践](https://www.6aiq.com/article/1645745968583)
 426. [端智能在大众点评搜索重排序的应用实践](https://www.6aiq.com/article/1645745150278)
 427. [美团 Flink 大作业部署与状态稳定性优化实践](https://www.6aiq.com/article/1645722768596)
 428. [赵鑫：强化学习在京东广告序列推荐中的应用](https://www.6aiq.com/article/1645722190215)
