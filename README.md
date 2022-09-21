@@ -914,7 +914,7 @@
 880. [机器学习面试 150 题：不只是考 SVM xgboost 特征工程 |　附送【名企 AI 面试 100 题】](https://www.6aiq.com/article/1621017230537)
 881. [58 信息安全—营销反作弊业务的算法实践](https://www.6aiq.com/article/1620954181717)
 882. [知乎 Flink 数据集成平台建设实践](https://www.6aiq.com/article/1620953681156)
-883. [美团算法平台在线服务体系的演进与实践](https://www.6aiq.com/article/1620953167502)
+883. [美团图灵算法平台在线服务体系的演进与实践](https://www.6aiq.com/article/1620953167502)
 884. [简单阐述下决策树、回归、SVM、神经网络等算法各自的优缺点？](https://www.6aiq.com/article/1620842896425)
 885. [Query 理解在美团搜索中的应用](https://www.6aiq.com/article/1620422043350)
 886. [贝壳找房 | 基于事理图谱的应用与实践](https://www.6aiq.com/article/1619393097387)
