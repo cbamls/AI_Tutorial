@@ -606,7 +606,7 @@
 572. [图文解读：推荐算法架构——精排！](https://www.6aiq.com/article/1647476196657)
 573. [蒋能学：网易云音乐广告算法实践](https://www.6aiq.com/article/1647294843190)
 574. [王冬月：京东推荐算法精排技术实践](https://www.6aiq.com/article/1647294379283)
-575. [微信全文搜索技术优化实践](https://www.6aiq.com/article/1647293789632)
+575. [腾讯技术｜微信全文搜索技术优化实践](https://www.6aiq.com/article/1647293789632)
 576. [一个好的持续交付流水线是怎样的?](https://www.6aiq.com/article/1647091802609)
 577. [阿里技术 | 高可用的本质](https://www.6aiq.com/article/1647091695920)
 578. [傅轶：网易数帆云原生日志平台架构实践](https://www.6aiq.com/article/1647091415005)
