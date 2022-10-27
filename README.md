@@ -32,7 +32,7 @@
 ---
 
 ## 人工智能领域文集
-1. [连接 CC，助力企业一站式解决跨区域传输难问题](https://www.6aiq.com/article/1666876144645)
+1. [跨区域传输数据不够流畅？连接 CC 了解一下](https://www.6aiq.com/article/1666876144645)
 2. [连接 CC，为出海保驾护航](https://www.6aiq.com/article/1666875787042)
 3. [​美团关于 Apache Doris 存储层向量化改造的设计与实现](https://www.6aiq.com/article/1666874991171)
 4. [Wallys/QCN9074 11ax 4x4 MU-MIMO 2.4G M.2 /2.4GHz, max 23dBm per chain, up to 1147Mbps //QCN9072/QCN9024](https://www.6aiq.com/article/1666855400358)
