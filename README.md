@@ -32,7 +32,7 @@
 ---
 
 ## 人工智能领域文集
-1. [Industrial wifi6 Wireless AP/DR AP6018 S AIPQ6010 2T2R 2.4G&5G high power Radio AP](https://www.6aiq.com/article/1671438540691)
+1. [Wallys/ qca9882/industrial mini pcie card/2x 2 5G /High power Radio card](https://www.6aiq.com/article/1671438540691)
 2. [Wallys/DR9074E-Qualcomm Atheros QCN9074(QCN9024)/ 4x4 MU-MIMO Dual Band Wireless Module](https://www.6aiq.com/article/1671436630024)
 3. [MAXON WiFi6 MX6012-IS 802.11ax Intrinsic Safety 2×2 MIMO 2.4GHz & 5.8GHz Dual-Band Wireless Access Point Board IPQ6010 QCA8075 QCN5052 QCN5022](https://www.6aiq.com/article/1671432688456)
 4. [多模态预训练技术在 OPPO 的应用](https://www.6aiq.com/article/1671338240588)
