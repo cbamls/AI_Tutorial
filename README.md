@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.6aiq.com/images/logo.png"/>
   <br>中文 | <a href="README_en.md">English</a>
-  <br>全面整理高质量的人工智能、大数据等技术资料。内容主要来自开源项目官网、综合技术网站（AIQ 、InfoQ、Stackoverflow、Github 等、国内外知名互联网公司技术博客(FAANG、Alibaba、Meituan etc)、知名技术公众号(DatafunTalk、阿里技术等)。
+  <br>全面整理高质量的人工智能、机器学习、大数据等技术资料。内容主要来自开源项目官网、综合技术网站（AIQ 、InfoQ、Stackoverflow、Github 等、国内外知名互联网公司技术博客(FAANG、Alibaba、Meituan etc)、知名技术公众号(DatafunTalk、阿里技术等)。
 </p>
 
 **我们有一个梦想**：随着全球工业界在AI道路上的不断探索与沉淀，笔耕不缀，很多很多年后， AIQ终将成为人工智能领域的“史家之绝唱，无韵之离骚”。——“苦练基本功”<br>
@@ -14,20 +14,12 @@
   <a href="https://github.com/cbamls/AI_Tutorial/issues"><img src="https://img.shields.io/github/issues/cbamls/AI_Tutorial.svg?style=popout-square" alt="GitHub issues"></a>
     <a href="https://www.6aiq.com"><img src="https://img.shields.io/badge/AIQ-AIQ人工智能社区-red.svg?style=popout-square" alt="AIQ"></a>
 </p>
-<div style="color: red; font-size: 10px">宣传、广告、招聘、投稿免费合作 请扫码加微信拉入“人工智能大佬2群”</div>
-
-![281651075033_ pic](https://user-images.githubusercontent.com/12781382/165561415-0f545629-e248-4923-b9a0-9e9e0132fcad.jpg)
-
+<div style="color: red; font-size: 10px">推广、广告、招聘、投稿、合作 请联系邮箱</div>
 
 
 > Github：https://github.com/cbamls/AI_Tutorial
->
 > Website: https://www.6aiq.com
->
 > Mail:       88cbam@gmail.com
->
-
-
 
 ---
 
