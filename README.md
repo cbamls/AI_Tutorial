@@ -24,9 +24,9 @@
 ---
 
 ## 人工智能领域文集
-1. [花几万块钱考的“高含金量证书”是在交智商税吗？](https://www.6aiq.com/article/1675740804070)
-2. [IPQ6018/Qualcomm-Atheros IPQ6010 CPU industrial wifi router DR6018S High power Wallys](https://www.6aiq.com/article/1675734313071)
-3. [cesium](https://www.6aiq.com/article/1675697259707)
+1. [Wallys/Wifi6E(802.11ax) QCN9074 IPQ8072 4x4 2.4&5G MU-MIMO Choose the suitable network card for the routerboard**](https://www.6aiq.com/article/1675846686298)
+2. [花几万块钱考的“高含金量证书”是在交智商税吗？](https://www.6aiq.com/article/1675740804070)
+3. [IPQ6018/Qualcomm-Atheros IPQ6010 CPU industrial wifi router DR6018S High power Wallys](https://www.6aiq.com/article/1675734313071)
 4. [IPQ6010 QCN9074 QCN9024 high power wifi module support openWRT 802.11ax/Wallys](https://www.6aiq.com/article/1675669265398)
 5. [Adobe 再次被评为最公正的公司](https://www.6aiq.com/article/1675663904962)
 6. [2023 年科技行业的九大预测, 核心技术变得越来越 "实"](https://www.6aiq.com/article/1675649809582)
