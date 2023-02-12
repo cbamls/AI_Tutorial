@@ -28,12 +28,12 @@
   * [大师兄](#大师兄)
   * [石塔西](#石塔西)
   * [缄默笔记](#缄默笔记)
-  * [绝密伏击](#绝密伏击)
   * [iwtbs](#iwtbs)
+  * [绝密伏击](#绝密伏击)
   * [冯伟](#冯伟)
   * [Ostrich](#ostrich)
-  * [王喆](#王喆)
   * [张俊林](#张俊林)
+  * [王喆](#王喆)
   * [Peter PanXin](#peter-panxin)
   * [李沐](#李沐)
   * [琦琦](#琦琦)
@@ -41,29 +41,28 @@
   * [姚凯飞](#姚凯飞)
   * [萧瑟](#萧瑟)
   * [yanianthe](#yanianthe)
+  * [九老师](#九老师)
   * [Houye](#houye)
   * [王峰](#王峰)
   * [小潄](#小潄)
-  * [九老师](#九老师)
   * [阿水](#阿水)
   * [朱小强](#朱小强)
-  * [Tang AI](#tang-ai)
   * [蘑菇先生](#蘑菇先生)
-  * [Aston Zhang](#aston-zhang)
+  * [Tang AI](#tang-ai)
   * [逍遥王可爱](#逍遥王可爱)
+  * [Aston Zhang](#aston-zhang)
   * [Microstrong](#microstrong)
   * [乌克兰老司机](#乌克兰老司机)
   * [明月不谙离苦](#明月不谙离苦)
   * [曾伊言](#曾伊言)
-  * [沈海晨](#沈海晨)
-  * [口天吴](#口天吴)
-  * [裴叁拾](#裴叁拾)
-  * [机智的叉烧](#机智的叉烧)
-  * [知乎用户MYp8Kg](#知乎用户myp8kg)
   * [霍华德](#霍华德)
-  * [谢流远](#谢流远)
-  * [九老师](#九老师-1)
+  * [沈海晨](#沈海晨)
   * [张章](#张章)
+  * [谢流远](#谢流远)
+  * [裴叁拾](#裴叁拾)
+  * [知乎用户MYp8Kg](#知乎用户myp8kg)
+  * [机智的叉烧](#机智的叉烧)
+  * [口天吴](#口天吴)
 
 
 ## 朱翔宇
@@ -216,7 +215,7 @@
 | 143 | [推荐算法炼丹笔记：科学调参在模型优化中的意义](https://zhuanlan.zhihu.com/p/270641970) | 2020-10-31 19:14:13 |
 | 144 | [推荐大赛如何在一周时间内打进决赛](https://zhuanlan.zhihu.com/p/293008934) | 2020-11-14 11:18:14 |
 | 145 | [推荐算法炼丹笔记：序列化推荐系统](https://zhuanlan.zhihu.com/p/272862240) | 2020-11-03 23:14:31 |
-| 146 | [炼丹笔记 | 讲讲我们的故事](https://zhuanlan.zhihu.com/p/293063008) | 2020-11-14 12:17:53 |
+| 146 | [炼丹笔记 \| 讲讲我们的故事](https://zhuanlan.zhihu.com/p/293063008) | 2020-11-14 12:17:53 |
 | 147 | [推荐系统中的Bias/Debias大全](https://zhuanlan.zhihu.com/p/293050486) | 2020-11-14 12:09:25 |
 | 148 | [推荐系统炼丹笔记：令人着迷的时间动态CF算法](https://zhuanlan.zhihu.com/p/293017433) | 2020-11-14 11:31:58 |
 | 149 | [推荐系统炼丹笔记：阿里DMIN多重兴趣网络](https://zhuanlan.zhihu.com/p/293092409) | 2020-11-14 12:58:18 |
@@ -492,33 +491,6 @@
 | 25 | [推荐系统(七) 2021年「顶会论文」特征交叉相关CTR模型汇总](https://zhuanlan.zhihu.com/p/474987046) | 2022-03-03 01:28:26 |
 
 
-## 绝密伏击
-> 介绍： 九天惊雷撼乾坤，一指破空九万里
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [OpenAI ChatGPT（二）：十分钟读懂 GPT-1](https://zhuanlan.zhihu.com/p/604625917) | 2023-02-09 20:45:42 |
-| 2 | [ChatGPT Is All you Need](https://zhuanlan.zhihu.com/p/603497653) | 2023-02-04 21:43:02 |
-| 3 | [OpenAI ChatGPT（一）：Tensorflow实现Transformer](https://zhuanlan.zhihu.com/p/603243890) | 2023-02-03 20:55:02 |
-| 4 | [OpenAI ChatGPT（一）：十分钟读懂 Transformer](https://zhuanlan.zhihu.com/p/600773858) | 2023-01-28 00:04:49 |
-| 5 | [十分钟读懂Stable Duffision](https://zhuanlan.zhihu.com/p/600251419) | 2023-01-20 21:00:06 |
-| 6 | [十分钟读懂Diffusion：图解Diffusion扩散模型](https://zhuanlan.zhihu.com/p/599887666) | 2023-01-18 19:03:44 |
-| 7 | [爆火的ChatGPT，到底怎么样？](https://zhuanlan.zhihu.com/p/595278103) | 2022-12-29 20:44:06 |
-| 8 | [AIGC爆火的背后——扩散模型DDPM浅析](https://zhuanlan.zhihu.com/p/590840909) | 2022-12-11 00:10:56 |
-| 9 | [AIGC爆火的背后——对抗生成网络GAN浅析](https://zhuanlan.zhihu.com/p/580137376) | 2022-11-04 19:14:25 |
-| 10 | [长序列建模（二）：美团SDIM（Sampling-based Deep Interest Modeling）模型](https://zhuanlan.zhihu.com/p/560657191) | 2022-09-02 20:17:26 |
-| 11 | [阿里ETA模型——实践篇](https://zhuanlan.zhihu.com/p/556195411) | 2022-08-21 20:07:02 |
-| 12 | [长序列建模（一）：阿里ETA（End-to-end Target Attention）模型](https://zhuanlan.zhihu.com/p/547087040) | 2022-07-28 20:05:56 |
-| 13 | [SIGIR2022：阿里多任务学习最新论文ESCM2](https://zhuanlan.zhihu.com/p/526545110) | 2022-06-09 18:36:04 |
-| 14 | [多场景建模](https://zhuanlan.zhihu.com/p/446635065) | 2021-12-17 16:30:26 |
-| 15 | [【总结】推荐系统——精排篇【3】DIN/DIEN/BST/DSIN/MIMN/SIM/CAN](https://zhuanlan.zhihu.com/p/433135805) | 2021-11-14 18:29:53 |
-| 16 | [【总结】推荐系统——精排篇【2】WDL/DCN/DCN-v2](https://zhuanlan.zhihu.com/p/433086709) | 2021-11-14 13:19:41 |
-| 17 | [【总结】推荐系统——精排篇【1】FM/FFM/GBDT+LR/MLR](https://zhuanlan.zhihu.com/p/432817787) | 2021-11-13 21:21:44 |
-| 18 | [元学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/432088211) | 2021-11-12 19:31:58 |
-| 19 | [【总结】推荐系统中知识蒸馏应用](https://zhuanlan.zhihu.com/p/372575360) | 2021-05-16 15:41:44 |
-| 20 | [知识蒸馏在推荐系统中的应用](https://zhuanlan.zhihu.com/p/366725144) | 2021-04-22 16:27:54 |
-
-
 ## iwtbs
 > 介绍： 公众号：推荐广告算法小木屋
 
@@ -544,6 +516,33 @@
 | 18 | [推荐系统中的bad case怎么debug](https://zhuanlan.zhihu.com/p/339382743) | 2020-12-24 23:51:02 |
 | 19 | [推荐场景中，线上线下指标不一致是为啥](https://zhuanlan.zhihu.com/p/336959267) | 2020-12-15 00:49:50 |
 | 20 | [向量召回—近邻快速查找算法总结](https://zhuanlan.zhihu.com/p/336694120) | 2020-12-14 00:21:53 |
+
+
+## 绝密伏击
+> 介绍： 九天惊雷撼乾坤，一指破空九万里
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [OpenAI ChatGPT（二）：十分钟读懂 GPT-1](https://zhuanlan.zhihu.com/p/604625917) | 2023-02-09 20:45:42 |
+| 2 | [ChatGPT Is All you Need](https://zhuanlan.zhihu.com/p/603497653) | 2023-02-04 21:43:02 |
+| 3 | [OpenAI ChatGPT（一）：Tensorflow实现Transformer](https://zhuanlan.zhihu.com/p/603243890) | 2023-02-03 20:55:02 |
+| 4 | [OpenAI ChatGPT（一）：十分钟读懂 Transformer](https://zhuanlan.zhihu.com/p/600773858) | 2023-01-28 00:04:49 |
+| 5 | [十分钟读懂Stable Duffision](https://zhuanlan.zhihu.com/p/600251419) | 2023-01-20 21:00:06 |
+| 6 | [十分钟读懂Diffusion：图解Diffusion扩散模型](https://zhuanlan.zhihu.com/p/599887666) | 2023-01-18 19:03:44 |
+| 7 | [爆火的ChatGPT，到底怎么样？](https://zhuanlan.zhihu.com/p/595278103) | 2022-12-29 20:44:06 |
+| 8 | [AIGC爆火的背后——扩散模型DDPM浅析](https://zhuanlan.zhihu.com/p/590840909) | 2022-12-11 00:10:56 |
+| 9 | [AIGC爆火的背后——对抗生成网络GAN浅析](https://zhuanlan.zhihu.com/p/580137376) | 2022-11-04 19:14:25 |
+| 10 | [长序列建模（二）：美团SDIM（Sampling-based Deep Interest Modeling）模型](https://zhuanlan.zhihu.com/p/560657191) | 2022-09-02 20:17:26 |
+| 11 | [阿里ETA模型——实践篇](https://zhuanlan.zhihu.com/p/556195411) | 2022-08-21 20:07:02 |
+| 12 | [长序列建模（一）：阿里ETA（End-to-end Target Attention）模型](https://zhuanlan.zhihu.com/p/547087040) | 2022-07-28 20:05:56 |
+| 13 | [SIGIR2022：阿里多任务学习最新论文ESCM2](https://zhuanlan.zhihu.com/p/526545110) | 2022-06-09 18:36:04 |
+| 14 | [多场景建模](https://zhuanlan.zhihu.com/p/446635065) | 2021-12-17 16:30:26 |
+| 15 | [【总结】推荐系统——精排篇【3】DIN/DIEN/BST/DSIN/MIMN/SIM/CAN](https://zhuanlan.zhihu.com/p/433135805) | 2021-11-14 18:29:53 |
+| 16 | [【总结】推荐系统——精排篇【2】WDL/DCN/DCN-v2](https://zhuanlan.zhihu.com/p/433086709) | 2021-11-14 13:19:41 |
+| 17 | [【总结】推荐系统——精排篇【1】FM/FFM/GBDT+LR/MLR](https://zhuanlan.zhihu.com/p/432817787) | 2021-11-13 21:21:44 |
+| 18 | [元学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/432088211) | 2021-11-12 19:31:58 |
+| 19 | [【总结】推荐系统中知识蒸馏应用](https://zhuanlan.zhihu.com/p/372575360) | 2021-05-16 15:41:44 |
+| 20 | [知识蒸馏在推荐系统中的应用](https://zhuanlan.zhihu.com/p/366725144) | 2021-04-22 16:27:54 |
 
 
 ## 冯伟
@@ -600,31 +599,6 @@
 | 20 | [电商搜索QP：Term Weighting](https://zhuanlan.zhihu.com/p/351085094) | 2021-02-17 16:48:06 |
 
 
-## 王喆
-> 介绍： 广告/推荐 Engineering Manager
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [DLP-KDD 2021征文：搜索、推荐、广告领域深度学习实践国际研讨会](https://zhuanlan.zhihu.com/p/364358132) | 2021-04-14 14:28:30 |
-| 2 | [DLP-KDD 2020征文：第二届面向高维稀疏数据的深度学习实践国际研讨会](https://zhuanlan.zhihu.com/p/134024376) | 2020-04-21 14:27:17 |
-| 3 | [“深度”学习计算广告](https://zhuanlan.zhihu.com/p/593506739) | 2022-12-22 09:27:17 |
-| 4 | [当Parameter Server遇上GPU——大规模并行训练平台HugeCTR](https://zhuanlan.zhihu.com/p/578046577) | 2022-10-28 08:18:11 |
-| 5 | [算法工程师的「天地之间」](https://zhuanlan.zhihu.com/p/495479206) | 2022-10-17 08:18:11 |
-| 6 | [排得更好VS估得更准VS搜的更全「推荐、广告、搜索」算法间到底有什么区别？](https://zhuanlan.zhihu.com/p/430431149) | 2021-11-16 09:05:29 |
-| 7 | [「AI大咖谈」阿里算法专家谈大规模推荐系统粗排层的设计与实现](https://zhuanlan.zhihu.com/p/371025064) | 2021-05-10 10:32:28 |
-| 8 | [「DLP-KDD 2021征文」及上届论文全集，包含深度学习推荐/广告系统、多目标、模型服务等](https://zhuanlan.zhihu.com/p/367925705) | 2021-04-26 13:32:26 |
-| 9 | [「AI大咖谈」FLAG资深工程师谈ML Infra和分布式模型服务](https://zhuanlan.zhihu.com/p/360007940) | 2021-03-29 08:46:56 |
-| 10 | [如何解决深度推荐系统中的Embedding冷启动问题？](https://zhuanlan.zhihu.com/p/351390011) | 2021-02-22 08:39:23 |
-| 11 | [我的实战课程「深度学习推荐系统实战」-王喆的机器学习笔记](https://zhuanlan.zhihu.com/p/341895115) | 2021-01-05 08:49:20 |
-| 12 | [「AI大咖谈」DLP-KDD最佳论文作者谈「图神经网络」的特点、发展与应用](https://zhuanlan.zhihu.com/p/259494288) | 2020-09-28 08:41:31 |
-| 13 | [「AI大咖谈」ex-Google，ex-Facebook，现微博广告核心技术负责人谈算法与数据中台](https://zhuanlan.zhihu.com/p/245162802) | 2020-09-15 12:18:03 |
-| 14 | [见微知著，你真的搞懂Google的Wide&Deep模型了吗？](https://zhuanlan.zhihu.com/p/142958834) | 2020-05-25 08:02:21 |
-| 15 | [回顾经典，Netflix的推荐系统架构](https://zhuanlan.zhihu.com/p/114590897) | 2020-05-12 14:49:21 |
-| 16 | [DLP-KDD全部文章及资源，覆盖GNN、Graph Emb、Transformer等业界前沿领域](https://zhuanlan.zhihu.com/p/135919198) | 2020-04-24 14:48:36 |
-| 17 | [《深度学习推荐系统》勘误与勘误奖励](https://zhuanlan.zhihu.com/p/129733612) | 2020-04-13 15:59:35 |
-| 18 | [关于深度学习推荐系统领域的15个问题](https://zhuanlan.zhihu.com/p/123103206) | 2020-04-03 11:03:51 |
-
-
 ## 张俊林
 > 介绍： 你所不知道的事
 
@@ -650,6 +624,31 @@
 | 18 | [推荐系统召回四模型之二：沉重的FFM模型](https://zhuanlan.zhihu.com/p/59528983) | 2019-03-18 07:57:44 |
 
 
+## 王喆
+> 介绍： 广告/推荐 Engineering Manager
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [DLP-KDD 2021征文：搜索、推荐、广告领域深度学习实践国际研讨会](https://zhuanlan.zhihu.com/p/364358132) | 2021-04-14 14:28:30 |
+| 2 | [DLP-KDD 2020征文：第二届面向高维稀疏数据的深度学习实践国际研讨会](https://zhuanlan.zhihu.com/p/134024376) | 2020-04-21 14:27:17 |
+| 3 | [“深度”学习计算广告](https://zhuanlan.zhihu.com/p/593506739) | 2022-12-22 09:27:17 |
+| 4 | [当Parameter Server遇上GPU——大规模并行训练平台HugeCTR](https://zhuanlan.zhihu.com/p/578046577) | 2022-10-28 08:18:11 |
+| 5 | [算法工程师的「天地之间」](https://zhuanlan.zhihu.com/p/495479206) | 2022-10-17 08:18:11 |
+| 6 | [排得更好VS估得更准VS搜的更全「推荐、广告、搜索」算法间到底有什么区别？](https://zhuanlan.zhihu.com/p/430431149) | 2021-11-16 09:05:29 |
+| 7 | [「AI大咖谈」阿里算法专家谈大规模推荐系统粗排层的设计与实现](https://zhuanlan.zhihu.com/p/371025064) | 2021-05-10 10:32:28 |
+| 8 | [「DLP-KDD 2021征文」及上届论文全集，包含深度学习推荐/广告系统、多目标、模型服务等](https://zhuanlan.zhihu.com/p/367925705) | 2021-04-26 13:32:26 |
+| 9 | [「AI大咖谈」FLAG资深工程师谈ML Infra和分布式模型服务](https://zhuanlan.zhihu.com/p/360007940) | 2021-03-29 08:46:56 |
+| 10 | [如何解决深度推荐系统中的Embedding冷启动问题？](https://zhuanlan.zhihu.com/p/351390011) | 2021-02-22 08:39:23 |
+| 11 | [我的实战课程「深度学习推荐系统实战」-王喆的机器学习笔记](https://zhuanlan.zhihu.com/p/341895115) | 2021-01-05 08:49:20 |
+| 12 | [「AI大咖谈」DLP-KDD最佳论文作者谈「图神经网络」的特点、发展与应用](https://zhuanlan.zhihu.com/p/259494288) | 2020-09-28 08:41:31 |
+| 13 | [「AI大咖谈」ex-Google，ex-Facebook，现微博广告核心技术负责人谈算法与数据中台](https://zhuanlan.zhihu.com/p/245162802) | 2020-09-15 12:18:03 |
+| 14 | [见微知著，你真的搞懂Google的Wide&Deep模型了吗？](https://zhuanlan.zhihu.com/p/142958834) | 2020-05-25 08:02:21 |
+| 15 | [回顾经典，Netflix的推荐系统架构](https://zhuanlan.zhihu.com/p/114590897) | 2020-05-12 14:49:21 |
+| 16 | [DLP-KDD全部文章及资源，覆盖GNN、Graph Emb、Transformer等业界前沿领域](https://zhuanlan.zhihu.com/p/135919198) | 2020-04-24 14:48:36 |
+| 17 | [《深度学习推荐系统》勘误与勘误奖励](https://zhuanlan.zhihu.com/p/129733612) | 2020-04-13 15:59:35 |
+| 18 | [关于深度学习推荐系统领域的15个问题](https://zhuanlan.zhihu.com/p/123103206) | 2020-04-03 11:03:51 |
+
+
 ## Peter PanXin
 > 介绍： AI 大数据 分布式系统
 
@@ -673,6 +672,8 @@
 
 
 ## 李沐
+null
+
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
 | 1 | [斯坦福2021秋季新课：实用机器学习](https://zhuanlan.zhihu.com/p/404855524) | 2021-08-30 00:45:20 |
@@ -785,22 +786,43 @@
 | 10 | [推荐系统(1): 推荐系统架构](https://zhuanlan.zhihu.com/p/435872330) | 2021-11-21 14:09:47 |
 
 
+## 九老师
+> 介绍： 我等采石之人 当心怀大教堂之愿景
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [所谓技术深度](https://zhuanlan.zhihu.com/p/563100780) | 2022-09-10 07:04:02 |
+| 2 | [Scrapy-Splash爬虫实战——爬取JS渲染的动态页面信息【附货币基金爬取筛选代码】](https://zhuanlan.zhihu.com/p/130867872) | 1587079612 |
+| 3 | [互联网管理里面的两个深坑——手表定律与责权不一](https://zhuanlan.zhihu.com/p/277364641) | 1587079612 |
+| 4 | [2021年推荐系统相关会议投稿日程](https://zhuanlan.zhihu.com/p/285263172) | 1587079612 |
+| 5 | [简单题与难题逻辑](https://zhuanlan.zhihu.com/p/342167785) | 1587079612 |
+| 6 | [faiss-on-mr：推荐系统大规模离线向量检索工具](https://zhuanlan.zhihu.com/p/345639761) | 1587079612 |
+| 7 | [基于物品的协同过滤i2i--算法、trick及分布式实现](https://zhuanlan.zhihu.com/p/350447698) | 1587079612 |
+| 8 | [我在阿里遇到的牛人](https://zhuanlan.zhihu.com/p/350525374) | 1587079612 |
+| 9 | [给校招算法同学的几点建议](https://zhuanlan.zhihu.com/p/553294462) | 1587079612 |
+| 10 | [推荐系统-你真的会看AB指标吗](https://zhuanlan.zhihu.com/p/558649252) | 1587079612 |
+
+
 ## Houye
+null
+
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
 | 1 | [顶会审稿人:论文的这些坑不要踩！](https://zhuanlan.zhihu.com/p/602731329) | 1675289522 |
-| 2 | [最新综述 | GNN如何建模时空信息？](https://zhuanlan.zhihu.com/p/603336606) | 1675289522 |
+| 2 | [最新综述 \| GNN如何建模时空信息？](https://zhuanlan.zhihu.com/p/603336606) | 1675289522 |
 | 3 | [8篇 ICLR 2023 高分GNN论文](https://zhuanlan.zhihu.com/p/603336620) | 1675289522 |
 | 4 | [【经典书】图论第二版，654页pdf](https://zhuanlan.zhihu.com/p/604085910) | 1675289522 |
-| 5 | [ICML’22 | 时间-then-图 v.s. 时间-and-图](https://zhuanlan.zhihu.com/p/604085915) | 1675289522 |
+| 5 | [ICML’22 \| 时间-then-图 v.s. 时间-and-图](https://zhuanlan.zhihu.com/p/604085915) | 1675289522 |
 | 6 | [中科院计算所招聘特别研究助理/博士后：社会计算、图神经网络、AI for Social Science](https://zhuanlan.zhihu.com/p/604698105) | 1675289522 |
-| 7 | [PyG 官方教程 | 开箱即用的图神经网络解释框架](https://zhuanlan.zhihu.com/p/605022520) | 1675289522 |
+| 7 | [PyG 官方教程 \| 开箱即用的图神经网络解释框架](https://zhuanlan.zhihu.com/p/605022520) | 1675289522 |
 | 8 | [阿里妈妈向量化召回实践：量化索引->树索引->图索引](https://zhuanlan.zhihu.com/p/605022526) | 1675289522 |
 | 9 | [AAAI&#39;23杰出论文一作分享：如何将推荐系统训练提速 72 倍？](https://zhuanlan.zhihu.com/p/605329331) | 1675289522 |
 | 10 | [Awesome！搜索/推荐/广告 近400篇优质文章整理](https://zhuanlan.zhihu.com/p/605329339) | 1675289522 |
 
 
 ## 王峰
+null
+
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
 | 1 | [Label Smoothing分析](https://zhuanlan.zhihu.com/p/302843504) | 2020-11-20 17:56:00 |
@@ -815,6 +837,8 @@
 
 
 ## 小潄
+null
+
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
 | 1 | [如何在工业界优化点击率预估:（九）集成学习&模型压缩](https://zhuanlan.zhihu.com/p/488441375) | 2022-04-10 22:58:45 |
@@ -822,24 +846,10 @@
 | 3 | [如何在工业界优化点击率预估:（七）图建模和预训练](https://zhuanlan.zhihu.com/p/491323844) | 2022-04-10 23:57:04 |
 | 4 | [如何在工业界优化点击率预估:（六）多场景建模](https://zhuanlan.zhihu.com/p/467252916) | 2022-04-10 23:57:56 |
 | 5 | [如何在工业界优化点击率预估:（五）特征交叉建模](https://zhuanlan.zhihu.com/p/489284765) | 2022-04-10 23:58:33 |
-| 6 | [如何在工业界优化点击率预估:（四）兴趣|序列建模](https://zhuanlan.zhihu.com/p/22479936) | 2022-04-10 23:59:07 |
+| 6 | [如何在工业界优化点击率预估:（四）兴趣\|序列建模](https://zhuanlan.zhihu.com/p/22479936) | 2022-04-10 23:59:07 |
 | 7 | [如何在工业界优化点击率预估:（三）特征](https://zhuanlan.zhihu.com/p/485960208) | 2022-04-10 23:59:55 |
 | 8 | [如何在工业界优化点击率预估:（二）样本](https://zhuanlan.zhihu.com/p/465670474) | 2022-04-11 00:00:39 |
 | 9 | [如何在工业界优化点击率预估:（一）开篇](https://zhuanlan.zhihu.com/p/462090167) | 2022-04-11 00:05:40 |
-
-
-## 九老师
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [Scrapy-Splash爬虫实战——爬取JS渲染的动态页面信息【附货币基金爬取筛选代码】](https://zhuanlan.zhihu.com/p/130867872) | 1587079612 |
-| 2 | [互联网管理里面的两个深坑——手表定律与责权不一](https://zhuanlan.zhihu.com/p/277364641) | 1587079612 |
-| 3 | [2021年推荐系统相关会议投稿日程](https://zhuanlan.zhihu.com/p/285263172) | 1587079612 |
-| 4 | [简单题与难题逻辑](https://zhuanlan.zhihu.com/p/342167785) | 1587079612 |
-| 5 | [faiss-on-mr：推荐系统大规模离线向量检索工具](https://zhuanlan.zhihu.com/p/345639761) | 1587079612 |
-| 6 | [基于物品的协同过滤i2i--算法、trick及分布式实现](https://zhuanlan.zhihu.com/p/350447698) | 1587079612 |
-| 7 | [我在阿里遇到的牛人](https://zhuanlan.zhihu.com/p/350525374) | 1587079612 |
-| 8 | [给校招算法同学的几点建议](https://zhuanlan.zhihu.com/p/553294462) | 1587079612 |
-| 9 | [推荐系统-你真的会看AB指标吗](https://zhuanlan.zhihu.com/p/558649252) | 1587079612 |
 
 
 ## 阿水
@@ -871,6 +881,19 @@
 | 7 | [镶嵌在互联网技术上的明珠：漫谈深度学习时代点击率预估技术进展](https://zhuanlan.zhihu.com/p/54822778) | 2019-01-14 20:23:53 |
 
 
+## 蘑菇先生
+> 介绍： 个人公众号: 蘑菇先生学习记 &amp; 某大厂算法工程师。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [WSDM'23 \| 工业界搜推广nlp论文整理](https://zhuanlan.zhihu.com/p/594371593) | 2022-12-26 12:09:41 |
+| 2 | [CIKM'22 \| 淘宝 GIFT: 基于Graph的冷启动视频点击率预估](https://zhuanlan.zhihu.com/p/563365486) | 2022-09-11 14:07:23 |
+| 3 | [KDD'22 \| 阿里：基于EE探索的CTR预估](https://zhuanlan.zhihu.com/p/530935303) | 2022-06-20 20:02:31 |
+| 4 | [SIGIR'22 \| 阿里 ESCM^2: 升级版全空间多任务转化率预估模型](https://zhuanlan.zhihu.com/p/509315166) | 2022-05-05 09:14:10 |
+| 5 | [P5 \| NLP模型一统推荐系统? 谈新型推荐系统建模范式](https://zhuanlan.zhihu.com/p/496107585) | 2022-04-11 12:07:22 |
+| 6 | [2023届校招算法岗知识总结](https://zhuanlan.zhihu.com/p/488497444) | 2022-03-28 09:19:44 |
+
+
 ## Tang AI
 > 介绍： 在机器学习中欲仙欲死
 
@@ -884,17 +907,15 @@
 | 6 | [Bootstrap,Bagging与随机森林,Stacking](https://zhuanlan.zhihu.com/p/581626650) | 2022-11-09 23:41:52 |
 
 
-## 蘑菇先生
-> 介绍： 个人公众号: 蘑菇先生学习记 &amp; 某大厂算法工程师。
+## 逍遥王可爱
+> 介绍： 感知算法工程师，熟悉2d/3d视觉落地
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [WSDM'23 | 工业界搜推广nlp论文整理](https://zhuanlan.zhihu.com/p/594371593) | 2022-12-26 12:09:41 |
-| 2 | [CIKM'22 | 淘宝 GIFT: 基于Graph的冷启动视频点击率预估](https://zhuanlan.zhihu.com/p/563365486) | 2022-09-11 14:07:23 |
-| 3 | [KDD'22 | 阿里：基于EE探索的CTR预估](https://zhuanlan.zhihu.com/p/530935303) | 2022-06-20 20:02:31 |
-| 4 | [SIGIR'22 | 阿里 ESCM^2: 升级版全空间多任务转化率预估模型](https://zhuanlan.zhihu.com/p/509315166) | 2022-05-05 09:14:10 |
-| 5 | [P5 | NLP模型一统推荐系统? 谈新型推荐系统建模范式](https://zhuanlan.zhihu.com/p/496107585) | 2022-04-11 12:07:22 |
-| 6 | [2023届校招算法岗知识总结](https://zhuanlan.zhihu.com/p/488497444) | 2022-03-28 09:19:44 |
+| 1 | [CornerNet算法解读](https://zhuanlan.zhihu.com/p/53407590) | 2018-12-27 11:06:57 |
+| 2 | [Focal loss论文详解](https://zhuanlan.zhihu.com/p/49981234) | 2018-11-15 20:01:51 |
+| 3 | [RefineDet详细介绍](https://zhuanlan.zhihu.com/p/49984865) | 2018-11-15 20:35:38 |
+| 4 | [超详细的Yolo检测框预测分析](https://zhuanlan.zhihu.com/p/49995236) | 2018-11-15 22:15:55 |
 
 
 ## Aston Zhang
@@ -908,17 +929,6 @@
 | 4 | [[更新视频]《动手学深度学习》番外篇：注意力机制概述](https://zhuanlan.zhihu.com/p/71083285) | 2019-06-27 15:38:56 |
 
 
-## 逍遥王可爱
-> 介绍： 感知算法工程师，熟悉2d/3d视觉落地
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [CornerNet算法解读](https://zhuanlan.zhihu.com/p/53407590) | 2018-12-27 11:06:57 |
-| 2 | [Focal loss论文详解](https://zhuanlan.zhihu.com/p/49981234) | 2018-11-15 20:01:51 |
-| 3 | [RefineDet详细介绍](https://zhuanlan.zhihu.com/p/49984865) | 2018-11-15 20:35:38 |
-| 4 | [超详细的Yolo检测框预测分析](https://zhuanlan.zhihu.com/p/49995236) | 2018-11-15 22:15:55 |
-
-
 ## Microstrong
 > 介绍： 微信公众号：Microstrong，大规模分布式算法工程师
 
@@ -930,6 +940,8 @@
 
 
 ## 乌克兰老司机
+null
+
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
 | 1 | [CTR/推荐系统 踩坑和经验类文章汇总](https://zhuanlan.zhihu.com/p/531954121) | 2022-06-21 21:44:44 |
@@ -937,6 +949,8 @@
 
 
 ## 明月不谙离苦
+null
+
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
 | 1 | [全稀疏的3D物体检测器](https://zhuanlan.zhihu.com/p/583008657) | 2022-11-13 20:58:42 |
@@ -952,48 +966,28 @@
 | 2 | [CycleGAN论文的阅读与翻译，无监督风格迁移](https://zhuanlan.zhihu.com/p/45394148) | 2018-10-25 16:35:43 |
 
 
-## 沈海晨
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [3倍加速CPU上的BERT模型部署](https://zhuanlan.zhihu.com/p/159025396) | 2020-07-13 10:18:17 |
-
-
-## 口天吴
-> 介绍： 推荐算法工程师
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [20220922推荐小记——推荐系统中如何对时长、完播等目标做多目标建模](https://zhuanlan.zhihu.com/p/567243070) | 2022-09-22 22:31:24 |
-
-
-## 裴叁拾
-> 介绍： RecSys/多模态/NLP
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [KDD'22|天级更新超越实时？看Pinterest另辟蹊径做用户长期兴趣建模](https://zhuanlan.zhihu.com/p/558608369) | 2022-09-14 01:11:24 |
-
-
-## 机智的叉烧
-> 介绍： OPPO对话算法，公众号：CS的陋室
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [R&S[24] | 浅谈Query理解和分析](https://zhuanlan.zhihu.com/p/136313695) | 2020-04-26 00:47:35 |
-
-
-## 知乎用户MYp8Kg
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [细思极恐，我的kaggle比赛uspppm的代码被第三方平台泄漏和抄袭了。](https://zhuanlan.zhihu.com/p/543062973) | 2022-07-18 15:51:21 |
-
-
 ## 霍华德
 > 介绍： 向着成为人工智能训练大师不断前进
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
 | 1 | [开源知识图谱整理](https://zhuanlan.zhihu.com/p/510307797) | 2022-05-06 18:21:11 |
+
+
+## 沈海晨
+null
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [3倍加速CPU上的BERT模型部署](https://zhuanlan.zhihu.com/p/159025396) | 2020-07-13 10:18:17 |
+
+
+## 张章
+> 介绍： #断舍离主义者 #复杂系统博士在读
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [图网络的开疆拓土——如何在非图结构数据上应用GNN](https://zhuanlan.zhihu.com/p/74438967) | 2020-01-14 00:38:07 |
 
 
 ## 谢流远
@@ -1004,20 +998,36 @@
 | 1 | [GluonCV 0.3: 超越经典](https://zhuanlan.zhihu.com/p/46946101) | 2018-10-17 08:10:40 |
 
 
-## 九老师
-> 介绍： 我等采石之人 当心怀大教堂之愿景
+## 裴叁拾
+> 介绍： RecSys/多模态/NLP
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [所谓技术深度](https://zhuanlan.zhihu.com/p/563100780) | 2022-09-10 07:04:02 |
+| 1 | [KDD'22\|天级更新超越实时？看Pinterest另辟蹊径做用户长期兴趣建模](https://zhuanlan.zhihu.com/p/558608369) | 2022-09-14 01:11:24 |
 
 
-## 张章
-> 介绍： #断舍离主义者 #复杂系统博士在读
+## 知乎用户MYp8Kg
+null
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [图网络的开疆拓土——如何在非图结构数据上应用GNN](https://zhuanlan.zhihu.com/p/74438967) | 2020-01-14 00:38:07 |
+| 1 | [细思极恐，我的kaggle比赛uspppm的代码被第三方平台泄漏和抄袭了。](https://zhuanlan.zhihu.com/p/543062973) | 2022-07-18 15:51:21 |
+
+
+## 机智的叉烧
+> 介绍： OPPO对话算法，公众号：CS的陋室
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [R&S[24] \| 浅谈Query理解和分析](https://zhuanlan.zhihu.com/p/136313695) | 2020-04-26 00:47:35 |
+
+
+## 口天吴
+> 介绍： 推荐算法工程师
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [20220922推荐小记——推荐系统中如何对时长、完播等目标做多目标建模](https://zhuanlan.zhihu.com/p/567243070) | 2022-09-22 22:31:24 |
 
 
 企业案例
