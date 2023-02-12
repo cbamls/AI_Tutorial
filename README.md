@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.6aiq.com/images/logo.png"/>
+  <img width="300px" src="https://www.6aiq.com/images/logo.png"/>
   <br>中文 | <a href="README_en.md">English</a>
   <br>全面整理高质量的人工智能、机器学习、大数据等技术资料。内容主要来自开源项目官网、综合技术网站（AIQ 、InfoQ、Stackoverflow、Github 等、国内外知名互联网公司技术博客(FAANG、Alibaba、Meituan etc)、知名技术公众号(DatafunTalk、阿里技术等)。
 </p>
