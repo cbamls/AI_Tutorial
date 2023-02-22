@@ -17,9 +17,9 @@
 <div style="color: red; font-size: 10px">推广、广告、招聘、投稿、合作 侵权请联系邮箱</div>
 
 
-> Github：https://github.com/cbamls/AI_Tutorial
-> Website: https://www.6aiq.com
-> Mail:       88cbam@gmail.com
+> Github：https://github.com/cbamls/AI_Tutorial<br>
+> Website: https://www.6aiq.com <br>
+> Mail:       88cbam@gmail.com <br>
 
 ---
 
