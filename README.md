@@ -20,7 +20,7 @@
 > Github：https://github.com/cbamls/AI_Tutorial<br>
 > Website: https://www.6aiq.com <br>
 > Mail:       88cbam@gmail.com <br>
-
+> 加我微信: wx_vchar <br>
 ---
 
 # 滚动周报
