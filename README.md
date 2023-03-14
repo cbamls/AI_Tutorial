@@ -25,48 +25,49 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-07 ~ 2023-03-14), 本周报更新时间:2023-03-14 15:08:11
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-07 ~ 2023-03-14), 本周报更新时间:2023-03-14 15:37:42
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [知识图谱技术体系总览](https://zhuanlan.zhihu.com/p/613855167) | DataFunTalk | 2023-03-14 13:00:05 |
-| 2 | [百度大搜 \| 招GNN/Transformer/图网络+问答+搜索方向实习生](https://zhuanlan.zhihu.com/p/613763329) | Houye | 2023-03-14 05:55:10 |
-| 3 | [禁止发广告，推广请联系 88cbam@gmail.com](https://www.6aiq.com/article/1678721800489) | AIQ人工智能社区 | 2023-03-13 23:36:40 |
-| 4 | [多目标 \| 模型结构: ESM2细化目标依赖路径](https://zhuanlan.zhihu.com/p/613727494) | 亦一 | 2023-03-13 22:39:45 |
-| 5 | [广告机制策略产品解析之小红书跨渠道全站投放策略（下篇）](https://zhuanlan.zhihu.com/p/613717325) | 策略产品Arthur | 2023-03-13 22:13:33 |
-| 6 | [FeatHub：流批一体的实时特征工程平台](https://www.6aiq.com/article/1678712361915) | AIQ人工智能社区 | 2023-03-13 20:59:21 |
-| 7 | [基于统一远程证明的 TEE 互联互通实践](https://zhuanlan.zhihu.com/p/613644921) | DataFunTalk | 2023-03-13 18:20:06 |
-| 8 | [如何构建好的用户画像平台？](https://zhuanlan.zhihu.com/p/613560113) | DataFunTalk | 2023-03-13 14:00:14 |
-| 9 | [多目标 \| 模型结构: ESMM从目标关系出发](https://zhuanlan.zhihu.com/p/613438144) | 亦一 | 2023-03-12 23:04:08 |
-| 10 | [再谈排序算法的pairwise，pointwise，listwise](https://zhuanlan.zhihu.com/p/613354685) | 朱翔宇 | 2023-03-12 16:37:02 |
-| 11 | [百度基于 GPU 的超大规模离散模型训练框架 PaddleBox 与 FeaBox](https://zhuanlan.zhihu.com/p/613322265) | DataFunTalk | 2023-03-12 15:14:08 |
-| 12 | [Apache Kyuubi 1.6.0 新特性解读](https://zhuanlan.zhihu.com/p/613164414) | DataFunTalk | 2023-03-12 13:19:14 |
-| 13 | [腾讯数据平台 saas 化实践](https://zhuanlan.zhihu.com/p/613198635) | DataFunTalk | 2023-03-11 18:39:56 |
-| 14 | [图解大模型训练之：流水线并行（Pipeline Parallelism），以Gpipe为例](https://zhuanlan.zhihu.com/p/613196255) | 猛猿 | 2023-03-11 18:36:21 |
-| 15 | [快手双边市场的复杂实验设计问题](https://zhuanlan.zhihu.com/p/613123387) | DataFunTalk | 2023-03-11 13:27:37 |
-| 16 | [多目标汇总](https://zhuanlan.zhihu.com/p/613094769) | 亦一 | 2023-03-11 10:17:50 |
-| 17 | [CTR预估之FMs系列:FM/FFM/FwFM/FEFM](https://zhuanlan.zhihu.com/p/613030015) | Keep Learning | 2023-03-10 22:50:59 |
-| 18 | [银行数据安全管理的思考](https://zhuanlan.zhihu.com/p/612989049) | DataFunTalk | 2023-03-10 19:00:12 |
-| 19 | [AIGC最新综述：从 GAN 到 ChatGPT 的AI生成历史](https://zhuanlan.zhihu.com/p/612963871) | zenRRan | 2023-03-10 17:29:19 |
-| 20 | [关于Kaiming面试MIT教职这件事, 我问了问ChatGPT](https://zhuanlan.zhihu.com/p/612763484) | Houye | 2023-03-10 00:56:42 |
-| 21 | [快手商业化数据产品建设经验](https://zhuanlan.zhihu.com/p/612600372) | DataFunTalk | 2023-03-09 18:07:49 |
-| 22 | [吴恩达来信：区别人工智能生成与人类生成](https://zhuanlan.zhihu.com/p/612640260) | 吴恩达 | 2023-03-09 16:23:24 |
-| 23 | [RLHF的其他优化方向](https://zhuanlan.zhihu.com/p/612572103) | 李rumor | 2023-03-09 13:10:28 |
-| 24 | [积沙成塔——阿里妈妈动态算力技术的新演进与展望](https://zhuanlan.zhihu.com/p/612560873) | 阿里妈妈技术 | 2023-03-09 12:05:32 |
-| 25 | [广告营销场景下的隐私计算实践：阿里妈妈营销隐私计算平台SDH](https://zhuanlan.zhihu.com/p/612560388) | 阿里妈妈技术 | 2023-03-09 12:02:43 |
-| 26 | [多场景 \| 联合建模: bias tower另起炉灶学习场景信息](https://zhuanlan.zhihu.com/p/612462886) | 亦一 | 2023-03-09 00:34:41 |
-| 27 | [DGL 1.0, 让所有人都能快速使用图机器学习。](https://zhuanlan.zhihu.com/p/612422263) | Houye | 2023-03-08 21:10:49 |
-| 28 | [如何快速、低成本克隆高质量数字人？](https://zhuanlan.zhihu.com/p/612378552) | DataFunTalk | 2023-03-08 18:20:09 |
-| 29 | [AI 算法在大数据治理中的应用](https://zhuanlan.zhihu.com/p/612246507) | DataFunTalk | 2023-03-08 14:00:04 |
-| 30 | [上交提出：更好的语言模型预训练需要更好的Masking](https://zhuanlan.zhihu.com/p/612252154) | zenRRan | 2023-03-08 11:02:57 |
-| 31 | [最新综述 \| 图上知识蒸馏怎么做？](https://zhuanlan.zhihu.com/p/612188672) | Houye | 2023-03-08 06:10:52 |
-| 32 | [阿里健康供应链智能补货算法](https://zhuanlan.zhihu.com/p/612099867) | DataFunTalk | 2023-03-07 18:24:12 |
-| 33 | [对比学习之SimCSE](https://zhuanlan.zhihu.com/p/611969853) | 大师兄 | 2023-03-07 15:31:15 |
-| 34 | [微软亚洲研究院（上海）招聘 大语言模型与多模态预训练 实习生](https://zhuanlan.zhihu.com/p/612017544) | 潘润琦 | 2023-03-07 14:41:09 |
-| 35 | [PyTorch高级机器学习算法实战](https://zhuanlan.zhihu.com/p/611994684) | Young | 2023-03-07 13:30:29 |
-| 36 | [GNN论文周报 \| 来自剑桥、港大、华中科大等机构前沿论文研究](https://zhuanlan.zhihu.com/p/611891878) | Houye | 2023-03-07 05:29:17 |
-| 37 | [腾讯招科研型算法实习生(犀牛鸟精英人才)](https://zhuanlan.zhihu.com/p/611891874) | Houye | 2023-03-07 05:29:16 |
-| 38 | [多场景 \| 联合建模: 巧用poso gate强化场景信息](https://zhuanlan.zhihu.com/p/611881134) | 亦一 | 2023-03-07 00:47:18 |
+| 1 | [百度｜从稀疏表征出发、召回方向的前沿探索](https://www.6aiq.com/article/1678778034196) | AIQ人工智能社区 | 2023-03-14 15:13:54 |
+| 2 | [知识图谱技术体系总览](https://zhuanlan.zhihu.com/p/613855167) | DataFunTalk | 2023-03-14 13:00:05 |
+| 3 | [百度大搜 \| 招GNN/Transformer/图网络+问答+搜索方向实习生](https://zhuanlan.zhihu.com/p/613763329) | Houye | 2023-03-14 05:55:10 |
+| 4 | [禁止发广告，推广请联系 88cbam@gmail.com](https://www.6aiq.com/article/1678721800489) | AIQ人工智能社区 | 2023-03-13 23:36:40 |
+| 5 | [多目标 \| 模型结构: ESM2细化目标依赖路径](https://zhuanlan.zhihu.com/p/613727494) | 亦一 | 2023-03-13 22:39:45 |
+| 6 | [广告机制策略产品解析之小红书跨渠道全站投放策略（下篇）](https://zhuanlan.zhihu.com/p/613717325) | 策略产品Arthur | 2023-03-13 22:13:33 |
+| 7 | [FeatHub：流批一体的实时特征工程平台](https://www.6aiq.com/article/1678712361915) | AIQ人工智能社区 | 2023-03-13 20:59:21 |
+| 8 | [基于统一远程证明的 TEE 互联互通实践](https://zhuanlan.zhihu.com/p/613644921) | DataFunTalk | 2023-03-13 18:20:06 |
+| 9 | [如何构建好的用户画像平台？](https://zhuanlan.zhihu.com/p/613560113) | DataFunTalk | 2023-03-13 14:00:14 |
+| 10 | [多目标 \| 模型结构: ESMM从目标关系出发](https://zhuanlan.zhihu.com/p/613438144) | 亦一 | 2023-03-12 23:04:08 |
+| 11 | [再谈排序算法的pairwise，pointwise，listwise](https://zhuanlan.zhihu.com/p/613354685) | 朱翔宇 | 2023-03-12 16:37:02 |
+| 12 | [百度基于 GPU 的超大规模离散模型训练框架 PaddleBox 与 FeaBox](https://zhuanlan.zhihu.com/p/613322265) | DataFunTalk | 2023-03-12 15:14:08 |
+| 13 | [Apache Kyuubi 1.6.0 新特性解读](https://zhuanlan.zhihu.com/p/613164414) | DataFunTalk | 2023-03-12 13:19:14 |
+| 14 | [腾讯数据平台 saas 化实践](https://zhuanlan.zhihu.com/p/613198635) | DataFunTalk | 2023-03-11 18:39:56 |
+| 15 | [图解大模型训练之：流水线并行（Pipeline Parallelism），以Gpipe为例](https://zhuanlan.zhihu.com/p/613196255) | 猛猿 | 2023-03-11 18:36:21 |
+| 16 | [快手双边市场的复杂实验设计问题](https://zhuanlan.zhihu.com/p/613123387) | DataFunTalk | 2023-03-11 13:27:37 |
+| 17 | [多目标汇总](https://zhuanlan.zhihu.com/p/613094769) | 亦一 | 2023-03-11 10:17:50 |
+| 18 | [CTR预估之FMs系列:FM/FFM/FwFM/FEFM](https://zhuanlan.zhihu.com/p/613030015) | Keep Learning | 2023-03-10 22:50:59 |
+| 19 | [银行数据安全管理的思考](https://zhuanlan.zhihu.com/p/612989049) | DataFunTalk | 2023-03-10 19:00:12 |
+| 20 | [AIGC最新综述：从 GAN 到 ChatGPT 的AI生成历史](https://zhuanlan.zhihu.com/p/612963871) | zenRRan | 2023-03-10 17:29:19 |
+| 21 | [关于Kaiming面试MIT教职这件事, 我问了问ChatGPT](https://zhuanlan.zhihu.com/p/612763484) | Houye | 2023-03-10 00:56:42 |
+| 22 | [快手商业化数据产品建设经验](https://zhuanlan.zhihu.com/p/612600372) | DataFunTalk | 2023-03-09 18:07:49 |
+| 23 | [吴恩达来信：区别人工智能生成与人类生成](https://zhuanlan.zhihu.com/p/612640260) | 吴恩达 | 2023-03-09 16:23:24 |
+| 24 | [RLHF的其他优化方向](https://zhuanlan.zhihu.com/p/612572103) | 李rumor | 2023-03-09 13:10:28 |
+| 25 | [积沙成塔——阿里妈妈动态算力技术的新演进与展望](https://zhuanlan.zhihu.com/p/612560873) | 阿里妈妈技术 | 2023-03-09 12:05:32 |
+| 26 | [广告营销场景下的隐私计算实践：阿里妈妈营销隐私计算平台SDH](https://zhuanlan.zhihu.com/p/612560388) | 阿里妈妈技术 | 2023-03-09 12:02:43 |
+| 27 | [多场景 \| 联合建模: bias tower另起炉灶学习场景信息](https://zhuanlan.zhihu.com/p/612462886) | 亦一 | 2023-03-09 00:34:41 |
+| 28 | [DGL 1.0, 让所有人都能快速使用图机器学习。](https://zhuanlan.zhihu.com/p/612422263) | Houye | 2023-03-08 21:10:49 |
+| 29 | [如何快速、低成本克隆高质量数字人？](https://zhuanlan.zhihu.com/p/612378552) | DataFunTalk | 2023-03-08 18:20:09 |
+| 30 | [AI 算法在大数据治理中的应用](https://zhuanlan.zhihu.com/p/612246507) | DataFunTalk | 2023-03-08 14:00:04 |
+| 31 | [上交提出：更好的语言模型预训练需要更好的Masking](https://zhuanlan.zhihu.com/p/612252154) | zenRRan | 2023-03-08 11:02:57 |
+| 32 | [最新综述 \| 图上知识蒸馏怎么做？](https://zhuanlan.zhihu.com/p/612188672) | Houye | 2023-03-08 06:10:52 |
+| 33 | [阿里健康供应链智能补货算法](https://zhuanlan.zhihu.com/p/612099867) | DataFunTalk | 2023-03-07 18:24:12 |
+| 34 | [对比学习之SimCSE](https://zhuanlan.zhihu.com/p/611969853) | 大师兄 | 2023-03-07 15:31:15 |
+| 35 | [微软亚洲研究院（上海）招聘 大语言模型与多模态预训练 实习生](https://zhuanlan.zhihu.com/p/612017544) | 潘润琦 | 2023-03-07 14:41:09 |
+| 36 | [PyTorch高级机器学习算法实战](https://zhuanlan.zhihu.com/p/611994684) | Young | 2023-03-07 13:30:29 |
+| 37 | [GNN论文周报 \| 来自剑桥、港大、华中科大等机构前沿论文研究](https://zhuanlan.zhihu.com/p/611891878) | Houye | 2023-03-07 05:29:17 |
+| 38 | [腾讯招科研型算法实习生(犀牛鸟精英人才)](https://zhuanlan.zhihu.com/p/611891874) | Houye | 2023-03-07 05:29:16 |
+| 39 | [多场景 \| 联合建模: 巧用poso gate强化场景信息](https://zhuanlan.zhihu.com/p/611881134) | 亦一 | 2023-03-07 00:47:18 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [机智的叉烧](#机智的叉烧)(OPPO对话算法，公众号：CS的陋室,个人微信公众号：CS的陋室，N...)
@@ -3684,79 +3685,80 @@ https://item.jd.com/13484669.html。
 ## 百度
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [百度大搜 \| 招GNN/Transformer/图网络+问答+搜索方向实习生](https://www.6aiq.com/article/1678744911230) |
-| 2 | [百度基于 GPU 的超大规模离散模型训练框架 PaddleBox 与 FeaBox](https://www.6aiq.com/article/1678605301378) |
-| 3 | [百度文档智能技术与应用](https://www.6aiq.com/article/1677582000610) |
-| 4 | [飞桨PaddleNLP 设计理念与产业实践](https://www.6aiq.com/article/1677420000614) |
-| 5 | [度小满自动机器学习平台实践](https://www.6aiq.com/article/1676783545316) |
-| 6 | [百度 PLATO 在大模型推动的人机交互对话中的实践](https://www.6aiq.com/article/1674623792593) |
-| 7 | [百度信息流和搜索业务中的弹性近线计算探索与应用](https://www.6aiq.com/article/1673613734517) |
-| 8 | [百度 Feed 稳定性架构实践](https://www.6aiq.com/article/1673581413481) |
-| 9 | [百度流批一体的实时多维分析实践](https://www.6aiq.com/article/1673188017615) |
-| 10 | [百度云原生 AI 的资源调度和 AI 工作流引擎设计分享](https://www.6aiq.com/article/1671014718905) |
-| 11 | [百度广告倒排服务极致优化](https://www.6aiq.com/article/1671014333248) |
-| 12 | [Palo：百度基于 Doris 的应用实践](https://www.6aiq.com/article/1670154884448) |
-| 13 | [百度点石联邦学习技术的应用与实践](https://www.6aiq.com/article/1669645367769) |
-| 14 | [百度技术｜深入浅出领域驱动设计 (DDD) 编程](https://www.6aiq.com/article/1669208437044) |
-| 15 | [百度质量评估模型助力风险决策水平提升](https://www.6aiq.com/article/1668481338715) |
-| 16 | [百度合约广告平台架构演进实践](https://www.6aiq.com/article/1668005329187) |
-| 17 | [PaddleBox：百度基于 GPU 的超大规模离散 DNN 模型训练解决方案](https://www.6aiq.com/article/1667215658349) |
-| 18 | [百度技术｜聊聊机器如何 "写" 好广告文案?](https://www.6aiq.com/article/1666792676823) |
-| 19 | [百度搜索业务交付无人值守实践与探索](https://www.6aiq.com/article/1666622941014) |
-| 20 | [百度大模型与小模型联动及落地](https://www.6aiq.com/article/1666164935197) |
-| 21 | [超大模型工程化实践打磨，百度智能云发布云原生 AI 2.0 方案](https://www.6aiq.com/article/1661955338545) |
-| 22 | [百度技术｜超大模型工程化实践打磨，百度智能云发布云原生 AI 2.0 方案](https://www.6aiq.com/article/1660746652120) |
-| 23 | [百度技术｜Louvain 算法在反作弊上的应用](https://www.6aiq.com/article/1660689556649) |
-| 24 | [百度用户产品流批一体的实时数仓实践](https://www.6aiq.com/article/1660220244487) |
-| 25 | [百度技术｜品牌广告投放平台的中台化应用与实践](https://www.6aiq.com/article/1658930992414) |
-| 26 | [百度评论中台的设计与探索](https://www.6aiq.com/article/1655394193634) |
-| 27 | [卞东海：百度基于异构互联知识图谱的多模内容创作技术](https://www.6aiq.com/article/1654622214391) |
-| 28 | [百度技术 \| Spark 离线开发框架设计与实现](https://www.6aiq.com/article/1652277550914) |
-| 29 | [百度｜云原生时代的搜索服务算力管理](https://www.6aiq.com/article/1651105028641) |
-| 30 | [百度｜客户画像赋能百度推广生态实践](https://www.6aiq.com/article/1648080554647) |
-| 31 | [初窥门径，百度搜索流式体验新形态](https://www.6aiq.com/article/1646951492767) |
-| 32 | [百度爱番番 \| 大规模异构数据的线索列表进化之路](https://www.6aiq.com/article/1646267859801) |
-| 33 | [黄正杰：百度图学习技术与应用](https://www.6aiq.com/article/1644589713963) |
-| 34 | [刘桐仁：百度搜索中台内容架构 Serverless 化实践](https://www.6aiq.com/article/1642467818242) |
-| 35 | [百度搜索中台新一代内容架构：FaaS 化和智能化实战](https://www.6aiq.com/article/1642029583183) |
-| 36 | [技术揭秘！百度搜索中台低代码的探索与实践](https://www.6aiq.com/article/1640649199191) |
-| 37 | [百度搜索中台海量数据管理的云原生和智能化实践](https://www.6aiq.com/article/1639778173862) |
-| 38 | [百度搜索 \| 详解预训练模型在信息检索第一阶段的应用](https://www.6aiq.com/article/1638409119534) |
-| 39 | [百度商业大规模高性能全息日志检索技术揭秘](https://www.6aiq.com/article/1637796763511) |
-| 40 | [百度技术 \| 短视频个性化 Push 工程精进之路](https://www.6aiq.com/article/1637282745107) |
-| 41 | [2021 年 9 月中旬，百度 NLP 岗位面试题分享（二）](https://www.6aiq.com/article/1636459368629) |
-| 42 | [2021 年 9 月中旬，百度 NLP 岗位面试题分享（一）](https://www.6aiq.com/article/1636393383978) |
-| 43 | [2021 年 9 月底，百度 NLP 岗位精选面试题](https://www.6aiq.com/article/1636037551669) |
-| 44 | [百度 NLP 技术在智能招聘中的应用研究](https://www.6aiq.com/article/1634513421719) |
-| 45 | [百度｜图谱相关技术在风控反作弊中的应用和探索](https://www.6aiq.com/article/1634260008832) |
-| 46 | [百度信息流推荐系统智能交付解决方案探索](https://www.6aiq.com/article/1633992105870) |
-| 47 | [想了解百度搜索核心技术？来这！](https://www.6aiq.com/article/1633973108231) |
-| 48 | [百度数据联邦平台及其应用研究](https://www.6aiq.com/article/1633617959280) |
-| 49 | [百度信息流和搜索业务中的 KV 存储实践](https://www.6aiq.com/article/1632793914798) |
-| 50 | [百度技术 \| 云原生架构下的持续交付实践](https://www.6aiq.com/article/1631836392344) |
-| 51 | [百度 \| 持续交付方法与实践](https://www.6aiq.com/article/1631834001854) |
-| 52 | [2021 年七月中旬，百度算法面试 5 道题分享](https://www.6aiq.com/article/1631299668039) |
-| 53 | [百度短视频推荐系统的目标设计](https://www.6aiq.com/article/1631224929197) |
-| 54 | [百度 \| 一年数十万次 ABTest 实验背后的架构与数据科学](https://www.6aiq.com/article/1631224459095) |
-| 55 | [百度技术 \| 图数据库在百度汉语中的应用](https://www.6aiq.com/article/1630195947062) |
-| 56 | [百度技术 \| 千亿级模型在离线一致性保障方案详解](https://www.6aiq.com/article/1629151886327) |
-| 57 | [百度搜索稳定性问题分析的故事（下）](https://www.6aiq.com/article/1625529559706) |
-| 58 | [百度搜索稳定性问题分析的故事（上）](https://www.6aiq.com/article/1625102568991) |
-| 59 | [详解支撑 7 亿用户搜索的百度图片处理收录中台](https://www.6aiq.com/article/1621294929049) |
-| 60 | [百度 5G+ 智能时代的多模搜索技术](https://www.6aiq.com/article/1617404331382) |
-| 61 | [百度知识图谱技术及应用](https://www.6aiq.com/article/1616117210498) |
-| 62 | [百度事件知识图谱技术与应用](https://www.6aiq.com/article/1606347908411) |
-| 63 | [同义变换在百度搜索广告中的应用](https://www.6aiq.com/article/1600725546986) |
-| 64 | [百度凤巢算法面经](https://www.6aiq.com/article/1583942860407) |
-| 65 | [【算法面经系列】百度、寒武纪、科大讯飞、追一科技、腾讯、作业帮算法面经](https://www.6aiq.com/article/1583735744394) |
-| 66 | [CCKS 2019 \| 百度 CTO 王海峰详解知识图谱与语义理解](https://www.6aiq.com/article/1568827963634) |
-| 67 | [流式数据处理在百度数据工厂的应用与实践](https://www.6aiq.com/article/1561568253928) |
-| 68 | [百度中文纠错技术](https://www.6aiq.com/article/1552219868606) |
-| 69 | [「回顾」百度智能写作如何通过人工智能技术为媒体内容创作赋能？](https://www.6aiq.com/article/1549118620386) |
-| 70 | [北邮硕士、前百度工程师：能进大厂，就不用读研究生了！](https://www.6aiq.com/article/1537804393897) |
-| 71 | [资本的钩子](https://www.6aiq.com/article/1535683737872) |
-| 72 | [AIQ - 百度深度学习图像识别决赛代码分享 (OCR)](https://www.6aiq.com/article/1532615108896) |
-| 73 | [发布 AI 芯片昆仑和百度大脑 3.0、L4 自动驾驶巴士量产下线，这是百度 All in AI 一年后的最新答卷](https://www.6aiq.com/article/1530724119004) |
+| 1 | [百度｜从稀疏表征出发、召回方向的前沿探索](https://www.6aiq.com/article/1678778034196) |
+| 2 | [百度大搜 \| 招GNN/Transformer/图网络+问答+搜索方向实习生](https://www.6aiq.com/article/1678744911230) |
+| 3 | [百度基于 GPU 的超大规模离散模型训练框架 PaddleBox 与 FeaBox](https://www.6aiq.com/article/1678605301378) |
+| 4 | [百度文档智能技术与应用](https://www.6aiq.com/article/1677582000610) |
+| 5 | [飞桨PaddleNLP 设计理念与产业实践](https://www.6aiq.com/article/1677420000614) |
+| 6 | [度小满自动机器学习平台实践](https://www.6aiq.com/article/1676783545316) |
+| 7 | [百度 PLATO 在大模型推动的人机交互对话中的实践](https://www.6aiq.com/article/1674623792593) |
+| 8 | [百度信息流和搜索业务中的弹性近线计算探索与应用](https://www.6aiq.com/article/1673613734517) |
+| 9 | [百度 Feed 稳定性架构实践](https://www.6aiq.com/article/1673581413481) |
+| 10 | [百度流批一体的实时多维分析实践](https://www.6aiq.com/article/1673188017615) |
+| 11 | [百度云原生 AI 的资源调度和 AI 工作流引擎设计分享](https://www.6aiq.com/article/1671014718905) |
+| 12 | [百度广告倒排服务极致优化](https://www.6aiq.com/article/1671014333248) |
+| 13 | [Palo：百度基于 Doris 的应用实践](https://www.6aiq.com/article/1670154884448) |
+| 14 | [百度点石联邦学习技术的应用与实践](https://www.6aiq.com/article/1669645367769) |
+| 15 | [百度技术｜深入浅出领域驱动设计 (DDD) 编程](https://www.6aiq.com/article/1669208437044) |
+| 16 | [百度质量评估模型助力风险决策水平提升](https://www.6aiq.com/article/1668481338715) |
+| 17 | [百度合约广告平台架构演进实践](https://www.6aiq.com/article/1668005329187) |
+| 18 | [PaddleBox：百度基于 GPU 的超大规模离散 DNN 模型训练解决方案](https://www.6aiq.com/article/1667215658349) |
+| 19 | [百度技术｜聊聊机器如何 "写" 好广告文案?](https://www.6aiq.com/article/1666792676823) |
+| 20 | [百度搜索业务交付无人值守实践与探索](https://www.6aiq.com/article/1666622941014) |
+| 21 | [百度大模型与小模型联动及落地](https://www.6aiq.com/article/1666164935197) |
+| 22 | [超大模型工程化实践打磨，百度智能云发布云原生 AI 2.0 方案](https://www.6aiq.com/article/1661955338545) |
+| 23 | [百度技术｜超大模型工程化实践打磨，百度智能云发布云原生 AI 2.0 方案](https://www.6aiq.com/article/1660746652120) |
+| 24 | [百度技术｜Louvain 算法在反作弊上的应用](https://www.6aiq.com/article/1660689556649) |
+| 25 | [百度用户产品流批一体的实时数仓实践](https://www.6aiq.com/article/1660220244487) |
+| 26 | [百度技术｜品牌广告投放平台的中台化应用与实践](https://www.6aiq.com/article/1658930992414) |
+| 27 | [百度评论中台的设计与探索](https://www.6aiq.com/article/1655394193634) |
+| 28 | [卞东海：百度基于异构互联知识图谱的多模内容创作技术](https://www.6aiq.com/article/1654622214391) |
+| 29 | [百度技术 \| Spark 离线开发框架设计与实现](https://www.6aiq.com/article/1652277550914) |
+| 30 | [百度｜云原生时代的搜索服务算力管理](https://www.6aiq.com/article/1651105028641) |
+| 31 | [百度｜客户画像赋能百度推广生态实践](https://www.6aiq.com/article/1648080554647) |
+| 32 | [初窥门径，百度搜索流式体验新形态](https://www.6aiq.com/article/1646951492767) |
+| 33 | [百度爱番番 \| 大规模异构数据的线索列表进化之路](https://www.6aiq.com/article/1646267859801) |
+| 34 | [黄正杰：百度图学习技术与应用](https://www.6aiq.com/article/1644589713963) |
+| 35 | [刘桐仁：百度搜索中台内容架构 Serverless 化实践](https://www.6aiq.com/article/1642467818242) |
+| 36 | [百度搜索中台新一代内容架构：FaaS 化和智能化实战](https://www.6aiq.com/article/1642029583183) |
+| 37 | [技术揭秘！百度搜索中台低代码的探索与实践](https://www.6aiq.com/article/1640649199191) |
+| 38 | [百度搜索中台海量数据管理的云原生和智能化实践](https://www.6aiq.com/article/1639778173862) |
+| 39 | [百度搜索 \| 详解预训练模型在信息检索第一阶段的应用](https://www.6aiq.com/article/1638409119534) |
+| 40 | [百度商业大规模高性能全息日志检索技术揭秘](https://www.6aiq.com/article/1637796763511) |
+| 41 | [百度技术 \| 短视频个性化 Push 工程精进之路](https://www.6aiq.com/article/1637282745107) |
+| 42 | [2021 年 9 月中旬，百度 NLP 岗位面试题分享（二）](https://www.6aiq.com/article/1636459368629) |
+| 43 | [2021 年 9 月中旬，百度 NLP 岗位面试题分享（一）](https://www.6aiq.com/article/1636393383978) |
+| 44 | [2021 年 9 月底，百度 NLP 岗位精选面试题](https://www.6aiq.com/article/1636037551669) |
+| 45 | [百度 NLP 技术在智能招聘中的应用研究](https://www.6aiq.com/article/1634513421719) |
+| 46 | [百度｜图谱相关技术在风控反作弊中的应用和探索](https://www.6aiq.com/article/1634260008832) |
+| 47 | [百度信息流推荐系统智能交付解决方案探索](https://www.6aiq.com/article/1633992105870) |
+| 48 | [想了解百度搜索核心技术？来这！](https://www.6aiq.com/article/1633973108231) |
+| 49 | [百度数据联邦平台及其应用研究](https://www.6aiq.com/article/1633617959280) |
+| 50 | [百度信息流和搜索业务中的 KV 存储实践](https://www.6aiq.com/article/1632793914798) |
+| 51 | [百度技术 \| 云原生架构下的持续交付实践](https://www.6aiq.com/article/1631836392344) |
+| 52 | [百度 \| 持续交付方法与实践](https://www.6aiq.com/article/1631834001854) |
+| 53 | [2021 年七月中旬，百度算法面试 5 道题分享](https://www.6aiq.com/article/1631299668039) |
+| 54 | [百度短视频推荐系统的目标设计](https://www.6aiq.com/article/1631224929197) |
+| 55 | [百度 \| 一年数十万次 ABTest 实验背后的架构与数据科学](https://www.6aiq.com/article/1631224459095) |
+| 56 | [百度技术 \| 图数据库在百度汉语中的应用](https://www.6aiq.com/article/1630195947062) |
+| 57 | [百度技术 \| 千亿级模型在离线一致性保障方案详解](https://www.6aiq.com/article/1629151886327) |
+| 58 | [百度搜索稳定性问题分析的故事（下）](https://www.6aiq.com/article/1625529559706) |
+| 59 | [百度搜索稳定性问题分析的故事（上）](https://www.6aiq.com/article/1625102568991) |
+| 60 | [详解支撑 7 亿用户搜索的百度图片处理收录中台](https://www.6aiq.com/article/1621294929049) |
+| 61 | [百度 5G+ 智能时代的多模搜索技术](https://www.6aiq.com/article/1617404331382) |
+| 62 | [百度知识图谱技术及应用](https://www.6aiq.com/article/1616117210498) |
+| 63 | [百度事件知识图谱技术与应用](https://www.6aiq.com/article/1606347908411) |
+| 64 | [同义变换在百度搜索广告中的应用](https://www.6aiq.com/article/1600725546986) |
+| 65 | [百度凤巢算法面经](https://www.6aiq.com/article/1583942860407) |
+| 66 | [【算法面经系列】百度、寒武纪、科大讯飞、追一科技、腾讯、作业帮算法面经](https://www.6aiq.com/article/1583735744394) |
+| 67 | [CCKS 2019 \| 百度 CTO 王海峰详解知识图谱与语义理解](https://www.6aiq.com/article/1568827963634) |
+| 68 | [流式数据处理在百度数据工厂的应用与实践](https://www.6aiq.com/article/1561568253928) |
+| 69 | [百度中文纠错技术](https://www.6aiq.com/article/1552219868606) |
+| 70 | [「回顾」百度智能写作如何通过人工智能技术为媒体内容创作赋能？](https://www.6aiq.com/article/1549118620386) |
+| 71 | [北邮硕士、前百度工程师：能进大厂，就不用读研究生了！](https://www.6aiq.com/article/1537804393897) |
+| 72 | [资本的钩子](https://www.6aiq.com/article/1535683737872) |
+| 73 | [AIQ - 百度深度学习图像识别决赛代码分享 (OCR)](https://www.6aiq.com/article/1532615108896) |
+| 74 | [发布 AI 芯片昆仑和百度大脑 3.0、L4 自动驾驶巴士量产下线，这是百度 All in AI 一年后的最新答卷](https://www.6aiq.com/article/1530724119004) |
 ## 网易
 | 序号 | 佳作 |
 | --- | --- |
