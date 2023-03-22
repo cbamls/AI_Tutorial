@@ -25,47 +25,48 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-15 ~ 2023-03-22), 本周报更新时间:2023-03-22 10:04:41
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-15 ~ 2023-03-22), 本周报更新时间:2023-03-22 10:34:20
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [​ICLR&#39;23 \| 图表示学习遇到类别不平衡怎么办?](https://zhuanlan.zhihu.com/p/615943434) | Houye | 2023-03-22 06:10:28 |
-| 2 | [顶会审稿人分享图神经网络的应用与挑战！](https://zhuanlan.zhihu.com/p/615943429) | Houye | 2023-03-22 06:10:27 |
-| 3 | [流批一体在 AI 核心电商领域的探索与实践](https://www.6aiq.com/article/1679415565568) | AIQ人工智能社区 | 2023-03-22 00:19:25 |
-| 4 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 归来仍是少年 | 2023-03-21 10:55:17 |
-| 5 | [交流群&资料群](https://zhuanlan.zhihu.com/p/615633884) | Houye | 2023-03-21 06:03:06 |
-| 6 | [3万美金奖金! KDD CUP 2023 竞赛正式启动](https://zhuanlan.zhihu.com/p/615633877) | Houye | 2023-03-21 06:03:05 |
-| 7 | [阿里, 招算法工程师](https://zhuanlan.zhihu.com/p/615633874) | Houye | 2023-03-21 06:03:04 |
-| 8 | [Presto 在字节跳动的实践](https://zhuanlan.zhihu.com/p/615484646) | DataFunTalk | 2023-03-20 18:08:09 |
-| 9 | [美团酒旅图谱构建及应用](https://zhuanlan.zhihu.com/p/615424860) | DataFunTalk | 2023-03-20 14:00:04 |
-| 10 | [LLM（Large Language Model）下的自然语言处理任务（附源码）](https://zhuanlan.zhihu.com/p/615305245) | 何枝 | 2023-03-19 23:01:53 |
-| 11 | [搜索策略产品经理必读系列—第五讲Page Rank算法](https://zhuanlan.zhihu.com/p/615244447) | King James | 2023-03-19 17:58:20 |
-| 12 | [基于 Doris 构建实时统一的现代数据分析平台](https://zhuanlan.zhihu.com/p/615223240) | DataFunTalk | 2023-03-19 15:24:59 |
-| 13 | [多场景 \| 联合建模: mmoe拆分信息表征](https://zhuanlan.zhihu.com/p/615212871) | 亦一 | 2023-03-19 14:43:28 |
-| 14 | [简单又好用的社区划分算法 —— Fast Unfolding](https://zhuanlan.zhihu.com/p/615195940) | 风控大鱼 | 2023-03-19 12:51:24 |
-| 15 | [搜广推策略产品课堂之广告定向策略综述](https://zhuanlan.zhihu.com/p/615192819) | 策略产品Arthur | 2023-03-19 12:28:56 |
-| 16 | [Akulaku在东南亚金融市场的技术积累](https://zhuanlan.zhihu.com/p/615003933) | DataFunTalk | 2023-03-18 15:00:13 |
-| 17 | [多目标 \| 模型结构: MMoE实际应用，改进必不可少](https://zhuanlan.zhihu.com/p/615021892) | 亦一 | 2023-03-18 14:43:30 |
-| 18 | [从金融IT到金融科技，到数字化转型​——基于资产管理行业趋势的思考](https://zhuanlan.zhihu.com/p/614774593) | DataFunTalk | 2023-03-18 08:00:09 |
-| 19 | [Elasticsearch 轻量级搜索中台实践 --Alpha](https://www.6aiq.com/article/1679068900056) | AIQ人工智能社区 | 2023-03-18 00:01:40 |
-| 20 | [ChatGPT背景下，知识图谱该何去何从？](https://zhuanlan.zhihu.com/p/614895981) | Houye | 2023-03-17 21:10:07 |
-| 21 | [京东, 招搜索召回与排序算法实习生, 待遇超好](https://zhuanlan.zhihu.com/p/614895975) | Houye | 2023-03-17 21:10:05 |
-| 22 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614895965) | Houye | 2023-03-17 21:10:04 |
-| 23 | [从用户体验洞察到商业价值变现，以京东为例](https://zhuanlan.zhihu.com/p/614791791) | DataFunTalk | 2023-03-17 18:16:05 |
-| 24 | [数据湖仓的应用现状和挑战](https://zhuanlan.zhihu.com/p/614770743) | DataFunTalk | 2023-03-17 14:10:08 |
-| 25 | [GPT-4技术文档](https://zhuanlan.zhihu.com/p/614271969) | 绝密伏击 | 2023-03-16 18:36:09 |
-| 26 | [OLAP 核心挑战与前沿趋势解读](https://zhuanlan.zhihu.com/p/614470291) | DataFunTalk | 2023-03-16 17:10:06 |
-| 27 | [扩散模型：DDPM](https://zhuanlan.zhihu.com/p/614498231) | 大师兄 | 2023-03-16 15:55:24 |
-| 28 | [图机器学习算法、应用的现状与趋势](https://zhuanlan.zhihu.com/p/614467070) | DataFunTalk | 2023-03-16 13:52:15 |
-| 29 | [吴恩达来信：风浪面前，团结就是力量！](https://zhuanlan.zhihu.com/p/614454824) | 吴恩达 | 2023-03-16 13:05:15 |
-| 30 | [多目标 \| 模型结构：MMoE开辟新方向](https://zhuanlan.zhihu.com/p/614342245) | 亦一 | 2023-03-15 23:56:30 |
-| 31 | [字节, 招NLP 算法实习生(急招日常实习, base北京)](https://zhuanlan.zhihu.com/p/614306923) | Houye | 2023-03-15 21:10:05 |
-| 32 | [字节跳动极高可用 KV 存储系统详解](https://zhuanlan.zhihu.com/p/614227806) | DataFunTalk | 2023-03-15 18:10:03 |
-| 33 | [新一代云数据平台架构演进之路](https://zhuanlan.zhihu.com/p/614264674) | DataFunTalk | 2023-03-15 17:55:51 |
-| 34 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614214963) | 阿里妈妈技术 | 2023-03-15 15:48:36 |
-| 35 | [贝叶斯分层模型应用之直播场景打分校准](https://zhuanlan.zhihu.com/p/614214235) | 阿里妈妈技术 | 2023-03-15 15:44:18 |
-| 36 | [华为中央研究院, 招图计算科研实习生](https://zhuanlan.zhihu.com/p/614060633) | Houye | 2023-03-15 06:10:22 |
-| 37 | [AI有哪些方向更容易发论文？](https://zhuanlan.zhihu.com/p/614060631) | Houye | 2023-03-15 06:10:20 |
+| 1 | [小红书高时效推荐系统背后的技术升级](https://www.6aiq.com/article/1679451572481) | AIQ人工智能社区 | 2023-03-22 10:19:32 |
+| 2 | [​ICLR&#39;23 \| 图表示学习遇到类别不平衡怎么办?](https://zhuanlan.zhihu.com/p/615943434) | Houye | 2023-03-22 06:10:28 |
+| 3 | [顶会审稿人分享图神经网络的应用与挑战！](https://zhuanlan.zhihu.com/p/615943429) | Houye | 2023-03-22 06:10:27 |
+| 4 | [流批一体在 AI 核心电商领域的探索与实践](https://www.6aiq.com/article/1679415565568) | AIQ人工智能社区 | 2023-03-22 00:19:25 |
+| 5 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 归来仍是少年 | 2023-03-21 10:55:17 |
+| 6 | [交流群&资料群](https://zhuanlan.zhihu.com/p/615633884) | Houye | 2023-03-21 06:03:06 |
+| 7 | [3万美金奖金! KDD CUP 2023 竞赛正式启动](https://zhuanlan.zhihu.com/p/615633877) | Houye | 2023-03-21 06:03:05 |
+| 8 | [阿里, 招算法工程师](https://zhuanlan.zhihu.com/p/615633874) | Houye | 2023-03-21 06:03:04 |
+| 9 | [Presto 在字节跳动的实践](https://zhuanlan.zhihu.com/p/615484646) | DataFunTalk | 2023-03-20 18:08:09 |
+| 10 | [美团酒旅图谱构建及应用](https://zhuanlan.zhihu.com/p/615424860) | DataFunTalk | 2023-03-20 14:00:04 |
+| 11 | [LLM（Large Language Model）下的自然语言处理任务（附源码）](https://zhuanlan.zhihu.com/p/615305245) | 何枝 | 2023-03-19 23:01:53 |
+| 12 | [搜索策略产品经理必读系列—第五讲Page Rank算法](https://zhuanlan.zhihu.com/p/615244447) | King James | 2023-03-19 17:58:20 |
+| 13 | [基于 Doris 构建实时统一的现代数据分析平台](https://zhuanlan.zhihu.com/p/615223240) | DataFunTalk | 2023-03-19 15:24:59 |
+| 14 | [多场景 \| 联合建模: mmoe拆分信息表征](https://zhuanlan.zhihu.com/p/615212871) | 亦一 | 2023-03-19 14:43:28 |
+| 15 | [简单又好用的社区划分算法 —— Fast Unfolding](https://zhuanlan.zhihu.com/p/615195940) | 风控大鱼 | 2023-03-19 12:51:24 |
+| 16 | [搜广推策略产品课堂之广告定向策略综述](https://zhuanlan.zhihu.com/p/615192819) | 策略产品Arthur | 2023-03-19 12:28:56 |
+| 17 | [Akulaku在东南亚金融市场的技术积累](https://zhuanlan.zhihu.com/p/615003933) | DataFunTalk | 2023-03-18 15:00:13 |
+| 18 | [多目标 \| 模型结构: MMoE实际应用，改进必不可少](https://zhuanlan.zhihu.com/p/615021892) | 亦一 | 2023-03-18 14:43:30 |
+| 19 | [从金融IT到金融科技，到数字化转型​——基于资产管理行业趋势的思考](https://zhuanlan.zhihu.com/p/614774593) | DataFunTalk | 2023-03-18 08:00:09 |
+| 20 | [Elasticsearch 轻量级搜索中台实践 --Alpha](https://www.6aiq.com/article/1679068900056) | AIQ人工智能社区 | 2023-03-18 00:01:40 |
+| 21 | [ChatGPT背景下，知识图谱该何去何从？](https://zhuanlan.zhihu.com/p/614895981) | Houye | 2023-03-17 21:10:07 |
+| 22 | [京东, 招搜索召回与排序算法实习生, 待遇超好](https://zhuanlan.zhihu.com/p/614895975) | Houye | 2023-03-17 21:10:05 |
+| 23 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614895965) | Houye | 2023-03-17 21:10:04 |
+| 24 | [从用户体验洞察到商业价值变现，以京东为例](https://zhuanlan.zhihu.com/p/614791791) | DataFunTalk | 2023-03-17 18:16:05 |
+| 25 | [数据湖仓的应用现状和挑战](https://zhuanlan.zhihu.com/p/614770743) | DataFunTalk | 2023-03-17 14:10:08 |
+| 26 | [GPT-4技术文档](https://zhuanlan.zhihu.com/p/614271969) | 绝密伏击 | 2023-03-16 18:36:09 |
+| 27 | [OLAP 核心挑战与前沿趋势解读](https://zhuanlan.zhihu.com/p/614470291) | DataFunTalk | 2023-03-16 17:10:06 |
+| 28 | [扩散模型：DDPM](https://zhuanlan.zhihu.com/p/614498231) | 大师兄 | 2023-03-16 15:55:24 |
+| 29 | [图机器学习算法、应用的现状与趋势](https://zhuanlan.zhihu.com/p/614467070) | DataFunTalk | 2023-03-16 13:52:15 |
+| 30 | [吴恩达来信：风浪面前，团结就是力量！](https://zhuanlan.zhihu.com/p/614454824) | 吴恩达 | 2023-03-16 13:05:15 |
+| 31 | [多目标 \| 模型结构：MMoE开辟新方向](https://zhuanlan.zhihu.com/p/614342245) | 亦一 | 2023-03-15 23:56:30 |
+| 32 | [字节, 招NLP 算法实习生(急招日常实习, base北京)](https://zhuanlan.zhihu.com/p/614306923) | Houye | 2023-03-15 21:10:05 |
+| 33 | [字节跳动极高可用 KV 存储系统详解](https://zhuanlan.zhihu.com/p/614227806) | DataFunTalk | 2023-03-15 18:10:03 |
+| 34 | [新一代云数据平台架构演进之路](https://zhuanlan.zhihu.com/p/614264674) | DataFunTalk | 2023-03-15 17:55:51 |
+| 35 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614214963) | 阿里妈妈技术 | 2023-03-15 15:48:36 |
+| 36 | [贝叶斯分层模型应用之直播场景打分校准](https://zhuanlan.zhihu.com/p/614214235) | 阿里妈妈技术 | 2023-03-15 15:44:18 |
+| 37 | [华为中央研究院, 招图计算科研实习生](https://zhuanlan.zhihu.com/p/614060633) | Houye | 2023-03-15 06:10:22 |
+| 38 | [AI有哪些方向更容易发论文？](https://zhuanlan.zhihu.com/p/614060631) | Houye | 2023-03-15 06:10:20 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [机智的叉烧](#机智的叉烧)(OPPO对话算法，公众号：CS的陋室,个人微信公众号：CS的陋室，N...)
@@ -3476,12 +3477,13 @@ https://item.jd.com/13484669.html。
 ## 小红书
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [广告机制策略产品解析之小红书跨渠道全站投放策略（下篇）](https://www.6aiq.com/article/1678718101407) |
-| 2 | [广告机制策略产品解析之小红书跨渠道全站投放策略（上篇）](https://www.6aiq.com/article/1678115087378) |
-| 3 | [小红书广告智能创意能力构建过程详解](https://www.6aiq.com/article/1676566788990) |
-| 4 | [小红书社区反作弊探索与实践](https://www.6aiq.com/article/1675613098825) |
-| 5 | [小红书广告投放机制详解，如何用算法实现全站自动化投放](https://www.6aiq.com/article/1672576858765) |
-| 6 | [小红书近线服务统一调度平台建设实践](https://www.6aiq.com/article/1670557381807) |
+| 1 | [小红书高时效推荐系统背后的技术升级](https://www.6aiq.com/article/1679451572481) |
+| 2 | [广告机制策略产品解析之小红书跨渠道全站投放策略（下篇）](https://www.6aiq.com/article/1678718101407) |
+| 3 | [广告机制策略产品解析之小红书跨渠道全站投放策略（上篇）](https://www.6aiq.com/article/1678115087378) |
+| 4 | [小红书广告智能创意能力构建过程详解](https://www.6aiq.com/article/1676566788990) |
+| 5 | [小红书社区反作弊探索与实践](https://www.6aiq.com/article/1675613098825) |
+| 6 | [小红书广告投放机制详解，如何用算法实现全站自动化投放](https://www.6aiq.com/article/1672576858765) |
+| 7 | [小红书近线服务统一调度平台建设实践](https://www.6aiq.com/article/1670557381807) |
 ## CVTE
 | 序号 | 佳作 |
 | --- | --- |
