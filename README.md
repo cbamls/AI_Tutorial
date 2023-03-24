@@ -25,43 +25,44 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-17 ~ 2023-03-24), 本周报更新时间:2023-03-24 10:04:37
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-17 ~ 2023-03-24), 本周报更新时间:2023-03-24 10:34:33
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [来自OpenAI的数据工程革命，GPT-4仅仅是开端](https://zhuanlan.zhihu.com/p/616470427) | DataFunTalk | 2023-03-23 18:37:18 |
-| 2 | [云原生大数据的核心技术与前沿趋势｜云原生大数据系列访谈（一）](https://zhuanlan.zhihu.com/p/616335169) | DataFunTalk | 2023-03-23 11:44:51 |
-| 3 | [阿里妈妈智能诊断工程能力建设](https://zhuanlan.zhihu.com/p/616334622) | 阿里妈妈技术 | 2023-03-23 11:43:14 |
-| 4 | [淘宝虚拟电商技术分享](https://zhuanlan.zhihu.com/p/616088036) | DataFunTalk | 2023-03-23 08:00:16 |
-| 5 | [WWW23推荐系统论文集锦，GNNRec 依然火热](https://zhuanlan.zhihu.com/p/616251921) | Houye | 2023-03-23 06:25:53 |
-| 6 | [大淘宝 \| 招AIGC方向阿里星(对比华为天才少年)](https://zhuanlan.zhihu.com/p/616251915) | Houye | 2023-03-23 06:25:52 |
-| 7 | [阿里健康医药电商销量预测算法方案](https://zhuanlan.zhihu.com/p/616096903) | DataFunTalk | 2023-03-22 20:00:19 |
-| 8 | [巨量千川商品卡推广——抖音电商卖家的新型武器](https://zhuanlan.zhihu.com/p/615992105) | 北冥乘海生 | 2023-03-22 13:30:20 |
-| 9 | [小红书高时效推荐系统背后的技术升级](https://www.6aiq.com/article/1679451572481) | AIQ人工智能社区 | 2023-03-22 10:19:32 |
-| 10 | [​ICLR&#39;23 \| 图表示学习遇到类别不平衡怎么办?](https://zhuanlan.zhihu.com/p/615943434) | Houye | 2023-03-22 06:10:28 |
-| 11 | [顶会审稿人分享图神经网络的应用与挑战！](https://zhuanlan.zhihu.com/p/615943429) | Houye | 2023-03-22 06:10:27 |
-| 12 | [流批一体在 AI 核心电商领域的探索与实践](https://www.6aiq.com/article/1679415565568) | AIQ人工智能社区 | 2023-03-22 00:19:25 |
-| 13 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 归来仍是少年 | 2023-03-21 10:55:17 |
-| 14 | [交流群&资料群](https://zhuanlan.zhihu.com/p/615633884) | Houye | 2023-03-21 06:03:06 |
-| 15 | [3万美金奖金! KDD CUP 2023 竞赛正式启动](https://zhuanlan.zhihu.com/p/615633877) | Houye | 2023-03-21 06:03:05 |
-| 16 | [阿里, 招算法工程师](https://zhuanlan.zhihu.com/p/615633874) | Houye | 2023-03-21 06:03:04 |
-| 17 | [Presto 在字节跳动的实践](https://zhuanlan.zhihu.com/p/615484646) | DataFunTalk | 2023-03-20 18:08:09 |
-| 18 | [美团酒旅图谱构建及应用](https://zhuanlan.zhihu.com/p/615424860) | DataFunTalk | 2023-03-20 14:00:04 |
-| 19 | [LLM（Large Language Model）下的自然语言处理任务（附源码）](https://zhuanlan.zhihu.com/p/615305245) | 何枝 | 2023-03-19 23:01:53 |
-| 20 | [搜索策略产品经理必读系列—第五讲Page Rank算法](https://zhuanlan.zhihu.com/p/615244447) | King James | 2023-03-19 17:58:20 |
-| 21 | [基于 Doris 构建实时统一的现代数据分析平台](https://zhuanlan.zhihu.com/p/615223240) | DataFunTalk | 2023-03-19 15:24:59 |
-| 22 | [多场景 \| 联合建模: mmoe拆分信息表征](https://zhuanlan.zhihu.com/p/615212871) | 亦一 | 2023-03-19 14:43:28 |
-| 23 | [简单又好用的社区划分算法 —— Fast Unfolding](https://zhuanlan.zhihu.com/p/615195940) | 风控大鱼 | 2023-03-19 12:51:24 |
-| 24 | [搜广推策略产品课堂之广告定向策略综述](https://zhuanlan.zhihu.com/p/615192819) | 策略产品Arthur | 2023-03-19 12:28:56 |
-| 25 | [Akulaku在东南亚金融市场的技术积累](https://zhuanlan.zhihu.com/p/615003933) | DataFunTalk | 2023-03-18 15:00:13 |
-| 26 | [多目标 \| 模型结构: MMoE实际应用，改进必不可少](https://zhuanlan.zhihu.com/p/615021892) | 亦一 | 2023-03-18 14:43:30 |
-| 27 | [从金融IT到金融科技，到数字化转型​——基于资产管理行业趋势的思考](https://zhuanlan.zhihu.com/p/614774593) | DataFunTalk | 2023-03-18 08:00:09 |
-| 28 | [Elasticsearch 轻量级搜索中台实践 --Alpha](https://www.6aiq.com/article/1679068900056) | AIQ人工智能社区 | 2023-03-18 00:01:40 |
-| 29 | [ChatGPT背景下，知识图谱该何去何从？](https://zhuanlan.zhihu.com/p/614895981) | Houye | 2023-03-17 21:10:07 |
-| 30 | [京东, 招搜索召回与排序算法实习生, 待遇超好](https://zhuanlan.zhihu.com/p/614895975) | Houye | 2023-03-17 21:10:05 |
-| 31 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614895965) | Houye | 2023-03-17 21:10:04 |
-| 32 | [从用户体验洞察到商业价值变现，以京东为例](https://zhuanlan.zhihu.com/p/614791791) | DataFunTalk | 2023-03-17 18:16:05 |
-| 33 | [数据湖仓的应用现状和挑战](https://zhuanlan.zhihu.com/p/614770743) | DataFunTalk | 2023-03-17 14:10:08 |
+| 1 | [分支路径图调度框架在 vivo 效果广告业务的落地实践](https://www.6aiq.com/article/1679623769756) | AIQ人工智能社区 | 2023-03-24 10:09:29 |
+| 2 | [来自OpenAI的数据工程革命，GPT-4仅仅是开端](https://zhuanlan.zhihu.com/p/616470427) | DataFunTalk | 2023-03-23 18:37:18 |
+| 3 | [云原生大数据的核心技术与前沿趋势｜云原生大数据系列访谈（一）](https://zhuanlan.zhihu.com/p/616335169) | DataFunTalk | 2023-03-23 11:44:51 |
+| 4 | [阿里妈妈智能诊断工程能力建设](https://zhuanlan.zhihu.com/p/616334622) | 阿里妈妈技术 | 2023-03-23 11:43:14 |
+| 5 | [淘宝虚拟电商技术分享](https://zhuanlan.zhihu.com/p/616088036) | DataFunTalk | 2023-03-23 08:00:16 |
+| 6 | [WWW23推荐系统论文集锦，GNNRec 依然火热](https://zhuanlan.zhihu.com/p/616251921) | Houye | 2023-03-23 06:25:53 |
+| 7 | [大淘宝 \| 招AIGC方向阿里星(对比华为天才少年)](https://zhuanlan.zhihu.com/p/616251915) | Houye | 2023-03-23 06:25:52 |
+| 8 | [阿里健康医药电商销量预测算法方案](https://zhuanlan.zhihu.com/p/616096903) | DataFunTalk | 2023-03-22 20:00:19 |
+| 9 | [巨量千川商品卡推广——抖音电商卖家的新型武器](https://zhuanlan.zhihu.com/p/615992105) | 北冥乘海生 | 2023-03-22 13:30:20 |
+| 10 | [小红书高时效推荐系统背后的技术升级](https://www.6aiq.com/article/1679451572481) | AIQ人工智能社区 | 2023-03-22 10:19:32 |
+| 11 | [​ICLR&#39;23 \| 图表示学习遇到类别不平衡怎么办?](https://zhuanlan.zhihu.com/p/615943434) | Houye | 2023-03-22 06:10:28 |
+| 12 | [顶会审稿人分享图神经网络的应用与挑战！](https://zhuanlan.zhihu.com/p/615943429) | Houye | 2023-03-22 06:10:27 |
+| 13 | [流批一体在 AI 核心电商领域的探索与实践](https://www.6aiq.com/article/1679415565568) | AIQ人工智能社区 | 2023-03-22 00:19:25 |
+| 14 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 归来仍是少年 | 2023-03-21 10:55:17 |
+| 15 | [交流群&资料群](https://zhuanlan.zhihu.com/p/615633884) | Houye | 2023-03-21 06:03:06 |
+| 16 | [3万美金奖金! KDD CUP 2023 竞赛正式启动](https://zhuanlan.zhihu.com/p/615633877) | Houye | 2023-03-21 06:03:05 |
+| 17 | [阿里, 招算法工程师](https://zhuanlan.zhihu.com/p/615633874) | Houye | 2023-03-21 06:03:04 |
+| 18 | [Presto 在字节跳动的实践](https://zhuanlan.zhihu.com/p/615484646) | DataFunTalk | 2023-03-20 18:08:09 |
+| 19 | [美团酒旅图谱构建及应用](https://zhuanlan.zhihu.com/p/615424860) | DataFunTalk | 2023-03-20 14:00:04 |
+| 20 | [LLM（Large Language Model）下的自然语言处理任务（附源码）](https://zhuanlan.zhihu.com/p/615305245) | 何枝 | 2023-03-19 23:01:53 |
+| 21 | [搜索策略产品经理必读系列—第五讲Page Rank算法](https://zhuanlan.zhihu.com/p/615244447) | King James | 2023-03-19 17:58:20 |
+| 22 | [基于 Doris 构建实时统一的现代数据分析平台](https://zhuanlan.zhihu.com/p/615223240) | DataFunTalk | 2023-03-19 15:24:59 |
+| 23 | [多场景 \| 联合建模: mmoe拆分信息表征](https://zhuanlan.zhihu.com/p/615212871) | 亦一 | 2023-03-19 14:43:28 |
+| 24 | [简单又好用的社区划分算法 —— Fast Unfolding](https://zhuanlan.zhihu.com/p/615195940) | 风控大鱼 | 2023-03-19 12:51:24 |
+| 25 | [搜广推策略产品课堂之广告定向策略综述](https://zhuanlan.zhihu.com/p/615192819) | 策略产品Arthur | 2023-03-19 12:28:56 |
+| 26 | [Akulaku在东南亚金融市场的技术积累](https://zhuanlan.zhihu.com/p/615003933) | DataFunTalk | 2023-03-18 15:00:13 |
+| 27 | [多目标 \| 模型结构: MMoE实际应用，改进必不可少](https://zhuanlan.zhihu.com/p/615021892) | 亦一 | 2023-03-18 14:43:30 |
+| 28 | [从金融IT到金融科技，到数字化转型​——基于资产管理行业趋势的思考](https://zhuanlan.zhihu.com/p/614774593) | DataFunTalk | 2023-03-18 08:00:09 |
+| 29 | [Elasticsearch 轻量级搜索中台实践 --Alpha](https://www.6aiq.com/article/1679068900056) | AIQ人工智能社区 | 2023-03-18 00:01:40 |
+| 30 | [ChatGPT背景下，知识图谱该何去何从？](https://zhuanlan.zhihu.com/p/614895981) | Houye | 2023-03-17 21:10:07 |
+| 31 | [京东, 招搜索召回与排序算法实习生, 待遇超好](https://zhuanlan.zhihu.com/p/614895975) | Houye | 2023-03-17 21:10:05 |
+| 32 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614895965) | Houye | 2023-03-17 21:10:04 |
+| 33 | [从用户体验洞察到商业价值变现，以京东为例](https://zhuanlan.zhihu.com/p/614791791) | DataFunTalk | 2023-03-17 18:16:05 |
+| 34 | [数据湖仓的应用现状和挑战](https://zhuanlan.zhihu.com/p/614770743) | DataFunTalk | 2023-03-17 14:10:08 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [机智的叉烧](#机智的叉烧)(OPPO对话算法，公众号：CS的陋室,个人微信公众号：CS的陋室，N...)
@@ -3259,25 +3260,26 @@ https://item.jd.com/13484669.html。
 ## vivo
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [vivo \| 解密游戏推荐系统的建设之路](https://www.6aiq.com/article/1677084451965) |
-| 2 | [异构混排在 vivo 互联网的技术实践](https://www.6aiq.com/article/1670421470015) |
-| 3 | [vivo 霍金实验平台设计与实践](https://www.6aiq.com/article/1668691450480) |
-| 4 | [vivo 技术｜在推荐业务中如何用 MPS 提高 GPU 利用率？](https://www.6aiq.com/article/1667486265744) |
-| 5 | [vivo 互联网机器学习平台的建设与实践](https://www.6aiq.com/article/1665411062165) |
-| 6 | [vivo 前端智能化实践：机器学习在自动网页布局中的应用](https://www.6aiq.com/article/1661432366753) |
-| 7 | [vivo \| 推荐系统 - 协同过滤在 Spark 中的实现](https://www.6aiq.com/article/1658327696663) |
-| 8 | [vivo 技术｜Elasticsearch 在地理信息空间索引的探索和演进](https://www.6aiq.com/article/1655907055589) |
-| 9 | [vivo 推荐中台升级路：机器成本节约 75%，迭代周期低至分钟级](https://www.6aiq.com/article/1655033262282) |
-| 10 | [vivo 短视频推荐去重服务的设计实践](https://www.6aiq.com/article/1648768215642) |
-| 11 | [Redis 在 vivo 推送平台的应用与优化实践](https://www.6aiq.com/article/1644883277577) |
-| 12 | [vivo 推送平台架构演进](https://www.6aiq.com/article/1642115895238) |
-| 13 | [vivo 敏感词匹配系统的设计与实践](https://www.6aiq.com/article/1638408722035) |
-| 14 | [从技术到体验：vivo 机器翻译落地实践](https://www.6aiq.com/article/1633619422850) |
-| 15 | [vivo 2022 届提前批数据挖掘 面试题 \| 文末免费送书](https://www.6aiq.com/article/1627406355143) |
-| 16 | [vivo \| 深度解析 Lucene 轻量级全文索引实现原理](https://www.6aiq.com/article/1626313129578) |
-| 17 | [2021 年 6 月份：vivo 推荐算法工程师一面 · 5 道题 \| 福利](https://www.6aiq.com/article/1625314187451) |
-| 18 | [vivo 应用商店推荐系统探索与实践](https://www.6aiq.com/article/1616117382897) |
-| 19 | [vivo 技术 \| 分布式搜索引擎 Elasticsearch 的架构分析](https://www.6aiq.com/article/1606441157938) |
+| 1 | [分支路径图调度框架在 vivo 效果广告业务的落地实践](https://www.6aiq.com/article/1679623769756) |
+| 2 | [vivo \| 解密游戏推荐系统的建设之路](https://www.6aiq.com/article/1677084451965) |
+| 3 | [异构混排在 vivo 互联网的技术实践](https://www.6aiq.com/article/1670421470015) |
+| 4 | [vivo 霍金实验平台设计与实践](https://www.6aiq.com/article/1668691450480) |
+| 5 | [vivo 技术｜在推荐业务中如何用 MPS 提高 GPU 利用率？](https://www.6aiq.com/article/1667486265744) |
+| 6 | [vivo 互联网机器学习平台的建设与实践](https://www.6aiq.com/article/1665411062165) |
+| 7 | [vivo 前端智能化实践：机器学习在自动网页布局中的应用](https://www.6aiq.com/article/1661432366753) |
+| 8 | [vivo \| 推荐系统 - 协同过滤在 Spark 中的实现](https://www.6aiq.com/article/1658327696663) |
+| 9 | [vivo 技术｜Elasticsearch 在地理信息空间索引的探索和演进](https://www.6aiq.com/article/1655907055589) |
+| 10 | [vivo 推荐中台升级路：机器成本节约 75%，迭代周期低至分钟级](https://www.6aiq.com/article/1655033262282) |
+| 11 | [vivo 短视频推荐去重服务的设计实践](https://www.6aiq.com/article/1648768215642) |
+| 12 | [Redis 在 vivo 推送平台的应用与优化实践](https://www.6aiq.com/article/1644883277577) |
+| 13 | [vivo 推送平台架构演进](https://www.6aiq.com/article/1642115895238) |
+| 14 | [vivo 敏感词匹配系统的设计与实践](https://www.6aiq.com/article/1638408722035) |
+| 15 | [从技术到体验：vivo 机器翻译落地实践](https://www.6aiq.com/article/1633619422850) |
+| 16 | [vivo 2022 届提前批数据挖掘 面试题 \| 文末免费送书](https://www.6aiq.com/article/1627406355143) |
+| 17 | [vivo \| 深度解析 Lucene 轻量级全文索引实现原理](https://www.6aiq.com/article/1626313129578) |
+| 18 | [2021 年 6 月份：vivo 推荐算法工程师一面 · 5 道题 \| 福利](https://www.6aiq.com/article/1625314187451) |
+| 19 | [vivo 应用商店推荐系统探索与实践](https://www.6aiq.com/article/1616117382897) |
+| 20 | [vivo 技术 \| 分布式搜索引擎 Elasticsearch 的架构分析](https://www.6aiq.com/article/1606441157938) |
 ## 美团
 | 序号 | 佳作 |
 | --- | --- |
