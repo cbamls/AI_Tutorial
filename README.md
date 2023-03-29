@@ -25,41 +25,42 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-22 ~ 2023-03-29), 本周报更新时间:2023-03-29 12:34:56
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-22 ~ 2023-03-29), 本周报更新时间:2023-03-29 13:04:51
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [JuiceFS苏锐：从技术和业务角度看云原生的发展](https://zhuanlan.zhihu.com/p/617864256) | DataFunTalk | 2023-03-29 12:30:05 |
-| 2 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | JioNLP团队 | 2023-03-29 11:03:23 |
-| 3 | [语言和视觉生成大模型中数据和模型复杂度的关系](https://zhuanlan.zhihu.com/p/617778251) | Peter PanXin | 2023-03-28 22:10:34 |
-| 4 | [以标准推动金融智能风控行业发展](https://zhuanlan.zhihu.com/p/617658602) | DataFunTalk | 2023-03-28 18:14:10 |
-| 5 | [运维、成本、安全，大数据处理技术三大挑战，如何解决？](https://zhuanlan.zhihu.com/p/617590337) | DataFunTalk | 2023-03-28 13:00:16 |
-| 6 | [《互联网大厂推荐算法实战》的目录](https://zhuanlan.zhihu.com/p/617615036) | 石塔西 | 2023-03-28 12:47:12 |
-| 7 | [百度｜精准水位在流批一体数据仓库的探索和实践](https://www.6aiq.com/article/1679932717568) | AIQ人工智能社区 | 2023-03-27 23:58:37 |
-| 8 | [搜广推策略产品之灰盒“look alike”种子人群扩展策略（上篇）](https://zhuanlan.zhihu.com/p/617504855) | 策略产品Arthur | 2023-03-27 22:57:13 |
-| 9 | [Debias 技术在金融推荐场景下的应用](https://zhuanlan.zhihu.com/p/617446460) | DataFunTalk | 2023-03-27 18:06:31 |
-| 10 | [抖音集团数据指标体系分析与增长实践](https://zhuanlan.zhihu.com/p/617302004) | DataFunTalk | 2023-03-27 14:00:11 |
-| 11 | [图解大模型训练之：数据并行上篇(DP, DDP与ZeRO)](https://zhuanlan.zhihu.com/p/617133971) | 猛猿 | 2023-03-26 16:03:44 |
-| 12 | [打造全链路数据隐私合规平台](https://zhuanlan.zhihu.com/p/616910739) | DataFunTalk | 2023-03-26 15:00:07 |
-| 13 | [电商领域A/B实验平台建设方法](https://zhuanlan.zhihu.com/p/616920180) | DataFunTalk | 2023-03-26 13:14:13 |
-| 14 | [百度凤巢 \| MTMS多任务多场景统一精排模型](https://zhuanlan.zhihu.com/p/617002509) | 蘑菇先生 | 2023-03-25 20:45:36 |
-| 15 | [OpenAI ChatGPT（四）：十分钟读懂 GPT-3](https://zhuanlan.zhihu.com/p/614597581) | 绝密伏击 | 2023-03-25 19:32:34 |
-| 16 | [工业数据与智能算法驱动下的生产调度优化研究](https://zhuanlan.zhihu.com/p/616903922) | DataFunTalk | 2023-03-25 15:12:14 |
-| 17 | [众安金融实时特征平台架构设计与实践](https://zhuanlan.zhihu.com/p/616915538) | DataFunTalk | 2023-03-25 13:56:07 |
-| 18 | [斯坦福CS224W《几何图学习》2023课程！ 入门必看!](https://zhuanlan.zhihu.com/p/617170610) | Houye | 2023-03-24 17:47:11 |
-| 19 | [深度 UPLIFT 模型在腾讯金融用户增长场景中的应用](https://zhuanlan.zhihu.com/p/616649869) | DataFunTalk | 2023-03-24 14:00:14 |
-| 20 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 吴恩达 | 2023-03-24 11:28:53 |
-| 21 | [分支路径图调度框架在 vivo 效果广告业务的落地实践](https://www.6aiq.com/article/1679623769756) | AIQ人工智能社区 | 2023-03-24 10:09:29 |
-| 22 | [来自OpenAI的数据工程革命，GPT-4仅仅是开端](https://zhuanlan.zhihu.com/p/616470427) | DataFunTalk | 2023-03-23 18:37:18 |
-| 23 | [云原生大数据的核心技术与前沿趋势｜云原生大数据系列访谈（一）](https://zhuanlan.zhihu.com/p/616335169) | DataFunTalk | 2023-03-23 11:44:51 |
-| 24 | [阿里妈妈智能诊断工程能力建设](https://zhuanlan.zhihu.com/p/616334622) | 阿里妈妈技术 | 2023-03-23 11:43:14 |
-| 25 | [淘宝虚拟电商技术分享](https://zhuanlan.zhihu.com/p/616088036) | DataFunTalk | 2023-03-23 08:00:16 |
-| 26 | [WWW23推荐系统论文集锦，GNNRec 依然火热](https://zhuanlan.zhihu.com/p/616251921) | Houye | 2023-03-23 06:25:53 |
-| 27 | [大淘宝 \| 招AIGC方向阿里星(对比华为天才少年)](https://zhuanlan.zhihu.com/p/616251915) | Houye | 2023-03-23 06:25:52 |
-| 28 | [阿里健康医药电商销量预测算法方案](https://zhuanlan.zhihu.com/p/616096903) | DataFunTalk | 2023-03-22 20:00:19 |
-| 29 | [巨量千川商品卡推广——抖音电商卖家的新型武器](https://zhuanlan.zhihu.com/p/615992105) | 北冥乘海生 | 2023-03-22 13:30:20 |
-| 30 | [​ICLR&#39;23 \| 图表示学习遇到类别不平衡怎么办?](https://zhuanlan.zhihu.com/p/615943434) | Houye | 2023-03-22 06:10:28 |
-| 31 | [顶会审稿人分享图神经网络的应用与挑战！](https://zhuanlan.zhihu.com/p/615943429) | Houye | 2023-03-22 06:10:27 |
+| 1 | [Yoshua Bengio，埃隆马斯克联名呼吁：暂停AI研究6个月！](https://zhuanlan.zhihu.com/p/617900708) | Young | 2023-03-29 12:37:24 |
+| 2 | [JuiceFS苏锐：从技术和业务角度看云原生的发展](https://zhuanlan.zhihu.com/p/617864256) | DataFunTalk | 2023-03-29 12:30:05 |
+| 3 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | JioNLP团队 | 2023-03-29 11:03:23 |
+| 4 | [语言和视觉生成大模型中数据和模型复杂度的关系](https://zhuanlan.zhihu.com/p/617778251) | Peter PanXin | 2023-03-28 22:10:34 |
+| 5 | [以标准推动金融智能风控行业发展](https://zhuanlan.zhihu.com/p/617658602) | DataFunTalk | 2023-03-28 18:14:10 |
+| 6 | [运维、成本、安全，大数据处理技术三大挑战，如何解决？](https://zhuanlan.zhihu.com/p/617590337) | DataFunTalk | 2023-03-28 13:00:16 |
+| 7 | [《互联网大厂推荐算法实战》的目录](https://zhuanlan.zhihu.com/p/617615036) | 石塔西 | 2023-03-28 12:47:12 |
+| 8 | [百度｜精准水位在流批一体数据仓库的探索和实践](https://www.6aiq.com/article/1679932717568) | AIQ人工智能社区 | 2023-03-27 23:58:37 |
+| 9 | [搜广推策略产品之灰盒“look alike”种子人群扩展策略（上篇）](https://zhuanlan.zhihu.com/p/617504855) | 策略产品Arthur | 2023-03-27 22:57:13 |
+| 10 | [Debias 技术在金融推荐场景下的应用](https://zhuanlan.zhihu.com/p/617446460) | DataFunTalk | 2023-03-27 18:06:31 |
+| 11 | [抖音集团数据指标体系分析与增长实践](https://zhuanlan.zhihu.com/p/617302004) | DataFunTalk | 2023-03-27 14:00:11 |
+| 12 | [图解大模型训练之：数据并行上篇(DP, DDP与ZeRO)](https://zhuanlan.zhihu.com/p/617133971) | 猛猿 | 2023-03-26 16:03:44 |
+| 13 | [打造全链路数据隐私合规平台](https://zhuanlan.zhihu.com/p/616910739) | DataFunTalk | 2023-03-26 15:00:07 |
+| 14 | [电商领域A/B实验平台建设方法](https://zhuanlan.zhihu.com/p/616920180) | DataFunTalk | 2023-03-26 13:14:13 |
+| 15 | [百度凤巢 \| MTMS多任务多场景统一精排模型](https://zhuanlan.zhihu.com/p/617002509) | 蘑菇先生 | 2023-03-25 20:45:36 |
+| 16 | [OpenAI ChatGPT（四）：十分钟读懂 GPT-3](https://zhuanlan.zhihu.com/p/614597581) | 绝密伏击 | 2023-03-25 19:32:34 |
+| 17 | [工业数据与智能算法驱动下的生产调度优化研究](https://zhuanlan.zhihu.com/p/616903922) | DataFunTalk | 2023-03-25 15:12:14 |
+| 18 | [众安金融实时特征平台架构设计与实践](https://zhuanlan.zhihu.com/p/616915538) | DataFunTalk | 2023-03-25 13:56:07 |
+| 19 | [斯坦福CS224W《几何图学习》2023课程！ 入门必看!](https://zhuanlan.zhihu.com/p/617170610) | Houye | 2023-03-24 17:47:11 |
+| 20 | [深度 UPLIFT 模型在腾讯金融用户增长场景中的应用](https://zhuanlan.zhihu.com/p/616649869) | DataFunTalk | 2023-03-24 14:00:14 |
+| 21 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 吴恩达 | 2023-03-24 11:28:53 |
+| 22 | [分支路径图调度框架在 vivo 效果广告业务的落地实践](https://www.6aiq.com/article/1679623769756) | AIQ人工智能社区 | 2023-03-24 10:09:29 |
+| 23 | [来自OpenAI的数据工程革命，GPT-4仅仅是开端](https://zhuanlan.zhihu.com/p/616470427) | DataFunTalk | 2023-03-23 18:37:18 |
+| 24 | [云原生大数据的核心技术与前沿趋势｜云原生大数据系列访谈（一）](https://zhuanlan.zhihu.com/p/616335169) | DataFunTalk | 2023-03-23 11:44:51 |
+| 25 | [阿里妈妈智能诊断工程能力建设](https://zhuanlan.zhihu.com/p/616334622) | 阿里妈妈技术 | 2023-03-23 11:43:14 |
+| 26 | [淘宝虚拟电商技术分享](https://zhuanlan.zhihu.com/p/616088036) | DataFunTalk | 2023-03-23 08:00:16 |
+| 27 | [WWW23推荐系统论文集锦，GNNRec 依然火热](https://zhuanlan.zhihu.com/p/616251921) | Houye | 2023-03-23 06:25:53 |
+| 28 | [大淘宝 \| 招AIGC方向阿里星(对比华为天才少年)](https://zhuanlan.zhihu.com/p/616251915) | Houye | 2023-03-23 06:25:52 |
+| 29 | [阿里健康医药电商销量预测算法方案](https://zhuanlan.zhihu.com/p/616096903) | DataFunTalk | 2023-03-22 20:00:19 |
+| 30 | [巨量千川商品卡推广——抖音电商卖家的新型武器](https://zhuanlan.zhihu.com/p/615992105) | 北冥乘海生 | 2023-03-22 13:30:20 |
+| 31 | [​ICLR&#39;23 \| 图表示学习遇到类别不平衡怎么办?](https://zhuanlan.zhihu.com/p/615943434) | Houye | 2023-03-22 06:10:28 |
+| 32 | [顶会审稿人分享图神经网络的应用与挑战！](https://zhuanlan.zhihu.com/p/615943429) | Houye | 2023-03-22 06:10:27 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [机智的叉烧](#机智的叉烧)(OPPO对话算法，公众号：CS的陋室,个人微信公众号：CS的陋室，N...)
@@ -90,8 +91,8 @@
   * [潘润琦](#潘润琦)(一只菜鸡 木有学上,...)
   * [冯伟](#冯伟)(推荐系统,混迹推荐系统的小码农。...)
   * [Ostrich](#ostrich)(厚积薄发,分享互联网技术和成长经验。...)
-  * [iwtbs](#iwtbs)(公众号：推荐广告算法小木屋,推荐算法工程师。...)
   * [Young](#young)(公众号【Young样说】探索前沿有趣的科技AI见闻,- 清华大学本科...)
+  * [iwtbs](#iwtbs)(公众号：推荐广告算法小木屋,推荐算法工程师。...)
   * [一两赘肉无](#一两赘肉无)(和鲸社区运营，heywhale.com,...)
   * [Tang AI](#tang-ai)(在机器学习中欲仙欲死,神经病王子，佛系，网瘾少年。...)
   * [姚凯飞](#姚凯飞)(喜欢数学的算法工程师,码农，欢迎关注我的微信公众号: data_al...)
@@ -2221,6 +2222,38 @@ https://item.jd.com/13484669.html。
 | 22 | [电商搜索QP：Query类目预测](https://zhuanlan.zhihu.com/p/351083652) | 2021-02-17 16:35:07 |
 
 
+## Young
+> 介绍： 公众号【Young样说】探索前沿有趣的科技AI见闻,- 清华大学本科电子，博士计算机
+- 推荐广告，智能风控，量化交易，AIGC
+- 曾任互联网算法专家（2020阿里星）
+- 个人编著书籍《Pytorch深度学习入门与实战》《Pytorch高级机器学习实战》。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [Yoshua Bengio，埃隆马斯克联名呼吁：暂停AI研究6个月！](https://zhuanlan.zhihu.com/p/617900708) | 2023-03-29 12:37:24 |
+| 2 | [PyTorch高级机器学习算法实战](https://zhuanlan.zhihu.com/p/611994684) | 2023-03-07 13:30:29 |
+| 3 | [OpenAI推出ChatGPT API，人工智能应用迎来新时代！](https://zhuanlan.zhihu.com/p/610693928) | 2023-03-02 12:02:18 |
+| 4 | [ChatGPT引爆的智能工具风潮，让你的工作生活更高效](https://zhuanlan.zhihu.com/p/610588071) | 2023-03-01 23:43:30 |
+| 5 | [不会写简历怎么办？ChatGPT一键帮你生成专业表达方式！](https://zhuanlan.zhihu.com/p/608586212) | 2023-02-22 18:46:06 |
+| 6 | [ChatGPT来了，普通人如何抓住风口？50个精选AI工具网站帮你打开思路！](https://zhuanlan.zhihu.com/p/606312972) | 2023-02-14 18:16:06 |
+| 7 | [AI音频生成模型引爆音乐行业？最新四篇AI音乐生成论文解读](https://zhuanlan.zhihu.com/p/603210775) | 2023-02-03 16:45:37 |
+| 8 | [Transformer可以读取整个代码库？Jeff Dean团队大规模扩展上下文长度](https://zhuanlan.zhihu.com/p/602186372) | 2023-01-31 12:22:15 |
+| 9 | [2022年“神奇”AI论文回顾](https://zhuanlan.zhihu.com/p/594120504) | 2022-12-24 23:04:32 |
+| 10 | [对于现在的年轻人而言，小红书的技术类岗位值得去吗？](https://zhuanlan.zhihu.com/p/565117870) | 2022-09-16 16:59:07 |
+| 11 | [使用AI 生成艺术设计博士论文封面](https://zhuanlan.zhihu.com/p/559295513) | 2022-08-30 09:51:52 |
+| 12 | [Paper Highlight：为什么基于树的模型在表格数据上仍然优于深度学习？](https://zhuanlan.zhihu.com/p/543920555) | 2022-07-20 13:07:58 |
+| 13 | [什么是SSIM？](https://zhuanlan.zhihu.com/p/541385224) | 2022-07-14 09:53:43 |
+| 14 | [扩展Pytorch：加速MixConv算子（三）](https://zhuanlan.zhihu.com/p/352451047) | 2021-02-24 21:23:26 |
+| 15 | [扩展Pytorch：利用CUDA实现算子（二）](https://zhuanlan.zhihu.com/p/350849116) | 2021-02-15 21:47:02 |
+| 16 | [扩展Pytorch：实现自定义算子（一）](https://zhuanlan.zhihu.com/p/350651297) | 2021-02-13 21:36:25 |
+| 17 | [利用Pytorch实现卷积操作](https://zhuanlan.zhihu.com/p/349683405) | 2021-02-06 16:46:00 |
+| 18 | [今日对抗样本一则](https://zhuanlan.zhihu.com/p/47924198) | 2018-10-29 13:39:39 |
+| 19 | [Reproducible ECCV 2018 (More)](https://zhuanlan.zhihu.com/p/44601623) | 2018-09-15 11:41:13 |
+| 20 | [Reproducible ECCV2018 (Oral)](https://zhuanlan.zhihu.com/p/43489728) | 2018-09-01 11:10:58 |
+| 21 | [今日对抗样本两则](https://zhuanlan.zhihu.com/p/35153457) | 2018-03-31 15:04:12 |
+| 22 | [这个世界怎么会有这么多奇怪的羊。。。](https://zhuanlan.zhihu.com/p/34188400) | 2018-03-03 11:25:12 |
+
+
 ## iwtbs
 > 介绍： 公众号：推荐广告算法小木屋,推荐算法工程师。
 
@@ -2248,37 +2281,6 @@ https://item.jd.com/13484669.html。
 | 20 | [向量召回—近邻快速查找算法总结](https://zhuanlan.zhihu.com/p/336694120) | 2020-12-14 00:21:53 |
 | 21 | [谈谈推荐算法中的‘trade-off’](https://zhuanlan.zhihu.com/p/336690969) | 2020-12-13 23:50:27 |
 | 22 | [谈谈我眼中的“推荐算法”](https://zhuanlan.zhihu.com/p/336689862) | 2020-12-13 23:46:27 |
-
-
-## Young
-> 介绍： 公众号【Young样说】探索前沿有趣的科技AI见闻,- 清华大学本科电子，博士计算机
-- 推荐广告，智能风控，量化交易，AIGC
-- 曾任互联网算法专家（2020阿里星）
-- 个人编著书籍《Pytorch深度学习入门与实战》《Pytorch高级机器学习实战》。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [PyTorch高级机器学习算法实战](https://zhuanlan.zhihu.com/p/611994684) | 2023-03-07 13:30:29 |
-| 2 | [OpenAI推出ChatGPT API，人工智能应用迎来新时代！](https://zhuanlan.zhihu.com/p/610693928) | 2023-03-02 12:02:18 |
-| 3 | [ChatGPT引爆的智能工具风潮，让你的工作生活更高效](https://zhuanlan.zhihu.com/p/610588071) | 2023-03-01 23:43:30 |
-| 4 | [不会写简历怎么办？ChatGPT一键帮你生成专业表达方式！](https://zhuanlan.zhihu.com/p/608586212) | 2023-02-22 18:46:06 |
-| 5 | [ChatGPT来了，普通人如何抓住风口？50个精选AI工具网站帮你打开思路！](https://zhuanlan.zhihu.com/p/606312972) | 2023-02-14 18:16:06 |
-| 6 | [AI音频生成模型引爆音乐行业？最新四篇AI音乐生成论文解读](https://zhuanlan.zhihu.com/p/603210775) | 2023-02-03 16:45:37 |
-| 7 | [Transformer可以读取整个代码库？Jeff Dean团队大规模扩展上下文长度](https://zhuanlan.zhihu.com/p/602186372) | 2023-01-31 12:22:15 |
-| 8 | [2022年“神奇”AI论文回顾](https://zhuanlan.zhihu.com/p/594120504) | 2022-12-24 23:04:32 |
-| 9 | [对于现在的年轻人而言，小红书的技术类岗位值得去吗？](https://zhuanlan.zhihu.com/p/565117870) | 2022-09-16 16:59:07 |
-| 10 | [使用AI 生成艺术设计博士论文封面](https://zhuanlan.zhihu.com/p/559295513) | 2022-08-30 09:51:52 |
-| 11 | [Paper Highlight：为什么基于树的模型在表格数据上仍然优于深度学习？](https://zhuanlan.zhihu.com/p/543920555) | 2022-07-20 13:07:58 |
-| 12 | [什么是SSIM？](https://zhuanlan.zhihu.com/p/541385224) | 2022-07-14 09:53:43 |
-| 13 | [扩展Pytorch：加速MixConv算子（三）](https://zhuanlan.zhihu.com/p/352451047) | 2021-02-24 21:23:26 |
-| 14 | [扩展Pytorch：利用CUDA实现算子（二）](https://zhuanlan.zhihu.com/p/350849116) | 2021-02-15 21:47:02 |
-| 15 | [扩展Pytorch：实现自定义算子（一）](https://zhuanlan.zhihu.com/p/350651297) | 2021-02-13 21:36:25 |
-| 16 | [利用Pytorch实现卷积操作](https://zhuanlan.zhihu.com/p/349683405) | 2021-02-06 16:46:00 |
-| 17 | [今日对抗样本一则](https://zhuanlan.zhihu.com/p/47924198) | 2018-10-29 13:39:39 |
-| 18 | [Reproducible ECCV 2018 (More)](https://zhuanlan.zhihu.com/p/44601623) | 2018-09-15 11:41:13 |
-| 19 | [Reproducible ECCV2018 (Oral)](https://zhuanlan.zhihu.com/p/43489728) | 2018-09-01 11:10:58 |
-| 20 | [今日对抗样本两则](https://zhuanlan.zhihu.com/p/35153457) | 2018-03-31 15:04:12 |
-| 21 | [这个世界怎么会有这么多奇怪的羊。。。](https://zhuanlan.zhihu.com/p/34188400) | 2018-03-03 11:25:12 |
 
 
 ## 一两赘肉无
