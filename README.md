@@ -25,44 +25,45 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-23 ~ 2023-03-30), 本周报更新时间:2023-03-30 22:03:59
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-23 ~ 2023-03-30), 本周报更新时间:2023-03-30 22:34:23
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [高性能分布式机器学习平台建设经验](https://zhuanlan.zhihu.com/p/618300116) | DataFunTalk | 2023-03-30 18:30:52 |
-| 2 | [这届技术人都爱挂在嘴边的“数智化”，我们用八个字拆解了](https://zhuanlan.zhihu.com/p/618228328) | DataFunTalk | 2023-03-30 15:03:27 |
-| 3 | [近十年NLP预训练技术的重要发展](https://zhuanlan.zhihu.com/p/618178628) | DataFunTalk | 2023-03-30 12:33:06 |
-| 4 | [提速 Spark SQL 2 倍，GLUTEN 向量化引擎原理剖析](https://zhuanlan.zhihu.com/p/617944074) | DataFunTalk | 2023-03-30 08:00:14 |
-| 5 | [万字长文，漫谈广告技术中的拍卖机制设计（经典篇）](https://zhuanlan.zhihu.com/p/618023549) | 阿里妈妈技术 | 2023-03-29 19:04:11 |
-| 6 | [流批一体的实时特征工程平台建设实践](https://zhuanlan.zhihu.com/p/617928718) | DataFunTalk | 2023-03-29 14:26:30 |
-| 7 | [Yoshua Bengio，埃隆马斯克联名呼吁：暂停AI研究6个月！](https://zhuanlan.zhihu.com/p/617900708) | Young | 2023-03-29 12:37:24 |
-| 8 | [JuiceFS苏锐：从技术和业务角度看云原生的发展](https://zhuanlan.zhihu.com/p/617864256) | DataFunTalk | 2023-03-29 12:30:05 |
-| 9 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | JioNLP团队 | 2023-03-29 11:03:23 |
-| 10 | [语言和视觉生成大模型中数据和模型复杂度的关系](https://zhuanlan.zhihu.com/p/617778251) | Peter PanXin | 2023-03-28 22:10:34 |
-| 11 | [以标准推动金融智能风控行业发展](https://zhuanlan.zhihu.com/p/617658602) | DataFunTalk | 2023-03-28 18:14:10 |
-| 12 | [运维、成本、安全，大数据处理技术三大挑战，如何解决？](https://zhuanlan.zhihu.com/p/617590337) | DataFunTalk | 2023-03-28 13:00:16 |
-| 13 | [《互联网大厂推荐算法实战》的目录](https://zhuanlan.zhihu.com/p/617615036) | 石塔西 | 2023-03-28 12:47:12 |
-| 14 | [百度｜精准水位在流批一体数据仓库的探索和实践](https://www.6aiq.com/article/1679932717568) | AIQ人工智能社区 | 2023-03-27 23:58:37 |
-| 15 | [搜广推策略产品之灰盒“look alike”种子人群扩展策略（上篇）](https://zhuanlan.zhihu.com/p/617504855) | 策略产品Arthur | 2023-03-27 22:57:13 |
-| 16 | [Debias 技术在金融推荐场景下的应用](https://zhuanlan.zhihu.com/p/617446460) | DataFunTalk | 2023-03-27 18:06:31 |
-| 17 | [抖音集团数据指标体系分析与增长实践](https://zhuanlan.zhihu.com/p/617302004) | DataFunTalk | 2023-03-27 14:00:11 |
-| 18 | [图解大模型训练之：数据并行上篇(DP, DDP与ZeRO)](https://zhuanlan.zhihu.com/p/617133971) | 猛猿 | 2023-03-26 16:03:44 |
-| 19 | [打造全链路数据隐私合规平台](https://zhuanlan.zhihu.com/p/616910739) | DataFunTalk | 2023-03-26 15:00:07 |
-| 20 | [电商领域A/B实验平台建设方法](https://zhuanlan.zhihu.com/p/616920180) | DataFunTalk | 2023-03-26 13:14:13 |
-| 21 | [百度凤巢 \| MTMS多任务多场景统一精排模型](https://zhuanlan.zhihu.com/p/617002509) | 蘑菇先生 | 2023-03-25 20:45:36 |
-| 22 | [OpenAI ChatGPT（四）：十分钟读懂 GPT-3](https://zhuanlan.zhihu.com/p/614597581) | 绝密伏击 | 2023-03-25 19:32:34 |
-| 23 | [工业数据与智能算法驱动下的生产调度优化研究](https://zhuanlan.zhihu.com/p/616903922) | DataFunTalk | 2023-03-25 15:12:14 |
-| 24 | [众安金融实时特征平台架构设计与实践](https://zhuanlan.zhihu.com/p/616915538) | DataFunTalk | 2023-03-25 13:56:07 |
-| 25 | [斯坦福CS224W《几何图学习》2023课程！ 入门必看!](https://zhuanlan.zhihu.com/p/617170610) | Houye | 2023-03-24 17:47:11 |
-| 26 | [深度 UPLIFT 模型在腾讯金融用户增长场景中的应用](https://zhuanlan.zhihu.com/p/616649869) | DataFunTalk | 2023-03-24 14:00:14 |
-| 27 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 吴恩达 | 2023-03-24 11:28:53 |
-| 28 | [分支路径图调度框架在 vivo 效果广告业务的落地实践](https://www.6aiq.com/article/1679623769756) | AIQ人工智能社区 | 2023-03-24 10:09:29 |
-| 29 | [来自OpenAI的数据工程革命，GPT-4仅仅是开端](https://zhuanlan.zhihu.com/p/616470427) | DataFunTalk | 2023-03-23 18:37:18 |
-| 30 | [云原生大数据的核心技术与前沿趋势｜云原生大数据系列访谈（一）](https://zhuanlan.zhihu.com/p/616335169) | DataFunTalk | 2023-03-23 11:44:51 |
-| 31 | [阿里妈妈智能诊断工程能力建设](https://zhuanlan.zhihu.com/p/616334622) | 阿里妈妈技术 | 2023-03-23 11:43:14 |
-| 32 | [淘宝虚拟电商技术分享](https://zhuanlan.zhihu.com/p/616088036) | DataFunTalk | 2023-03-23 08:00:16 |
-| 33 | [WWW23推荐系统论文集锦，GNNRec 依然火热](https://zhuanlan.zhihu.com/p/616251921) | Houye | 2023-03-23 06:25:53 |
-| 34 | [大淘宝 \| 招AIGC方向阿里星(对比华为天才少年)](https://zhuanlan.zhihu.com/p/616251915) | Houye | 2023-03-23 06:25:52 |
+| 1 | [让ChatGPT生成训练ChatGPT的训练数据](https://zhuanlan.zhihu.com/p/618334308) | 何枝 | 2023-03-30 22:09:17 |
+| 2 | [高性能分布式机器学习平台建设经验](https://zhuanlan.zhihu.com/p/618300116) | DataFunTalk | 2023-03-30 18:30:52 |
+| 3 | [这届技术人都爱挂在嘴边的“数智化”，我们用八个字拆解了](https://zhuanlan.zhihu.com/p/618228328) | DataFunTalk | 2023-03-30 15:03:27 |
+| 4 | [近十年NLP预训练技术的重要发展](https://zhuanlan.zhihu.com/p/618178628) | DataFunTalk | 2023-03-30 12:33:06 |
+| 5 | [提速 Spark SQL 2 倍，GLUTEN 向量化引擎原理剖析](https://zhuanlan.zhihu.com/p/617944074) | DataFunTalk | 2023-03-30 08:00:14 |
+| 6 | [万字长文，漫谈广告技术中的拍卖机制设计（经典篇）](https://zhuanlan.zhihu.com/p/618023549) | 阿里妈妈技术 | 2023-03-29 19:04:11 |
+| 7 | [流批一体的实时特征工程平台建设实践](https://zhuanlan.zhihu.com/p/617928718) | DataFunTalk | 2023-03-29 14:26:30 |
+| 8 | [Yoshua Bengio，埃隆马斯克联名呼吁：暂停AI研究6个月！](https://zhuanlan.zhihu.com/p/617900708) | Young | 2023-03-29 12:37:24 |
+| 9 | [JuiceFS苏锐：从技术和业务角度看云原生的发展](https://zhuanlan.zhihu.com/p/617864256) | DataFunTalk | 2023-03-29 12:30:05 |
+| 10 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | JioNLP团队 | 2023-03-29 11:03:23 |
+| 11 | [语言和视觉生成大模型中数据和模型复杂度的关系](https://zhuanlan.zhihu.com/p/617778251) | Peter PanXin | 2023-03-28 22:10:34 |
+| 12 | [以标准推动金融智能风控行业发展](https://zhuanlan.zhihu.com/p/617658602) | DataFunTalk | 2023-03-28 18:14:10 |
+| 13 | [运维、成本、安全，大数据处理技术三大挑战，如何解决？](https://zhuanlan.zhihu.com/p/617590337) | DataFunTalk | 2023-03-28 13:00:16 |
+| 14 | [《互联网大厂推荐算法实战》的目录](https://zhuanlan.zhihu.com/p/617615036) | 石塔西 | 2023-03-28 12:47:12 |
+| 15 | [百度｜精准水位在流批一体数据仓库的探索和实践](https://www.6aiq.com/article/1679932717568) | AIQ人工智能社区 | 2023-03-27 23:58:37 |
+| 16 | [搜广推策略产品之灰盒“look alike”种子人群扩展策略（上篇）](https://zhuanlan.zhihu.com/p/617504855) | 策略产品Arthur | 2023-03-27 22:57:13 |
+| 17 | [Debias 技术在金融推荐场景下的应用](https://zhuanlan.zhihu.com/p/617446460) | DataFunTalk | 2023-03-27 18:06:31 |
+| 18 | [抖音集团数据指标体系分析与增长实践](https://zhuanlan.zhihu.com/p/617302004) | DataFunTalk | 2023-03-27 14:00:11 |
+| 19 | [图解大模型训练之：数据并行上篇(DP, DDP与ZeRO)](https://zhuanlan.zhihu.com/p/617133971) | 猛猿 | 2023-03-26 16:03:44 |
+| 20 | [打造全链路数据隐私合规平台](https://zhuanlan.zhihu.com/p/616910739) | DataFunTalk | 2023-03-26 15:00:07 |
+| 21 | [电商领域A/B实验平台建设方法](https://zhuanlan.zhihu.com/p/616920180) | DataFunTalk | 2023-03-26 13:14:13 |
+| 22 | [百度凤巢 \| MTMS多任务多场景统一精排模型](https://zhuanlan.zhihu.com/p/617002509) | 蘑菇先生 | 2023-03-25 20:45:36 |
+| 23 | [OpenAI ChatGPT（四）：十分钟读懂 GPT-3](https://zhuanlan.zhihu.com/p/614597581) | 绝密伏击 | 2023-03-25 19:32:34 |
+| 24 | [工业数据与智能算法驱动下的生产调度优化研究](https://zhuanlan.zhihu.com/p/616903922) | DataFunTalk | 2023-03-25 15:12:14 |
+| 25 | [众安金融实时特征平台架构设计与实践](https://zhuanlan.zhihu.com/p/616915538) | DataFunTalk | 2023-03-25 13:56:07 |
+| 26 | [斯坦福CS224W《几何图学习》2023课程！ 入门必看!](https://zhuanlan.zhihu.com/p/617170610) | Houye | 2023-03-24 17:47:11 |
+| 27 | [深度 UPLIFT 模型在腾讯金融用户增长场景中的应用](https://zhuanlan.zhihu.com/p/616649869) | DataFunTalk | 2023-03-24 14:00:14 |
+| 28 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 吴恩达 | 2023-03-24 11:28:53 |
+| 29 | [分支路径图调度框架在 vivo 效果广告业务的落地实践](https://www.6aiq.com/article/1679623769756) | AIQ人工智能社区 | 2023-03-24 10:09:29 |
+| 30 | [来自OpenAI的数据工程革命，GPT-4仅仅是开端](https://zhuanlan.zhihu.com/p/616470427) | DataFunTalk | 2023-03-23 18:37:18 |
+| 31 | [云原生大数据的核心技术与前沿趋势｜云原生大数据系列访谈（一）](https://zhuanlan.zhihu.com/p/616335169) | DataFunTalk | 2023-03-23 11:44:51 |
+| 32 | [阿里妈妈智能诊断工程能力建设](https://zhuanlan.zhihu.com/p/616334622) | 阿里妈妈技术 | 2023-03-23 11:43:14 |
+| 33 | [淘宝虚拟电商技术分享](https://zhuanlan.zhihu.com/p/616088036) | DataFunTalk | 2023-03-23 08:00:16 |
+| 34 | [WWW23推荐系统论文集锦，GNNRec 依然火热](https://zhuanlan.zhihu.com/p/616251921) | Houye | 2023-03-23 06:25:53 |
+| 35 | [大淘宝 \| 招AIGC方向阿里星(对比华为天才少年)](https://zhuanlan.zhihu.com/p/616251915) | Houye | 2023-03-23 06:25:52 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [机智的叉烧](#机智的叉烧)(OPPO对话算法，公众号：CS的陋室,个人微信公众号：CS的陋室，N...)
@@ -107,8 +108,8 @@
   * [策略产品Arthur](#策略产品arthur)
   * [风控大鱼](#风控大鱼)(互联网风控/风险模型/反洗钱（公众号：风控大鱼）,Nothing w...)
   * [吴恩达](#吴恩达)
-  * [Andy Yang](#andy-yang)(生活、学习、思考和观察世界,自由之精神 独立之思想。...)
   * [何枝](#何枝)(欣赏每一个用逻辑阐述观点的人，不喜欢无论据的情绪输出。,笑一个吧，功...)
+  * [Andy Yang](#andy-yang)(生活、学习、思考和观察世界,自由之精神 独立之思想。...)
   * [猛猿](#猛猿)(公众号：大猿搬砖简记,学习和职业历程：
 会计➡️算法➡️大数据➡️算...)
   * [北冥有鱼](#北冥有鱼)(zepengzhang.com。...)
@@ -2558,6 +2559,28 @@ https://item.jd.com/13484669.html。
 | 15 | [吴恩达来信：建立能够展现不同置信度的模型](https://zhuanlan.zhihu.com/p/590332091) | 2022-12-08 18:58:02 |
 
 
+## 何枝
+> 介绍： 欣赏每一个用逻辑阐述观点的人，不喜欢无论据的情绪输出。,笑一个吧，功成名就不是目的。。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [让ChatGPT生成训练ChatGPT的训练数据](https://zhuanlan.zhihu.com/p/618334308) | 2023-03-30 22:09:17 |
+| 2 | [LLM（Large Language Model）下的自然语言处理任务（附源码）](https://zhuanlan.zhihu.com/p/615305245) | 2023-03-19 23:01:53 |
+| 3 | [【RLHF】想训练ChatGPT？先来看看强化学习（RL）+语言模型（LM）吧（附源码）](https://zhuanlan.zhihu.com/p/606328992) | 2023-02-14 19:35:42 |
+| 4 | [【SimCSE】没有标注数据也能训练文本匹配模型（附源码）](https://zhuanlan.zhihu.com/p/599230890) | 2023-01-16 17:35:17 |
+| 5 | [【RLHF】想训练ChatGPT？得先弄明白Reward Model怎么训（附源码）](https://zhuanlan.zhihu.com/p/595579042) | 2022-12-31 00:33:16 |
+| 6 | [【信息抽取】UIE——基于prompt的信息抽取模型（附源码）](https://zhuanlan.zhihu.com/p/589054073) | 2022-12-04 15:49:22 |
+| 7 | [身边有一个学霸是怎样的体验？](https://zhuanlan.zhihu.com/p/585806610) | 2022-11-23 21:56:01 |
+| 8 | [【文本匹配】Text Matching中的单塔方法和双塔方法（附源码）](https://zhuanlan.zhihu.com/p/585533302) | 2022-11-22 12:03:23 |
+| 9 | [【P-Tuning】 一种自动学习 prompt pattern 的方法（附源码）](https://zhuanlan.zhihu.com/p/583022692) | 2022-11-13 23:59:57 |
+| 10 | [【Entity Linking】女朋友想买苹果，我是应该买一部还是买一斤？试试DeepType吧！](https://zhuanlan.zhihu.com/p/570532369) | 2022-10-04 21:57:00 |
+| 11 | [不想标数据了？试试Neural Snowball吧，不仅Few-Shot还能挖掘New Relation！](https://zhuanlan.zhihu.com/p/569482997) | 2022-09-30 00:01:11 |
+| 12 | [如何利用AI训练一个旋转验证码模型](https://zhuanlan.zhihu.com/p/519065980) | 2022-05-24 12:52:41 |
+| 13 | [长文本分类——如何解决BERT输入大于512的问题](https://zhuanlan.zhihu.com/p/504204038) | 2022-04-24 20:04:44 |
+| 14 | [基于BERT的几种改进模型](https://zhuanlan.zhihu.com/p/444588460) | 2021-12-13 11:41:16 |
+| 15 | [PaddleNLP实战——信息抽取（InfoExtraction）](https://zhuanlan.zhihu.com/p/441912237) | 2021-12-06 17:33:50 |
+
+
 ## Andy Yang
 > 介绍： 生活、学习、思考和观察世界,自由之精神 独立之思想。
 
@@ -2578,27 +2601,6 @@ https://item.jd.com/13484669.html。
 | 13 | [RoBERTa：高级丹药炼制记录](https://zhuanlan.zhihu.com/p/76969817) | 2019-08-06 23:27:44 |
 | 14 | [ERNIE 2.0：芝麻街 2.0？](https://zhuanlan.zhihu.com/p/76125042) | 2019-08-01 08:49:40 |
 | 15 | [SpanBert：对 Bert 预训练的一次深度探索](https://zhuanlan.zhihu.com/p/75893972) | 2019-07-30 22:01:48 |
-
-
-## 何枝
-> 介绍： 欣赏每一个用逻辑阐述观点的人，不喜欢无论据的情绪输出。,笑一个吧，功成名就不是目的。。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [LLM（Large Language Model）下的自然语言处理任务（附源码）](https://zhuanlan.zhihu.com/p/615305245) | 2023-03-19 23:01:53 |
-| 2 | [【RLHF】想训练ChatGPT？先来看看强化学习（RL）+语言模型（LM）吧（附源码）](https://zhuanlan.zhihu.com/p/606328992) | 2023-02-14 19:35:42 |
-| 3 | [【SimCSE】没有标注数据也能训练文本匹配模型（附源码）](https://zhuanlan.zhihu.com/p/599230890) | 2023-01-16 17:35:17 |
-| 4 | [【RLHF】想训练ChatGPT？得先弄明白Reward Model怎么训（附源码）](https://zhuanlan.zhihu.com/p/595579042) | 2022-12-31 00:33:16 |
-| 5 | [【信息抽取】UIE——基于prompt的信息抽取模型（附源码）](https://zhuanlan.zhihu.com/p/589054073) | 2022-12-04 15:49:22 |
-| 6 | [身边有一个学霸是怎样的体验？](https://zhuanlan.zhihu.com/p/585806610) | 2022-11-23 21:56:01 |
-| 7 | [【文本匹配】Text Matching中的单塔方法和双塔方法（附源码）](https://zhuanlan.zhihu.com/p/585533302) | 2022-11-22 12:03:23 |
-| 8 | [【P-Tuning】 一种自动学习 prompt pattern 的方法（附源码）](https://zhuanlan.zhihu.com/p/583022692) | 2022-11-13 23:59:57 |
-| 9 | [【Entity Linking】女朋友想买苹果，我是应该买一部还是买一斤？试试DeepType吧！](https://zhuanlan.zhihu.com/p/570532369) | 2022-10-04 21:57:00 |
-| 10 | [不想标数据了？试试Neural Snowball吧，不仅Few-Shot还能挖掘New Relation！](https://zhuanlan.zhihu.com/p/569482997) | 2022-09-30 00:01:11 |
-| 11 | [如何利用AI训练一个旋转验证码模型](https://zhuanlan.zhihu.com/p/519065980) | 2022-05-24 12:52:41 |
-| 12 | [长文本分类——如何解决BERT输入大于512的问题](https://zhuanlan.zhihu.com/p/504204038) | 2022-04-24 20:04:44 |
-| 13 | [基于BERT的几种改进模型](https://zhuanlan.zhihu.com/p/444588460) | 2021-12-13 11:41:16 |
-| 14 | [PaddleNLP实战——信息抽取（InfoExtraction）](https://zhuanlan.zhihu.com/p/441912237) | 2021-12-06 17:33:50 |
 
 
 ## 猛猿
