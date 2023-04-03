@@ -25,7 +25,7 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-27 ~ 2023-04-03), 本周报更新时间:2023-04-03 15:34:47
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-03-27 ~ 2023-04-03), 本周报更新时间:2023-04-03 16:05:20
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
@@ -3142,21 +3142,19 @@ https://item.jd.com/13484669.html。
 ## 知乎
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [「推荐点击」5000 本金怎么回血 25 万  (豆瓣 / 知乎)](https://www.6aiq.com/article/1680331473417) |
-| 2 | [「紧急说明」回血上岸计划导师 QQ  (头条 / 知乎)](https://www.6aiq.com/article/1680329217816) |
-| 3 | [Flink 实时计算平台在知乎的演进](https://www.6aiq.com/article/1672735455961) |
-| 4 | [基于 Doris 的知乎 DMP 系统架构与实践](https://www.6aiq.com/article/1663900241491) |
-| 5 | [知乎 Flink 数据集成平台建设实践](https://www.6aiq.com/article/1620953681156) |
-| 6 | [知乎搜索排序模型的演进](https://www.6aiq.com/article/1611707324680) |
-| 7 | [知乎 \| 搜索文本相关性与知识蒸馏](https://www.6aiq.com/article/1610819003661) |
-| 8 | [Query 理解和语义召回在知乎搜索中的应用](https://www.6aiq.com/article/1577969687897) |
-| 9 | [用 Flink 取代 Spark Streaming，知乎实时数仓架构演进](https://www.6aiq.com/article/1550456648032) |
-| 10 | [58 技术沙龙——云搜 知乎 58 同城 搜索架构](https://www.6aiq.com/article/1549118463410) |
-| 11 | [「回顾」知乎推荐页 Ranking 经验分享](https://www.6aiq.com/article/1546015792766) |
-| 12 | [【转自知乎】当下（2018 年）腾讯的技术建设是否处于落后同体量公司的状态？](https://www.6aiq.com/article/1538026693169) |
-| 13 | [AIQ - 架构 \| 知乎服务化的实践与思考](https://www.6aiq.com/article/1530974329825) |
-| 14 | [AIQ - 深度 \| 知乎高赞：久居一线城市都有什么错觉？](https://www.6aiq.com/article/1530808073506) |
-| 15 | [知乎高赞：家里在一二线城市有很多套房是怎么的一种体验？答案太颠覆](https://www.6aiq.com/article/1530419775099) |
+| 1 | [Flink 实时计算平台在知乎的演进](https://www.6aiq.com/article/1672735455961) |
+| 2 | [基于 Doris 的知乎 DMP 系统架构与实践](https://www.6aiq.com/article/1663900241491) |
+| 3 | [知乎 Flink 数据集成平台建设实践](https://www.6aiq.com/article/1620953681156) |
+| 4 | [知乎搜索排序模型的演进](https://www.6aiq.com/article/1611707324680) |
+| 5 | [知乎 \| 搜索文本相关性与知识蒸馏](https://www.6aiq.com/article/1610819003661) |
+| 6 | [Query 理解和语义召回在知乎搜索中的应用](https://www.6aiq.com/article/1577969687897) |
+| 7 | [用 Flink 取代 Spark Streaming，知乎实时数仓架构演进](https://www.6aiq.com/article/1550456648032) |
+| 8 | [58 技术沙龙——云搜 知乎 58 同城 搜索架构](https://www.6aiq.com/article/1549118463410) |
+| 9 | [「回顾」知乎推荐页 Ranking 经验分享](https://www.6aiq.com/article/1546015792766) |
+| 10 | [【转自知乎】当下（2018 年）腾讯的技术建设是否处于落后同体量公司的状态？](https://www.6aiq.com/article/1538026693169) |
+| 11 | [AIQ - 架构 \| 知乎服务化的实践与思考](https://www.6aiq.com/article/1530974329825) |
+| 12 | [AIQ - 深度 \| 知乎高赞：久居一线城市都有什么错觉？](https://www.6aiq.com/article/1530808073506) |
+| 13 | [知乎高赞：家里在一二线城市有很多套房是怎么的一种体验？答案太颠覆](https://www.6aiq.com/article/1530419775099) |
 ## 贝壳找房
 | 序号 | 佳作 |
 | --- | --- |
@@ -4001,30 +3999,28 @@ https://item.jd.com/13484669.html。
 | 序号 | 佳作 |
 | --- | --- |
 | 1 | [微信基于 PyTorch 的大规模推荐系统训练实践](https://www.6aiq.com/article/1680501871810) |
-| 2 | [重点介绍五分快三导师计划微信玩家推荐](https://www.6aiq.com/article/1680493438026) |
-| 3 | [今日关注大小单双导师带赚钱微信专家推荐](https://www.6aiq.com/article/1680457213212) |
-| 4 | [微信全文搜索耗时降 94%？我们用了这种方案](https://www.6aiq.com/article/1676909300095) |
-| 5 | [微信搜一搜在线检索技术演进复盘](https://www.6aiq.com/article/1676093095035) |
-| 6 | [微信小程序是如何设计百亿级用户画像分析系统的？](https://www.6aiq.com/article/1672834526518) |
-| 7 | [杨韬：微信搜一搜中的智能问答技术](https://www.6aiq.com/article/1655535180223) |
-| 8 | [腾讯技术｜微信全文搜索技术优化实践](https://www.6aiq.com/article/1647293789632) |
-| 9 | [腾讯技术 \| 微信图片翻译技术优化之路](https://www.6aiq.com/article/1640457596841) |
-| 10 | [微信 ClickHouse 实时数仓的最佳实践](https://www.6aiq.com/article/1637796894211) |
-| 11 | [腾讯企业微信万亿级日志检索系统](https://www.6aiq.com/article/1621470029460) |
-| 12 | [微信搜索引擎中索引的分布式演进](https://www.6aiq.com/article/1608857391340) |
-| 13 | [微信 AI \| 为看一看及搜一搜“去污”—低俗色情识别，AI 怎么做到的？](https://www.6aiq.com/article/1607653030763) |
-| 14 | [微信看一看：推荐系统用户画像构建指南](https://www.6aiq.com/article/1607122191273) |
-| 15 | [腾讯微信 \| 看一看实时相关推荐，满足你对同主题文章的“意犹未尽”](https://www.6aiq.com/article/1606440697191) |
-| 16 | [要提升微信看一看推荐混排的长期收益？试试深度强化学习](https://www.6aiq.com/article/1600460653310) |
-| 17 | [微信 "看一看" 内容理解与推荐](https://www.6aiq.com/article/1596241181601) |
-| 18 | [详文解读微信「看一看」多模型内容策略与召回](https://www.6aiq.com/article/1595178076884) |
-| 19 | [微信「看一看」 推荐排序技术揭秘](https://www.6aiq.com/article/1594473531012) |
-| 20 | [实验室小师弟的新鲜春招算法面经 (阿里搜索，微信，微软等)](https://www.6aiq.com/article/1588125294551) |
-| 21 | [【腾讯】揭秘微信 "看一看" 是如何为你推荐的](https://www.6aiq.com/article/1585678981266) |
-| 22 | [揭秘微信「看一看」如何精准挖掘你感兴趣的内容](https://www.6aiq.com/article/1585678306501) |
-| 23 | [“看一看”推荐模型揭秘！微信团队提出实时 Look-alike 算法，解决推荐系统多样性问题](https://www.6aiq.com/article/1562902056730) |
-| 24 | [建了个机器学习与深度学习的微信群](https://www.6aiq.com/article/1545448133533) |
-| 25 | [建了一个机器学习微信群](https://www.6aiq.com/article/1539596168293) |
+| 2 | [微信全文搜索耗时降 94%？我们用了这种方案](https://www.6aiq.com/article/1676909300095) |
+| 3 | [微信搜一搜在线检索技术演进复盘](https://www.6aiq.com/article/1676093095035) |
+| 4 | [微信小程序是如何设计百亿级用户画像分析系统的？](https://www.6aiq.com/article/1672834526518) |
+| 5 | [杨韬：微信搜一搜中的智能问答技术](https://www.6aiq.com/article/1655535180223) |
+| 6 | [腾讯技术｜微信全文搜索技术优化实践](https://www.6aiq.com/article/1647293789632) |
+| 7 | [腾讯技术 \| 微信图片翻译技术优化之路](https://www.6aiq.com/article/1640457596841) |
+| 8 | [微信 ClickHouse 实时数仓的最佳实践](https://www.6aiq.com/article/1637796894211) |
+| 9 | [腾讯企业微信万亿级日志检索系统](https://www.6aiq.com/article/1621470029460) |
+| 10 | [微信搜索引擎中索引的分布式演进](https://www.6aiq.com/article/1608857391340) |
+| 11 | [微信 AI \| 为看一看及搜一搜“去污”—低俗色情识别，AI 怎么做到的？](https://www.6aiq.com/article/1607653030763) |
+| 12 | [微信看一看：推荐系统用户画像构建指南](https://www.6aiq.com/article/1607122191273) |
+| 13 | [腾讯微信 \| 看一看实时相关推荐，满足你对同主题文章的“意犹未尽”](https://www.6aiq.com/article/1606440697191) |
+| 14 | [要提升微信看一看推荐混排的长期收益？试试深度强化学习](https://www.6aiq.com/article/1600460653310) |
+| 15 | [微信 "看一看" 内容理解与推荐](https://www.6aiq.com/article/1596241181601) |
+| 16 | [详文解读微信「看一看」多模型内容策略与召回](https://www.6aiq.com/article/1595178076884) |
+| 17 | [微信「看一看」 推荐排序技术揭秘](https://www.6aiq.com/article/1594473531012) |
+| 18 | [实验室小师弟的新鲜春招算法面经 (阿里搜索，微信，微软等)](https://www.6aiq.com/article/1588125294551) |
+| 19 | [【腾讯】揭秘微信 "看一看" 是如何为你推荐的](https://www.6aiq.com/article/1585678981266) |
+| 20 | [揭秘微信「看一看」如何精准挖掘你感兴趣的内容](https://www.6aiq.com/article/1585678306501) |
+| 21 | [“看一看”推荐模型揭秘！微信团队提出实时 Look-alike 算法，解决推荐系统多样性问题](https://www.6aiq.com/article/1562902056730) |
+| 22 | [建了个机器学习与深度学习的微信群](https://www.6aiq.com/article/1545448133533) |
+| 23 | [建了一个机器学习微信群](https://www.6aiq.com/article/1539596168293) |
 ## 京东
 | 序号 | 佳作 |
 | --- | --- |
