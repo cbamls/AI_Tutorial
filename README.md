@@ -25,35 +25,36 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-04-16 ~ 2023-04-23), 本周报更新时间:2023-04-23 22:34:28
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-04-16 ~ 2023-04-23), 本周报更新时间:2023-04-23 23:04:16
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [《互联网大厂推荐算法实战》上线啦！](https://zhuanlan.zhihu.com/p/623814354) | 石塔西 | 2023-04-23 08:59:12 |
-| 2 | [使用PEFT微调LLMs](https://zhuanlan.zhihu.com/p/623866920) | sliderSun | 2023-04-22 14:56:17 |
-| 3 | [因果推断在有限资源决策中的应用](https://zhuanlan.zhihu.com/p/623975315) | DataFunTalk | 2023-04-22 14:53:27 |
-| 4 | [多目标 \| 样本权重: DTP以结果反馈为导向双管齐下](https://zhuanlan.zhihu.com/p/623933804) | 亦一 | 2023-04-22 11:21:07 |
-| 5 | [图像分类模型训练实践](https://zhuanlan.zhihu.com/p/623801240) | DataFunTalk | 2023-04-21 18:25:07 |
-| 6 | [LORA：大模型轻量级微调](https://zhuanlan.zhihu.com/p/623543497) | 绝密伏击 | 2023-04-21 17:58:02 |
-| 7 | [增广拍卖——二跳页下的拍卖机制探索](https://zhuanlan.zhihu.com/p/623670570) | 阿里妈妈技术 | 2023-04-21 11:35:33 |
-| 8 | [吴恩达来信：LLMs的美好未来](https://zhuanlan.zhihu.com/p/623672319) | 吴恩达 | 2023-04-21 11:14:50 |
-| 9 | [CTR预估之DNN系列模型:FNN/PNN/DeepCrossing](https://zhuanlan.zhihu.com/p/623567076) | Keep Learning | 2023-04-20 22:04:08 |
-| 10 | [火山引擎发布大模型训练云平台：支持万卡训练，集群性能提升3倍](https://zhuanlan.zhihu.com/p/623393716) | DataFunTalk | 2023-04-20 12:00:58 |
-| 11 | [LLM 时代的金融知识图谱实践](https://zhuanlan.zhihu.com/p/623104680) | DataFunTalk | 2023-04-20 12:00:13 |
-| 12 | [OPPO 端云协同机器学习平台 StarFire 技术实践](https://www.6aiq.com/article/1681911262271) | AIQ人工智能社区 | 2023-04-19 21:34:22 |
-| 13 | [GPT-4 给图机器学习带来了什么影响？该如何应对？](https://zhuanlan.zhihu.com/p/622841747) | DataFunTalk | 2023-04-19 08:07:11 |
-| 14 | [对话式 AI 应用的降本增效实践](https://zhuanlan.zhihu.com/p/622629687) | DataFunTalk | 2023-04-18 18:10:06 |
-| 15 | [LLM大模型低资源微调p tuning v2和lora区别](https://zhuanlan.zhihu.com/p/622810394) | 归来仍是少年 | 2023-04-18 16:16:16 |
-| 16 | [如何高效获取数据价值？](https://zhuanlan.zhihu.com/p/622845314) | DataFunTalk | 2023-04-18 14:50:01 |
-| 17 | [美团广告平台招聘（校招-北京/上海）求贤若渴](https://zhuanlan.zhihu.com/p/622773721) | 萧瑟 | 2023-04-18 10:43:46 |
-| 18 | [大规模表格预训练模型 SPACE-T](https://zhuanlan.zhihu.com/p/622616839) | DataFunTalk | 2023-04-17 18:09:15 |
-| 19 | [小红书基于数据湖的流批统一存储实践](https://zhuanlan.zhihu.com/p/622514116) | DataFunTalk | 2023-04-17 14:00:12 |
-| 20 | [广告机制策略产品案例解析之小红书广告平台智能创意生成策略](https://zhuanlan.zhihu.com/p/622450057) | 策略产品Arthur | 2023-04-17 09:33:24 |
-| 21 | [巫医一家，从国学角度看中医治病——三和书院医道传承第四次主干课感悟](https://zhuanlan.zhihu.com/p/622387530) | 琦琦 | 2023-04-16 21:16:12 |
-| 22 | [当前炼制“大语言模型”的两个现象](https://zhuanlan.zhihu.com/p/622365988) | 张俊林 | 2023-04-16 19:51:04 |
-| 23 | [多目标 \| 样本权重：概览](https://zhuanlan.zhihu.com/p/622333495) | 亦一 | 2023-04-16 15:28:39 |
-| 24 | [美团是如何进行指标管理的？](https://zhuanlan.zhihu.com/p/622302994) | DataFunTalk | 2023-04-16 15:00:13 |
-| 25 | [美团在预训练语言模型上的探索和实践](https://zhuanlan.zhihu.com/p/621781993) | DataFunTalk | 2023-04-16 13:01:02 |
+| 1 | [商业合作](https://www.6aiq.com/article/1682262203949) | AIQ人工智能社区 | 2023-04-23 23:03:23 |
+| 2 | [《互联网大厂推荐算法实战》上线啦！](https://zhuanlan.zhihu.com/p/623814354) | 石塔西 | 2023-04-23 08:59:12 |
+| 3 | [使用PEFT微调LLMs](https://zhuanlan.zhihu.com/p/623866920) | sliderSun | 2023-04-22 14:56:17 |
+| 4 | [因果推断在有限资源决策中的应用](https://zhuanlan.zhihu.com/p/623975315) | DataFunTalk | 2023-04-22 14:53:27 |
+| 5 | [多目标 \| 样本权重: DTP以结果反馈为导向双管齐下](https://zhuanlan.zhihu.com/p/623933804) | 亦一 | 2023-04-22 11:21:07 |
+| 6 | [图像分类模型训练实践](https://zhuanlan.zhihu.com/p/623801240) | DataFunTalk | 2023-04-21 18:25:07 |
+| 7 | [LORA：大模型轻量级微调](https://zhuanlan.zhihu.com/p/623543497) | 绝密伏击 | 2023-04-21 17:58:02 |
+| 8 | [增广拍卖——二跳页下的拍卖机制探索](https://zhuanlan.zhihu.com/p/623670570) | 阿里妈妈技术 | 2023-04-21 11:35:33 |
+| 9 | [吴恩达来信：LLMs的美好未来](https://zhuanlan.zhihu.com/p/623672319) | 吴恩达 | 2023-04-21 11:14:50 |
+| 10 | [CTR预估之DNN系列模型:FNN/PNN/DeepCrossing](https://zhuanlan.zhihu.com/p/623567076) | Keep Learning | 2023-04-20 22:04:08 |
+| 11 | [火山引擎发布大模型训练云平台：支持万卡训练，集群性能提升3倍](https://zhuanlan.zhihu.com/p/623393716) | DataFunTalk | 2023-04-20 12:00:58 |
+| 12 | [LLM 时代的金融知识图谱实践](https://zhuanlan.zhihu.com/p/623104680) | DataFunTalk | 2023-04-20 12:00:13 |
+| 13 | [OPPO 端云协同机器学习平台 StarFire 技术实践](https://www.6aiq.com/article/1681911262271) | AIQ人工智能社区 | 2023-04-19 21:34:22 |
+| 14 | [GPT-4 给图机器学习带来了什么影响？该如何应对？](https://zhuanlan.zhihu.com/p/622841747) | DataFunTalk | 2023-04-19 08:07:11 |
+| 15 | [对话式 AI 应用的降本增效实践](https://zhuanlan.zhihu.com/p/622629687) | DataFunTalk | 2023-04-18 18:10:06 |
+| 16 | [LLM大模型低资源微调p tuning v2和lora区别](https://zhuanlan.zhihu.com/p/622810394) | 归来仍是少年 | 2023-04-18 16:16:16 |
+| 17 | [如何高效获取数据价值？](https://zhuanlan.zhihu.com/p/622845314) | DataFunTalk | 2023-04-18 14:50:01 |
+| 18 | [美团广告平台招聘（校招-北京/上海）求贤若渴](https://zhuanlan.zhihu.com/p/622773721) | 萧瑟 | 2023-04-18 10:43:46 |
+| 19 | [大规模表格预训练模型 SPACE-T](https://zhuanlan.zhihu.com/p/622616839) | DataFunTalk | 2023-04-17 18:09:15 |
+| 20 | [小红书基于数据湖的流批统一存储实践](https://zhuanlan.zhihu.com/p/622514116) | DataFunTalk | 2023-04-17 14:00:12 |
+| 21 | [广告机制策略产品案例解析之小红书广告平台智能创意生成策略](https://zhuanlan.zhihu.com/p/622450057) | 策略产品Arthur | 2023-04-17 09:33:24 |
+| 22 | [巫医一家，从国学角度看中医治病——三和书院医道传承第四次主干课感悟](https://zhuanlan.zhihu.com/p/622387530) | 琦琦 | 2023-04-16 21:16:12 |
+| 23 | [当前炼制“大语言模型”的两个现象](https://zhuanlan.zhihu.com/p/622365988) | 张俊林 | 2023-04-16 19:51:04 |
+| 24 | [多目标 \| 样本权重：概览](https://zhuanlan.zhihu.com/p/622333495) | 亦一 | 2023-04-16 15:28:39 |
+| 25 | [美团是如何进行指标管理的？](https://zhuanlan.zhihu.com/p/622302994) | DataFunTalk | 2023-04-16 15:00:13 |
+| 26 | [美团在预训练语言模型上的探索和实践](https://zhuanlan.zhihu.com/p/621781993) | DataFunTalk | 2023-04-16 13:01:02 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [机智的叉烧](#机智的叉烧)(OPPO对话算法，公众号：CS的陋室,个人微信公众号：CS的陋室，N...)
