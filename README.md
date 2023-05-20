@@ -25,7 +25,7 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-05-13 ~ 2023-05-20), 本周报更新时间:2023-05-20 22:33:23
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-05-13 ~ 2023-05-20), 本周报更新时间:2023-05-20 23:03:19
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
@@ -4086,68 +4086,67 @@ https://item.jd.com/13484669.html。
 ## 网易
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [网易点评: 计划半年回本 100 万](https://www.6aiq.com/article/1684585123841) |
-| 2 | [网易 Arctic on Flink 流式特性核心原理解读](https://www.6aiq.com/article/1684568055251) |
-| 3 | [查询时长下降10倍！网易有数 BI 物化视图设计要点与内部实践](https://www.6aiq.com/article/1684040639903) |
-| 4 | [网易云音乐实时数仓架构与低代码实践](https://www.6aiq.com/article/1683266677825) |
-| 5 | [网易数据治理体系、工具、流程、制度与管理概述](https://www.6aiq.com/article/1677128401272) |
-| 6 | [网易｜浅谈电商搜索数据指标体系建设](https://www.6aiq.com/article/1676566945011) |
-| 7 | [网易云音乐数据资产化建设的思考与实践](https://www.6aiq.com/article/1675875136321) |
-| 8 | [网易严选算法模型质量保障](https://www.6aiq.com/article/1675050710731) |
-| 9 | [网易云音乐全链路埋点管理平台建设](https://www.6aiq.com/article/1673953869164) |
-| 10 | [网易云音乐评论内容理解技术](https://www.6aiq.com/article/1673343120713) |
-| 11 | [网易云音乐视频搜索优化之旅](https://www.6aiq.com/article/1672823184639) |
-| 12 | [网易邮箱数仓演进之路](https://www.6aiq.com/article/1672748272783) |
-| 13 | [网易基于历史查询的 Impala 集群性能优化实践](https://www.6aiq.com/article/1670429368683) |
-| 14 | [网易严选 A/B 科学实验平台实践](https://www.6aiq.com/article/1669864117461) |
-| 15 | [网易严选跨域多目标算法演进](https://www.6aiq.com/article/1668694502136) |
-| 16 | [Apache Iceberg 在网易严选批流一体的实践](https://www.6aiq.com/article/1661956482526) |
-| 17 | [网易严选机器学习平台建设实践](https://www.6aiq.com/article/1661745581086) |
-| 18 | [网易严选｜如何在工业界做流量调控](https://www.6aiq.com/article/1661165750310) |
-| 19 | [网易云音乐播放页直播推荐实战](https://www.6aiq.com/article/1660745718777) |
-| 20 | [网易严选首焦推荐算法实践](https://www.6aiq.com/article/1660708979106) |
-| 21 | [网易严选 DMP 标签系统建设实践](https://www.6aiq.com/article/1660459826070) |
-| 22 | [网易｜数据治理体系演进简介](https://www.6aiq.com/article/1659104806475) |
-| 23 | [网易严选流量数据体系演进（上篇）](https://www.6aiq.com/article/1658238531836) |
-| 24 | [网易严选流量数据体系建设](https://www.6aiq.com/article/1657552515183) |
-| 25 | [网易云音乐机器学习平台实践](https://www.6aiq.com/article/1657079445183) |
-| 26 | [网易云音乐 FeatureStore 建设与实践](https://www.6aiq.com/article/1656583509582) |
-| 27 | [网易云音乐模型预估系统建设与实践](https://www.6aiq.com/article/1655302518521) |
-| 28 | [网易云音乐｜服务启动过程性能波动的分析与解决方案](https://www.6aiq.com/article/1653721299791) |
-| 29 | [网易数帆数据中台逻辑数据湖的实践](https://www.6aiq.com/article/1653720690381) |
-| 30 | [网易严选时序预测算法实践](https://www.6aiq.com/article/1652458697875) |
-| 31 | [实时增量学习在网易云音乐直播推荐系统中的实践](https://www.6aiq.com/article/1652287070894) |
-| 32 | [Disruptor 在网易云音乐特征服务中的应用](https://www.6aiq.com/article/1652285375661) |
-| 33 | [网易严选 \| 流量分发决策：既要又要的平衡之路](https://www.6aiq.com/article/1651017723588) |
-| 34 | [网易严选数据湖建设实践](https://www.6aiq.com/article/1648602104581) |
-| 35 | [网易新闻推荐工程优化 - 特征算子篇](https://www.6aiq.com/article/1648079760819) |
-| 36 | [网易新闻推荐工程优化 - 特征平台篇](https://www.6aiq.com/article/1647651329252) |
-| 37 | [蒋能学：网易云音乐广告算法实践](https://www.6aiq.com/article/1647294843190) |
-| 38 | [傅轶：网易数帆云原生日志平台架构实践](https://www.6aiq.com/article/1647091415005) |
-| 39 | [网易云音乐广告 CTR 预估模型演进过程](https://www.6aiq.com/article/1640133996814) |
-| 40 | [网易严选实时计算平台建设实践](https://www.6aiq.com/article/1639438996585) |
-| 41 | [网易 \| Hive SQL 迁移 Spark SQL 在网易传媒的实践](https://www.6aiq.com/article/1634686944958) |
-| 42 | [网易云音乐实时数仓 2.0 进阶之路](https://www.6aiq.com/article/1634257508064) |
-| 43 | [2021 年网易云音乐实时计算平台发展和挑战](https://www.6aiq.com/article/1633992541754) |
-| 44 | [网易有数机器学习平台批调度与 k8s 调度系统的深度解析](https://www.6aiq.com/article/1628641646793) |
-| 45 | [网易云音乐大 Flow 任务优化实践](https://www.6aiq.com/article/1626890691669) |
-| 46 | [网易云音乐数仓治理之数据任务重构实践](https://www.6aiq.com/article/1625183469934) |
-| 47 | [网易云音乐数据服务之路](https://www.6aiq.com/article/1621554548065) |
-| 48 | [网易游戏基于 Flink 的流式 ETL 建设](https://www.6aiq.com/article/1616288274918) |
-| 49 | [网易严选 \| DDD 在严选供应链复杂业务系统的落地实践](https://www.6aiq.com/article/1616192813239) |
-| 50 | [网易严选用户画像建设实践](https://www.6aiq.com/article/1607897911304) |
-| 51 | [网易 \| 严选电子面单稳定性治理实践](https://www.6aiq.com/article/1607795847262) |
-| 52 | [网易云音乐基于 Flink + Kafka 的实时数仓建设实践](https://www.6aiq.com/article/1607644344438) |
-| 53 | [网易云音乐推荐中的用户行为序列深度建模](https://www.6aiq.com/article/1605977246241) |
-| 54 | [网易严选 \| "全能选手"—Embedding 召回表征算法实践](https://www.6aiq.com/article/1603932138697) |
-| 55 | [网易数据湖探索与实践](https://www.6aiq.com/article/1602426767670) |
-| 56 | [网易严选 - 数仓规范和评价体系](https://www.6aiq.com/article/1602417957024) |
-| 57 | [网易 \| 向量体系 (Embedding) 在严选的落地实践](https://www.6aiq.com/article/1601292770313) |
-| 58 | [网易大数据用户画像实践](https://www.6aiq.com/article/1599659006060) |
-| 59 | [预训练语言模型在网易严选的应用](https://www.6aiq.com/article/1596759801305) |
-| 60 | [网易新闻推荐：深度学习排序系统及模型](https://www.6aiq.com/article/1562600299283) |
-| 61 | [网易杭研 分享 图数据库基础](https://www.6aiq.com/article/1550589571252) |
-| 62 | [AIQ - 深度 \| 网易云音乐王诗沐：我们是如何四年时间做到 4 亿用户的](https://www.6aiq.com/article/1532251141067) |
+| 1 | [网易 Arctic on Flink 流式特性核心原理解读](https://www.6aiq.com/article/1684568055251) |
+| 2 | [查询时长下降10倍！网易有数 BI 物化视图设计要点与内部实践](https://www.6aiq.com/article/1684040639903) |
+| 3 | [网易云音乐实时数仓架构与低代码实践](https://www.6aiq.com/article/1683266677825) |
+| 4 | [网易数据治理体系、工具、流程、制度与管理概述](https://www.6aiq.com/article/1677128401272) |
+| 5 | [网易｜浅谈电商搜索数据指标体系建设](https://www.6aiq.com/article/1676566945011) |
+| 6 | [网易云音乐数据资产化建设的思考与实践](https://www.6aiq.com/article/1675875136321) |
+| 7 | [网易严选算法模型质量保障](https://www.6aiq.com/article/1675050710731) |
+| 8 | [网易云音乐全链路埋点管理平台建设](https://www.6aiq.com/article/1673953869164) |
+| 9 | [网易云音乐评论内容理解技术](https://www.6aiq.com/article/1673343120713) |
+| 10 | [网易云音乐视频搜索优化之旅](https://www.6aiq.com/article/1672823184639) |
+| 11 | [网易邮箱数仓演进之路](https://www.6aiq.com/article/1672748272783) |
+| 12 | [网易基于历史查询的 Impala 集群性能优化实践](https://www.6aiq.com/article/1670429368683) |
+| 13 | [网易严选 A/B 科学实验平台实践](https://www.6aiq.com/article/1669864117461) |
+| 14 | [网易严选跨域多目标算法演进](https://www.6aiq.com/article/1668694502136) |
+| 15 | [Apache Iceberg 在网易严选批流一体的实践](https://www.6aiq.com/article/1661956482526) |
+| 16 | [网易严选机器学习平台建设实践](https://www.6aiq.com/article/1661745581086) |
+| 17 | [网易严选｜如何在工业界做流量调控](https://www.6aiq.com/article/1661165750310) |
+| 18 | [网易云音乐播放页直播推荐实战](https://www.6aiq.com/article/1660745718777) |
+| 19 | [网易严选首焦推荐算法实践](https://www.6aiq.com/article/1660708979106) |
+| 20 | [网易严选 DMP 标签系统建设实践](https://www.6aiq.com/article/1660459826070) |
+| 21 | [网易｜数据治理体系演进简介](https://www.6aiq.com/article/1659104806475) |
+| 22 | [网易严选流量数据体系演进（上篇）](https://www.6aiq.com/article/1658238531836) |
+| 23 | [网易严选流量数据体系建设](https://www.6aiq.com/article/1657552515183) |
+| 24 | [网易云音乐机器学习平台实践](https://www.6aiq.com/article/1657079445183) |
+| 25 | [网易云音乐 FeatureStore 建设与实践](https://www.6aiq.com/article/1656583509582) |
+| 26 | [网易云音乐模型预估系统建设与实践](https://www.6aiq.com/article/1655302518521) |
+| 27 | [网易云音乐｜服务启动过程性能波动的分析与解决方案](https://www.6aiq.com/article/1653721299791) |
+| 28 | [网易数帆数据中台逻辑数据湖的实践](https://www.6aiq.com/article/1653720690381) |
+| 29 | [网易严选时序预测算法实践](https://www.6aiq.com/article/1652458697875) |
+| 30 | [实时增量学习在网易云音乐直播推荐系统中的实践](https://www.6aiq.com/article/1652287070894) |
+| 31 | [Disruptor 在网易云音乐特征服务中的应用](https://www.6aiq.com/article/1652285375661) |
+| 32 | [网易严选 \| 流量分发决策：既要又要的平衡之路](https://www.6aiq.com/article/1651017723588) |
+| 33 | [网易严选数据湖建设实践](https://www.6aiq.com/article/1648602104581) |
+| 34 | [网易新闻推荐工程优化 - 特征算子篇](https://www.6aiq.com/article/1648079760819) |
+| 35 | [网易新闻推荐工程优化 - 特征平台篇](https://www.6aiq.com/article/1647651329252) |
+| 36 | [蒋能学：网易云音乐广告算法实践](https://www.6aiq.com/article/1647294843190) |
+| 37 | [傅轶：网易数帆云原生日志平台架构实践](https://www.6aiq.com/article/1647091415005) |
+| 38 | [网易云音乐广告 CTR 预估模型演进过程](https://www.6aiq.com/article/1640133996814) |
+| 39 | [网易严选实时计算平台建设实践](https://www.6aiq.com/article/1639438996585) |
+| 40 | [网易 \| Hive SQL 迁移 Spark SQL 在网易传媒的实践](https://www.6aiq.com/article/1634686944958) |
+| 41 | [网易云音乐实时数仓 2.0 进阶之路](https://www.6aiq.com/article/1634257508064) |
+| 42 | [2021 年网易云音乐实时计算平台发展和挑战](https://www.6aiq.com/article/1633992541754) |
+| 43 | [网易有数机器学习平台批调度与 k8s 调度系统的深度解析](https://www.6aiq.com/article/1628641646793) |
+| 44 | [网易云音乐大 Flow 任务优化实践](https://www.6aiq.com/article/1626890691669) |
+| 45 | [网易云音乐数仓治理之数据任务重构实践](https://www.6aiq.com/article/1625183469934) |
+| 46 | [网易云音乐数据服务之路](https://www.6aiq.com/article/1621554548065) |
+| 47 | [网易游戏基于 Flink 的流式 ETL 建设](https://www.6aiq.com/article/1616288274918) |
+| 48 | [网易严选 \| DDD 在严选供应链复杂业务系统的落地实践](https://www.6aiq.com/article/1616192813239) |
+| 49 | [网易严选用户画像建设实践](https://www.6aiq.com/article/1607897911304) |
+| 50 | [网易 \| 严选电子面单稳定性治理实践](https://www.6aiq.com/article/1607795847262) |
+| 51 | [网易云音乐基于 Flink + Kafka 的实时数仓建设实践](https://www.6aiq.com/article/1607644344438) |
+| 52 | [网易云音乐推荐中的用户行为序列深度建模](https://www.6aiq.com/article/1605977246241) |
+| 53 | [网易严选 \| "全能选手"—Embedding 召回表征算法实践](https://www.6aiq.com/article/1603932138697) |
+| 54 | [网易数据湖探索与实践](https://www.6aiq.com/article/1602426767670) |
+| 55 | [网易严选 - 数仓规范和评价体系](https://www.6aiq.com/article/1602417957024) |
+| 56 | [网易 \| 向量体系 (Embedding) 在严选的落地实践](https://www.6aiq.com/article/1601292770313) |
+| 57 | [网易大数据用户画像实践](https://www.6aiq.com/article/1599659006060) |
+| 58 | [预训练语言模型在网易严选的应用](https://www.6aiq.com/article/1596759801305) |
+| 59 | [网易新闻推荐：深度学习排序系统及模型](https://www.6aiq.com/article/1562600299283) |
+| 60 | [网易杭研 分享 图数据库基础](https://www.6aiq.com/article/1550589571252) |
+| 61 | [AIQ - 深度 \| 网易云音乐王诗沐：我们是如何四年时间做到 4 亿用户的](https://www.6aiq.com/article/1532251141067) |
 ## 蚂蚁金服
 | 序号 | 佳作 |
 | --- | --- |
