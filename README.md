@@ -25,31 +25,30 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-05-26 ~ 2023-06-02), 本周报更新时间:2023-06-02 23:33:29
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-05-27 ~ 2023-06-03), 本周报更新时间:2023-06-03 22:33:37
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [压缩即智能：为什么 ChatGPT 拥有智能？](https://zhuanlan.zhihu.com/p/634194171) | 绝密伏击 | 2023-06-02 20:12:29 |
-| 2 | [脚踏实地：来自Google的企业级推荐算法实践](https://zhuanlan.zhihu.com/p/634217033) | 石塔西 | 2023-06-02 16:30:50 |
-| 3 | [因果推断与大模型如何互相促进？且看学界和业界专家详解](https://zhuanlan.zhihu.com/p/633865250) | DataFunTalk | 2023-06-01 11:55:58 |
-| 4 | [吴恩达来信：吴老师喊你上课啦！](https://zhuanlan.zhihu.com/p/633864756) | 吴恩达 | 2023-06-01 11:51:11 |
-| 5 | [SIGIR2023 \| ID vs 模态: 推荐系统ID范式有望被颠覆？](https://zhuanlan.zhihu.com/p/633839409) | 张小磊 | 2023-06-01 10:36:04 |
-| 6 | [CVPR 2023 \| 基于内容融合的字体生成方法](https://zhuanlan.zhihu.com/p/633833249) | 阿里妈妈技术 | 2023-06-01 10:20:20 |
-| 7 | [人脸检测技术演进史](https://zhuanlan.zhihu.com/p/633715836) | DataFunTalk | 2023-05-31 18:39:39 |
-| 8 | [谷歌大模型指令微调：The Flan Collection](https://zhuanlan.zhihu.com/p/633346577) | 绝密伏击 | 2023-05-31 14:51:51 |
-| 9 | [谈谈做WeShop过程中对AIGC产品的一些思考----写在WeShop正式版上线](https://zhuanlan.zhihu.com/p/633513013) | 吴海波 | 2023-05-31 12:53:45 |
-| 10 | [策略产品必知系列之一文详解“特征工程”](https://zhuanlan.zhihu.com/p/633491429) | 策略产品Arthur | 2023-05-31 00:11:50 |
-| 11 | [网易有数 BI 图表查询性能优化实践](https://zhuanlan.zhihu.com/p/633434240) | DataFunTalk | 2023-05-30 19:03:11 |
-| 12 | [因果推断在翼支付智能决策场景的应用](https://zhuanlan.zhihu.com/p/633433682) | DataFunTalk | 2023-05-30 18:57:54 |
-| 13 | [多任务学习最新：基于神经元级共享的 CTR、CVR 多任务联合预估方法](https://zhuanlan.zhihu.com/p/633128623) | DataFunTalk | 2023-05-29 18:04:40 |
-| 14 | [图计算在翼支付风控场景的应用](https://zhuanlan.zhihu.com/p/633122864) | DataFunTalk | 2023-05-29 17:42:56 |
-| 15 | [超越甲骨文和微软，位居第一，数据库技术未来会如何创新？](https://zhuanlan.zhihu.com/p/633046989) | DataFunTalk | 2023-05-29 14:36:37 |
-| 16 | [吴恩达来信：更“省”数据的大型预训练模型](https://zhuanlan.zhihu.com/p/633010516) | 吴恩达 | 2023-05-29 12:13:50 |
-| 17 | [Apache hudi在腾讯的落地与实践](https://zhuanlan.zhihu.com/p/632811900) | DataFunTalk | 2023-05-28 15:30:02 |
-| 18 | [世界的参数倒影：为何GPT通过Next Token Prediction可以产生智能](https://zhuanlan.zhihu.com/p/632795115) | 张俊林 | 2023-05-28 15:07:48 |
-| 19 | [图算法在阿里风控系统中的实践](https://zhuanlan.zhihu.com/p/632787757) | DataFunTalk | 2023-05-28 11:26:43 |
-| 20 | [LLM时代NLP研究何去何从？一个博士生的角度出发](https://zhuanlan.zhihu.com/p/632446200) | zenRRan | 2023-05-26 17:24:35 |
-| 21 | [基于知识的神经符号结合的离散推理研究](https://zhuanlan.zhihu.com/p/632453931) | DataFunTalk | 2023-05-26 16:41:02 |
+| 1 | [图解大模型训练之：Megatron源码解读2，模型并行](https://zhuanlan.zhihu.com/p/634377071) | 猛猿 | 2023-06-03 13:26:37 |
+| 2 | [压缩即智能：为什么 ChatGPT 拥有智能？](https://zhuanlan.zhihu.com/p/634194171) | 绝密伏击 | 2023-06-02 20:12:29 |
+| 3 | [脚踏实地：来自Google的企业级推荐算法实践](https://zhuanlan.zhihu.com/p/634217033) | 石塔西 | 2023-06-02 16:30:50 |
+| 4 | [因果推断与大模型如何互相促进？且看学界和业界专家详解](https://zhuanlan.zhihu.com/p/633865250) | DataFunTalk | 2023-06-01 11:55:58 |
+| 5 | [吴恩达来信：吴老师喊你上课啦！](https://zhuanlan.zhihu.com/p/633864756) | 吴恩达 | 2023-06-01 11:51:11 |
+| 6 | [SIGIR2023 \| ID vs 模态: 推荐系统ID范式有望被颠覆？](https://zhuanlan.zhihu.com/p/633839409) | 张小磊 | 2023-06-01 10:36:04 |
+| 7 | [CVPR 2023 \| 基于内容融合的字体生成方法](https://zhuanlan.zhihu.com/p/633833249) | 阿里妈妈技术 | 2023-06-01 10:20:20 |
+| 8 | [人脸检测技术演进史](https://zhuanlan.zhihu.com/p/633715836) | DataFunTalk | 2023-05-31 18:39:39 |
+| 9 | [谷歌大模型指令微调：The Flan Collection](https://zhuanlan.zhihu.com/p/633346577) | 绝密伏击 | 2023-05-31 14:51:51 |
+| 10 | [谈谈做WeShop过程中对AIGC产品的一些思考----写在WeShop正式版上线](https://zhuanlan.zhihu.com/p/633513013) | 吴海波 | 2023-05-31 12:53:45 |
+| 11 | [策略产品必知系列之一文详解“特征工程”](https://zhuanlan.zhihu.com/p/633491429) | 策略产品Arthur | 2023-05-31 00:11:50 |
+| 12 | [网易有数 BI 图表查询性能优化实践](https://zhuanlan.zhihu.com/p/633434240) | DataFunTalk | 2023-05-30 19:03:11 |
+| 13 | [因果推断在翼支付智能决策场景的应用](https://zhuanlan.zhihu.com/p/633433682) | DataFunTalk | 2023-05-30 18:57:54 |
+| 14 | [多任务学习最新：基于神经元级共享的 CTR、CVR 多任务联合预估方法](https://zhuanlan.zhihu.com/p/633128623) | DataFunTalk | 2023-05-29 18:04:40 |
+| 15 | [图计算在翼支付风控场景的应用](https://zhuanlan.zhihu.com/p/633122864) | DataFunTalk | 2023-05-29 17:42:56 |
+| 16 | [超越甲骨文和微软，位居第一，数据库技术未来会如何创新？](https://zhuanlan.zhihu.com/p/633046989) | DataFunTalk | 2023-05-29 14:36:37 |
+| 17 | [吴恩达来信：更“省”数据的大型预训练模型](https://zhuanlan.zhihu.com/p/633010516) | 吴恩达 | 2023-05-29 12:13:50 |
+| 18 | [Apache hudi在腾讯的落地与实践](https://zhuanlan.zhihu.com/p/632811900) | DataFunTalk | 2023-05-28 15:30:02 |
+| 19 | [世界的参数倒影：为何GPT通过Next Token Prediction可以产生智能](https://zhuanlan.zhihu.com/p/632795115) | 张俊林 | 2023-05-28 15:07:48 |
+| 20 | [图算法在阿里风控系统中的实践](https://zhuanlan.zhihu.com/p/632787757) | DataFunTalk | 2023-05-28 11:26:43 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [DataFunTalk](#datafuntalk)
@@ -2753,22 +2752,23 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [图解大模型系列之：Megatron源码解读1，分布式环境初始化](https://zhuanlan.zhihu.com/p/629121480) | 2023-05-13 17:31:49 |
-| 2 | [图解大模型系列之：张量模型并行，Megatron-LM](https://zhuanlan.zhihu.com/p/622212228) | 2023-04-15 20:40:41 |
-| 3 | [图解大模型训练之：数据并行下篇(ZeRO，零冗余优化)](https://zhuanlan.zhihu.com/p/618865052) | 2023-04-02 13:43:23 |
-| 4 | [图解大模型训练之：数据并行上篇(DP, DDP与ZeRO)](https://zhuanlan.zhihu.com/p/617133971) | 2023-03-26 16:03:44 |
-| 5 | [图解大模型训练之：流水线并行（Pipeline Parallelism），以Gpipe为例](https://zhuanlan.zhihu.com/p/613196255) | 2023-03-11 18:36:21 |
-| 6 | [ChatGPT技术解析系列之：赋予GPT写代码能力的Codex](https://zhuanlan.zhihu.com/p/611313567) | 2023-03-04 17:35:35 |
-| 7 | [ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098) | 2023-02-25 14:38:57 |
-| 8 | [强化学习解析一：马尔可夫决策过程（MDP）和有模型学习](https://zhuanlan.zhihu.com/p/607596944) | 2023-02-19 13:14:39 |
-| 9 | [ChatGPT技术解析系列之：训练框架InstructGPT](https://zhuanlan.zhihu.com/p/605516116) | 2023-02-11 21:37:54 |
-| 10 | [BERT学习笔记一：基于论文精读的模型详解](https://zhuanlan.zhihu.com/p/461267517) | 2022-01-24 13:39:19 |
-| 11 | [Transformer学习笔记五：Subword Tokenization（子词分词器）](https://zhuanlan.zhihu.com/p/460678461) | 2022-01-22 15:33:26 |
-| 12 | [Hadoop学习笔记：图解HDFS文件系统](https://zhuanlan.zhihu.com/p/459921566) | 2022-01-20 16:40:45 |
-| 13 | [Transformer学习笔记四：ResNet（残差网络）](https://zhuanlan.zhihu.com/p/459065530) | 2022-01-18 18:26:57 |
-| 14 | [Transformer学习笔记三：为什么Transformer要用LayerNorm/Batch Normalization & Layer Normalization （批量&层标准化)](https://zhuanlan.zhihu.com/p/456863215) | 2022-01-13 15:56:47 |
-| 15 | [Transformer学习笔记二：Self-Attention（自注意力机制）](https://zhuanlan.zhihu.com/p/455399791) | 2022-01-10 13:05:46 |
-| 16 | [Transformer学习笔记一：Positional Encoding（位置编码）](https://zhuanlan.zhihu.com/p/454482273) | 2022-01-07 17:18:25 |
+| 1 | [图解大模型训练之：Megatron源码解读2，模型并行](https://zhuanlan.zhihu.com/p/634377071) | 2023-06-03 13:26:37 |
+| 2 | [图解大模型系列之：Megatron源码解读1，分布式环境初始化](https://zhuanlan.zhihu.com/p/629121480) | 2023-05-13 17:31:49 |
+| 3 | [图解大模型系列之：张量模型并行，Megatron-LM](https://zhuanlan.zhihu.com/p/622212228) | 2023-04-15 20:40:41 |
+| 4 | [图解大模型训练之：数据并行下篇(ZeRO，零冗余优化)](https://zhuanlan.zhihu.com/p/618865052) | 2023-04-02 13:43:23 |
+| 5 | [图解大模型训练之：数据并行上篇(DP, DDP与ZeRO)](https://zhuanlan.zhihu.com/p/617133971) | 2023-03-26 16:03:44 |
+| 6 | [图解大模型训练之：流水线并行（Pipeline Parallelism），以Gpipe为例](https://zhuanlan.zhihu.com/p/613196255) | 2023-03-11 18:36:21 |
+| 7 | [ChatGPT技术解析系列之：赋予GPT写代码能力的Codex](https://zhuanlan.zhihu.com/p/611313567) | 2023-03-04 17:35:35 |
+| 8 | [ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098) | 2023-02-25 14:38:57 |
+| 9 | [强化学习解析一：马尔可夫决策过程（MDP）和有模型学习](https://zhuanlan.zhihu.com/p/607596944) | 2023-02-19 13:14:39 |
+| 10 | [ChatGPT技术解析系列之：训练框架InstructGPT](https://zhuanlan.zhihu.com/p/605516116) | 2023-02-11 21:37:54 |
+| 11 | [BERT学习笔记一：基于论文精读的模型详解](https://zhuanlan.zhihu.com/p/461267517) | 2022-01-24 13:39:19 |
+| 12 | [Transformer学习笔记五：Subword Tokenization（子词分词器）](https://zhuanlan.zhihu.com/p/460678461) | 2022-01-22 15:33:26 |
+| 13 | [Hadoop学习笔记：图解HDFS文件系统](https://zhuanlan.zhihu.com/p/459921566) | 2022-01-20 16:40:45 |
+| 14 | [Transformer学习笔记四：ResNet（残差网络）](https://zhuanlan.zhihu.com/p/459065530) | 2022-01-18 18:26:57 |
+| 15 | [Transformer学习笔记三：为什么Transformer要用LayerNorm/Batch Normalization & Layer Normalization （批量&层标准化)](https://zhuanlan.zhihu.com/p/456863215) | 2022-01-13 15:56:47 |
+| 16 | [Transformer学习笔记二：Self-Attention（自注意力机制）](https://zhuanlan.zhihu.com/p/455399791) | 2022-01-10 13:05:46 |
+| 17 | [Transformer学习笔记一：Positional Encoding（位置编码）](https://zhuanlan.zhihu.com/p/454482273) | 2022-01-07 17:18:25 |
 
 
 ## 风控大鱼
