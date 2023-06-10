@@ -25,25 +25,24 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-06-02 ~ 2023-06-09), 本周报更新时间:2023-06-09 23:33:57
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-06-03 ~ 2023-06-10), 本周报更新时间:2023-06-10 22:33:20
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [低代码指标平台，构建人人可用的敏捷指标工具](https://zhuanlan.zhihu.com/p/635595653) | DataFunTalk | 2023-06-08 14:12:52 |
-| 2 | [超写实数字人技术探索](https://zhuanlan.zhihu.com/p/635416788) | DataFunTalk | 2023-06-07 20:07:01 |
-| 3 | [基于统一语义层构建的智能化数据分析平台](https://zhuanlan.zhihu.com/p/635415159) | DataFunTalk | 2023-06-07 18:33:52 |
-| 4 | [基于统一语义层构建的智能化数据分析平台](https://zhuanlan.zhihu.com/p/635413937) | DataFunTalk | 2023-06-07 18:26:32 |
-| 5 | [美团广告平台模型组科研实习生招聘](https://zhuanlan.zhihu.com/p/635336504) | 萧瑟 | 2023-06-07 15:20:04 |
-| 6 | [策略产品经理必读系列—第十四讲搜广推业务中CTR纠偏](https://zhuanlan.zhihu.com/p/627143850) | King James | 2023-06-07 09:09:09 |
-| 7 | [现代人之“伤寒”——三和书院医道传承第五次主干课感悟](https://zhuanlan.zhihu.com/p/634893324) | 琦琦 | 2023-06-05 21:24:34 |
-| 8 | [CTR预估之Wide&Deep系列(下):NFM/xDeepFM](https://zhuanlan.zhihu.com/p/634584585) | Keep Learning | 2023-06-04 17:21:54 |
-| 9 | [从 Apache Doris 到 SelectDB：下一代云原生实时数仓的演进](https://zhuanlan.zhihu.com/p/634404909) | DataFunTalk | 2023-06-04 15:11:10 |
-| 10 | [精准推荐的秘术：阿里解耦域适应无偏召回模型详解](https://zhuanlan.zhihu.com/p/634386054) | DataFunTalk | 2023-06-04 13:02:02 |
-| 11 | [【LLM 加速技巧】Muti Query Attention 和 Attention with Linear Bias（附源码）](https://zhuanlan.zhihu.com/p/634236135) | 何枝 | 2023-06-03 23:00:04 |
-| 12 | [0基础无ODE理解OpenAI最新图像生成模型Consistency Model](https://zhuanlan.zhihu.com/p/634357813) | 潘润琦 | 2023-06-03 22:40:01 |
-| 13 | [图解大模型训练之：Megatron源码解读2，模型并行](https://zhuanlan.zhihu.com/p/634377071) | 猛猿 | 2023-06-03 13:26:37 |
-| 14 | [压缩即智能：为什么 ChatGPT 拥有智能？](https://zhuanlan.zhihu.com/p/634194171) | 绝密伏击 | 2023-06-02 20:12:29 |
-| 15 | [脚踏实地：来自Google的企业级推荐算法实践](https://zhuanlan.zhihu.com/p/634217033) | 石塔西 | 2023-06-02 16:30:50 |
+| 1 | [开源家族——中文羊驼LLaMA & Alpaca大语言模型](https://zhuanlan.zhihu.com/p/636136687) | 琦琦 | 2023-06-10 19:06:06 |
+| 2 | [低代码指标平台，构建人人可用的敏捷指标工具](https://zhuanlan.zhihu.com/p/635595653) | DataFunTalk | 2023-06-08 14:12:52 |
+| 3 | [超写实数字人技术探索](https://zhuanlan.zhihu.com/p/635416788) | DataFunTalk | 2023-06-07 20:07:01 |
+| 4 | [基于统一语义层构建的智能化数据分析平台](https://zhuanlan.zhihu.com/p/635415159) | DataFunTalk | 2023-06-07 18:33:52 |
+| 5 | [基于统一语义层构建的智能化数据分析平台](https://zhuanlan.zhihu.com/p/635413937) | DataFunTalk | 2023-06-07 18:26:32 |
+| 6 | [美团广告平台模型组科研实习生招聘](https://zhuanlan.zhihu.com/p/635336504) | 萧瑟 | 2023-06-07 15:20:04 |
+| 7 | [策略产品经理必读系列—第十四讲搜广推业务中CTR纠偏](https://zhuanlan.zhihu.com/p/627143850) | King James | 2023-06-07 09:09:09 |
+| 8 | [现代人之“伤寒”——三和书院医道传承第五次主干课感悟](https://zhuanlan.zhihu.com/p/634893324) | 琦琦 | 2023-06-05 21:24:34 |
+| 9 | [CTR预估之Wide&Deep系列(下):NFM/xDeepFM](https://zhuanlan.zhihu.com/p/634584585) | Keep Learning | 2023-06-04 17:21:54 |
+| 10 | [从 Apache Doris 到 SelectDB：下一代云原生实时数仓的演进](https://zhuanlan.zhihu.com/p/634404909) | DataFunTalk | 2023-06-04 15:11:10 |
+| 11 | [精准推荐的秘术：阿里解耦域适应无偏召回模型详解](https://zhuanlan.zhihu.com/p/634386054) | DataFunTalk | 2023-06-04 13:02:02 |
+| 12 | [【LLM 加速技巧】Muti Query Attention 和 Attention with Linear Bias（附源码）](https://zhuanlan.zhihu.com/p/634236135) | 何枝 | 2023-06-03 23:00:04 |
+| 13 | [0基础无ODE理解OpenAI最新图像生成模型Consistency Model](https://zhuanlan.zhihu.com/p/634357813) | 潘润琦 | 2023-06-03 22:40:01 |
+| 14 | [图解大模型训练之：Megatron源码解读2，模型并行](https://zhuanlan.zhihu.com/p/634377071) | 猛猿 | 2023-06-03 13:26:37 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [DataFunTalk](#datafuntalk)
@@ -2260,35 +2259,36 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [现代人之“伤寒”——三和书院医道传承第五次主干课感悟](https://zhuanlan.zhihu.com/p/634893324) | 2023-06-05 21:24:34 |
-| 2 | [开源大模型论文/代码/模型文件汇总](https://zhuanlan.zhihu.com/p/631625550) | 2023-05-23 18:19:13 |
-| 3 | [开源大模型斯坦福Alpaca（小羊驼）——指令调优的LLaMA模型——100美元媲美GPT3.5](https://zhuanlan.zhihu.com/p/631296001) | 2023-05-22 16:38:04 |
-| 4 | [开源大模型LLaMA（羊驼）论文详解——Facebook母公司Meta推出，超越GPT-3](https://zhuanlan.zhihu.com/p/631085425) | 2023-05-21 21:06:31 |
-| 5 | [清华ChatGLM底层原理详解——ChatGPT国内最强开源平替，单卡可运行](https://zhuanlan.zhihu.com/p/630134021) | 2023-05-17 18:01:52 |
-| 6 | [[万字论文详解]媲美ChatGPT——Google支持的Anthropic推出”更理性的Claude“](https://zhuanlan.zhihu.com/p/629225773) | 2023-05-14 11:27:21 |
-| 7 | [揭开大型语言模型ChatGPT的神秘面纱](https://zhuanlan.zhihu.com/p/627509839) | 2023-05-07 19:05:07 |
-| 8 | [InstructGPT论文精读——ChatGPT前身，从人类反馈中学习](https://zhuanlan.zhihu.com/p/627312306) | 2023-05-06 18:21:56 |
-| 9 | [[万字长文]ChatGPT系列论文精读——大模型经典论文GPT1、GPT2、GPT3](https://zhuanlan.zhihu.com/p/626494749) | 2023-05-03 21:15:42 |
-| 10 | [一文读懂GPT家族和BERT的底层区别——自回归和自编码语言模型详解](https://zhuanlan.zhihu.com/p/625714067) | 2023-04-28 18:29:09 |
-| 11 | [ChatGPT相关技术必读论文](https://zhuanlan.zhihu.com/p/624811729) | 2023-04-25 18:40:07 |
-| 12 | [巫医一家，从国学角度看中医治病——三和书院医道传承第四次主干课感悟](https://zhuanlan.zhihu.com/p/622387530) | 2023-04-16 21:16:12 |
-| 13 | [君子慎始，差若毫厘，谬以千里——三和书院医道传承第三次主干课感悟](https://zhuanlan.zhihu.com/p/613320387) | 2023-03-12 12:08:05 |
-| 14 | [我是如何看待和应对新冠疫情的](https://zhuanlan.zhihu.com/p/603684513) | 2023-02-05 19:02:21 |
-| 15 | [辨证求因，审因论治——三和书院医道传承大课“疫情当下，我们该如何应对”感悟](https://zhuanlan.zhihu.com/p/592721054) | 2022-12-18 18:48:13 |
-| 16 | [CS285深度强化学习笔记3——马尔科夫决策过程 & 强化学习目标 & RL结构 & RL类型](https://zhuanlan.zhihu.com/p/356053534) | 2021-03-11 20:04:38 |
-| 17 | [CS285深度强化学习笔记2——序列决策问题和imitation learning](https://zhuanlan.zhihu.com/p/354748682) | 2021-03-08 19:39:53 |
-| 18 | [CS285深度强化学习笔记1——概览](https://zhuanlan.zhihu.com/p/354553750) | 2021-03-04 20:51:37 |
-| 19 | [多任务学习——共享模式／权重选择／attention融合论文剖析](https://zhuanlan.zhihu.com/p/347338896) | 2021-02-10 16:29:10 |
-| 20 | [基于ESMM模型的MTL多目标优化实践——用户活跃度影响排序机制——蘑菇街首页信息流推荐](https://zhuanlan.zhihu.com/p/344165004) | 2021-02-08 18:50:15 |
-| 21 | [基于ESMM模型的多目标优化实践——蘑菇街商城篇](https://zhuanlan.zhihu.com/p/338515054) | 2021-01-08 16:16:49 |
-| 22 | [蘑菇街增量学习番外篇三：deepFM的动态正则实践](https://zhuanlan.zhihu.com/p/337649676) | 2020-12-18 15:35:17 |
-| 23 | [蘑菇街增量学习番外篇二：优化器设计理论篇（AdamW、AdaDeltaW、FTRL）](https://zhuanlan.zhihu.com/p/329877052) | 2020-12-17 18:06:37 |
-| 24 | [蘑菇街增量学习番外篇一：动态正则之tensorflow中div转mod设计（含代码实现）](https://zhuanlan.zhihu.com/p/270354109) | 2020-11-27 21:02:52 |
-| 25 | [蘑菇街首页推荐多目标优化之reweight实践：一把双刃剑？](https://zhuanlan.zhihu.com/p/271858727) | 2020-11-10 21:39:01 |
-| 26 | [文本相关性在蘑菇街搜索推荐排序系统中的应用](https://zhuanlan.zhihu.com/p/265522400) | 2020-10-30 21:39:43 |
-| 27 | [蘑菇街推荐算法之迷——self attention不如traditional attention？](https://zhuanlan.zhihu.com/p/256252184) | 2020-09-23 22:09:25 |
-| 28 | [来唠个嗑——深度学习之表示学习（理论结合实践的思考）](https://zhuanlan.zhihu.com/p/234224652) | 2020-09-16 22:06:08 |
-| 29 | [蘑菇街首页推荐视频流——增量学习与wide&deepFM实践（工程+算法）](https://zhuanlan.zhihu.com/p/212647751) | 2020-09-03 21:17:57 |
+| 1 | [开源家族——中文羊驼LLaMA & Alpaca大语言模型](https://zhuanlan.zhihu.com/p/636136687) | 2023-06-10 19:06:06 |
+| 2 | [现代人之“伤寒”——三和书院医道传承第五次主干课感悟](https://zhuanlan.zhihu.com/p/634893324) | 2023-06-05 21:24:34 |
+| 3 | [开源大模型论文/代码/模型文件汇总](https://zhuanlan.zhihu.com/p/631625550) | 2023-05-23 18:19:13 |
+| 4 | [开源大模型斯坦福Alpaca（小羊驼）——指令调优的LLaMA模型——100美元媲美GPT3.5](https://zhuanlan.zhihu.com/p/631296001) | 2023-05-22 16:38:04 |
+| 5 | [开源大模型LLaMA（羊驼）论文详解——Facebook母公司Meta推出，超越GPT-3](https://zhuanlan.zhihu.com/p/631085425) | 2023-05-21 21:06:31 |
+| 6 | [清华ChatGLM底层原理详解——ChatGPT国内最强开源平替，单卡可运行](https://zhuanlan.zhihu.com/p/630134021) | 2023-05-17 18:01:52 |
+| 7 | [[万字论文详解]媲美ChatGPT——Google支持的Anthropic推出”更理性的Claude“](https://zhuanlan.zhihu.com/p/629225773) | 2023-05-14 11:27:21 |
+| 8 | [揭开大型语言模型ChatGPT的神秘面纱](https://zhuanlan.zhihu.com/p/627509839) | 2023-05-07 19:05:07 |
+| 9 | [InstructGPT论文精读——ChatGPT前身，从人类反馈中学习](https://zhuanlan.zhihu.com/p/627312306) | 2023-05-06 18:21:56 |
+| 10 | [[万字长文]ChatGPT系列论文精读——大模型经典论文GPT1、GPT2、GPT3](https://zhuanlan.zhihu.com/p/626494749) | 2023-05-03 21:15:42 |
+| 11 | [一文读懂GPT家族和BERT的底层区别——自回归和自编码语言模型详解](https://zhuanlan.zhihu.com/p/625714067) | 2023-04-28 18:29:09 |
+| 12 | [ChatGPT相关技术必读论文](https://zhuanlan.zhihu.com/p/624811729) | 2023-04-25 18:40:07 |
+| 13 | [巫医一家，从国学角度看中医治病——三和书院医道传承第四次主干课感悟](https://zhuanlan.zhihu.com/p/622387530) | 2023-04-16 21:16:12 |
+| 14 | [君子慎始，差若毫厘，谬以千里——三和书院医道传承第三次主干课感悟](https://zhuanlan.zhihu.com/p/613320387) | 2023-03-12 12:08:05 |
+| 15 | [我是如何看待和应对新冠疫情的](https://zhuanlan.zhihu.com/p/603684513) | 2023-02-05 19:02:21 |
+| 16 | [辨证求因，审因论治——三和书院医道传承大课“疫情当下，我们该如何应对”感悟](https://zhuanlan.zhihu.com/p/592721054) | 2022-12-18 18:48:13 |
+| 17 | [CS285深度强化学习笔记3——马尔科夫决策过程 & 强化学习目标 & RL结构 & RL类型](https://zhuanlan.zhihu.com/p/356053534) | 2021-03-11 20:04:38 |
+| 18 | [CS285深度强化学习笔记2——序列决策问题和imitation learning](https://zhuanlan.zhihu.com/p/354748682) | 2021-03-08 19:39:53 |
+| 19 | [CS285深度强化学习笔记1——概览](https://zhuanlan.zhihu.com/p/354553750) | 2021-03-04 20:51:37 |
+| 20 | [多任务学习——共享模式／权重选择／attention融合论文剖析](https://zhuanlan.zhihu.com/p/347338896) | 2021-02-10 16:29:10 |
+| 21 | [基于ESMM模型的MTL多目标优化实践——用户活跃度影响排序机制——蘑菇街首页信息流推荐](https://zhuanlan.zhihu.com/p/344165004) | 2021-02-08 18:50:15 |
+| 22 | [基于ESMM模型的多目标优化实践——蘑菇街商城篇](https://zhuanlan.zhihu.com/p/338515054) | 2021-01-08 16:16:49 |
+| 23 | [蘑菇街增量学习番外篇三：deepFM的动态正则实践](https://zhuanlan.zhihu.com/p/337649676) | 2020-12-18 15:35:17 |
+| 24 | [蘑菇街增量学习番外篇二：优化器设计理论篇（AdamW、AdaDeltaW、FTRL）](https://zhuanlan.zhihu.com/p/329877052) | 2020-12-17 18:06:37 |
+| 25 | [蘑菇街增量学习番外篇一：动态正则之tensorflow中div转mod设计（含代码实现）](https://zhuanlan.zhihu.com/p/270354109) | 2020-11-27 21:02:52 |
+| 26 | [蘑菇街首页推荐多目标优化之reweight实践：一把双刃剑？](https://zhuanlan.zhihu.com/p/271858727) | 2020-11-10 21:39:01 |
+| 27 | [文本相关性在蘑菇街搜索推荐排序系统中的应用](https://zhuanlan.zhihu.com/p/265522400) | 2020-10-30 21:39:43 |
+| 28 | [蘑菇街推荐算法之迷——self attention不如traditional attention？](https://zhuanlan.zhihu.com/p/256252184) | 2020-09-23 22:09:25 |
+| 29 | [来唠个嗑——深度学习之表示学习（理论结合实践的思考）](https://zhuanlan.zhihu.com/p/234224652) | 2020-09-16 22:06:08 |
+| 30 | [蘑菇街首页推荐视频流——增量学习与wide&deepFM实践（工程+算法）](https://zhuanlan.zhihu.com/p/212647751) | 2020-09-03 21:17:57 |
 
 
 ## 衣介书生
