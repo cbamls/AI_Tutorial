@@ -25,30 +25,26 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-06-07 ~ 2023-06-14), 本周报更新时间:2023-06-14 23:33:46
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-06-08 ~ 2023-06-15), 本周报更新时间:2023-06-15 22:33:24
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [[亚马逊]GPT4Rec解读：用于个性化推荐和用户兴趣解释的生成式框架——GPT在推荐系统中的应用](https://zhuanlan.zhihu.com/p/637105415) | 琦琦 | 2023-06-14 18:52:17 |
-| 2 | [EB级数仓都在用的算子级血缘如何实现主动数据治理](https://zhuanlan.zhihu.com/p/637108757) | DataFunTalk | 2023-06-14 18:38:41 |
-| 3 | [循环神经网络详解（RNN/LSTM/GRU）](https://zhuanlan.zhihu.com/p/636756912) | 绝密伏击 | 2023-06-13 21:16:42 |
-| 4 | [网易基于Apache Ranger 的数据安全中心实践](https://zhuanlan.zhihu.com/p/636833115) | DataFunTalk | 2023-06-13 18:31:57 |
-| 5 | [【岗位】国际化Saas产品经理实习生](https://zhuanlan.zhihu.com/p/636830532) | 姚凯飞 | 2023-06-13 18:04:51 |
-| 6 | [从数据集成到现代数据栈](https://zhuanlan.zhihu.com/p/636714270) | DataFunTalk | 2023-06-13 11:48:01 |
-| 7 | [多模态大模型KOSMOS-1](https://zhuanlan.zhihu.com/p/636694683) | 大师兄 | 2023-06-13 11:08:14 |
-| 8 | [腾讯欧拉如何打造数据自治系统](https://zhuanlan.zhihu.com/p/636675430) | DataFunTalk | 2023-06-13 10:47:44 |
-| 9 | [大模型流水线并行（Pipeline）实战](https://zhuanlan.zhihu.com/p/636488690) | 刘聪NLP | 2023-06-13 09:58:50 |
-| 10 | [【LLM】从零开始训练大模型](https://zhuanlan.zhihu.com/p/636270877) | 何枝 | 2023-06-11 19:58:00 |
-| 11 | [数仓 Onedata 体系建设方法论](https://zhuanlan.zhihu.com/p/636275555) | DataFunTalk | 2023-06-11 16:23:00 |
-| 12 | [网易云音乐数据治理实践](https://zhuanlan.zhihu.com/p/636264206) | DataFunTalk | 2023-06-11 15:59:23 |
-| 13 | [去海口可以玩什么](https://zhuanlan.zhihu.com/p/636209925) | 亦一 | 2023-06-11 11:38:18 |
-| 14 | [开源家族——中文羊驼LLaMA & Alpaca大语言模型](https://zhuanlan.zhihu.com/p/636136687) | 琦琦 | 2023-06-10 19:06:06 |
-| 15 | [低代码指标平台，构建人人可用的敏捷指标工具](https://zhuanlan.zhihu.com/p/635595653) | DataFunTalk | 2023-06-08 14:12:52 |
-| 16 | [超写实数字人技术探索](https://zhuanlan.zhihu.com/p/635416788) | DataFunTalk | 2023-06-07 20:07:01 |
-| 17 | [基于统一语义层构建的智能化数据分析平台](https://zhuanlan.zhihu.com/p/635415159) | DataFunTalk | 2023-06-07 18:33:52 |
-| 18 | [基于统一语义层构建的智能化数据分析平台](https://zhuanlan.zhihu.com/p/635413937) | DataFunTalk | 2023-06-07 18:26:32 |
-| 19 | [美团广告平台模型组科研实习生招聘](https://zhuanlan.zhihu.com/p/635336504) | 萧瑟 | 2023-06-07 15:20:04 |
-| 20 | [策略产品经理必读系列—第十四讲搜广推业务中CTR纠偏](https://zhuanlan.zhihu.com/p/627143850) | King James | 2023-06-07 09:09:09 |
+| 1 | [吴恩达来信：AI的民主化](https://zhuanlan.zhihu.com/p/637266619) | 吴恩达 | 2023-06-15 12:52:59 |
+| 2 | [[亚马逊]GPT4Rec解读：用于个性化推荐和用户兴趣解释的生成式框架——GPT在推荐系统中的应用](https://zhuanlan.zhihu.com/p/637105415) | 琦琦 | 2023-06-14 18:52:17 |
+| 3 | [EB级数仓都在用的算子级血缘如何实现主动数据治理](https://zhuanlan.zhihu.com/p/637108757) | DataFunTalk | 2023-06-14 18:38:41 |
+| 4 | [循环神经网络详解（RNN/LSTM/GRU）](https://zhuanlan.zhihu.com/p/636756912) | 绝密伏击 | 2023-06-13 21:16:42 |
+| 5 | [网易基于Apache Ranger 的数据安全中心实践](https://zhuanlan.zhihu.com/p/636833115) | DataFunTalk | 2023-06-13 18:31:57 |
+| 6 | [【岗位】国际化Saas产品经理实习生](https://zhuanlan.zhihu.com/p/636830532) | 姚凯飞 | 2023-06-13 18:04:51 |
+| 7 | [从数据集成到现代数据栈](https://zhuanlan.zhihu.com/p/636714270) | DataFunTalk | 2023-06-13 11:48:01 |
+| 8 | [多模态大模型KOSMOS-1](https://zhuanlan.zhihu.com/p/636694683) | 大师兄 | 2023-06-13 11:08:14 |
+| 9 | [腾讯欧拉如何打造数据自治系统](https://zhuanlan.zhihu.com/p/636675430) | DataFunTalk | 2023-06-13 10:47:44 |
+| 10 | [大模型流水线并行（Pipeline）实战](https://zhuanlan.zhihu.com/p/636488690) | 刘聪NLP | 2023-06-13 09:58:50 |
+| 11 | [【LLM】从零开始训练大模型](https://zhuanlan.zhihu.com/p/636270877) | 何枝 | 2023-06-11 19:58:00 |
+| 12 | [数仓 Onedata 体系建设方法论](https://zhuanlan.zhihu.com/p/636275555) | DataFunTalk | 2023-06-11 16:23:00 |
+| 13 | [网易云音乐数据治理实践](https://zhuanlan.zhihu.com/p/636264206) | DataFunTalk | 2023-06-11 15:59:23 |
+| 14 | [去海口可以玩什么](https://zhuanlan.zhihu.com/p/636209925) | 亦一 | 2023-06-11 11:38:18 |
+| 15 | [开源家族——中文羊驼LLaMA & Alpaca大语言模型](https://zhuanlan.zhihu.com/p/636136687) | 琦琦 | 2023-06-10 19:06:06 |
+| 16 | [低代码指标平台，构建人人可用的敏捷指标工具](https://zhuanlan.zhihu.com/p/635595653) | DataFunTalk | 2023-06-08 14:12:52 |
 # 大牛笔记
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [DataFunTalk](#datafuntalk)
@@ -81,11 +77,11 @@
   * [潘润琦](#潘润琦)(一只菜鸡 木有学上,...)
   * [阿里妈妈技术](#阿里妈妈技术)
   * [Ostrich](#ostrich)(厚积薄发,分享互联网技术和成长经验。...)
+  * [吴恩达](#吴恩达)
   * [冯伟](#冯伟)(推荐系统,混迹推荐系统的小码农。...)
   * [策略产品Arthur](#策略产品arthur)
   * [Young](#young)(公众号【Young样说】探索前沿有趣的科技AI见闻,- 清华大学本科...)
   * [iwtbs](#iwtbs)(公众号：推荐广告算法小木屋,推荐算法工程师。...)
-  * [吴恩达](#吴恩达)
   * [一两赘肉无](#一两赘肉无)(和鲸社区运营，heywhale.com,...)
   * [Keep Learning](#keep-learning)
   * [Peter PanXin](#peter-panxin)(AI 大数据 分布式系统,Colossus, Spanner, IA...)
@@ -2436,6 +2432,35 @@ https://item.jd.com/13484669.html。
 | 23 | [电商搜索QP：Query类目预测](https://zhuanlan.zhihu.com/p/351083652) | 2021-02-17 16:35:07 |
 
 
+## 吴恩达
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [吴恩达来信：AI的民主化](https://zhuanlan.zhihu.com/p/637266619) | 2023-06-15 12:52:59 |
+| 2 | [吴恩达来信：吴老师喊你上课啦！](https://zhuanlan.zhihu.com/p/633864756) | 2023-06-01 11:51:11 |
+| 3 | [吴恩达来信：更“省”数据的大型预训练模型](https://zhuanlan.zhihu.com/p/633010516) | 2023-05-29 12:13:50 |
+| 4 | [吴恩达来信：超越测试集——prompting改变了机器学习](https://zhuanlan.zhihu.com/p/630439740) | 2023-05-18 19:05:21 |
+| 5 | [吴恩达来信：LLMs的美好未来](https://zhuanlan.zhihu.com/p/623672319) | 2023-04-21 11:14:50 |
+| 6 | [吴恩达来信： 以合法和公平的方式向前发展](https://zhuanlan.zhihu.com/p/620097609) | 2023-04-07 12:44:05 |
+| 7 | [吴恩达来信：此GPT非彼GPT](https://zhuanlan.zhihu.com/p/618425166) | 2023-03-31 10:35:20 |
+| 8 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 2023-03-24 11:28:53 |
+| 9 | [吴恩达来信：风浪面前，团结就是力量！](https://zhuanlan.zhihu.com/p/614454824) | 2023-03-16 13:05:15 |
+| 10 | [吴恩达来信：区别人工智能生成与人类生成](https://zhuanlan.zhihu.com/p/612640260) | 2023-03-09 16:23:24 |
+| 11 | [吴恩达来信：LandingLens震撼发布，免费羊毛等你来薅！](https://zhuanlan.zhihu.com/p/610707617) | 2023-03-02 13:15:51 |
+| 12 | [吴恩达来信：充满希望的chat-based search](https://zhuanlan.zhihu.com/p/608825488) | 2023-02-23 15:30:04 |
+| 13 | [吴恩达来信：ChatGPT很酷，RL也很酷](https://zhuanlan.zhihu.com/p/606827548) | 2023-02-16 13:20:19 |
+| 14 | [吴恩达来信：合法vs公平](https://zhuanlan.zhihu.com/p/604883301) | 2023-02-09 17:04:03 |
+| 15 | [吴恩达来信：靠语言进化的LLMs](https://zhuanlan.zhihu.com/p/602832542) | 2023-02-02 13:43:21 |
+| 16 | [吴恩达来信：来自LLMs的巨大“威胁”？](https://zhuanlan.zhihu.com/p/600121157) | 2023-01-19 20:15:20 |
+| 17 | [吴恩达来信：即将绽放的LLMs](https://zhuanlan.zhihu.com/p/598545150) | 2023-01-12 15:42:34 |
+| 18 | [吴恩达来信：2023人工智能热点展望](https://zhuanlan.zhihu.com/p/596730259) | 2023-01-05 11:30:41 |
+| 19 | [吴恩达来信：一起畅想2023及未来吧！](https://zhuanlan.zhihu.com/p/595204817) | 2022-12-29 15:25:59 |
+| 20 | [吴恩达来信：人工智能的辉煌一年](https://zhuanlan.zhihu.com/p/593809403) | 2022-12-23 12:56:05 |
+| 21 | [吴恩达来信：围绕内容审核建立信任并做出权衡](https://zhuanlan.zhihu.com/p/592072640) | 2022-12-15 17:10:14 |
+| 22 | [吴恩达来信：建立能够展现不同置信度的模型](https://zhuanlan.zhihu.com/p/590332091) | 2022-12-08 18:58:02 |
+
+
 ## 冯伟
 > 介绍： 推荐系统,混迹推荐系统的小码农。
 
@@ -2553,34 +2578,6 @@ https://item.jd.com/13484669.html。
 | 20 | [向量召回—近邻快速查找算法总结](https://zhuanlan.zhihu.com/p/336694120) | 2020-12-14 00:21:53 |
 | 21 | [谈谈推荐算法中的‘trade-off’](https://zhuanlan.zhihu.com/p/336690969) | 2020-12-13 23:50:27 |
 | 22 | [谈谈我眼中的“推荐算法”](https://zhuanlan.zhihu.com/p/336689862) | 2020-12-13 23:46:27 |
-
-
-## 吴恩达
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [吴恩达来信：吴老师喊你上课啦！](https://zhuanlan.zhihu.com/p/633864756) | 2023-06-01 11:51:11 |
-| 2 | [吴恩达来信：更“省”数据的大型预训练模型](https://zhuanlan.zhihu.com/p/633010516) | 2023-05-29 12:13:50 |
-| 3 | [吴恩达来信：超越测试集——prompting改变了机器学习](https://zhuanlan.zhihu.com/p/630439740) | 2023-05-18 19:05:21 |
-| 4 | [吴恩达来信：LLMs的美好未来](https://zhuanlan.zhihu.com/p/623672319) | 2023-04-21 11:14:50 |
-| 5 | [吴恩达来信： 以合法和公平的方式向前发展](https://zhuanlan.zhihu.com/p/620097609) | 2023-04-07 12:44:05 |
-| 6 | [吴恩达来信：此GPT非彼GPT](https://zhuanlan.zhihu.com/p/618425166) | 2023-03-31 10:35:20 |
-| 7 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 2023-03-24 11:28:53 |
-| 8 | [吴恩达来信：风浪面前，团结就是力量！](https://zhuanlan.zhihu.com/p/614454824) | 2023-03-16 13:05:15 |
-| 9 | [吴恩达来信：区别人工智能生成与人类生成](https://zhuanlan.zhihu.com/p/612640260) | 2023-03-09 16:23:24 |
-| 10 | [吴恩达来信：LandingLens震撼发布，免费羊毛等你来薅！](https://zhuanlan.zhihu.com/p/610707617) | 2023-03-02 13:15:51 |
-| 11 | [吴恩达来信：充满希望的chat-based search](https://zhuanlan.zhihu.com/p/608825488) | 2023-02-23 15:30:04 |
-| 12 | [吴恩达来信：ChatGPT很酷，RL也很酷](https://zhuanlan.zhihu.com/p/606827548) | 2023-02-16 13:20:19 |
-| 13 | [吴恩达来信：合法vs公平](https://zhuanlan.zhihu.com/p/604883301) | 2023-02-09 17:04:03 |
-| 14 | [吴恩达来信：靠语言进化的LLMs](https://zhuanlan.zhihu.com/p/602832542) | 2023-02-02 13:43:21 |
-| 15 | [吴恩达来信：来自LLMs的巨大“威胁”？](https://zhuanlan.zhihu.com/p/600121157) | 2023-01-19 20:15:20 |
-| 16 | [吴恩达来信：即将绽放的LLMs](https://zhuanlan.zhihu.com/p/598545150) | 2023-01-12 15:42:34 |
-| 17 | [吴恩达来信：2023人工智能热点展望](https://zhuanlan.zhihu.com/p/596730259) | 2023-01-05 11:30:41 |
-| 18 | [吴恩达来信：一起畅想2023及未来吧！](https://zhuanlan.zhihu.com/p/595204817) | 2022-12-29 15:25:59 |
-| 19 | [吴恩达来信：人工智能的辉煌一年](https://zhuanlan.zhihu.com/p/593809403) | 2022-12-23 12:56:05 |
-| 20 | [吴恩达来信：围绕内容审核建立信任并做出权衡](https://zhuanlan.zhihu.com/p/592072640) | 2022-12-15 17:10:14 |
-| 21 | [吴恩达来信：建立能够展现不同置信度的模型](https://zhuanlan.zhihu.com/p/590332091) | 2022-12-08 18:58:02 |
 
 
 ## 一两赘肉无
