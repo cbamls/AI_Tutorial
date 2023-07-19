@@ -25,33 +25,31 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-07-11 ~ 2023-07-18), 本周报更新时间:2023-07-18 23:33:06
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-07-12 ~ 2023-07-19), 本周报更新时间:2023-07-19 22:34:00
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 大师兄 | 2023-07-18 18:27:59 |
-| 2 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 杨旭东 | 2023-07-18 17:15:53 |
-| 3 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 刘聪NLP | 2023-07-18 12:04:29 |
-| 4 | [心法利器[67] \| 算法性能指标优化指南](https://zhuanlan.zhihu.com/p/643923211) | 机智的叉烧 | 2023-07-17 21:04:24 |
-| 5 | [AB实验在腾讯海外游戏中的应用](https://zhuanlan.zhihu.com/p/644141339) | DataFunTalk | 2023-07-17 18:42:37 |
-| 6 | [心法利器[65] \| 一些技术和成长的讨论【答读者问】](https://zhuanlan.zhihu.com/p/643922033) | 机智的叉烧 | 2023-07-17 18:30:55 |
-| 7 | [OPPO基于图神经网络的搜索推荐算法与实践](https://zhuanlan.zhihu.com/p/644137476) | DataFunTalk | 2023-07-17 18:22:38 |
-| 8 | [KDD 2023 工业界搜广推论文整理](https://zhuanlan.zhihu.com/p/643864567) | 蘑菇先生 | 2023-07-17 09:57:50 |
-| 9 | [心法利器[64] \| 毕业3年的算法工程师技术成长思考](https://zhuanlan.zhihu.com/p/643921379) | 机智的叉烧 | 2023-07-17 09:15:51 |
-| 10 | [心法利器[63] \| 预训练模型的使用时机](https://zhuanlan.zhihu.com/p/643920890) | 机智的叉烧 | 2023-07-16 19:58:23 |
-| 11 | [多样化个性化推荐算法:推荐多样性建模](https://zhuanlan.zhihu.com/p/643900259) | 杨旭东 | 2023-07-16 16:57:34 |
-| 12 | [Sparse Transformer](https://zhuanlan.zhihu.com/p/643801236) | 绝密伏击 | 2023-07-15 23:28:57 |
-| 13 | [SD开启免费测试，教你一分钟加入尝鲜](https://zhuanlan.zhihu.com/p/643814199) | 大林 | 2023-07-15 22:16:38 |
-| 14 | [搜索推荐广告业务场景下的流量调控算法](https://zhuanlan.zhihu.com/p/643748885) | 杨旭东 | 2023-07-15 14:23:03 |
-| 15 | [湖仓存储系统设计剖析和性能优化](https://zhuanlan.zhihu.com/p/643624852) | DataFunTalk | 2023-07-14 17:30:23 |
-| 16 | [火山引擎增长指标体系构建及分析实践](https://zhuanlan.zhihu.com/p/643624248) | DataFunTalk | 2023-07-14 17:27:30 |
-| 17 | [实时物化视图：加速大规模时间序列数据查询的利器](https://zhuanlan.zhihu.com/p/643615790) | DataFunTalk | 2023-07-14 17:03:12 |
-| 18 | [吴恩达来信：快速构建，悉心调试](https://zhuanlan.zhihu.com/p/643312431) | 吴恩达 | 2023-07-13 13:40:13 |
-| 19 | [流量调控PID算法调参指南](https://zhuanlan.zhihu.com/p/643275184) | 杨旭东 | 2023-07-13 11:08:32 |
-| 20 | [推荐系统范式之争，LLM vs. ID？](https://zhuanlan.zhihu.com/p/642797247) | 张小磊 | 2023-07-12 09:27:30 |
-| 21 | [腾讯TRS之元学习与跨域推荐的工业实战](https://zhuanlan.zhihu.com/p/642918461) | DataFunTalk | 2023-07-11 18:01:15 |
-| 22 | [抖音集团面向多样应用场景的数据准备实践](https://zhuanlan.zhihu.com/p/642911039) | DataFunTalk | 2023-07-11 17:32:25 |
-| 23 | [美团广告平台模型组科研实习生招聘](https://zhuanlan.zhihu.com/p/642910175) | 萧瑟 | 2023-07-11 17:30:27 |
+| 1 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | JioNLP团队 | 2023-07-19 10:15:58 |
+| 2 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 大师兄 | 2023-07-18 18:27:59 |
+| 3 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 杨旭东 | 2023-07-18 17:15:53 |
+| 4 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 刘聪NLP | 2023-07-18 12:04:29 |
+| 5 | [心法利器[67] \| 算法性能指标优化指南](https://zhuanlan.zhihu.com/p/643923211) | 机智的叉烧 | 2023-07-17 21:04:24 |
+| 6 | [AB实验在腾讯海外游戏中的应用](https://zhuanlan.zhihu.com/p/644141339) | DataFunTalk | 2023-07-17 18:42:37 |
+| 7 | [心法利器[65] \| 一些技术和成长的讨论【答读者问】](https://zhuanlan.zhihu.com/p/643922033) | 机智的叉烧 | 2023-07-17 18:30:55 |
+| 8 | [OPPO基于图神经网络的搜索推荐算法与实践](https://zhuanlan.zhihu.com/p/644137476) | DataFunTalk | 2023-07-17 18:22:38 |
+| 9 | [KDD 2023 工业界搜广推论文整理](https://zhuanlan.zhihu.com/p/643864567) | 蘑菇先生 | 2023-07-17 09:57:50 |
+| 10 | [心法利器[64] \| 毕业3年的算法工程师技术成长思考](https://zhuanlan.zhihu.com/p/643921379) | 机智的叉烧 | 2023-07-17 09:15:51 |
+| 11 | [心法利器[63] \| 预训练模型的使用时机](https://zhuanlan.zhihu.com/p/643920890) | 机智的叉烧 | 2023-07-16 19:58:23 |
+| 12 | [多样化个性化推荐算法:推荐多样性建模](https://zhuanlan.zhihu.com/p/643900259) | 杨旭东 | 2023-07-16 16:57:34 |
+| 13 | [Sparse Transformer](https://zhuanlan.zhihu.com/p/643801236) | 绝密伏击 | 2023-07-15 23:28:57 |
+| 14 | [SD开启免费测试，教你一分钟加入尝鲜](https://zhuanlan.zhihu.com/p/643814199) | 大林 | 2023-07-15 22:16:38 |
+| 15 | [搜索推荐广告业务场景下的流量调控算法](https://zhuanlan.zhihu.com/p/643748885) | 杨旭东 | 2023-07-15 14:23:03 |
+| 16 | [湖仓存储系统设计剖析和性能优化](https://zhuanlan.zhihu.com/p/643624852) | DataFunTalk | 2023-07-14 17:30:23 |
+| 17 | [火山引擎增长指标体系构建及分析实践](https://zhuanlan.zhihu.com/p/643624248) | DataFunTalk | 2023-07-14 17:27:30 |
+| 18 | [实时物化视图：加速大规模时间序列数据查询的利器](https://zhuanlan.zhihu.com/p/643615790) | DataFunTalk | 2023-07-14 17:03:12 |
+| 19 | [吴恩达来信：快速构建，悉心调试](https://zhuanlan.zhihu.com/p/643312431) | 吴恩达 | 2023-07-13 13:40:13 |
+| 20 | [流量调控PID算法调参指南](https://zhuanlan.zhihu.com/p/643275184) | 杨旭东 | 2023-07-13 11:08:32 |
+| 21 | [推荐系统范式之争，LLM vs. ID？](https://zhuanlan.zhihu.com/p/642797247) | 张小磊 | 2023-07-12 09:27:30 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -106,11 +104,11 @@
   * [北冥有鱼](#北冥有鱼)(zepengzhang.com。...)
   * [yanianthe](#yanianthe)(炒股被抄家的前大厂程序员@不掉发就是胜利。,你好呀，交个朋友。...)
   * [黑猫白猫cutecat](#黑猫白猫cutecat)
+  * [JioNLP团队](#jionlp团队)(开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp...)
   * [九老师](#九老师)
   * [王峰](#王峰)(http://happynear.wang/。...)
   * [arXivDaily](#arxivdaily)
   * [bytecoder](#bytecoder)
-  * [JioNLP团队](#jionlp团队)(开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp...)
   * [网络人工智能园地](#网络人工智能园地)(华为网络AI平台(NAIE)官方帐号,公众号：网络人工智能园地
 官网...)
   * [小潄](#小潄)
@@ -3038,6 +3036,23 @@ https://item.jd.com/13484669.html。
 | 11 | [Google深度学习CTR预估模型DCN续集：DCN-v2](https://zhuanlan.zhihu.com/p/401904819) | 2021-08-20 18:20:16 |
 
 
+## JioNLP团队
+> 介绍： 开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp团队，微信公众号：JioNLP，开源软件 JioNLP 同名在Github。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | 2023-07-19 10:15:58 |
+| 2 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型（二）](https://zhuanlan.zhihu.com/p/631532268) | 2023-05-23 14:13:54 |
+| 3 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型](https://zhuanlan.zhihu.com/p/626786797) | 2023-05-04 20:56:11 |
+| 4 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | 2023-03-29 11:03:23 |
+| 5 | [ChatGPT、人口出生率与经济危机](https://zhuanlan.zhihu.com/p/609959260) | 2023-02-27 22:47:50 |
+| 6 | [ChatGPT这么强，会影响NLPer的就业环境吗](https://zhuanlan.zhihu.com/p/605673596) | 2023-02-12 16:14:44 |
+| 7 | [避坑一个JIT库numba](https://zhuanlan.zhihu.com/p/598260970) | 2023-01-11 15:03:42 |
+| 8 | [未来人工智能畅想——从ChatGPT想到的](https://zhuanlan.zhihu.com/p/591210118) | 2022-12-12 14:45:21 |
+| 9 | [一文读懂ChatGPT模型原理](https://zhuanlan.zhihu.com/p/589621442) | 2022-12-06 14:15:38 |
+| 10 | [JioNLP 数据分享，来看看这里有没有你想要的数据集](https://zhuanlan.zhihu.com/p/587630337) | 2022-11-29 10:38:47 |
+
+
 ## 九老师
 
 
@@ -3104,22 +3119,6 @@ https://item.jd.com/13484669.html。
 | 8 | [浅谈综合搜索过程指标](https://zhuanlan.zhihu.com/p/571237036) | 2022-10-07 16:47:58 |
 | 9 | [像“蘑菇”那样思考](https://zhuanlan.zhihu.com/p/571235830) | 2022-10-07 16:44:16 |
 | 10 | [新搜索的一点个人思考](https://zhuanlan.zhihu.com/p/571235034) | 2022-10-07 16:41:36 |
-
-
-## JioNLP团队
-> 介绍： 开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp团队，微信公众号：JioNLP，开源软件 JioNLP 同名在Github。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型（二）](https://zhuanlan.zhihu.com/p/631532268) | 2023-05-23 14:13:54 |
-| 2 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型](https://zhuanlan.zhihu.com/p/626786797) | 2023-05-04 20:56:11 |
-| 3 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | 2023-03-29 11:03:23 |
-| 4 | [ChatGPT、人口出生率与经济危机](https://zhuanlan.zhihu.com/p/609959260) | 2023-02-27 22:47:50 |
-| 5 | [ChatGPT这么强，会影响NLPer的就业环境吗](https://zhuanlan.zhihu.com/p/605673596) | 2023-02-12 16:14:44 |
-| 6 | [避坑一个JIT库numba](https://zhuanlan.zhihu.com/p/598260970) | 2023-01-11 15:03:42 |
-| 7 | [未来人工智能畅想——从ChatGPT想到的](https://zhuanlan.zhihu.com/p/591210118) | 2022-12-12 14:45:21 |
-| 8 | [一文读懂ChatGPT模型原理](https://zhuanlan.zhihu.com/p/589621442) | 2022-12-06 14:15:38 |
-| 9 | [JioNLP 数据分享，来看看这里有没有你想要的数据集](https://zhuanlan.zhihu.com/p/587630337) | 2022-11-29 10:38:47 |
 
 
 ## 网络人工智能园地
