@@ -25,31 +25,33 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-07-13 ~ 2023-07-20), 本周报更新时间:2023-07-20 23:33:30
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-07-14 ~ 2023-07-21), 本周报更新时间:2023-07-21 22:33:42
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [Llama2技术细节&开源影响](https://zhuanlan.zhihu.com/p/644671690) | 刘聪NLP | 2023-07-20 00:16:38 |
-| 2 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | JioNLP团队 | 2023-07-19 10:15:58 |
-| 3 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 大师兄 | 2023-07-18 18:27:59 |
-| 4 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 杨旭东 | 2023-07-18 17:15:53 |
-| 5 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 刘聪NLP | 2023-07-18 12:04:29 |
-| 6 | [心法利器[67] \| 算法性能指标优化指南](https://zhuanlan.zhihu.com/p/643923211) | 机智的叉烧 | 2023-07-17 21:04:24 |
-| 7 | [AB实验在腾讯海外游戏中的应用](https://zhuanlan.zhihu.com/p/644141339) | DataFunTalk | 2023-07-17 18:42:37 |
-| 8 | [心法利器[65] \| 一些技术和成长的讨论【答读者问】](https://zhuanlan.zhihu.com/p/643922033) | 机智的叉烧 | 2023-07-17 18:30:55 |
-| 9 | [OPPO基于图神经网络的搜索推荐算法与实践](https://zhuanlan.zhihu.com/p/644137476) | DataFunTalk | 2023-07-17 18:22:38 |
-| 10 | [KDD 2023 工业界搜广推论文整理](https://zhuanlan.zhihu.com/p/643864567) | 蘑菇先生 | 2023-07-17 09:57:50 |
-| 11 | [心法利器[64] \| 毕业3年的算法工程师技术成长思考](https://zhuanlan.zhihu.com/p/643921379) | 机智的叉烧 | 2023-07-17 09:15:51 |
-| 12 | [心法利器[63] \| 预训练模型的使用时机](https://zhuanlan.zhihu.com/p/643920890) | 机智的叉烧 | 2023-07-16 19:58:23 |
-| 13 | [多样化个性化推荐算法:推荐多样性建模](https://zhuanlan.zhihu.com/p/643900259) | 杨旭东 | 2023-07-16 16:57:34 |
-| 14 | [Sparse Transformer](https://zhuanlan.zhihu.com/p/643801236) | 绝密伏击 | 2023-07-15 23:28:57 |
-| 15 | [SD开启免费测试，教你一分钟加入尝鲜](https://zhuanlan.zhihu.com/p/643814199) | 大林 | 2023-07-15 22:16:38 |
-| 16 | [搜索推荐广告业务场景下的流量调控算法](https://zhuanlan.zhihu.com/p/643748885) | 杨旭东 | 2023-07-15 14:23:03 |
-| 17 | [湖仓存储系统设计剖析和性能优化](https://zhuanlan.zhihu.com/p/643624852) | DataFunTalk | 2023-07-14 17:30:23 |
-| 18 | [火山引擎增长指标体系构建及分析实践](https://zhuanlan.zhihu.com/p/643624248) | DataFunTalk | 2023-07-14 17:27:30 |
-| 19 | [实时物化视图：加速大规模时间序列数据查询的利器](https://zhuanlan.zhihu.com/p/643615790) | DataFunTalk | 2023-07-14 17:03:12 |
-| 20 | [吴恩达来信：快速构建，悉心调试](https://zhuanlan.zhihu.com/p/643312431) | 吴恩达 | 2023-07-13 13:40:13 |
-| 21 | [流量调控PID算法调参指南](https://zhuanlan.zhihu.com/p/643275184) | 杨旭东 | 2023-07-13 11:08:32 |
+| 1 | [“NLP工作站”成立技术交流群](https://zhuanlan.zhihu.com/p/645128495) | 刘聪NLP | 2023-07-21 21:40:53 |
+| 2 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 归来仍是少年 | 2023-07-21 15:44:03 |
+| 3 | [吴恩达来信：进一步完善AI相关版权法](https://zhuanlan.zhihu.com/p/644954760) | 吴恩达 | 2023-07-21 10:05:48 |
+| 4 | [EasyRec重磅升级：组件化开发深度学习模型](https://zhuanlan.zhihu.com/p/644910803) | 杨旭东 | 2023-07-21 00:10:55 |
+| 5 | [Llama2技术细节&开源影响](https://zhuanlan.zhihu.com/p/644671690) | 刘聪NLP | 2023-07-20 00:16:38 |
+| 6 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | JioNLP团队 | 2023-07-19 10:15:58 |
+| 7 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 大师兄 | 2023-07-18 18:27:59 |
+| 8 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 杨旭东 | 2023-07-18 17:15:53 |
+| 9 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 刘聪NLP | 2023-07-18 12:04:29 |
+| 10 | [心法利器[67] \| 算法性能指标优化指南](https://zhuanlan.zhihu.com/p/643923211) | 机智的叉烧 | 2023-07-17 21:04:24 |
+| 11 | [AB实验在腾讯海外游戏中的应用](https://zhuanlan.zhihu.com/p/644141339) | DataFunTalk | 2023-07-17 18:42:37 |
+| 12 | [心法利器[65] \| 一些技术和成长的讨论【答读者问】](https://zhuanlan.zhihu.com/p/643922033) | 机智的叉烧 | 2023-07-17 18:30:55 |
+| 13 | [OPPO基于图神经网络的搜索推荐算法与实践](https://zhuanlan.zhihu.com/p/644137476) | DataFunTalk | 2023-07-17 18:22:38 |
+| 14 | [KDD 2023 工业界搜广推论文整理](https://zhuanlan.zhihu.com/p/643864567) | 蘑菇先生 | 2023-07-17 09:57:50 |
+| 15 | [心法利器[64] \| 毕业3年的算法工程师技术成长思考](https://zhuanlan.zhihu.com/p/643921379) | 机智的叉烧 | 2023-07-17 09:15:51 |
+| 16 | [心法利器[63] \| 预训练模型的使用时机](https://zhuanlan.zhihu.com/p/643920890) | 机智的叉烧 | 2023-07-16 19:58:23 |
+| 17 | [多样化个性化推荐算法:推荐多样性建模](https://zhuanlan.zhihu.com/p/643900259) | 杨旭东 | 2023-07-16 16:57:34 |
+| 18 | [Sparse Transformer](https://zhuanlan.zhihu.com/p/643801236) | 绝密伏击 | 2023-07-15 23:28:57 |
+| 19 | [SD开启免费测试，教你一分钟加入尝鲜](https://zhuanlan.zhihu.com/p/643814199) | 大林 | 2023-07-15 22:16:38 |
+| 20 | [搜索推荐广告业务场景下的流量调控算法](https://zhuanlan.zhihu.com/p/643748885) | 杨旭东 | 2023-07-15 14:23:03 |
+| 21 | [湖仓存储系统设计剖析和性能优化](https://zhuanlan.zhihu.com/p/643624852) | DataFunTalk | 2023-07-14 17:30:23 |
+| 22 | [火山引擎增长指标体系构建及分析实践](https://zhuanlan.zhihu.com/p/643624248) | DataFunTalk | 2023-07-14 17:27:30 |
+| 23 | [实时物化视图：加速大规模时间序列数据查询的利器](https://zhuanlan.zhihu.com/p/643615790) | DataFunTalk | 2023-07-14 17:03:12 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -97,9 +99,9 @@
   * [猛猿](#猛猿)(公众号：大猿搬砖简记,学习和职业历程：
 会计➡️算法➡️大数据➡️算...)
   * [风控大鱼](#风控大鱼)(互联网风控/风险模型/反洗钱（公众号：风控大鱼）,Nothing w...)
+  * [杨旭东](#杨旭东)
   * [Andy Yang](#andy-yang)(生活、学习、思考和观察世界,自由之精神 独立之思想。...)
   * [大林](#大林)
-  * [杨旭东](#杨旭东)
   * [kaiyuan](#kaiyuan)
   * [北冥有鱼](#北冥有鱼)(zepengzhang.com。...)
   * [yanianthe](#yanianthe)(炒股被抄家的前大厂程序员@不掉发就是胜利。,你好呀，交个朋友。...)
@@ -109,10 +111,10 @@
   * [王峰](#王峰)(http://happynear.wang/。...)
   * [arXivDaily](#arxivdaily)
   * [bytecoder](#bytecoder)
+  * [归来仍是少年](#归来仍是少年)(欢迎大家关注公众号《我爱自然语言处理》,做自然语言处理方向，kagg...)
   * [网络人工智能园地](#网络人工智能园地)(华为网络AI平台(NAIE)官方帐号,公众号：网络人工智能园地
 官网...)
   * [小潄](#小潄)
-  * [归来仍是少年](#归来仍是少年)(欢迎大家关注公众号《我爱自然语言处理》,做自然语言处理方向，kagg...)
   * [阿泽](#阿泽)(公众号：阿泽的学习笔记,程序员 摄影师 
 爱健身 高颜值 五迷 暖男...)
   * [PaperWeekly](#paperweekly)(欢迎关注同名微信公众号：PaperWeekly,厚积薄发。...)
@@ -1083,104 +1085,105 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [Llama2技术细节&开源影响](https://zhuanlan.zhihu.com/p/644671690) | 2023-07-20 00:16:38 |
-| 2 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 2023-07-18 12:04:29 |
-| 3 | [垂直领域大模型的一些思考及开源模型汇总](https://zhuanlan.zhihu.com/p/642611747) | 2023-07-10 14:40:18 |
-| 4 | [LLMs评估综述](https://zhuanlan.zhihu.com/p/642117003) | 2023-07-07 14:36:32 |
-| 5 | [大模型流水线并行（Pipeline）实战](https://zhuanlan.zhihu.com/p/636488690) | 2023-06-13 09:58:50 |
-| 6 | [支持多模态的ChatGLM模型-VisualGLM-6B](https://zhuanlan.zhihu.com/p/630265131) | 2023-05-18 10:29:56 |
-| 7 | [大模型时代-不进则退](https://zhuanlan.zhihu.com/p/625934485) | 2023-04-29 23:50:22 |
-| 8 | [大模型LLM-微调经验分享&总结](https://zhuanlan.zhihu.com/p/620885226) | 2023-04-11 11:41:51 |
-| 9 | [官方ChatGLM-6B模型微调方法](https://zhuanlan.zhihu.com/p/618483602) | 2023-03-31 14:22:00 |
-| 10 | [ChatGPT-所见、所闻、所感](https://zhuanlan.zhihu.com/p/605331104) | 2023-02-11 01:26:56 |
-| 11 | [CORGI-PM：首个中文性别偏见探索和缓解数据集](https://zhuanlan.zhihu.com/p/603230271) | 2023-02-03 17:31:42 |
-| 12 | [中文多模态对话数据集-TikTalk](https://zhuanlan.zhihu.com/p/600355581) | 2023-01-21 11:41:55 |
-| 13 | [事件抽取数据增强方法-Mask-then-Fill](https://zhuanlan.zhihu.com/p/600196893) | 2023-01-20 10:06:40 |
-| 14 | [AAAI2023 \| 基于统一语义匹配的通用信息抽取框架-USM](https://zhuanlan.zhihu.com/p/598882471) | 2023-01-13 19:56:27 |
-| 15 | [Dual-Cross-Encoder：面向稠密向量检索的Query深度交互的文档多视角表征](https://zhuanlan.zhihu.com/p/554143004) | 2022-08-15 22:45:23 |
-| 16 | [清华开源了1300亿开源的双语预训练模型-GLM-130B](https://zhuanlan.zhihu.com/p/550220516) | 2022-08-05 14:16:37 |
-| 17 | [IJCAI2022 \| DictBert：采用对比学习的字典描述知识增强的预训练语言模型](https://zhuanlan.zhihu.com/p/550019008) | 2022-08-04 22:43:44 |
-| 18 | [neo4j学习笔记-持续更新ing](https://zhuanlan.zhihu.com/p/538954459) | 2022-07-07 22:38:01 |
-| 19 | [CC-Riddle：汉字谜语问答数据集](https://zhuanlan.zhihu.com/p/537552626) | 2022-07-04 21:50:04 |
-| 20 | [中文NER数据集整理](https://zhuanlan.zhihu.com/p/529541521) | 2022-06-16 11:09:17 |
-| 21 | [ACL2022 \| DCSR：一种面向开放域段落检索的句子感知的对比学习方法](https://zhuanlan.zhihu.com/p/527366495) | 2022-06-11 12:45:55 |
-| 22 | [ACL2022 \| NoisyTune：微调前加入少量噪音可能会有意想不到的效果](https://zhuanlan.zhihu.com/p/523865674) | 2022-06-03 10:50:10 |
-| 23 | [ACL2022 \| DictBERT：通过低频词典增强预训练模型表征方法](https://zhuanlan.zhihu.com/p/523551515) | 2022-06-02 15:27:03 |
-| 24 | [ACL2022论文分类汇总-Prompt、句子表征、检索排序&摘要](https://zhuanlan.zhihu.com/p/519943388) | 2022-05-25 21:15:13 |
-| 25 | [总结\|Prompt在NER场景的应用](https://zhuanlan.zhihu.com/p/518146549) | 2022-05-22 11:47:21 |
-| 26 | [EASE：一种融合实体信息的句子嵌入对比学习方法](https://zhuanlan.zhihu.com/p/515964126) | 2022-05-17 22:35:22 |
-| 27 | [NAACL2022-Prompt相关论文&对Prompt的看法](https://zhuanlan.zhihu.com/p/512263922) | 2022-05-10 17:42:34 |
-| 28 | [PolyLoss：一种将分类损失函数加入泰勒展开式的损失函数](https://zhuanlan.zhihu.com/p/510626670) | 2022-05-07 11:33:32 |
-| 29 | [PERT：一种基于乱序语言模型的预训练模型](https://zhuanlan.zhihu.com/p/509647368) | 2022-05-05 15:41:39 |
-| 30 | [DiffCSE：结合句子间差异的无监督句子嵌入对比学习方法](https://zhuanlan.zhihu.com/p/507171467) | 2022-04-29 12:51:25 |
-| 31 | [SIGIR2022论文筛选](https://zhuanlan.zhihu.com/p/506005620) | 2022-04-27 15:04:52 |
-| 32 | [算法不会前端，也可以做出好看的界面-Streamlit](https://zhuanlan.zhihu.com/p/469582149) | 2022-02-20 11:46:28 |
-| 33 | [OpenAI：基于对比学习的预训练文本&代码表征技术](https://zhuanlan.zhihu.com/p/469474178) | 2022-02-19 12:53:29 |
-| 34 | [PairSCL：句子对级别的有监督对比学习方法](https://zhuanlan.zhihu.com/p/463949437) | 2022-02-04 16:06:40 |
-| 35 | [COLD：中文冒犯性语言检测数据集](https://zhuanlan.zhihu.com/p/463455280) | 2022-02-01 11:48:51 |
-| 36 | [SNCSE：一种基于软负例的无监督句向量对比学习方法](https://zhuanlan.zhihu.com/p/463142612) | 2022-01-30 11:04:21 |
-| 37 | [ExtraPhrase：一种针对抽象式（生成式）摘要的数据增强方法](https://zhuanlan.zhihu.com/p/462483469) | 2022-01-27 17:41:29 |
-| 38 | [MatchSum-一种基于语义匹配的抽取式摘要框架](https://zhuanlan.zhihu.com/p/462118940) | 2022-01-26 17:05:30 |
-| 39 | [BertSum-基于BERT模型的抽取式文本摘要](https://zhuanlan.zhihu.com/p/461836406) | 2022-01-25 20:43:48 |
-| 40 | [CPT模型：一种中文兼顾NLU和NLG的非平衡预训练语言模型](https://zhuanlan.zhihu.com/p/456553852) | 2022-01-12 21:29:31 |
-| 41 | [中文文本匹配数据集整理](https://zhuanlan.zhihu.com/p/454173790) | 2022-01-06 21:01:22 |
-| 42 | [SimCSE论文精读](https://zhuanlan.zhihu.com/p/452761704) | 2022-01-03 21:04:58 |
-| 43 | [EMNLP2021 Findings会议-305篇长文及119篇短文分类-附论文链接（下）](https://zhuanlan.zhihu.com/p/430531571) | 2021-11-07 20:47:49 |
-| 44 | [EMNLP2021 Findings会议-305篇长文及119篇短文分类-附论文链接（上）](https://zhuanlan.zhihu.com/p/430517383) | 2021-11-07 20:46:38 |
-| 45 | [EMNLP2021主会议-191篇短文分类-附论文链接](https://zhuanlan.zhihu.com/p/430197671) | 2021-11-06 17:13:46 |
-| 46 | [EMNLP2021主会议-656篇长文分类-附论文链接（下）](https://zhuanlan.zhihu.com/p/429161700) | 2021-11-03 23:58:54 |
-| 47 | [EMNLP2021主会议-656篇长文分类-附论文链接（上）](https://zhuanlan.zhihu.com/p/429144912) | 2021-11-03 23:56:41 |
-| 48 | [一个使模型训练速度提升20%的Trick-BlockShuffle](https://zhuanlan.zhihu.com/p/414964578) | 2021-09-28 20:21:27 |
-| 49 | [EMNLP2021会议PaperList](https://zhuanlan.zhihu.com/p/414085039) | 2021-09-26 11:05:54 |
-| 50 | [带有详细注释的PaddlePaddle的情绪识别项目](https://zhuanlan.zhihu.com/p/411826397) | 2021-09-21 14:11:36 |
-| 51 | [EMNLP 2021之SF：一种预训练语言模型的片段微调（Span Fine-tuning）方法](https://zhuanlan.zhihu.com/p/410627377) | 2021-09-15 22:52:00 |
-| 52 | [EMNLP2021之AEDA：一种更简单的文本分类数据增强技术](https://zhuanlan.zhihu.com/p/408774734) | 2021-09-09 22:47:03 |
-| 53 | [常用预训练语言模型（PTMs）总结](https://zhuanlan.zhihu.com/p/406512290) | 2021-09-03 21:53:13 |
-| 54 | [回顾BART模型](https://zhuanlan.zhihu.com/p/399169880) | 2021-08-12 20:50:51 |
-| 55 | [中文机器阅读理解（片段抽取）数据集整理](https://zhuanlan.zhihu.com/p/395788175) | 2021-08-03 22:30:12 |
-| 56 | [ACL2021论文之ChineseBERT：融合字形与拼音信息的中文预训练模型](https://zhuanlan.zhihu.com/p/393617564) | 2021-07-28 22:29:16 |
-| 57 | [授人以鱼不如授人以渔-如何高效获取前沿论文？](https://zhuanlan.zhihu.com/p/387583421) | 2021-07-07 22:04:04 |
-| 58 | [ACL2021 Findings论文汇总及分类](https://zhuanlan.zhihu.com/p/386313941) | 2021-07-03 15:46:08 |
-| 59 | [ACL2021主会议论文汇总及分类](https://zhuanlan.zhihu.com/p/385196031) | 2021-06-29 23:32:50 |
-| 60 | [ACL2021论文](https://zhuanlan.zhihu.com/p/384674443) | 2021-06-28 17:31:32 |
-| 61 | [难负例如何影响向量检索模型？](https://zhuanlan.zhihu.com/p/384463509) | 2021-06-27 23:38:08 |
-| 62 | [SIGIR2021论文：基于Text-to-Text多视图学习的段落重排序](https://zhuanlan.zhihu.com/p/383027416) | 2021-06-22 21:54:42 |
-| 63 | [SIGIR2021之DvBERT模型：双视图蒸馏的句向量BERT模型](https://zhuanlan.zhihu.com/p/380909028) | 2021-06-15 22:13:24 |
-| 64 | [SIGIR2021之IDCM模型: 文档内部级联选择段落服务于文档排序](https://zhuanlan.zhihu.com/p/380031457) | 2021-06-12 15:33:08 |
-| 65 | [SIGIR 2021论文筛选](https://zhuanlan.zhihu.com/p/378864849) | 2021-06-08 14:46:41 |
-| 66 | [小布助手对话短文本语义匹配-周周星分享](https://zhuanlan.zhihu.com/p/360705398) | 2021-03-29 18:16:50 |
-| 67 | [中文摘要数据集汇总](https://zhuanlan.zhihu.com/p/341398288) | 2021-01-02 21:04:25 |
-| 68 | [超详细中文注释的GPT2新闻标题生成项目](https://zhuanlan.zhihu.com/p/338171330) | 2020-12-21 09:21:20 |
-| 69 | [一种新的涨分神器！构造code-switching增广数据进行fine-tuning！](https://zhuanlan.zhihu.com/p/259581090) | 2020-09-27 14:47:43 |
-| 70 | [MacBERT：MLM as correction BERT](https://zhuanlan.zhihu.com/p/250595837) | 2020-09-20 17:55:30 |
-| 71 | [BERT-QE: 基于上下文化查询扩展的文档ReRank](https://zhuanlan.zhihu.com/p/250593899) | 2020-09-20 15:31:42 |
-| 72 | [AMBERT模型：一个多粒度Tokenization的预训练语言模型](https://zhuanlan.zhihu.com/p/214022514) | 2020-09-04 00:31:25 |
-| 73 | [SIGIR 2020之MarkedBERT模型：加入传统检索线索的Rerank模型](https://zhuanlan.zhihu.com/p/175981489) | 2020-08-30 11:16:44 |
-| 74 | [夸夸式闲聊机器人之Unilm对话生成](https://zhuanlan.zhihu.com/p/170358507) | 2020-08-07 23:11:02 |
-| 75 | [SIGIR 2020之DC-BERT模型：解耦问题-文档编码，提速QA-Rerank模块](https://zhuanlan.zhihu.com/p/166078711) | 2020-08-02 13:47:44 |
-| 76 | [SIGIR会议之文本表征、检索重排序、阅读理解论文整理](https://zhuanlan.zhihu.com/p/163742690) | 2020-07-26 11:05:23 |
-| 77 | [开源啦！开源啦！UNILM中文模型开源啦！](https://zhuanlan.zhihu.com/p/163483660) | 2020-07-25 17:44:42 |
-| 78 | [ACL2020论文整理之问题生成、自然语言推理、预训练语言模型及部分应用、QA问答系统及机器阅读理解](https://zhuanlan.zhihu.com/p/156857369) | 2020-07-05 20:16:35 |
-| 79 | [教你如何动态配置词权重，检索系列文章之HDCT论文笔记](https://zhuanlan.zhihu.com/p/148211196) | 2020-06-21 11:46:52 |
-| 80 | [智能扩充机器人的“标准问”库之Query生成](https://zhuanlan.zhihu.com/p/149429784) | 2020-06-20 13:18:47 |
-| 81 | [Web服务部署深度学习模型-续集](https://zhuanlan.zhihu.com/p/148224626) | 2020-06-14 15:05:01 |
-| 82 | [教你如何动态配置词权重，检索系列文章之DeepCT论文笔记](https://zhuanlan.zhihu.com/p/147935851) | 2020-06-14 12:32:51 |
-| 83 | [Web服务部署深度学习模型](https://zhuanlan.zhihu.com/p/143678340) | 2020-05-26 16:09:53 |
-| 84 | [Sentence-Bert论文笔记](https://zhuanlan.zhihu.com/p/113133510) | 2020-03-29 20:51:04 |
-| 85 | [UniLM-v2论文阅读笔记](https://zhuanlan.zhihu.com/p/113391609) | 2020-03-26 11:30:29 |
-| 86 | [UniLM论文阅读笔记](https://zhuanlan.zhihu.com/p/113380840) | 2020-03-20 21:11:18 |
-| 87 | [传统方法BM25解决短文本相似度问题](https://zhuanlan.zhihu.com/p/113224707) | 2020-03-16 20:01:10 |
-| 88 | [传统方法TF-IDF解决短文本相似度问题](https://zhuanlan.zhihu.com/p/113017752) | 2020-03-14 10:16:08 |
-| 89 | [你保存的BERT模型为什么那么大？](https://zhuanlan.zhihu.com/p/111513291) | 2020-03-08 11:31:49 |
-| 90 | [短文本相似度算法研究](https://zhuanlan.zhihu.com/p/111414376) | 2020-03-07 10:09:47 |
-| 91 | [阅读笔记：开放域检索问答（ORQA）](https://zhuanlan.zhihu.com/p/107471078) | 2020-02-17 21:43:17 |
-| 92 | [NEZHA（哪吒）论文阅读笔记](https://zhuanlan.zhihu.com/p/100044919) | 2019-12-29 22:09:40 |
-| 93 | [DuReader数据集之数据预处理代码解析](https://zhuanlan.zhihu.com/p/75509030) | 2019-12-29 15:21:54 |
-| 94 | [机器阅读理解之DuReader数据集描述](https://zhuanlan.zhihu.com/p/75514130) | 2019-11-29 22:32:32 |
-| 95 | [文本蕴含之孪生网络（Siamese Network）](https://zhuanlan.zhihu.com/p/75366208) | 2019-07-27 11:27:35 |
-| 96 | [论文阅读笔记：文本蕴含之DIIN](https://zhuanlan.zhihu.com/p/73526585) | 2019-07-20 09:24:39 |
-| 97 | [论文阅读笔记：文本蕴含之ESIM](https://zhuanlan.zhihu.com/p/73408108) | 2019-07-13 13:18:02 |
-| 98 | [论文阅读笔记：文本蕴含之BiMPM](https://zhuanlan.zhihu.com/p/72403578) | 2019-07-06 11:49:24 |
+| 1 | [“NLP工作站”成立技术交流群](https://zhuanlan.zhihu.com/p/645128495) | 2023-07-21 21:40:53 |
+| 2 | [Llama2技术细节&开源影响](https://zhuanlan.zhihu.com/p/644671690) | 2023-07-20 00:16:38 |
+| 3 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 2023-07-18 12:04:29 |
+| 4 | [垂直领域大模型的一些思考及开源模型汇总](https://zhuanlan.zhihu.com/p/642611747) | 2023-07-10 14:40:18 |
+| 5 | [LLMs评估综述](https://zhuanlan.zhihu.com/p/642117003) | 2023-07-07 14:36:32 |
+| 6 | [大模型流水线并行（Pipeline）实战](https://zhuanlan.zhihu.com/p/636488690) | 2023-06-13 09:58:50 |
+| 7 | [支持多模态的ChatGLM模型-VisualGLM-6B](https://zhuanlan.zhihu.com/p/630265131) | 2023-05-18 10:29:56 |
+| 8 | [大模型时代-不进则退](https://zhuanlan.zhihu.com/p/625934485) | 2023-04-29 23:50:22 |
+| 9 | [大模型LLM-微调经验分享&总结](https://zhuanlan.zhihu.com/p/620885226) | 2023-04-11 11:41:51 |
+| 10 | [官方ChatGLM-6B模型微调方法](https://zhuanlan.zhihu.com/p/618483602) | 2023-03-31 14:22:00 |
+| 11 | [ChatGPT-所见、所闻、所感](https://zhuanlan.zhihu.com/p/605331104) | 2023-02-11 01:26:56 |
+| 12 | [CORGI-PM：首个中文性别偏见探索和缓解数据集](https://zhuanlan.zhihu.com/p/603230271) | 2023-02-03 17:31:42 |
+| 13 | [中文多模态对话数据集-TikTalk](https://zhuanlan.zhihu.com/p/600355581) | 2023-01-21 11:41:55 |
+| 14 | [事件抽取数据增强方法-Mask-then-Fill](https://zhuanlan.zhihu.com/p/600196893) | 2023-01-20 10:06:40 |
+| 15 | [AAAI2023 \| 基于统一语义匹配的通用信息抽取框架-USM](https://zhuanlan.zhihu.com/p/598882471) | 2023-01-13 19:56:27 |
+| 16 | [Dual-Cross-Encoder：面向稠密向量检索的Query深度交互的文档多视角表征](https://zhuanlan.zhihu.com/p/554143004) | 2022-08-15 22:45:23 |
+| 17 | [清华开源了1300亿开源的双语预训练模型-GLM-130B](https://zhuanlan.zhihu.com/p/550220516) | 2022-08-05 14:16:37 |
+| 18 | [IJCAI2022 \| DictBert：采用对比学习的字典描述知识增强的预训练语言模型](https://zhuanlan.zhihu.com/p/550019008) | 2022-08-04 22:43:44 |
+| 19 | [neo4j学习笔记-持续更新ing](https://zhuanlan.zhihu.com/p/538954459) | 2022-07-07 22:38:01 |
+| 20 | [CC-Riddle：汉字谜语问答数据集](https://zhuanlan.zhihu.com/p/537552626) | 2022-07-04 21:50:04 |
+| 21 | [中文NER数据集整理](https://zhuanlan.zhihu.com/p/529541521) | 2022-06-16 11:09:17 |
+| 22 | [ACL2022 \| DCSR：一种面向开放域段落检索的句子感知的对比学习方法](https://zhuanlan.zhihu.com/p/527366495) | 2022-06-11 12:45:55 |
+| 23 | [ACL2022 \| NoisyTune：微调前加入少量噪音可能会有意想不到的效果](https://zhuanlan.zhihu.com/p/523865674) | 2022-06-03 10:50:10 |
+| 24 | [ACL2022 \| DictBERT：通过低频词典增强预训练模型表征方法](https://zhuanlan.zhihu.com/p/523551515) | 2022-06-02 15:27:03 |
+| 25 | [ACL2022论文分类汇总-Prompt、句子表征、检索排序&摘要](https://zhuanlan.zhihu.com/p/519943388) | 2022-05-25 21:15:13 |
+| 26 | [总结\|Prompt在NER场景的应用](https://zhuanlan.zhihu.com/p/518146549) | 2022-05-22 11:47:21 |
+| 27 | [EASE：一种融合实体信息的句子嵌入对比学习方法](https://zhuanlan.zhihu.com/p/515964126) | 2022-05-17 22:35:22 |
+| 28 | [NAACL2022-Prompt相关论文&对Prompt的看法](https://zhuanlan.zhihu.com/p/512263922) | 2022-05-10 17:42:34 |
+| 29 | [PolyLoss：一种将分类损失函数加入泰勒展开式的损失函数](https://zhuanlan.zhihu.com/p/510626670) | 2022-05-07 11:33:32 |
+| 30 | [PERT：一种基于乱序语言模型的预训练模型](https://zhuanlan.zhihu.com/p/509647368) | 2022-05-05 15:41:39 |
+| 31 | [DiffCSE：结合句子间差异的无监督句子嵌入对比学习方法](https://zhuanlan.zhihu.com/p/507171467) | 2022-04-29 12:51:25 |
+| 32 | [SIGIR2022论文筛选](https://zhuanlan.zhihu.com/p/506005620) | 2022-04-27 15:04:52 |
+| 33 | [算法不会前端，也可以做出好看的界面-Streamlit](https://zhuanlan.zhihu.com/p/469582149) | 2022-02-20 11:46:28 |
+| 34 | [OpenAI：基于对比学习的预训练文本&代码表征技术](https://zhuanlan.zhihu.com/p/469474178) | 2022-02-19 12:53:29 |
+| 35 | [PairSCL：句子对级别的有监督对比学习方法](https://zhuanlan.zhihu.com/p/463949437) | 2022-02-04 16:06:40 |
+| 36 | [COLD：中文冒犯性语言检测数据集](https://zhuanlan.zhihu.com/p/463455280) | 2022-02-01 11:48:51 |
+| 37 | [SNCSE：一种基于软负例的无监督句向量对比学习方法](https://zhuanlan.zhihu.com/p/463142612) | 2022-01-30 11:04:21 |
+| 38 | [ExtraPhrase：一种针对抽象式（生成式）摘要的数据增强方法](https://zhuanlan.zhihu.com/p/462483469) | 2022-01-27 17:41:29 |
+| 39 | [MatchSum-一种基于语义匹配的抽取式摘要框架](https://zhuanlan.zhihu.com/p/462118940) | 2022-01-26 17:05:30 |
+| 40 | [BertSum-基于BERT模型的抽取式文本摘要](https://zhuanlan.zhihu.com/p/461836406) | 2022-01-25 20:43:48 |
+| 41 | [CPT模型：一种中文兼顾NLU和NLG的非平衡预训练语言模型](https://zhuanlan.zhihu.com/p/456553852) | 2022-01-12 21:29:31 |
+| 42 | [中文文本匹配数据集整理](https://zhuanlan.zhihu.com/p/454173790) | 2022-01-06 21:01:22 |
+| 43 | [SimCSE论文精读](https://zhuanlan.zhihu.com/p/452761704) | 2022-01-03 21:04:58 |
+| 44 | [EMNLP2021 Findings会议-305篇长文及119篇短文分类-附论文链接（下）](https://zhuanlan.zhihu.com/p/430531571) | 2021-11-07 20:47:49 |
+| 45 | [EMNLP2021 Findings会议-305篇长文及119篇短文分类-附论文链接（上）](https://zhuanlan.zhihu.com/p/430517383) | 2021-11-07 20:46:38 |
+| 46 | [EMNLP2021主会议-191篇短文分类-附论文链接](https://zhuanlan.zhihu.com/p/430197671) | 2021-11-06 17:13:46 |
+| 47 | [EMNLP2021主会议-656篇长文分类-附论文链接（下）](https://zhuanlan.zhihu.com/p/429161700) | 2021-11-03 23:58:54 |
+| 48 | [EMNLP2021主会议-656篇长文分类-附论文链接（上）](https://zhuanlan.zhihu.com/p/429144912) | 2021-11-03 23:56:41 |
+| 49 | [一个使模型训练速度提升20%的Trick-BlockShuffle](https://zhuanlan.zhihu.com/p/414964578) | 2021-09-28 20:21:27 |
+| 50 | [EMNLP2021会议PaperList](https://zhuanlan.zhihu.com/p/414085039) | 2021-09-26 11:05:54 |
+| 51 | [带有详细注释的PaddlePaddle的情绪识别项目](https://zhuanlan.zhihu.com/p/411826397) | 2021-09-21 14:11:36 |
+| 52 | [EMNLP 2021之SF：一种预训练语言模型的片段微调（Span Fine-tuning）方法](https://zhuanlan.zhihu.com/p/410627377) | 2021-09-15 22:52:00 |
+| 53 | [EMNLP2021之AEDA：一种更简单的文本分类数据增强技术](https://zhuanlan.zhihu.com/p/408774734) | 2021-09-09 22:47:03 |
+| 54 | [常用预训练语言模型（PTMs）总结](https://zhuanlan.zhihu.com/p/406512290) | 2021-09-03 21:53:13 |
+| 55 | [回顾BART模型](https://zhuanlan.zhihu.com/p/399169880) | 2021-08-12 20:50:51 |
+| 56 | [中文机器阅读理解（片段抽取）数据集整理](https://zhuanlan.zhihu.com/p/395788175) | 2021-08-03 22:30:12 |
+| 57 | [ACL2021论文之ChineseBERT：融合字形与拼音信息的中文预训练模型](https://zhuanlan.zhihu.com/p/393617564) | 2021-07-28 22:29:16 |
+| 58 | [授人以鱼不如授人以渔-如何高效获取前沿论文？](https://zhuanlan.zhihu.com/p/387583421) | 2021-07-07 22:04:04 |
+| 59 | [ACL2021 Findings论文汇总及分类](https://zhuanlan.zhihu.com/p/386313941) | 2021-07-03 15:46:08 |
+| 60 | [ACL2021主会议论文汇总及分类](https://zhuanlan.zhihu.com/p/385196031) | 2021-06-29 23:32:50 |
+| 61 | [ACL2021论文](https://zhuanlan.zhihu.com/p/384674443) | 2021-06-28 17:31:32 |
+| 62 | [难负例如何影响向量检索模型？](https://zhuanlan.zhihu.com/p/384463509) | 2021-06-27 23:38:08 |
+| 63 | [SIGIR2021论文：基于Text-to-Text多视图学习的段落重排序](https://zhuanlan.zhihu.com/p/383027416) | 2021-06-22 21:54:42 |
+| 64 | [SIGIR2021之DvBERT模型：双视图蒸馏的句向量BERT模型](https://zhuanlan.zhihu.com/p/380909028) | 2021-06-15 22:13:24 |
+| 65 | [SIGIR2021之IDCM模型: 文档内部级联选择段落服务于文档排序](https://zhuanlan.zhihu.com/p/380031457) | 2021-06-12 15:33:08 |
+| 66 | [SIGIR 2021论文筛选](https://zhuanlan.zhihu.com/p/378864849) | 2021-06-08 14:46:41 |
+| 67 | [小布助手对话短文本语义匹配-周周星分享](https://zhuanlan.zhihu.com/p/360705398) | 2021-03-29 18:16:50 |
+| 68 | [中文摘要数据集汇总](https://zhuanlan.zhihu.com/p/341398288) | 2021-01-02 21:04:25 |
+| 69 | [超详细中文注释的GPT2新闻标题生成项目](https://zhuanlan.zhihu.com/p/338171330) | 2020-12-21 09:21:20 |
+| 70 | [一种新的涨分神器！构造code-switching增广数据进行fine-tuning！](https://zhuanlan.zhihu.com/p/259581090) | 2020-09-27 14:47:43 |
+| 71 | [MacBERT：MLM as correction BERT](https://zhuanlan.zhihu.com/p/250595837) | 2020-09-20 17:55:30 |
+| 72 | [BERT-QE: 基于上下文化查询扩展的文档ReRank](https://zhuanlan.zhihu.com/p/250593899) | 2020-09-20 15:31:42 |
+| 73 | [AMBERT模型：一个多粒度Tokenization的预训练语言模型](https://zhuanlan.zhihu.com/p/214022514) | 2020-09-04 00:31:25 |
+| 74 | [SIGIR 2020之MarkedBERT模型：加入传统检索线索的Rerank模型](https://zhuanlan.zhihu.com/p/175981489) | 2020-08-30 11:16:44 |
+| 75 | [夸夸式闲聊机器人之Unilm对话生成](https://zhuanlan.zhihu.com/p/170358507) | 2020-08-07 23:11:02 |
+| 76 | [SIGIR 2020之DC-BERT模型：解耦问题-文档编码，提速QA-Rerank模块](https://zhuanlan.zhihu.com/p/166078711) | 2020-08-02 13:47:44 |
+| 77 | [SIGIR会议之文本表征、检索重排序、阅读理解论文整理](https://zhuanlan.zhihu.com/p/163742690) | 2020-07-26 11:05:23 |
+| 78 | [开源啦！开源啦！UNILM中文模型开源啦！](https://zhuanlan.zhihu.com/p/163483660) | 2020-07-25 17:44:42 |
+| 79 | [ACL2020论文整理之问题生成、自然语言推理、预训练语言模型及部分应用、QA问答系统及机器阅读理解](https://zhuanlan.zhihu.com/p/156857369) | 2020-07-05 20:16:35 |
+| 80 | [教你如何动态配置词权重，检索系列文章之HDCT论文笔记](https://zhuanlan.zhihu.com/p/148211196) | 2020-06-21 11:46:52 |
+| 81 | [智能扩充机器人的“标准问”库之Query生成](https://zhuanlan.zhihu.com/p/149429784) | 2020-06-20 13:18:47 |
+| 82 | [Web服务部署深度学习模型-续集](https://zhuanlan.zhihu.com/p/148224626) | 2020-06-14 15:05:01 |
+| 83 | [教你如何动态配置词权重，检索系列文章之DeepCT论文笔记](https://zhuanlan.zhihu.com/p/147935851) | 2020-06-14 12:32:51 |
+| 84 | [Web服务部署深度学习模型](https://zhuanlan.zhihu.com/p/143678340) | 2020-05-26 16:09:53 |
+| 85 | [Sentence-Bert论文笔记](https://zhuanlan.zhihu.com/p/113133510) | 2020-03-29 20:51:04 |
+| 86 | [UniLM-v2论文阅读笔记](https://zhuanlan.zhihu.com/p/113391609) | 2020-03-26 11:30:29 |
+| 87 | [UniLM论文阅读笔记](https://zhuanlan.zhihu.com/p/113380840) | 2020-03-20 21:11:18 |
+| 88 | [传统方法BM25解决短文本相似度问题](https://zhuanlan.zhihu.com/p/113224707) | 2020-03-16 20:01:10 |
+| 89 | [传统方法TF-IDF解决短文本相似度问题](https://zhuanlan.zhihu.com/p/113017752) | 2020-03-14 10:16:08 |
+| 90 | [你保存的BERT模型为什么那么大？](https://zhuanlan.zhihu.com/p/111513291) | 2020-03-08 11:31:49 |
+| 91 | [短文本相似度算法研究](https://zhuanlan.zhihu.com/p/111414376) | 2020-03-07 10:09:47 |
+| 92 | [阅读笔记：开放域检索问答（ORQA）](https://zhuanlan.zhihu.com/p/107471078) | 2020-02-17 21:43:17 |
+| 93 | [NEZHA（哪吒）论文阅读笔记](https://zhuanlan.zhihu.com/p/100044919) | 2019-12-29 22:09:40 |
+| 94 | [DuReader数据集之数据预处理代码解析](https://zhuanlan.zhihu.com/p/75509030) | 2019-12-29 15:21:54 |
+| 95 | [机器阅读理解之DuReader数据集描述](https://zhuanlan.zhihu.com/p/75514130) | 2019-11-29 22:32:32 |
+| 96 | [文本蕴含之孪生网络（Siamese Network）](https://zhuanlan.zhihu.com/p/75366208) | 2019-07-27 11:27:35 |
+| 97 | [论文阅读笔记：文本蕴含之DIIN](https://zhuanlan.zhihu.com/p/73526585) | 2019-07-20 09:24:39 |
+| 98 | [论文阅读笔记：文本蕴含之ESIM](https://zhuanlan.zhihu.com/p/73408108) | 2019-07-13 13:18:02 |
+| 99 | [论文阅读笔记：文本蕴含之BiMPM](https://zhuanlan.zhihu.com/p/72403578) | 2019-07-06 11:49:24 |
 
 
 ## 鱼遇雨欲语与余
@@ -2449,31 +2452,32 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [吴恩达来信：快速构建，悉心调试](https://zhuanlan.zhihu.com/p/643312431) | 2023-07-13 13:40:13 |
-| 2 | [吴恩达来信：基于提示的开发在加速](https://zhuanlan.zhihu.com/p/642661646) | 2023-07-10 17:00:14 |
-| 3 | [吴恩达来信：关于AI监管](https://zhuanlan.zhihu.com/p/640443083) | 2023-06-29 17:06:12 |
-| 4 | [吴恩达来信：AI的民主化](https://zhuanlan.zhihu.com/p/637266619) | 2023-06-15 12:52:59 |
-| 5 | [吴恩达来信：吴老师喊你上课啦！](https://zhuanlan.zhihu.com/p/633864756) | 2023-06-01 11:51:11 |
-| 6 | [吴恩达来信：更“省”数据的大型预训练模型](https://zhuanlan.zhihu.com/p/633010516) | 2023-05-29 12:13:50 |
-| 7 | [吴恩达来信：超越测试集——prompting改变了机器学习](https://zhuanlan.zhihu.com/p/630439740) | 2023-05-18 19:05:21 |
-| 8 | [吴恩达来信：LLMs的美好未来](https://zhuanlan.zhihu.com/p/623672319) | 2023-04-21 11:14:50 |
-| 9 | [吴恩达来信： 以合法和公平的方式向前发展](https://zhuanlan.zhihu.com/p/620097609) | 2023-04-07 12:44:05 |
-| 10 | [吴恩达来信：此GPT非彼GPT](https://zhuanlan.zhihu.com/p/618425166) | 2023-03-31 10:35:20 |
-| 11 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 2023-03-24 11:28:53 |
-| 12 | [吴恩达来信：风浪面前，团结就是力量！](https://zhuanlan.zhihu.com/p/614454824) | 2023-03-16 13:05:15 |
-| 13 | [吴恩达来信：区别人工智能生成与人类生成](https://zhuanlan.zhihu.com/p/612640260) | 2023-03-09 16:23:24 |
-| 14 | [吴恩达来信：LandingLens震撼发布，免费羊毛等你来薅！](https://zhuanlan.zhihu.com/p/610707617) | 2023-03-02 13:15:51 |
-| 15 | [吴恩达来信：充满希望的chat-based search](https://zhuanlan.zhihu.com/p/608825488) | 2023-02-23 15:30:04 |
-| 16 | [吴恩达来信：ChatGPT很酷，RL也很酷](https://zhuanlan.zhihu.com/p/606827548) | 2023-02-16 13:20:19 |
-| 17 | [吴恩达来信：合法vs公平](https://zhuanlan.zhihu.com/p/604883301) | 2023-02-09 17:04:03 |
-| 18 | [吴恩达来信：靠语言进化的LLMs](https://zhuanlan.zhihu.com/p/602832542) | 2023-02-02 13:43:21 |
-| 19 | [吴恩达来信：来自LLMs的巨大“威胁”？](https://zhuanlan.zhihu.com/p/600121157) | 2023-01-19 20:15:20 |
-| 20 | [吴恩达来信：即将绽放的LLMs](https://zhuanlan.zhihu.com/p/598545150) | 2023-01-12 15:42:34 |
-| 21 | [吴恩达来信：2023人工智能热点展望](https://zhuanlan.zhihu.com/p/596730259) | 2023-01-05 11:30:41 |
-| 22 | [吴恩达来信：一起畅想2023及未来吧！](https://zhuanlan.zhihu.com/p/595204817) | 2022-12-29 15:25:59 |
-| 23 | [吴恩达来信：人工智能的辉煌一年](https://zhuanlan.zhihu.com/p/593809403) | 2022-12-23 12:56:05 |
-| 24 | [吴恩达来信：围绕内容审核建立信任并做出权衡](https://zhuanlan.zhihu.com/p/592072640) | 2022-12-15 17:10:14 |
-| 25 | [吴恩达来信：建立能够展现不同置信度的模型](https://zhuanlan.zhihu.com/p/590332091) | 2022-12-08 18:58:02 |
+| 1 | [吴恩达来信：进一步完善AI相关版权法](https://zhuanlan.zhihu.com/p/644954760) | 2023-07-21 10:05:48 |
+| 2 | [吴恩达来信：快速构建，悉心调试](https://zhuanlan.zhihu.com/p/643312431) | 2023-07-13 13:40:13 |
+| 3 | [吴恩达来信：基于提示的开发在加速](https://zhuanlan.zhihu.com/p/642661646) | 2023-07-10 17:00:14 |
+| 4 | [吴恩达来信：关于AI监管](https://zhuanlan.zhihu.com/p/640443083) | 2023-06-29 17:06:12 |
+| 5 | [吴恩达来信：AI的民主化](https://zhuanlan.zhihu.com/p/637266619) | 2023-06-15 12:52:59 |
+| 6 | [吴恩达来信：吴老师喊你上课啦！](https://zhuanlan.zhihu.com/p/633864756) | 2023-06-01 11:51:11 |
+| 7 | [吴恩达来信：更“省”数据的大型预训练模型](https://zhuanlan.zhihu.com/p/633010516) | 2023-05-29 12:13:50 |
+| 8 | [吴恩达来信：超越测试集——prompting改变了机器学习](https://zhuanlan.zhihu.com/p/630439740) | 2023-05-18 19:05:21 |
+| 9 | [吴恩达来信：LLMs的美好未来](https://zhuanlan.zhihu.com/p/623672319) | 2023-04-21 11:14:50 |
+| 10 | [吴恩达来信： 以合法和公平的方式向前发展](https://zhuanlan.zhihu.com/p/620097609) | 2023-04-07 12:44:05 |
+| 11 | [吴恩达来信：此GPT非彼GPT](https://zhuanlan.zhihu.com/p/618425166) | 2023-03-31 10:35:20 |
+| 12 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 2023-03-24 11:28:53 |
+| 13 | [吴恩达来信：风浪面前，团结就是力量！](https://zhuanlan.zhihu.com/p/614454824) | 2023-03-16 13:05:15 |
+| 14 | [吴恩达来信：区别人工智能生成与人类生成](https://zhuanlan.zhihu.com/p/612640260) | 2023-03-09 16:23:24 |
+| 15 | [吴恩达来信：LandingLens震撼发布，免费羊毛等你来薅！](https://zhuanlan.zhihu.com/p/610707617) | 2023-03-02 13:15:51 |
+| 16 | [吴恩达来信：充满希望的chat-based search](https://zhuanlan.zhihu.com/p/608825488) | 2023-02-23 15:30:04 |
+| 17 | [吴恩达来信：ChatGPT很酷，RL也很酷](https://zhuanlan.zhihu.com/p/606827548) | 2023-02-16 13:20:19 |
+| 18 | [吴恩达来信：合法vs公平](https://zhuanlan.zhihu.com/p/604883301) | 2023-02-09 17:04:03 |
+| 19 | [吴恩达来信：靠语言进化的LLMs](https://zhuanlan.zhihu.com/p/602832542) | 2023-02-02 13:43:21 |
+| 20 | [吴恩达来信：来自LLMs的巨大“威胁”？](https://zhuanlan.zhihu.com/p/600121157) | 2023-01-19 20:15:20 |
+| 21 | [吴恩达来信：即将绽放的LLMs](https://zhuanlan.zhihu.com/p/598545150) | 2023-01-12 15:42:34 |
+| 22 | [吴恩达来信：2023人工智能热点展望](https://zhuanlan.zhihu.com/p/596730259) | 2023-01-05 11:30:41 |
+| 23 | [吴恩达来信：一起畅想2023及未来吧！](https://zhuanlan.zhihu.com/p/595204817) | 2022-12-29 15:25:59 |
+| 24 | [吴恩达来信：人工智能的辉煌一年](https://zhuanlan.zhihu.com/p/593809403) | 2022-12-23 12:56:05 |
+| 25 | [吴恩达来信：围绕内容审核建立信任并做出权衡](https://zhuanlan.zhihu.com/p/592072640) | 2022-12-15 17:10:14 |
+| 26 | [吴恩达来信：建立能够展现不同置信度的模型](https://zhuanlan.zhihu.com/p/590332091) | 2022-12-08 18:58:02 |
 
 
 ## 潘润琦
@@ -2899,6 +2903,28 @@ https://item.jd.com/13484669.html。
 | 16 | [中小银行二次风控能力建设](https://zhuanlan.zhihu.com/p/263548163) | 2020-10-09 16:05:15 |
 
 
+## 杨旭东
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [EasyRec重磅升级：组件化开发深度学习模型](https://zhuanlan.zhihu.com/p/644910803) | 2023-07-21 00:10:55 |
+| 2 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 2023-07-18 17:15:53 |
+| 3 | [多样化个性化推荐算法:推荐多样性建模](https://zhuanlan.zhihu.com/p/643900259) | 2023-07-16 16:57:34 |
+| 4 | [搜索推荐广告业务场景下的流量调控算法](https://zhuanlan.zhihu.com/p/643748885) | 2023-07-15 14:23:03 |
+| 5 | [流量调控PID算法调参指南](https://zhuanlan.zhihu.com/p/643275184) | 2023-07-13 11:08:32 |
+| 6 | [模型效果上限预估、分类模型Bad Case分析方法](https://zhuanlan.zhihu.com/p/570316683) | 2022-10-03 12:00:20 |
+| 7 | [机器学习模型交叉验证脚本](https://zhuanlan.zhihu.com/p/566044779) | 2022-09-19 17:59:21 |
+| 8 | [全网最浅显易懂的GBDT(xgboost)算法原理深入剖析](https://zhuanlan.zhihu.com/p/560905141) | 2022-09-03 16:30:47 |
+| 9 | [机器学习模型超参数网格搜索脚本](https://zhuanlan.zhihu.com/p/551632284) | 2022-08-09 14:42:46 |
+| 10 | [视觉多模态推荐算法综述：从入门到入门](https://zhuanlan.zhihu.com/p/525398305) | 2022-06-07 14:35:02 |
+| 11 | [1天学会开发工业级推荐系统的特征工程：保姆级教程](https://zhuanlan.zhihu.com/p/524575369) | 2022-06-05 20:05:43 |
+| 12 | [工业级推荐系统中的特征工程](https://zhuanlan.zhihu.com/p/518308463) | 2022-05-22 21:04:19 |
+| 13 | [推荐模型离线评测效果好，线上效果却不佳的原因](https://zhuanlan.zhihu.com/p/510067184) | 2022-05-06 11:25:14 |
+| 14 | [推荐算法效果不佳时的检查清单](https://zhuanlan.zhihu.com/p/479267766) | 2022-03-11 13:25:02 |
+| 15 | [冷启动推荐模型DropoutNet深度解析与改进](https://zhuanlan.zhihu.com/p/475117993) | 2022-03-03 10:55:20 |
+
+
 ## Andy Yang
 > 介绍： 生活、学习、思考和观察世界,自由之精神 独立之思想。
 
@@ -2940,27 +2966,6 @@ https://item.jd.com/13484669.html。
 | 12 | [呕心沥血整理往年精华面经，2023秋招卷起来](https://zhuanlan.zhihu.com/p/533993498) | 2022-06-26 15:14:45 |
 | 13 | [能够轻松的熟练掌握上面这几个awk写法，你已经超过了90%的身边人。持续更新ing](https://zhuanlan.zhihu.com/p/532630013) | 2022-06-23 10:20:58 |
 | 14 | [ACL2022知识图谱、BERT论文合集，持续更新中](https://zhuanlan.zhihu.com/p/498868169) | 2022-04-15 09:14:32 |
-
-
-## 杨旭东
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 2023-07-18 17:15:53 |
-| 2 | [多样化个性化推荐算法:推荐多样性建模](https://zhuanlan.zhihu.com/p/643900259) | 2023-07-16 16:57:34 |
-| 3 | [搜索推荐广告业务场景下的流量调控算法](https://zhuanlan.zhihu.com/p/643748885) | 2023-07-15 14:23:03 |
-| 4 | [流量调控PID算法调参指南](https://zhuanlan.zhihu.com/p/643275184) | 2023-07-13 11:08:32 |
-| 5 | [模型效果上限预估、分类模型Bad Case分析方法](https://zhuanlan.zhihu.com/p/570316683) | 2022-10-03 12:00:20 |
-| 6 | [机器学习模型交叉验证脚本](https://zhuanlan.zhihu.com/p/566044779) | 2022-09-19 17:59:21 |
-| 7 | [全网最浅显易懂的GBDT(xgboost)算法原理深入剖析](https://zhuanlan.zhihu.com/p/560905141) | 2022-09-03 16:30:47 |
-| 8 | [机器学习模型超参数网格搜索脚本](https://zhuanlan.zhihu.com/p/551632284) | 2022-08-09 14:42:46 |
-| 9 | [视觉多模态推荐算法综述：从入门到入门](https://zhuanlan.zhihu.com/p/525398305) | 2022-06-07 14:35:02 |
-| 10 | [1天学会开发工业级推荐系统的特征工程：保姆级教程](https://zhuanlan.zhihu.com/p/524575369) | 2022-06-05 20:05:43 |
-| 11 | [工业级推荐系统中的特征工程](https://zhuanlan.zhihu.com/p/518308463) | 2022-05-22 21:04:19 |
-| 12 | [推荐模型离线评测效果好，线上效果却不佳的原因](https://zhuanlan.zhihu.com/p/510067184) | 2022-05-06 11:25:14 |
-| 13 | [推荐算法效果不佳时的检查清单](https://zhuanlan.zhihu.com/p/479267766) | 2022-03-11 13:25:02 |
-| 14 | [冷启动推荐模型DropoutNet深度解析与改进](https://zhuanlan.zhihu.com/p/475117993) | 2022-03-03 10:55:20 |
 
 
 ## kaiyuan
@@ -3122,6 +3127,22 @@ https://item.jd.com/13484669.html。
 | 10 | [新搜索的一点个人思考](https://zhuanlan.zhihu.com/p/571235034) | 2022-10-07 16:41:36 |
 
 
+## 归来仍是少年
+> 介绍： 欢迎大家关注公众号《我爱自然语言处理》,做自然语言处理方向，kaggle比赛top1%一共七块奖牌，百度多形态信息抽取top1%，ccks2021因果抽取top11等，完成推荐系统，知识图谱，智能问答系统，信息检索系统，基于elasticsearch的高性能搜索系统，文本语义聚类，中文电子病历信息抽取，疾病风险预警模型，超长文本语义识别等落地项目。。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 2023-07-21 15:44:03 |
+| 2 | [LLM模型在公司场景中的应用探索](https://zhuanlan.zhihu.com/p/641734707) | 2023-07-06 22:51:55 |
+| 3 | [开源LLM大模型位置编码探索](https://zhuanlan.zhihu.com/p/631003833) | 2023-05-22 10:20:56 |
+| 4 | [LLM大模型低资源微调p tuning v2和lora区别](https://zhuanlan.zhihu.com/p/622810394) | 2023-04-18 16:16:16 |
+| 5 | [构建开放中文聊天生成模型(训练细节和代码开源)](https://zhuanlan.zhihu.com/p/619064661) | 2023-04-03 16:41:56 |
+| 6 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 2023-03-21 10:55:17 |
+| 7 | [TensorFlow2内存泄漏问题优化](https://zhuanlan.zhihu.com/p/611734055) | 2023-03-06 17:21:32 |
+| 8 | [工业界信息抽取之负样本构造](https://zhuanlan.zhihu.com/p/604754436) | 2023-02-10 11:32:28 |
+| 9 | [chatgpt横空出世引发的一些思考](https://zhuanlan.zhihu.com/p/600657790) | 2023-01-25 14:56:53 |
+
+
 ## 网络人工智能园地
 > 介绍： 华为网络AI平台(NAIE)官方帐号,公众号：网络人工智能园地
 官网：http://www.hwtelcloud.com
@@ -3154,21 +3175,6 @@ https://item.jd.com/13484669.html。
 | 7 | [如何在工业界优化点击率预估:（七）图建模和预训练](https://zhuanlan.zhihu.com/p/491323844) | 2022-04-10 23:57:04 |
 | 8 | [如何在工业界优化点击率预估:（八）Debias&Loss&校准](https://zhuanlan.zhihu.com/p/486798320) | 2022-04-10 23:56:18 |
 | 9 | [如何在工业界优化点击率预估:（九）集成学习&模型压缩](https://zhuanlan.zhihu.com/p/488441375) | 2022-04-10 22:58:45 |
-
-
-## 归来仍是少年
-> 介绍： 欢迎大家关注公众号《我爱自然语言处理》,做自然语言处理方向，kaggle比赛top1%一共七块奖牌，百度多形态信息抽取top1%，ccks2021因果抽取top11等，完成推荐系统，知识图谱，智能问答系统，信息检索系统，基于elasticsearch的高性能搜索系统，文本语义聚类，中文电子病历信息抽取，疾病风险预警模型，超长文本语义识别等落地项目。。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [LLM模型在公司场景中的应用探索](https://zhuanlan.zhihu.com/p/641734707) | 2023-07-06 22:51:55 |
-| 2 | [开源LLM大模型位置编码探索](https://zhuanlan.zhihu.com/p/631003833) | 2023-05-22 10:20:56 |
-| 3 | [LLM大模型低资源微调p tuning v2和lora区别](https://zhuanlan.zhihu.com/p/622810394) | 2023-04-18 16:16:16 |
-| 4 | [构建开放中文聊天生成模型(训练细节和代码开源)](https://zhuanlan.zhihu.com/p/619064661) | 2023-04-03 16:41:56 |
-| 5 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 2023-03-21 10:55:17 |
-| 6 | [TensorFlow2内存泄漏问题优化](https://zhuanlan.zhihu.com/p/611734055) | 2023-03-06 17:21:32 |
-| 7 | [工业界信息抽取之负样本构造](https://zhuanlan.zhihu.com/p/604754436) | 2023-02-10 11:32:28 |
-| 8 | [chatgpt横空出世引发的一些思考](https://zhuanlan.zhihu.com/p/600657790) | 2023-01-25 14:56:53 |
 
 
 ## 阿泽
