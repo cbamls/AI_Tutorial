@@ -25,30 +25,30 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-07-16 ~ 2023-07-23), 本周报更新时间:2023-07-23 23:33:30
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-07-17 ~ 2023-07-24), 本周报更新时间:2023-07-24 22:33:12
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [多场景多目标 \| [快手2023]PEPNet 模型如何做到大而全](https://zhuanlan.zhihu.com/p/645264991) | 亦一 | 2023-07-22 21:44:32 |
-| 2 | [是我们在训练大模型，还是大模型在训练我们？](https://zhuanlan.zhihu.com/p/645205269) | 刘聪NLP | 2023-07-22 13:18:35 |
-| 3 | [多场景 \| 基于独立建模的信息融合](https://zhuanlan.zhihu.com/p/645174846) | 亦一 | 2023-07-22 10:26:10 |
-| 4 | [“NLP工作站”成立技术交流群](https://zhuanlan.zhihu.com/p/645128495) | 刘聪NLP | 2023-07-21 21:40:53 |
-| 5 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 归来仍是少年 | 2023-07-21 15:44:03 |
-| 6 | [吴恩达来信：进一步完善AI相关版权法](https://zhuanlan.zhihu.com/p/644954760) | 吴恩达 | 2023-07-21 10:05:48 |
-| 7 | [EasyRec重磅升级：组件化开发深度学习模型](https://zhuanlan.zhihu.com/p/644910803) | 杨旭东 | 2023-07-21 00:10:55 |
-| 8 | [Llama2技术细节&开源影响](https://zhuanlan.zhihu.com/p/644671690) | 刘聪NLP | 2023-07-20 00:16:38 |
-| 9 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | JioNLP团队 | 2023-07-19 10:15:58 |
-| 10 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 大师兄 | 2023-07-18 18:27:59 |
-| 11 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 杨旭东 | 2023-07-18 17:15:53 |
-| 12 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 刘聪NLP | 2023-07-18 12:04:29 |
-| 13 | [心法利器[67] \| 算法性能指标优化指南](https://zhuanlan.zhihu.com/p/643923211) | 机智的叉烧 | 2023-07-17 21:04:24 |
-| 14 | [AB实验在腾讯海外游戏中的应用](https://zhuanlan.zhihu.com/p/644141339) | DataFunTalk | 2023-07-17 18:42:37 |
-| 15 | [心法利器[65] \| 一些技术和成长的讨论【答读者问】](https://zhuanlan.zhihu.com/p/643922033) | 机智的叉烧 | 2023-07-17 18:30:55 |
-| 16 | [OPPO基于图神经网络的搜索推荐算法与实践](https://zhuanlan.zhihu.com/p/644137476) | DataFunTalk | 2023-07-17 18:22:38 |
-| 17 | [KDD 2023 工业界搜广推论文整理](https://zhuanlan.zhihu.com/p/643864567) | 蘑菇先生 | 2023-07-17 09:57:50 |
-| 18 | [心法利器[64] \| 毕业3年的算法工程师技术成长思考](https://zhuanlan.zhihu.com/p/643921379) | 机智的叉烧 | 2023-07-17 09:15:51 |
-| 19 | [心法利器[63] \| 预训练模型的使用时机](https://zhuanlan.zhihu.com/p/643920890) | 机智的叉烧 | 2023-07-16 19:58:23 |
-| 20 | [多样化个性化推荐算法:推荐多样性建模](https://zhuanlan.zhihu.com/p/643900259) | 杨旭东 | 2023-07-16 16:57:34 |
+| 1 | [搜广推策略产品训练营第9期招生简章](https://zhuanlan.zhihu.com/p/645649804) | 策略产品Arthur | 2023-07-24 22:03:04 |
+| 2 | [盘点大模型的16大挑战](https://zhuanlan.zhihu.com/p/645515816) | 朱翔宇 | 2023-07-24 12:40:38 |
+| 3 | [多场景多目标 \| [快手2023]PEPNet 模型如何做到大而全](https://zhuanlan.zhihu.com/p/645264991) | 亦一 | 2023-07-22 21:44:32 |
+| 4 | [是我们在训练大模型，还是大模型在训练我们？](https://zhuanlan.zhihu.com/p/645205269) | 刘聪NLP | 2023-07-22 13:18:35 |
+| 5 | [多场景 \| 基于独立建模的信息融合](https://zhuanlan.zhihu.com/p/645174846) | 亦一 | 2023-07-22 10:26:10 |
+| 6 | [“NLP工作站”成立技术交流群](https://zhuanlan.zhihu.com/p/645128495) | 刘聪NLP | 2023-07-21 21:40:53 |
+| 7 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 归来仍是少年 | 2023-07-21 15:44:03 |
+| 8 | [吴恩达来信：进一步完善AI相关版权法](https://zhuanlan.zhihu.com/p/644954760) | 吴恩达 | 2023-07-21 10:05:48 |
+| 9 | [EasyRec重磅升级：组件化开发深度学习模型](https://zhuanlan.zhihu.com/p/644910803) | 杨旭东 | 2023-07-21 00:10:55 |
+| 10 | [Llama2技术细节&开源影响](https://zhuanlan.zhihu.com/p/644671690) | 刘聪NLP | 2023-07-20 00:16:38 |
+| 11 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | JioNLP团队 | 2023-07-19 10:15:58 |
+| 12 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 大师兄 | 2023-07-18 18:27:59 |
+| 13 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 杨旭东 | 2023-07-18 17:15:53 |
+| 14 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 刘聪NLP | 2023-07-18 12:04:29 |
+| 15 | [心法利器[67] \| 算法性能指标优化指南](https://zhuanlan.zhihu.com/p/643923211) | 机智的叉烧 | 2023-07-17 21:04:24 |
+| 16 | [AB实验在腾讯海外游戏中的应用](https://zhuanlan.zhihu.com/p/644141339) | DataFunTalk | 2023-07-17 18:42:37 |
+| 17 | [心法利器[65] \| 一些技术和成长的讨论【答读者问】](https://zhuanlan.zhihu.com/p/643922033) | 机智的叉烧 | 2023-07-17 18:30:55 |
+| 18 | [OPPO基于图神经网络的搜索推荐算法与实践](https://zhuanlan.zhihu.com/p/644137476) | DataFunTalk | 2023-07-17 18:22:38 |
+| 19 | [KDD 2023 工业界搜广推论文整理](https://zhuanlan.zhihu.com/p/643864567) | 蘑菇先生 | 2023-07-17 09:57:50 |
+| 20 | [心法利器[64] \| 毕业3年的算法工程师技术成长思考](https://zhuanlan.zhihu.com/p/643921379) | 机智的叉烧 | 2023-07-17 09:15:51 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -81,8 +81,8 @@
   * [衣介书生](#衣介书生)(打工人，公众号：后厂村搬砖工，欢迎关注,#打工人 #互联网 #推荐算...)
   * [吴恩达](#吴恩达)
   * [潘润琦](#潘润琦)(一只菜鸡 木有学上,...)
-  * [Ostrich](#ostrich)(厚积薄发,分享互联网技术和成长经验。...)
   * [策略产品Arthur](#策略产品arthur)
+  * [Ostrich](#ostrich)(厚积薄发,分享互联网技术和成长经验。...)
   * [冯伟](#冯伟)(推荐系统,混迹推荐系统的小码农。...)
   * [Young](#young)(公众号【Young样说】探索前沿有趣的科技AI见闻,- 清华大学本科...)
   * [iwtbs](#iwtbs)(公众号：推荐广告算法小木屋,推荐算法工程师。...)
@@ -424,217 +424,218 @@
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [不再追求模型收敛，一个简单Trick让模型更稳定！](https://zhuanlan.zhihu.com/p/639336175) | 2023-06-25 12:14:04 |
-| 2 | [家谱树：大模型的前世今生](https://zhuanlan.zhihu.com/p/630478671) | 2023-05-18 22:30:35 |
-| 3 | [当ChatGPT遇上推荐系统，遭遇滑铁卢](https://zhuanlan.zhihu.com/p/629076305) | 2023-05-13 12:54:07 |
-| 4 | [广告营销算法是如何发挥作用的？](https://zhuanlan.zhihu.com/p/626767495) | 2023-05-04 20:25:12 |
-| 5 | [ChatGPT出现后，我们是否真的面临范式转变？](https://zhuanlan.zhihu.com/p/622052864) | 2023-04-15 11:48:58 |
-| 6 | [DeepSpeed Chat: 一键式RLHF训练](https://zhuanlan.zhihu.com/p/621735849) | 2023-04-13 20:02:13 |
-| 7 | [LoRA：训练自己的ChatGPT](https://zhuanlan.zhihu.com/p/620552131) | 2023-04-09 17:26:58 |
-| 8 | [ChatGLM-6B微调方法](https://zhuanlan.zhihu.com/p/618724929) | 2023-04-01 15:49:41 |
-| 9 | [马斯克开源，Twitter是怎么做推荐的？](https://zhuanlan.zhihu.com/p/618710861) | 2023-04-01 15:04:35 |
-| 10 | [再谈排序算法的pairwise，pointwise，listwise](https://zhuanlan.zhihu.com/p/613354685) | 2023-03-12 16:37:02 |
-| 11 | [流量为王：A/B test 流量分发及实验评估方法](https://zhuanlan.zhihu.com/p/610847581) | 2023-03-02 21:33:35 |
-| 12 | [拆解追溯 ChapGPT各项能力的起源](https://zhuanlan.zhihu.com/p/607469120) | 2023-02-18 19:08:35 |
-| 13 | [电商数据分析方法论](https://zhuanlan.zhihu.com/p/599027661) | 2023-01-14 15:04:38 |
-| 14 | [如何发现品牌潜客？目标人群优选算法模型及实践解析](https://zhuanlan.zhihu.com/p/553639842) | 2022-08-14 15:36:48 |
-| 15 | [微信大数据挑战赛：周星星方案汇总](https://zhuanlan.zhihu.com/p/521628743) | 2022-05-29 16:39:26 |
-| 16 | [称霸Kaggle的九大深度学习炼丹技巧](https://zhuanlan.zhihu.com/p/518189935) | 2022-05-22 14:27:35 |
-| 17 | [那么多CTR论文，真正能复现出效果的有几个？](https://zhuanlan.zhihu.com/p/510693686) | 2022-05-07 14:10:02 |
-| 18 | [腾讯多任务模型MFH](https://zhuanlan.zhihu.com/p/495688506) | 2022-04-09 15:14:45 |
-| 19 | [Transformer总结(2022版)](https://zhuanlan.zhihu.com/p/489187551) | 2022-03-28 20:48:21 |
-| 20 | [一文看清这些年自监督和无监督的进展](https://zhuanlan.zhihu.com/p/483659212) | 2022-03-19 12:36:32 |
-| 21 | [用Dropout思想做特征选择，保证效果还兼顾了线上性能?](https://zhuanlan.zhihu.com/p/480595150) | 2022-03-14 11:45:12 |
-| 22 | [神经网络调参技巧：warmup策略](https://zhuanlan.zhihu.com/p/479862242) | 2022-03-12 16:13:24 |
-| 23 | [DEEPNORM：千层transformer...](https://zhuanlan.zhihu.com/p/479860623) | 2022-03-12 16:12:38 |
-| 24 | [2021年炼丹笔记最受欢迎的10篇技术文章](https://zhuanlan.zhihu.com/p/476654345) | 2022-03-06 17:14:45 |
-| 25 | [关于多目标任务有趣的融合方式](https://zhuanlan.zhihu.com/p/474331161) | 2022-03-01 19:45:12 |
-| 26 | [对比学习必知要点](https://zhuanlan.zhihu.com/p/472917546) | 2022-02-26 18:42:24 |
-| 27 | [对比表示学习必知的几种训练目标](https://zhuanlan.zhihu.com/p/472918256) | 2022-02-26 18:41:26 |
-| 28 | [召回:是"塔",是"塔",但不是双塔!](https://zhuanlan.zhihu.com/p/472914416) | 2022-02-26 18:33:43 |
-| 29 | [2021年Kaggle所有赛事TOP方案汇总](https://zhuanlan.zhihu.com/p/472915303) | 2022-02-26 18:30:40 |
-| 30 | [深度学习模型的多Loss调参技巧](https://zhuanlan.zhihu.com/p/472200933) | 2022-02-25 09:50:48 |
-| 31 | [三种Target Encoding方式总结](https://zhuanlan.zhihu.com/p/466389890) | 2022-02-11 21:53:31 |
-| 32 | [如何解决高维稀疏的user-item矩阵推荐问题？](https://zhuanlan.zhihu.com/p/464942032) | 2022-02-08 16:07:00 |
-| 33 | [双塔模型没效果了？请加大加粗！](https://zhuanlan.zhihu.com/p/460951158) | 2022-01-23 14:43:21 |
-| 34 | [文本摘要方法总结](https://zhuanlan.zhihu.com/p/460943971) | 2022-01-23 14:16:02 |
-| 35 | [就知道调bert，都不知道加个对比学习吗？](https://zhuanlan.zhihu.com/p/457784375) | 2022-01-15 16:20:52 |
-| 36 | [AI圈最新深度学习量化算法！](https://zhuanlan.zhihu.com/p/456528701) | 2022-01-12 20:37:37 |
-| 37 | [Prompt-Tuning这么好用？](https://zhuanlan.zhihu.com/p/454778818) | 2022-01-08 14:51:31 |
-| 38 | [No Fine-Tuning, Only Prefix-Tuning](https://zhuanlan.zhihu.com/p/453748474) | 2022-01-05 21:24:22 |
-| 39 | [搜索算法相似度问题之BM25](https://zhuanlan.zhihu.com/p/453748069) | 2022-01-05 21:19:20 |
-| 40 | [NLP中对"困惑度"感到困惑?](https://zhuanlan.zhihu.com/p/449745831) | 2021-12-25 14:37:14 |
-| 41 | [不加样本就能做数据增强？还能提效？](https://zhuanlan.zhihu.com/p/449744718) | 2021-12-25 14:32:09 |
-| 42 | [关于"知识蒸馏"，你想知道的都在这里！](https://zhuanlan.zhihu.com/p/446977503) | 2021-12-18 14:22:27 |
-| 43 | [炼丹秘术：给Embedding插上翅膀](https://zhuanlan.zhihu.com/p/446973594) | 2021-12-18 14:12:56 |
-| 44 | [从用户反馈的可解释性提升推荐模型](https://zhuanlan.zhihu.com/p/446971622) | 2021-12-18 14:08:36 |
-| 45 | [时间序列里面最强特征之一](https://zhuanlan.zhihu.com/p/444365030) | 2021-12-12 15:36:25 |
-| 46 | [自监督学习和对比学习](https://zhuanlan.zhihu.com/p/441455961) | 2021-12-05 15:37:18 |
-| 47 | [网络越"深"越"好"?](https://zhuanlan.zhihu.com/p/441454952) | 2021-12-05 15:32:37 |
-| 48 | [Trapper: Transformer模型都在此!](https://zhuanlan.zhihu.com/p/441453913) | 2021-12-05 15:29:50 |
-| 49 | [10大最受欢迎的时间序列Github项目](https://zhuanlan.zhihu.com/p/441451881) | 2021-12-05 15:26:12 |
-| 50 | [数据清洗该怎么做？](https://zhuanlan.zhihu.com/p/435610727) | 2021-11-20 15:04:33 |
-| 51 | [self-attention竟然没用？](https://zhuanlan.zhihu.com/p/433097087) | 2021-11-14 13:10:41 |
-| 52 | [如何评估序列推荐模型？](https://zhuanlan.zhihu.com/p/429894644) | 2021-11-05 16:58:30 |
-| 53 | [模型的燃料，数据采样的秘密](https://zhuanlan.zhihu.com/p/429891446) | 2021-11-05 16:55:39 |
-| 54 | [Transformers中的位置编码到底是什么?](https://zhuanlan.zhihu.com/p/427482394) | 2021-10-30 13:41:10 |
-| 55 | [那些决定模型上限的操作](https://zhuanlan.zhihu.com/p/427480576) | 2021-10-30 13:37:16 |
-| 56 | [炼丹知识点：模型评估里的陷阱](https://zhuanlan.zhihu.com/p/425119410) | 2021-10-24 13:42:47 |
-| 57 | [Short-Session的推荐如何做？](https://zhuanlan.zhihu.com/p/424198914) | 2021-10-21 20:52:29 |
-| 58 | [延迟反馈带来的样本偏差如何处理](https://zhuanlan.zhihu.com/p/424197502) | 2021-10-21 20:48:11 |
-| 59 | [深度学习模型如何缩小到可以放到微处理器呢?](https://zhuanlan.zhihu.com/p/424196064) | 2021-10-21 20:43:10 |
-| 60 | [2021年三大顶会时间序列论文&代码整理](https://zhuanlan.zhihu.com/p/424195019) | 2021-10-21 20:39:47 |
-| 61 | [微信大数据挑战赛决赛方案：微信视频号推荐算法](https://zhuanlan.zhihu.com/p/413787704) | 2021-09-25 11:14:22 |
-| 62 | [Transformer又又又升级了？](https://zhuanlan.zhihu.com/p/413786690) | 2021-09-25 11:08:18 |
-| 63 | [推荐系统里，可以用蒸馏吗？](https://zhuanlan.zhihu.com/p/413785503) | 2021-09-25 11:04:40 |
-| 64 | [神经网络调参经验大汇总](https://zhuanlan.zhihu.com/p/410335242) | 2021-09-14 17:11:26 |
-| 65 | [淘宝搜索中基于embedding的召回](https://zhuanlan.zhihu.com/p/410331760) | 2021-09-14 16:58:38 |
-| 66 | [点击率预估又有新花样？](https://zhuanlan.zhihu.com/p/406785178) | 2021-09-04 14:27:45 |
-| 67 | [双塔模型中的负采样](https://zhuanlan.zhihu.com/p/406783325) | 2021-09-04 14:22:23 |
-| 68 | [推荐系统遇到曝光偏差怎么办？用对比学习！](https://zhuanlan.zhihu.com/p/402159523) | 2021-08-21 17:38:46 |
-| 69 | [内容流推荐中的个性化标题生成框架](https://zhuanlan.zhihu.com/p/400242555) | 2021-08-16 12:22:33 |
-| 70 | [PyCaret：又一个神仙ML库](https://zhuanlan.zhihu.com/p/400240637) | 2021-08-16 12:14:47 |
-| 71 | [漫谈特征缩放](https://zhuanlan.zhihu.com/p/400239115) | 2021-08-16 12:08:13 |
-| 72 | [再谈序列化推荐-集成item类目属性](https://zhuanlan.zhihu.com/p/397604219) | 2021-08-08 16:50:21 |
-| 73 | [盘一盘推荐系统里值得一读的那些论文](https://zhuanlan.zhihu.com/p/397601992) | 2021-08-08 16:44:59 |
-| 74 | [推荐竞赛金牌技能！](https://zhuanlan.zhihu.com/p/397601007) | 2021-08-08 16:35:13 |
-| 75 | [推荐系统里，你是怎么Embedding的？](https://zhuanlan.zhihu.com/p/397600084) | 2021-08-08 16:31:13 |
-| 76 | [特征筛选偷懒必备](https://zhuanlan.zhihu.com/p/397598881) | 2021-08-08 16:27:02 |
-| 77 | [算法模型该如何解释？](https://zhuanlan.zhihu.com/p/392779898) | 2021-07-24 16:46:59 |
-| 78 | [从Deepwalk到Node2vec](https://zhuanlan.zhihu.com/p/390594956) | 2021-07-17 15:30:53 |
-| 79 | [NLP十大数据扩充策略](https://zhuanlan.zhihu.com/p/389221231) | 2021-07-13 12:31:02 |
-| 80 | [寻找不合群的数据（异常值）](https://zhuanlan.zhihu.com/p/389220299) | 2021-07-13 12:21:34 |
-| 81 | [推荐系统开源数据集](https://zhuanlan.zhihu.com/p/389219212) | 2021-07-13 12:15:42 |
-| 82 | [大有可为的GNN：DeepWalk](https://zhuanlan.zhihu.com/p/389218052) | 2021-07-13 12:11:52 |
-| 83 | [负样本的艺术，再读Facebook双塔向量召回算法](https://zhuanlan.zhihu.com/p/386913612) | 2021-07-05 21:13:24 |
-| 84 | ["轻量"且"优秀"的序列推荐模型](https://zhuanlan.zhihu.com/p/386477485) | 2021-07-04 11:29:27 |
-| 85 | [推荐系统中多值特征的八大处理技巧](https://zhuanlan.zhihu.com/p/385490803) | 2021-06-30 20:46:05 |
-| 86 | [推荐系统中的长尾物品（Tail Items）推荐问题](https://zhuanlan.zhihu.com/p/384961079) | 2021-06-29 11:00:28 |
-| 87 | [用 XGBoost 做 Learning To Rank](https://zhuanlan.zhihu.com/p/384661987) | 2021-06-28 12:29:30 |
-| 88 | [微信视频号推荐算法上分技巧](https://zhuanlan.zhihu.com/p/384010332) | 2021-06-25 18:47:37 |
-| 89 | [MLP is Best?](https://zhuanlan.zhihu.com/p/381756225) | 2021-06-18 09:43:58 |
-| 90 | [一文弄懂各大池化Pooling操作](https://zhuanlan.zhihu.com/p/381752896) | 2021-06-18 09:37:36 |
-| 91 | [FM又又又升级了？](https://zhuanlan.zhihu.com/p/381471924) | 2021-06-17 12:29:20 |
-| 92 | [神经网络十大学习率衰减提效策略](https://zhuanlan.zhihu.com/p/379213781) | 2021-06-09 15:18:02 |
-| 93 | [兜兜转转一个圈，到底What is all you need?](https://zhuanlan.zhihu.com/p/378845253) | 2021-06-08 12:29:13 |
-| 94 | [AutoDim:自动Embedding维度寻优，如何节省70%的存储空间同时还能大幅提效？](https://zhuanlan.zhihu.com/p/378166274) | 2021-06-05 15:56:46 |
-| 95 | [用XGBoost调XGBoost?"我"调"我"自己？](https://zhuanlan.zhihu.com/p/378165220) | 2021-06-05 15:51:12 |
-| 96 | [当推荐系统遇上多模态Embedding](https://zhuanlan.zhihu.com/p/376816853) | 2021-05-31 20:24:08 |
-| 97 | [用预训练GNN预估点击率有奇效？](https://zhuanlan.zhihu.com/p/376666362) | 2021-05-31 12:35:48 |
-| 98 | [曾几何时，我们炼的不是丹，是特征](https://zhuanlan.zhihu.com/p/375981851) | 2021-05-28 12:16:30 |
-| 99 | [自动化Debias框架，一键去除推荐系统所有Bias](https://zhuanlan.zhihu.com/p/375980125) | 2021-05-28 12:10:44 |
-| 100 | [推荐系统User-Item Embedding图算法](https://zhuanlan.zhihu.com/p/375042284) | 2021-05-25 11:18:09 |
-| 101 | [隐式反馈的去噪，模型取得巨大提升](https://zhuanlan.zhihu.com/p/374549706) | 2021-05-23 13:06:10 |
-| 102 | [聊聊Batch Normalization在网络结构中的位置](https://zhuanlan.zhihu.com/p/374549086) | 2021-05-23 12:56:38 |
-| 103 | [微信视频号推荐算法方案分享](https://zhuanlan.zhihu.com/p/374547948) | 2021-05-23 12:52:37 |
-| 104 | [GNN是什么？GNN怎么学？GNN何用？](https://zhuanlan.zhihu.com/p/374547276) | 2021-05-23 12:45:58 |
-| 105 | [推荐、广告排序算法评价指标 GAUC、MRR、nDCG、MAP](https://zhuanlan.zhihu.com/p/372735913) | 2021-05-16 16:15:52 |
-| 106 | [模型调参指南北东西](https://zhuanlan.zhihu.com/p/372524312) | 2021-05-15 14:15:05 |
-| 107 | [用隐式反馈做推荐模型，你做对了吗](https://zhuanlan.zhihu.com/p/372520538) | 2021-05-15 14:06:22 |
-| 108 | [炼丹侠必知的11大神经网络结构​汇总](https://zhuanlan.zhihu.com/p/372516381) | 2021-05-15 13:41:44 |
-| 109 | [入坑推荐系统，从Google这篇开始](https://zhuanlan.zhihu.com/p/370469782) | 2021-05-07 18:46:21 |
-| 110 | [谷歌开源下一代推荐系统模拟器：RecSim NG](https://zhuanlan.zhihu.com/p/370469207) | 2021-05-07 18:40:37 |
-| 111 | [Lookalike相似人群拓展算法](https://zhuanlan.zhihu.com/p/370467639) | 2021-05-07 18:36:30 |
-| 112 | [KDD Cup 2021：时间序列异常检测问题开源方案](https://zhuanlan.zhihu.com/p/368650520) | 2021-04-28 22:29:36 |
-| 113 | [对"样本不均衡"一顿操作](https://zhuanlan.zhihu.com/p/366768794) | 2021-04-21 22:25:26 |
-| 114 | [AAAI21最佳论文Runners Up！Transformer的归因探索！](https://zhuanlan.zhihu.com/p/366767736) | 2021-04-21 22:21:29 |
-| 115 | [Attention函数手册](https://zhuanlan.zhihu.com/p/366766852) | 2021-04-21 22:16:33 |
-| 116 | [没什么是一次排序解决不了的，如果有，那就One more time](https://zhuanlan.zhihu.com/p/366765660) | 2021-04-21 22:12:32 |
-| 117 | [Learning to Rank：X-wise](https://zhuanlan.zhihu.com/p/366764455) | 2021-04-21 22:07:10 |
-| 118 | [一个端到端模型GraphDR实现多样化的召回](https://zhuanlan.zhihu.com/p/366762731) | 2021-04-21 22:02:08 |
-| 119 | [DNN中多任务学习概述](https://zhuanlan.zhihu.com/p/363931367) | 2021-04-11 13:38:57 |
-| 120 | [ArcFace 同款商品识别的克星](https://zhuanlan.zhihu.com/p/363928631) | 2021-04-11 13:21:13 |
-| 121 | [MaskNet 这个CTR模型，有点意思](https://zhuanlan.zhihu.com/p/363927455) | 2021-04-11 13:11:38 |
-| 122 | [霸榜各大CV任务榜单，Swin Transformer横空出世！](https://zhuanlan.zhihu.com/p/363067287) | 2021-04-07 23:02:54 |
-| 123 | [神经网络基础之可视化和交互式指南](https://zhuanlan.zhihu.com/p/363063564) | 2021-04-07 22:48:26 |
-| 124 | [一文梳理多任务学习(MMoE/PLE/DUPN/ESSM等)](https://zhuanlan.zhihu.com/p/363059498) | 2021-04-07 22:28:24 |
-| 125 | [CTR模型越来越深，如何让它变轻?](https://zhuanlan.zhihu.com/p/361116560) | 2021-03-30 19:53:54 |
-| 126 | [Netflix提出梯度提升决策树网络Hammock！](https://zhuanlan.zhihu.com/p/361115975) | 2021-03-30 19:46:37 |
-| 127 | [Purdue&UCLA提出梯度Boosting网络，效果远好于XGBoost模型！](https://zhuanlan.zhihu.com/p/361114700) | 2021-03-30 19:43:17 |
-| 128 | [一个模型能服务所有的点击率模型？](https://zhuanlan.zhihu.com/p/361113529) | 2021-03-30 19:35:04 |
-| 129 | [流量为王：ABTest流量分层分桶机制](https://zhuanlan.zhihu.com/p/359668457) | 2021-03-24 22:24:00 |
-| 130 | [一文弄懂各种loss function](https://zhuanlan.zhihu.com/p/358570091) | 2021-03-20 14:33:53 |
-| 131 | [谷歌Deep Bootstrap Framework：在线优化角度理解神经网络](https://zhuanlan.zhihu.com/p/358569279) | 2021-03-20 14:28:28 |
-| 132 | [排序(rank)后重排(re-rank)?](https://zhuanlan.zhihu.com/p/358568019) | 2021-03-20 14:23:43 |
-| 133 | [ALL in BERT：一套操作冲进排行榜首页](https://zhuanlan.zhihu.com/p/358565551) | 2021-03-20 14:13:32 |
-| 134 | [又一Attention函数诞生啦，带给你意想不到的巨大提升！](https://zhuanlan.zhihu.com/p/357612282) | 2021-03-16 20:19:06 |
-| 135 | [搜索推荐系统实战：终极奥秘](https://zhuanlan.zhihu.com/p/356879979) | 2021-03-13 19:03:30 |
-| 136 | [搜索推荐系统实战：进化篇](https://zhuanlan.zhihu.com/p/356877663) | 2021-03-13 18:52:48 |
-| 137 | [搜索推荐系统实战：起始篇](https://zhuanlan.zhihu.com/p/356875249) | 2021-03-13 18:38:46 |
-| 138 | [负样本修正：既然数据是模型的上限，就不要破坏这个上限](https://zhuanlan.zhihu.com/p/356139393) | 2021-03-10 20:36:30 |
-| 139 | [再谈序列化推荐](https://zhuanlan.zhihu.com/p/356124555) | 2021-03-10 20:27:03 |
-| 140 | [当推荐遇到冷启动](https://zhuanlan.zhihu.com/p/355858793) | 2021-03-09 21:25:06 |
-| 141 | [当推荐系统遇上用户画像：你的画像是怎么来的？](https://zhuanlan.zhihu.com/p/354524125) | 2021-03-04 13:15:09 |
-| 142 | [Normalization在CTR问题中的迷之效果](https://zhuanlan.zhihu.com/p/353381965) | 2021-02-27 18:07:08 |
-| 143 | [负样本修正：CVR预估时间延迟问题](https://zhuanlan.zhihu.com/p/353379888) | 2021-02-27 17:53:37 |
-| 144 | [搜索推荐炼丹笔记：CVR预估中的延迟反馈问题](https://zhuanlan.zhihu.com/p/353378307) | 2021-02-27 17:43:55 |
-| 145 | [大道至简：算法工程师炼丹Trick手册](https://zhuanlan.zhihu.com/p/352971645) | 2021-02-25 21:39:04 |
-| 146 | [推荐系统与GNN的火花](https://zhuanlan.zhihu.com/p/352970399) | 2021-02-25 21:32:58 |
-| 147 | [Model Search：炼丹师最强危机，谷歌开源最强AutoML工具！](https://zhuanlan.zhihu.com/p/352967954) | 2021-02-25 21:25:55 |
-| 148 | [流量为王：收益最大化的混排机制](https://zhuanlan.zhihu.com/p/352966287) | 2021-02-25 21:16:10 |
-| 149 | [推荐系统CTR预估学习路线：引入注意力机制](https://zhuanlan.zhihu.com/p/351078828) | 2021-02-17 16:27:16 |
-| 150 | [推荐系统CTR预估学习路线：深度模型](https://zhuanlan.zhihu.com/p/351078721) | 2021-02-17 16:15:30 |
-| 151 | [推荐系统CTR预估学习路线：利用树模型自动化特征工程](https://zhuanlan.zhihu.com/p/351079011) | 2021-02-17 16:04:15 |
-| 152 | [推荐系统CTR预估学习路线：从LR到FM/FFM探索二阶特征的高效实现](https://zhuanlan.zhihu.com/p/351076920) | 2021-02-17 15:54:39 |
-| 153 | [Transformer Family](https://zhuanlan.zhihu.com/p/351046712) | 2021-02-17 11:44:38 |
-| 154 | [模型提效的另一条路：数据增强](https://zhuanlan.zhihu.com/p/351042771) | 2021-02-17 10:58:31 |
-| 155 | [搜索推荐炼丹笔记：评论是怎么影响推荐的？](https://zhuanlan.zhihu.com/p/351040887) | 2021-02-17 10:48:46 |
-| 156 | [AAAI21最佳论文Informer：效果远超Transformer的长序列预测神器？？？](https://zhuanlan.zhihu.com/p/349896117) | 2021-02-07 20:07:28 |
-| 157 | [机器学习入门开源资料](https://zhuanlan.zhihu.com/p/349688817) | 2021-02-06 17:17:28 |
-| 158 | [一石二鸟：推荐系统多目标任务建模方法](https://zhuanlan.zhihu.com/p/348630177) | 2021-02-01 21:25:32 |
-| 159 | [搜索推荐炼丹笔记：融合GNN、图谱、多模态的推荐](https://zhuanlan.zhihu.com/p/348626879) | 2021-02-01 21:07:11 |
-| 160 | [搜索推荐炼丹笔记：单网络内部集成学习](https://zhuanlan.zhihu.com/p/348165482) | 2021-01-30 15:58:16 |
-| 161 | [搜索推荐炼丹笔记：Transformer在搜索推荐中的应用](https://zhuanlan.zhihu.com/p/348159311) | 2021-01-30 15:31:42 |
-| 162 | [NN如何在表格数据中战胜GBDT类模型](https://zhuanlan.zhihu.com/p/348156063) | 2021-01-30 15:18:41 |
-| 163 | [事半功倍：推荐系统Pre-train预训练方法](https://zhuanlan.zhihu.com/p/348152170) | 2021-01-30 15:03:24 |
-| 164 | [2020年AI领域有哪些让人惊艳的研究？](https://zhuanlan.zhihu.com/p/347525678) | 2021-01-27 22:08:20 |
-| 165 | [搜索推荐炼丹笔记：酒店搜索位置偏差的边际重要性](https://zhuanlan.zhihu.com/p/347521505) | 2021-01-27 22:01:45 |
-| 166 | [搜索推荐炼丹笔记：点击位置偏差的经验比较](https://zhuanlan.zhihu.com/p/347515121) | 2021-01-27 21:40:37 |
-| 167 | [搜索推荐炼丹笔记：位置偏差里的惊喜](https://zhuanlan.zhihu.com/p/347512018) | 2021-01-27 21:12:09 |
-| 168 | [NLP炼丹笔记：Switch Transformers 朴实无华 大招秒杀](https://zhuanlan.zhihu.com/p/344702054) | 2021-01-16 11:01:44 |
-| 169 | [推荐搜索炼丹笔记：SIM 用户行为序列点击率预估模型](https://zhuanlan.zhihu.com/p/344698112) | 2021-01-16 10:42:29 |
-| 170 | [推荐搜索炼丹笔记：MiNet阿里跨域点击率CTR预估](https://zhuanlan.zhihu.com/p/344691028) | 2021-01-16 10:23:36 |
-| 171 | [推荐搜索炼丹笔记：双塔模型在Airbnb搜索排名中的应用](https://zhuanlan.zhihu.com/p/343097091) | 2021-01-09 20:07:29 |
-| 172 | [向量召回 MIND多兴趣双塔模型](https://zhuanlan.zhihu.com/p/343014809) | 2021-01-09 19:05:31 |
-| 173 | [推荐算法炼丹笔记：非采样的负样本](https://zhuanlan.zhihu.com/p/342134699) | 2021-01-05 22:29:06 |
-| 174 | [2020年搜索推荐系统论文干货集锦](https://zhuanlan.zhihu.com/p/341581547) | 2021-01-03 20:37:42 |
-| 175 | [Facebook向量召回双塔模型](https://zhuanlan.zhihu.com/p/341101313) | 2020-12-31 21:15:18 |
-| 176 | [推荐算法炼丹笔记：阿里序列化推荐算法MRIF](https://zhuanlan.zhihu.com/p/339628215) | 2020-12-25 23:33:17 |
-| 177 | [做向量召回 All You Need is 双塔](https://zhuanlan.zhihu.com/p/339116577) | 2020-12-23 23:31:53 |
-| 178 | [推荐算法炼丹笔记：Deep Bayesian的多目标推荐](https://zhuanlan.zhihu.com/p/338042057) | 2020-12-19 11:17:08 |
-| 179 | [推荐系统里的那些坑](https://zhuanlan.zhihu.com/p/337982340) | 2020-12-18 21:59:53 |
-| 180 | [深度学习炼丹失败率高达87%的TOP10原因](https://zhuanlan.zhihu.com/p/337981124) | 2020-12-18 21:51:55 |
-| 181 | [读不完的顶会Paper，我该如何读论文？](https://zhuanlan.zhihu.com/p/337971458) | 2020-12-18 21:18:03 |
-| 182 | [推荐算法炼丹笔记：标签工程](https://zhuanlan.zhihu.com/p/336610225) | 2020-12-13 15:39:10 |
-| 183 | [推荐算法炼丹笔记：序列化推荐算法Bert4Rec](https://zhuanlan.zhihu.com/p/336607890) | 2020-12-13 15:24:26 |
-| 184 | [炼丹面试官的面试笔记](https://zhuanlan.zhihu.com/p/336606129) | 2020-12-13 15:12:25 |
-| 185 | [推荐算法炼丹笔记：阿里序列化推荐算法ComiRec](https://zhuanlan.zhihu.com/p/336604013) | 2020-12-13 15:02:41 |
-| 186 | [学术圈竞赛圈大讨论，深度学习真的比不过GBDT模型吗？](https://zhuanlan.zhihu.com/p/336213914) | 2020-12-11 19:13:07 |
-| 187 | [IEEE ICDM 2020 CUP TOP3方案](https://zhuanlan.zhihu.com/p/329058536) | 2020-12-04 00:07:32 |
-| 188 | [推荐系统炼丹笔记：Embedding在内存问题上的一种解法](https://zhuanlan.zhihu.com/p/319935685) | 2020-11-29 16:38:22 |
-| 189 | [推荐系统炼丹笔记：多模态推荐之用户评论篇](https://zhuanlan.zhihu.com/p/319904493) | 2020-11-29 16:23:44 |
-| 190 | [大规模推荐Deep Retrieval](https://zhuanlan.zhihu.com/p/319860288) | 2020-11-29 15:58:43 |
-| 191 | [推荐系统炼丹笔记：阿里推荐算法特征交叉新方式CAN](https://zhuanlan.zhihu.com/p/319816752) | 2020-11-29 15:47:30 |
-| 192 | [推荐系统炼丹笔记：EdgeRec阿里边缘计算推荐系统](https://zhuanlan.zhihu.com/p/317756918) | 2020-11-28 16:20:27 |
-| 193 | [推荐算法竞赛TOP方案合集](https://zhuanlan.zhihu.com/p/317708353) | 2020-11-28 16:03:52 |
-| 194 | [2020年推荐系统工程师炼丹手册RecSys版](https://zhuanlan.zhihu.com/p/303310027) | 2020-11-20 22:37:07 |
-| 195 | [2020年推荐系统工程师炼丹手册RecSys-Long Paper版](https://zhuanlan.zhihu.com/p/303287727) | 2020-11-20 22:24:53 |
-| 196 | [推荐系统炼丹笔记：阿里DMIN多重兴趣网络](https://zhuanlan.zhihu.com/p/293092409) | 2020-11-14 12:58:18 |
-| 197 | [推荐系统炼丹笔记：RecSys2020-SSE-PT解锁序列数据挖掘新姿势](https://zhuanlan.zhihu.com/p/293082914) | 2020-11-14 12:49:33 |
-| 198 | [炼丹笔记 \| 讲讲我们的故事](https://zhuanlan.zhihu.com/p/293063008) | 2020-11-14 12:17:53 |
-| 199 | [推荐系统中的Bias/Debias大全](https://zhuanlan.zhihu.com/p/293050486) | 2020-11-14 12:09:25 |
-| 200 | [推荐系统炼丹笔记：令人着迷的时间动态CF算法](https://zhuanlan.zhihu.com/p/293017433) | 2020-11-14 11:31:58 |
-| 201 | [推荐大赛如何在一周时间内打进决赛](https://zhuanlan.zhihu.com/p/293008934) | 2020-11-14 11:18:14 |
-| 202 | [推荐算法炼丹笔记：序列化推荐系统](https://zhuanlan.zhihu.com/p/272862240) | 2020-11-03 23:14:31 |
-| 203 | [推荐算法炼丹笔记：如何让你的推荐系统具有可解释性？](https://zhuanlan.zhihu.com/p/270653321) | 2020-10-31 20:49:25 |
-| 204 | [推荐算法炼丹笔记：科学调参在模型优化中的意义](https://zhuanlan.zhihu.com/p/270641970) | 2020-10-31 19:14:13 |
-| 205 | [我的成长之路：追逐冠军的少年](https://zhuanlan.zhihu.com/p/266542175) | 2020-10-18 11:41:46 |
-| 206 | [电商搜索推荐业务词汇表](https://zhuanlan.zhihu.com/p/263063772) | 2020-10-08 22:33:53 |
-| 207 | [推荐算法炼丹笔记：推荐系统采样评估指标及线上线下一致性问题](https://zhuanlan.zhihu.com/p/262877350) | 2020-10-08 10:41:13 |
-| 208 | [2020年推荐系统工程师炼丹手册](https://zhuanlan.zhihu.com/p/247941842) | 2020-09-16 09:43:12 |
-| 209 | [2020数字中国创新大赛-冠军方案](https://zhuanlan.zhihu.com/p/147049432) | 2020-06-09 21:59:49 |
-| 210 | [DigSci科学数据挖掘大赛-亚军方案分享](https://zhuanlan.zhihu.com/p/88257675) | 2019-10-24 11:33:41 |
-| 211 | [JDATA绝对语义识别挑战大赛-季军方案](https://zhuanlan.zhihu.com/p/86868102) | 2019-10-15 21:15:02 |
+| 1 | [盘点大模型的16大挑战](https://zhuanlan.zhihu.com/p/645515816) | 2023-07-24 12:40:38 |
+| 2 | [不再追求模型收敛，一个简单Trick让模型更稳定！](https://zhuanlan.zhihu.com/p/639336175) | 2023-06-25 12:14:04 |
+| 3 | [家谱树：大模型的前世今生](https://zhuanlan.zhihu.com/p/630478671) | 2023-05-18 22:30:35 |
+| 4 | [当ChatGPT遇上推荐系统，遭遇滑铁卢](https://zhuanlan.zhihu.com/p/629076305) | 2023-05-13 12:54:07 |
+| 5 | [广告营销算法是如何发挥作用的？](https://zhuanlan.zhihu.com/p/626767495) | 2023-05-04 20:25:12 |
+| 6 | [ChatGPT出现后，我们是否真的面临范式转变？](https://zhuanlan.zhihu.com/p/622052864) | 2023-04-15 11:48:58 |
+| 7 | [DeepSpeed Chat: 一键式RLHF训练](https://zhuanlan.zhihu.com/p/621735849) | 2023-04-13 20:02:13 |
+| 8 | [LoRA：训练自己的ChatGPT](https://zhuanlan.zhihu.com/p/620552131) | 2023-04-09 17:26:58 |
+| 9 | [ChatGLM-6B微调方法](https://zhuanlan.zhihu.com/p/618724929) | 2023-04-01 15:49:41 |
+| 10 | [马斯克开源，Twitter是怎么做推荐的？](https://zhuanlan.zhihu.com/p/618710861) | 2023-04-01 15:04:35 |
+| 11 | [再谈排序算法的pairwise，pointwise，listwise](https://zhuanlan.zhihu.com/p/613354685) | 2023-03-12 16:37:02 |
+| 12 | [流量为王：A/B test 流量分发及实验评估方法](https://zhuanlan.zhihu.com/p/610847581) | 2023-03-02 21:33:35 |
+| 13 | [拆解追溯 ChapGPT各项能力的起源](https://zhuanlan.zhihu.com/p/607469120) | 2023-02-18 19:08:35 |
+| 14 | [电商数据分析方法论](https://zhuanlan.zhihu.com/p/599027661) | 2023-01-14 15:04:38 |
+| 15 | [如何发现品牌潜客？目标人群优选算法模型及实践解析](https://zhuanlan.zhihu.com/p/553639842) | 2022-08-14 15:36:48 |
+| 16 | [微信大数据挑战赛：周星星方案汇总](https://zhuanlan.zhihu.com/p/521628743) | 2022-05-29 16:39:26 |
+| 17 | [称霸Kaggle的九大深度学习炼丹技巧](https://zhuanlan.zhihu.com/p/518189935) | 2022-05-22 14:27:35 |
+| 18 | [那么多CTR论文，真正能复现出效果的有几个？](https://zhuanlan.zhihu.com/p/510693686) | 2022-05-07 14:10:02 |
+| 19 | [腾讯多任务模型MFH](https://zhuanlan.zhihu.com/p/495688506) | 2022-04-09 15:14:45 |
+| 20 | [Transformer总结(2022版)](https://zhuanlan.zhihu.com/p/489187551) | 2022-03-28 20:48:21 |
+| 21 | [一文看清这些年自监督和无监督的进展](https://zhuanlan.zhihu.com/p/483659212) | 2022-03-19 12:36:32 |
+| 22 | [用Dropout思想做特征选择，保证效果还兼顾了线上性能?](https://zhuanlan.zhihu.com/p/480595150) | 2022-03-14 11:45:12 |
+| 23 | [神经网络调参技巧：warmup策略](https://zhuanlan.zhihu.com/p/479862242) | 2022-03-12 16:13:24 |
+| 24 | [DEEPNORM：千层transformer...](https://zhuanlan.zhihu.com/p/479860623) | 2022-03-12 16:12:38 |
+| 25 | [2021年炼丹笔记最受欢迎的10篇技术文章](https://zhuanlan.zhihu.com/p/476654345) | 2022-03-06 17:14:45 |
+| 26 | [关于多目标任务有趣的融合方式](https://zhuanlan.zhihu.com/p/474331161) | 2022-03-01 19:45:12 |
+| 27 | [对比学习必知要点](https://zhuanlan.zhihu.com/p/472917546) | 2022-02-26 18:42:24 |
+| 28 | [对比表示学习必知的几种训练目标](https://zhuanlan.zhihu.com/p/472918256) | 2022-02-26 18:41:26 |
+| 29 | [召回:是"塔",是"塔",但不是双塔!](https://zhuanlan.zhihu.com/p/472914416) | 2022-02-26 18:33:43 |
+| 30 | [2021年Kaggle所有赛事TOP方案汇总](https://zhuanlan.zhihu.com/p/472915303) | 2022-02-26 18:30:40 |
+| 31 | [深度学习模型的多Loss调参技巧](https://zhuanlan.zhihu.com/p/472200933) | 2022-02-25 09:50:48 |
+| 32 | [三种Target Encoding方式总结](https://zhuanlan.zhihu.com/p/466389890) | 2022-02-11 21:53:31 |
+| 33 | [如何解决高维稀疏的user-item矩阵推荐问题？](https://zhuanlan.zhihu.com/p/464942032) | 2022-02-08 16:07:00 |
+| 34 | [双塔模型没效果了？请加大加粗！](https://zhuanlan.zhihu.com/p/460951158) | 2022-01-23 14:43:21 |
+| 35 | [文本摘要方法总结](https://zhuanlan.zhihu.com/p/460943971) | 2022-01-23 14:16:02 |
+| 36 | [就知道调bert，都不知道加个对比学习吗？](https://zhuanlan.zhihu.com/p/457784375) | 2022-01-15 16:20:52 |
+| 37 | [AI圈最新深度学习量化算法！](https://zhuanlan.zhihu.com/p/456528701) | 2022-01-12 20:37:37 |
+| 38 | [Prompt-Tuning这么好用？](https://zhuanlan.zhihu.com/p/454778818) | 2022-01-08 14:51:31 |
+| 39 | [No Fine-Tuning, Only Prefix-Tuning](https://zhuanlan.zhihu.com/p/453748474) | 2022-01-05 21:24:22 |
+| 40 | [搜索算法相似度问题之BM25](https://zhuanlan.zhihu.com/p/453748069) | 2022-01-05 21:19:20 |
+| 41 | [NLP中对"困惑度"感到困惑?](https://zhuanlan.zhihu.com/p/449745831) | 2021-12-25 14:37:14 |
+| 42 | [不加样本就能做数据增强？还能提效？](https://zhuanlan.zhihu.com/p/449744718) | 2021-12-25 14:32:09 |
+| 43 | [关于"知识蒸馏"，你想知道的都在这里！](https://zhuanlan.zhihu.com/p/446977503) | 2021-12-18 14:22:27 |
+| 44 | [炼丹秘术：给Embedding插上翅膀](https://zhuanlan.zhihu.com/p/446973594) | 2021-12-18 14:12:56 |
+| 45 | [从用户反馈的可解释性提升推荐模型](https://zhuanlan.zhihu.com/p/446971622) | 2021-12-18 14:08:36 |
+| 46 | [时间序列里面最强特征之一](https://zhuanlan.zhihu.com/p/444365030) | 2021-12-12 15:36:25 |
+| 47 | [自监督学习和对比学习](https://zhuanlan.zhihu.com/p/441455961) | 2021-12-05 15:37:18 |
+| 48 | [网络越"深"越"好"?](https://zhuanlan.zhihu.com/p/441454952) | 2021-12-05 15:32:37 |
+| 49 | [Trapper: Transformer模型都在此!](https://zhuanlan.zhihu.com/p/441453913) | 2021-12-05 15:29:50 |
+| 50 | [10大最受欢迎的时间序列Github项目](https://zhuanlan.zhihu.com/p/441451881) | 2021-12-05 15:26:12 |
+| 51 | [数据清洗该怎么做？](https://zhuanlan.zhihu.com/p/435610727) | 2021-11-20 15:04:33 |
+| 52 | [self-attention竟然没用？](https://zhuanlan.zhihu.com/p/433097087) | 2021-11-14 13:10:41 |
+| 53 | [如何评估序列推荐模型？](https://zhuanlan.zhihu.com/p/429894644) | 2021-11-05 16:58:30 |
+| 54 | [模型的燃料，数据采样的秘密](https://zhuanlan.zhihu.com/p/429891446) | 2021-11-05 16:55:39 |
+| 55 | [Transformers中的位置编码到底是什么?](https://zhuanlan.zhihu.com/p/427482394) | 2021-10-30 13:41:10 |
+| 56 | [那些决定模型上限的操作](https://zhuanlan.zhihu.com/p/427480576) | 2021-10-30 13:37:16 |
+| 57 | [炼丹知识点：模型评估里的陷阱](https://zhuanlan.zhihu.com/p/425119410) | 2021-10-24 13:42:47 |
+| 58 | [Short-Session的推荐如何做？](https://zhuanlan.zhihu.com/p/424198914) | 2021-10-21 20:52:29 |
+| 59 | [延迟反馈带来的样本偏差如何处理](https://zhuanlan.zhihu.com/p/424197502) | 2021-10-21 20:48:11 |
+| 60 | [深度学习模型如何缩小到可以放到微处理器呢?](https://zhuanlan.zhihu.com/p/424196064) | 2021-10-21 20:43:10 |
+| 61 | [2021年三大顶会时间序列论文&代码整理](https://zhuanlan.zhihu.com/p/424195019) | 2021-10-21 20:39:47 |
+| 62 | [微信大数据挑战赛决赛方案：微信视频号推荐算法](https://zhuanlan.zhihu.com/p/413787704) | 2021-09-25 11:14:22 |
+| 63 | [Transformer又又又升级了？](https://zhuanlan.zhihu.com/p/413786690) | 2021-09-25 11:08:18 |
+| 64 | [推荐系统里，可以用蒸馏吗？](https://zhuanlan.zhihu.com/p/413785503) | 2021-09-25 11:04:40 |
+| 65 | [神经网络调参经验大汇总](https://zhuanlan.zhihu.com/p/410335242) | 2021-09-14 17:11:26 |
+| 66 | [淘宝搜索中基于embedding的召回](https://zhuanlan.zhihu.com/p/410331760) | 2021-09-14 16:58:38 |
+| 67 | [点击率预估又有新花样？](https://zhuanlan.zhihu.com/p/406785178) | 2021-09-04 14:27:45 |
+| 68 | [双塔模型中的负采样](https://zhuanlan.zhihu.com/p/406783325) | 2021-09-04 14:22:23 |
+| 69 | [推荐系统遇到曝光偏差怎么办？用对比学习！](https://zhuanlan.zhihu.com/p/402159523) | 2021-08-21 17:38:46 |
+| 70 | [内容流推荐中的个性化标题生成框架](https://zhuanlan.zhihu.com/p/400242555) | 2021-08-16 12:22:33 |
+| 71 | [PyCaret：又一个神仙ML库](https://zhuanlan.zhihu.com/p/400240637) | 2021-08-16 12:14:47 |
+| 72 | [漫谈特征缩放](https://zhuanlan.zhihu.com/p/400239115) | 2021-08-16 12:08:13 |
+| 73 | [再谈序列化推荐-集成item类目属性](https://zhuanlan.zhihu.com/p/397604219) | 2021-08-08 16:50:21 |
+| 74 | [盘一盘推荐系统里值得一读的那些论文](https://zhuanlan.zhihu.com/p/397601992) | 2021-08-08 16:44:59 |
+| 75 | [推荐竞赛金牌技能！](https://zhuanlan.zhihu.com/p/397601007) | 2021-08-08 16:35:13 |
+| 76 | [推荐系统里，你是怎么Embedding的？](https://zhuanlan.zhihu.com/p/397600084) | 2021-08-08 16:31:13 |
+| 77 | [特征筛选偷懒必备](https://zhuanlan.zhihu.com/p/397598881) | 2021-08-08 16:27:02 |
+| 78 | [算法模型该如何解释？](https://zhuanlan.zhihu.com/p/392779898) | 2021-07-24 16:46:59 |
+| 79 | [从Deepwalk到Node2vec](https://zhuanlan.zhihu.com/p/390594956) | 2021-07-17 15:30:53 |
+| 80 | [NLP十大数据扩充策略](https://zhuanlan.zhihu.com/p/389221231) | 2021-07-13 12:31:02 |
+| 81 | [寻找不合群的数据（异常值）](https://zhuanlan.zhihu.com/p/389220299) | 2021-07-13 12:21:34 |
+| 82 | [推荐系统开源数据集](https://zhuanlan.zhihu.com/p/389219212) | 2021-07-13 12:15:42 |
+| 83 | [大有可为的GNN：DeepWalk](https://zhuanlan.zhihu.com/p/389218052) | 2021-07-13 12:11:52 |
+| 84 | [负样本的艺术，再读Facebook双塔向量召回算法](https://zhuanlan.zhihu.com/p/386913612) | 2021-07-05 21:13:24 |
+| 85 | ["轻量"且"优秀"的序列推荐模型](https://zhuanlan.zhihu.com/p/386477485) | 2021-07-04 11:29:27 |
+| 86 | [推荐系统中多值特征的八大处理技巧](https://zhuanlan.zhihu.com/p/385490803) | 2021-06-30 20:46:05 |
+| 87 | [推荐系统中的长尾物品（Tail Items）推荐问题](https://zhuanlan.zhihu.com/p/384961079) | 2021-06-29 11:00:28 |
+| 88 | [用 XGBoost 做 Learning To Rank](https://zhuanlan.zhihu.com/p/384661987) | 2021-06-28 12:29:30 |
+| 89 | [微信视频号推荐算法上分技巧](https://zhuanlan.zhihu.com/p/384010332) | 2021-06-25 18:47:37 |
+| 90 | [MLP is Best?](https://zhuanlan.zhihu.com/p/381756225) | 2021-06-18 09:43:58 |
+| 91 | [一文弄懂各大池化Pooling操作](https://zhuanlan.zhihu.com/p/381752896) | 2021-06-18 09:37:36 |
+| 92 | [FM又又又升级了？](https://zhuanlan.zhihu.com/p/381471924) | 2021-06-17 12:29:20 |
+| 93 | [神经网络十大学习率衰减提效策略](https://zhuanlan.zhihu.com/p/379213781) | 2021-06-09 15:18:02 |
+| 94 | [兜兜转转一个圈，到底What is all you need?](https://zhuanlan.zhihu.com/p/378845253) | 2021-06-08 12:29:13 |
+| 95 | [AutoDim:自动Embedding维度寻优，如何节省70%的存储空间同时还能大幅提效？](https://zhuanlan.zhihu.com/p/378166274) | 2021-06-05 15:56:46 |
+| 96 | [用XGBoost调XGBoost?"我"调"我"自己？](https://zhuanlan.zhihu.com/p/378165220) | 2021-06-05 15:51:12 |
+| 97 | [当推荐系统遇上多模态Embedding](https://zhuanlan.zhihu.com/p/376816853) | 2021-05-31 20:24:08 |
+| 98 | [用预训练GNN预估点击率有奇效？](https://zhuanlan.zhihu.com/p/376666362) | 2021-05-31 12:35:48 |
+| 99 | [曾几何时，我们炼的不是丹，是特征](https://zhuanlan.zhihu.com/p/375981851) | 2021-05-28 12:16:30 |
+| 100 | [自动化Debias框架，一键去除推荐系统所有Bias](https://zhuanlan.zhihu.com/p/375980125) | 2021-05-28 12:10:44 |
+| 101 | [推荐系统User-Item Embedding图算法](https://zhuanlan.zhihu.com/p/375042284) | 2021-05-25 11:18:09 |
+| 102 | [隐式反馈的去噪，模型取得巨大提升](https://zhuanlan.zhihu.com/p/374549706) | 2021-05-23 13:06:10 |
+| 103 | [聊聊Batch Normalization在网络结构中的位置](https://zhuanlan.zhihu.com/p/374549086) | 2021-05-23 12:56:38 |
+| 104 | [微信视频号推荐算法方案分享](https://zhuanlan.zhihu.com/p/374547948) | 2021-05-23 12:52:37 |
+| 105 | [GNN是什么？GNN怎么学？GNN何用？](https://zhuanlan.zhihu.com/p/374547276) | 2021-05-23 12:45:58 |
+| 106 | [推荐、广告排序算法评价指标 GAUC、MRR、nDCG、MAP](https://zhuanlan.zhihu.com/p/372735913) | 2021-05-16 16:15:52 |
+| 107 | [模型调参指南北东西](https://zhuanlan.zhihu.com/p/372524312) | 2021-05-15 14:15:05 |
+| 108 | [用隐式反馈做推荐模型，你做对了吗](https://zhuanlan.zhihu.com/p/372520538) | 2021-05-15 14:06:22 |
+| 109 | [炼丹侠必知的11大神经网络结构​汇总](https://zhuanlan.zhihu.com/p/372516381) | 2021-05-15 13:41:44 |
+| 110 | [入坑推荐系统，从Google这篇开始](https://zhuanlan.zhihu.com/p/370469782) | 2021-05-07 18:46:21 |
+| 111 | [谷歌开源下一代推荐系统模拟器：RecSim NG](https://zhuanlan.zhihu.com/p/370469207) | 2021-05-07 18:40:37 |
+| 112 | [Lookalike相似人群拓展算法](https://zhuanlan.zhihu.com/p/370467639) | 2021-05-07 18:36:30 |
+| 113 | [KDD Cup 2021：时间序列异常检测问题开源方案](https://zhuanlan.zhihu.com/p/368650520) | 2021-04-28 22:29:36 |
+| 114 | [对"样本不均衡"一顿操作](https://zhuanlan.zhihu.com/p/366768794) | 2021-04-21 22:25:26 |
+| 115 | [AAAI21最佳论文Runners Up！Transformer的归因探索！](https://zhuanlan.zhihu.com/p/366767736) | 2021-04-21 22:21:29 |
+| 116 | [Attention函数手册](https://zhuanlan.zhihu.com/p/366766852) | 2021-04-21 22:16:33 |
+| 117 | [没什么是一次排序解决不了的，如果有，那就One more time](https://zhuanlan.zhihu.com/p/366765660) | 2021-04-21 22:12:32 |
+| 118 | [Learning to Rank：X-wise](https://zhuanlan.zhihu.com/p/366764455) | 2021-04-21 22:07:10 |
+| 119 | [一个端到端模型GraphDR实现多样化的召回](https://zhuanlan.zhihu.com/p/366762731) | 2021-04-21 22:02:08 |
+| 120 | [DNN中多任务学习概述](https://zhuanlan.zhihu.com/p/363931367) | 2021-04-11 13:38:57 |
+| 121 | [ArcFace 同款商品识别的克星](https://zhuanlan.zhihu.com/p/363928631) | 2021-04-11 13:21:13 |
+| 122 | [MaskNet 这个CTR模型，有点意思](https://zhuanlan.zhihu.com/p/363927455) | 2021-04-11 13:11:38 |
+| 123 | [霸榜各大CV任务榜单，Swin Transformer横空出世！](https://zhuanlan.zhihu.com/p/363067287) | 2021-04-07 23:02:54 |
+| 124 | [神经网络基础之可视化和交互式指南](https://zhuanlan.zhihu.com/p/363063564) | 2021-04-07 22:48:26 |
+| 125 | [一文梳理多任务学习(MMoE/PLE/DUPN/ESSM等)](https://zhuanlan.zhihu.com/p/363059498) | 2021-04-07 22:28:24 |
+| 126 | [CTR模型越来越深，如何让它变轻?](https://zhuanlan.zhihu.com/p/361116560) | 2021-03-30 19:53:54 |
+| 127 | [Netflix提出梯度提升决策树网络Hammock！](https://zhuanlan.zhihu.com/p/361115975) | 2021-03-30 19:46:37 |
+| 128 | [Purdue&UCLA提出梯度Boosting网络，效果远好于XGBoost模型！](https://zhuanlan.zhihu.com/p/361114700) | 2021-03-30 19:43:17 |
+| 129 | [一个模型能服务所有的点击率模型？](https://zhuanlan.zhihu.com/p/361113529) | 2021-03-30 19:35:04 |
+| 130 | [流量为王：ABTest流量分层分桶机制](https://zhuanlan.zhihu.com/p/359668457) | 2021-03-24 22:24:00 |
+| 131 | [一文弄懂各种loss function](https://zhuanlan.zhihu.com/p/358570091) | 2021-03-20 14:33:53 |
+| 132 | [谷歌Deep Bootstrap Framework：在线优化角度理解神经网络](https://zhuanlan.zhihu.com/p/358569279) | 2021-03-20 14:28:28 |
+| 133 | [排序(rank)后重排(re-rank)?](https://zhuanlan.zhihu.com/p/358568019) | 2021-03-20 14:23:43 |
+| 134 | [ALL in BERT：一套操作冲进排行榜首页](https://zhuanlan.zhihu.com/p/358565551) | 2021-03-20 14:13:32 |
+| 135 | [又一Attention函数诞生啦，带给你意想不到的巨大提升！](https://zhuanlan.zhihu.com/p/357612282) | 2021-03-16 20:19:06 |
+| 136 | [搜索推荐系统实战：终极奥秘](https://zhuanlan.zhihu.com/p/356879979) | 2021-03-13 19:03:30 |
+| 137 | [搜索推荐系统实战：进化篇](https://zhuanlan.zhihu.com/p/356877663) | 2021-03-13 18:52:48 |
+| 138 | [搜索推荐系统实战：起始篇](https://zhuanlan.zhihu.com/p/356875249) | 2021-03-13 18:38:46 |
+| 139 | [负样本修正：既然数据是模型的上限，就不要破坏这个上限](https://zhuanlan.zhihu.com/p/356139393) | 2021-03-10 20:36:30 |
+| 140 | [再谈序列化推荐](https://zhuanlan.zhihu.com/p/356124555) | 2021-03-10 20:27:03 |
+| 141 | [当推荐遇到冷启动](https://zhuanlan.zhihu.com/p/355858793) | 2021-03-09 21:25:06 |
+| 142 | [当推荐系统遇上用户画像：你的画像是怎么来的？](https://zhuanlan.zhihu.com/p/354524125) | 2021-03-04 13:15:09 |
+| 143 | [Normalization在CTR问题中的迷之效果](https://zhuanlan.zhihu.com/p/353381965) | 2021-02-27 18:07:08 |
+| 144 | [负样本修正：CVR预估时间延迟问题](https://zhuanlan.zhihu.com/p/353379888) | 2021-02-27 17:53:37 |
+| 145 | [搜索推荐炼丹笔记：CVR预估中的延迟反馈问题](https://zhuanlan.zhihu.com/p/353378307) | 2021-02-27 17:43:55 |
+| 146 | [大道至简：算法工程师炼丹Trick手册](https://zhuanlan.zhihu.com/p/352971645) | 2021-02-25 21:39:04 |
+| 147 | [推荐系统与GNN的火花](https://zhuanlan.zhihu.com/p/352970399) | 2021-02-25 21:32:58 |
+| 148 | [Model Search：炼丹师最强危机，谷歌开源最强AutoML工具！](https://zhuanlan.zhihu.com/p/352967954) | 2021-02-25 21:25:55 |
+| 149 | [流量为王：收益最大化的混排机制](https://zhuanlan.zhihu.com/p/352966287) | 2021-02-25 21:16:10 |
+| 150 | [推荐系统CTR预估学习路线：引入注意力机制](https://zhuanlan.zhihu.com/p/351078828) | 2021-02-17 16:27:16 |
+| 151 | [推荐系统CTR预估学习路线：深度模型](https://zhuanlan.zhihu.com/p/351078721) | 2021-02-17 16:15:30 |
+| 152 | [推荐系统CTR预估学习路线：利用树模型自动化特征工程](https://zhuanlan.zhihu.com/p/351079011) | 2021-02-17 16:04:15 |
+| 153 | [推荐系统CTR预估学习路线：从LR到FM/FFM探索二阶特征的高效实现](https://zhuanlan.zhihu.com/p/351076920) | 2021-02-17 15:54:39 |
+| 154 | [Transformer Family](https://zhuanlan.zhihu.com/p/351046712) | 2021-02-17 11:44:38 |
+| 155 | [模型提效的另一条路：数据增强](https://zhuanlan.zhihu.com/p/351042771) | 2021-02-17 10:58:31 |
+| 156 | [搜索推荐炼丹笔记：评论是怎么影响推荐的？](https://zhuanlan.zhihu.com/p/351040887) | 2021-02-17 10:48:46 |
+| 157 | [AAAI21最佳论文Informer：效果远超Transformer的长序列预测神器？？？](https://zhuanlan.zhihu.com/p/349896117) | 2021-02-07 20:07:28 |
+| 158 | [机器学习入门开源资料](https://zhuanlan.zhihu.com/p/349688817) | 2021-02-06 17:17:28 |
+| 159 | [一石二鸟：推荐系统多目标任务建模方法](https://zhuanlan.zhihu.com/p/348630177) | 2021-02-01 21:25:32 |
+| 160 | [搜索推荐炼丹笔记：融合GNN、图谱、多模态的推荐](https://zhuanlan.zhihu.com/p/348626879) | 2021-02-01 21:07:11 |
+| 161 | [搜索推荐炼丹笔记：单网络内部集成学习](https://zhuanlan.zhihu.com/p/348165482) | 2021-01-30 15:58:16 |
+| 162 | [搜索推荐炼丹笔记：Transformer在搜索推荐中的应用](https://zhuanlan.zhihu.com/p/348159311) | 2021-01-30 15:31:42 |
+| 163 | [NN如何在表格数据中战胜GBDT类模型](https://zhuanlan.zhihu.com/p/348156063) | 2021-01-30 15:18:41 |
+| 164 | [事半功倍：推荐系统Pre-train预训练方法](https://zhuanlan.zhihu.com/p/348152170) | 2021-01-30 15:03:24 |
+| 165 | [2020年AI领域有哪些让人惊艳的研究？](https://zhuanlan.zhihu.com/p/347525678) | 2021-01-27 22:08:20 |
+| 166 | [搜索推荐炼丹笔记：酒店搜索位置偏差的边际重要性](https://zhuanlan.zhihu.com/p/347521505) | 2021-01-27 22:01:45 |
+| 167 | [搜索推荐炼丹笔记：点击位置偏差的经验比较](https://zhuanlan.zhihu.com/p/347515121) | 2021-01-27 21:40:37 |
+| 168 | [搜索推荐炼丹笔记：位置偏差里的惊喜](https://zhuanlan.zhihu.com/p/347512018) | 2021-01-27 21:12:09 |
+| 169 | [NLP炼丹笔记：Switch Transformers 朴实无华 大招秒杀](https://zhuanlan.zhihu.com/p/344702054) | 2021-01-16 11:01:44 |
+| 170 | [推荐搜索炼丹笔记：SIM 用户行为序列点击率预估模型](https://zhuanlan.zhihu.com/p/344698112) | 2021-01-16 10:42:29 |
+| 171 | [推荐搜索炼丹笔记：MiNet阿里跨域点击率CTR预估](https://zhuanlan.zhihu.com/p/344691028) | 2021-01-16 10:23:36 |
+| 172 | [推荐搜索炼丹笔记：双塔模型在Airbnb搜索排名中的应用](https://zhuanlan.zhihu.com/p/343097091) | 2021-01-09 20:07:29 |
+| 173 | [向量召回 MIND多兴趣双塔模型](https://zhuanlan.zhihu.com/p/343014809) | 2021-01-09 19:05:31 |
+| 174 | [推荐算法炼丹笔记：非采样的负样本](https://zhuanlan.zhihu.com/p/342134699) | 2021-01-05 22:29:06 |
+| 175 | [2020年搜索推荐系统论文干货集锦](https://zhuanlan.zhihu.com/p/341581547) | 2021-01-03 20:37:42 |
+| 176 | [Facebook向量召回双塔模型](https://zhuanlan.zhihu.com/p/341101313) | 2020-12-31 21:15:18 |
+| 177 | [推荐算法炼丹笔记：阿里序列化推荐算法MRIF](https://zhuanlan.zhihu.com/p/339628215) | 2020-12-25 23:33:17 |
+| 178 | [做向量召回 All You Need is 双塔](https://zhuanlan.zhihu.com/p/339116577) | 2020-12-23 23:31:53 |
+| 179 | [推荐算法炼丹笔记：Deep Bayesian的多目标推荐](https://zhuanlan.zhihu.com/p/338042057) | 2020-12-19 11:17:08 |
+| 180 | [推荐系统里的那些坑](https://zhuanlan.zhihu.com/p/337982340) | 2020-12-18 21:59:53 |
+| 181 | [深度学习炼丹失败率高达87%的TOP10原因](https://zhuanlan.zhihu.com/p/337981124) | 2020-12-18 21:51:55 |
+| 182 | [读不完的顶会Paper，我该如何读论文？](https://zhuanlan.zhihu.com/p/337971458) | 2020-12-18 21:18:03 |
+| 183 | [推荐算法炼丹笔记：标签工程](https://zhuanlan.zhihu.com/p/336610225) | 2020-12-13 15:39:10 |
+| 184 | [推荐算法炼丹笔记：序列化推荐算法Bert4Rec](https://zhuanlan.zhihu.com/p/336607890) | 2020-12-13 15:24:26 |
+| 185 | [炼丹面试官的面试笔记](https://zhuanlan.zhihu.com/p/336606129) | 2020-12-13 15:12:25 |
+| 186 | [推荐算法炼丹笔记：阿里序列化推荐算法ComiRec](https://zhuanlan.zhihu.com/p/336604013) | 2020-12-13 15:02:41 |
+| 187 | [学术圈竞赛圈大讨论，深度学习真的比不过GBDT模型吗？](https://zhuanlan.zhihu.com/p/336213914) | 2020-12-11 19:13:07 |
+| 188 | [IEEE ICDM 2020 CUP TOP3方案](https://zhuanlan.zhihu.com/p/329058536) | 2020-12-04 00:07:32 |
+| 189 | [推荐系统炼丹笔记：Embedding在内存问题上的一种解法](https://zhuanlan.zhihu.com/p/319935685) | 2020-11-29 16:38:22 |
+| 190 | [推荐系统炼丹笔记：多模态推荐之用户评论篇](https://zhuanlan.zhihu.com/p/319904493) | 2020-11-29 16:23:44 |
+| 191 | [大规模推荐Deep Retrieval](https://zhuanlan.zhihu.com/p/319860288) | 2020-11-29 15:58:43 |
+| 192 | [推荐系统炼丹笔记：阿里推荐算法特征交叉新方式CAN](https://zhuanlan.zhihu.com/p/319816752) | 2020-11-29 15:47:30 |
+| 193 | [推荐系统炼丹笔记：EdgeRec阿里边缘计算推荐系统](https://zhuanlan.zhihu.com/p/317756918) | 2020-11-28 16:20:27 |
+| 194 | [推荐算法竞赛TOP方案合集](https://zhuanlan.zhihu.com/p/317708353) | 2020-11-28 16:03:52 |
+| 195 | [2020年推荐系统工程师炼丹手册RecSys版](https://zhuanlan.zhihu.com/p/303310027) | 2020-11-20 22:37:07 |
+| 196 | [2020年推荐系统工程师炼丹手册RecSys-Long Paper版](https://zhuanlan.zhihu.com/p/303287727) | 2020-11-20 22:24:53 |
+| 197 | [推荐系统炼丹笔记：阿里DMIN多重兴趣网络](https://zhuanlan.zhihu.com/p/293092409) | 2020-11-14 12:58:18 |
+| 198 | [推荐系统炼丹笔记：RecSys2020-SSE-PT解锁序列数据挖掘新姿势](https://zhuanlan.zhihu.com/p/293082914) | 2020-11-14 12:49:33 |
+| 199 | [炼丹笔记 \| 讲讲我们的故事](https://zhuanlan.zhihu.com/p/293063008) | 2020-11-14 12:17:53 |
+| 200 | [推荐系统中的Bias/Debias大全](https://zhuanlan.zhihu.com/p/293050486) | 2020-11-14 12:09:25 |
+| 201 | [推荐系统炼丹笔记：令人着迷的时间动态CF算法](https://zhuanlan.zhihu.com/p/293017433) | 2020-11-14 11:31:58 |
+| 202 | [推荐大赛如何在一周时间内打进决赛](https://zhuanlan.zhihu.com/p/293008934) | 2020-11-14 11:18:14 |
+| 203 | [推荐算法炼丹笔记：序列化推荐系统](https://zhuanlan.zhihu.com/p/272862240) | 2020-11-03 23:14:31 |
+| 204 | [推荐算法炼丹笔记：如何让你的推荐系统具有可解释性？](https://zhuanlan.zhihu.com/p/270653321) | 2020-10-31 20:49:25 |
+| 205 | [推荐算法炼丹笔记：科学调参在模型优化中的意义](https://zhuanlan.zhihu.com/p/270641970) | 2020-10-31 19:14:13 |
+| 206 | [我的成长之路：追逐冠军的少年](https://zhuanlan.zhihu.com/p/266542175) | 2020-10-18 11:41:46 |
+| 207 | [电商搜索推荐业务词汇表](https://zhuanlan.zhihu.com/p/263063772) | 2020-10-08 22:33:53 |
+| 208 | [推荐算法炼丹笔记：推荐系统采样评估指标及线上线下一致性问题](https://zhuanlan.zhihu.com/p/262877350) | 2020-10-08 10:41:13 |
+| 209 | [2020年推荐系统工程师炼丹手册](https://zhuanlan.zhihu.com/p/247941842) | 2020-09-16 09:43:12 |
+| 210 | [2020数字中国创新大赛-冠军方案](https://zhuanlan.zhihu.com/p/147049432) | 2020-06-09 21:59:49 |
+| 211 | [DigSci科学数据挖掘大赛-亚军方案分享](https://zhuanlan.zhihu.com/p/88257675) | 2019-10-24 11:33:41 |
+| 212 | [JDATA绝对语义识别挑战大赛-季军方案](https://zhuanlan.zhihu.com/p/86868102) | 2019-10-15 21:15:02 |
 
 
 ## 机智的叉烧
@@ -2512,6 +2513,37 @@ https://item.jd.com/13484669.html。
 | 25 | [ICLR 2020 上的图神经网络好文](https://zhuanlan.zhihu.com/p/137763936) | 2020-05-02 17:16:51 |
 
 
+## 策略产品Arthur
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [搜广推策略产品训练营第9期招生简章](https://zhuanlan.zhihu.com/p/645649804) | 2023-07-24 22:03:04 |
+| 2 | [策略产品经理干货系列之推荐系统离线评估方法与指标介绍](https://zhuanlan.zhihu.com/p/641273341) | 2023-07-03 23:07:15 |
+| 3 | [策略产品必知系列之一文详解“特征工程”](https://zhuanlan.zhihu.com/p/633491429) | 2023-05-31 00:11:50 |
+| 4 | [一文读懂策略产品必须知道的AB&AA实验全流程](https://zhuanlan.zhihu.com/p/626798393) | 2023-05-04 22:01:53 |
+| 5 | [广告策略产品大厂产品案例解析之小红书创意优选策略](https://zhuanlan.zhihu.com/p/624687123) | 2023-04-25 09:56:48 |
+| 6 | [广告机制策略产品案例解析之小红书广告平台智能创意生成策略](https://zhuanlan.zhihu.com/p/622450057) | 2023-04-17 09:33:24 |
+| 7 | [搜广推策略产品必知系列之黑盒“智能定向”策略](https://zhuanlan.zhihu.com/p/620621022) | 2023-04-09 23:39:06 |
+| 8 | [搜广推策略产品之灰盒“look alike”种子人群扩展策略（下篇）](https://zhuanlan.zhihu.com/p/619228278) | 2023-04-03 22:51:32 |
+| 9 | [搜广推策略产品之灰盒“look alike”种子人群扩展策略（上篇）](https://zhuanlan.zhihu.com/p/617504855) | 2023-03-27 22:57:13 |
+| 10 | [搜广推策略产品课堂之广告定向策略综述](https://zhuanlan.zhihu.com/p/615192819) | 2023-03-19 12:28:56 |
+| 11 | [广告机制策略产品解析之小红书跨渠道全站投放策略（下篇）](https://zhuanlan.zhihu.com/p/613717325) | 2023-03-13 22:13:33 |
+| 12 | [广告机制策略产品解析之小红书跨渠道全站投放策略（上篇）](https://zhuanlan.zhihu.com/p/611583542) | 2023-03-05 23:54:40 |
+| 13 | [阿里京东流量端体验策略之“相似图/相同类目”打散过滤策略](https://zhuanlan.zhihu.com/p/609999707) | 2023-02-28 08:59:39 |
+| 14 | [阿里京东流量端体验策略之“负反馈”过滤豁免策略](https://zhuanlan.zhihu.com/p/607722148) | 2023-02-19 23:24:20 |
+| 15 | [阿里京东电商推荐系统流量端体验策略——已购买过滤策略](https://zhuanlan.zhihu.com/p/606143799) | 2023-02-14 10:01:24 |
+| 16 | [阿里京东大厂策略产品案例分享之创意优选策略](https://zhuanlan.zhihu.com/p/604108452) | 2023-02-07 10:04:14 |
+| 17 | [阿里京东创意案例与思考分享之智能创意生成策略](https://zhuanlan.zhihu.com/p/603004332) | 2023-02-02 23:04:00 |
+| 18 | [商业化广告策略产品干货课堂第10课之广告创意策略百科全景](https://zhuanlan.zhihu.com/p/602704950) | 2023-02-01 23:39:43 |
+| 19 | [搜广推策略产品干货课堂第9课之新用户冷启动策略](https://zhuanlan.zhihu.com/p/602148295) | 2023-01-31 11:17:20 |
+| 20 | [搜广推策略产品干货课堂第8课之新品Item冷启动策略](https://zhuanlan.zhihu.com/p/601217652) | 2023-01-27 16:04:01 |
+| 21 | [搜广推策略产品干货课堂第7课之广告投放平台DSP设计思考理念](https://zhuanlan.zhihu.com/p/600238610) | 2023-01-20 15:45:33 |
+| 22 | [搜广推策略产品干货课堂第6课之自然搜推与广告搜推的对立统一](https://zhuanlan.zhihu.com/p/597258436) | 2023-01-07 11:45:25 |
+| 23 | [搜广推策略产品干货课堂第5课之广告出价策略之源“四点三率两控制一加强”](https://zhuanlan.zhihu.com/p/597251917) | 2023-01-07 11:19:49 |
+| 24 | [搜广推策略产品第4课之推荐系统召回那些事儿](https://zhuanlan.zhihu.com/p/581337857) | 2022-11-07 23:41:36 |
+
+
 ## Ostrich
 > 介绍： 厚积薄发,分享互联网技术和成长经验。
 
@@ -2540,36 +2572,6 @@ https://item.jd.com/13484669.html。
 | 21 | [电商搜索QP：Term Weighting](https://zhuanlan.zhihu.com/p/351085094) | 2021-02-17 16:48:06 |
 | 22 | [电商搜索QP：Query改写](https://zhuanlan.zhihu.com/p/351084105) | 2021-02-17 16:42:37 |
 | 23 | [电商搜索QP：Query类目预测](https://zhuanlan.zhihu.com/p/351083652) | 2021-02-17 16:35:07 |
-
-
-## 策略产品Arthur
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [策略产品经理干货系列之推荐系统离线评估方法与指标介绍](https://zhuanlan.zhihu.com/p/641273341) | 2023-07-03 23:07:15 |
-| 2 | [策略产品必知系列之一文详解“特征工程”](https://zhuanlan.zhihu.com/p/633491429) | 2023-05-31 00:11:50 |
-| 3 | [一文读懂策略产品必须知道的AB&AA实验全流程](https://zhuanlan.zhihu.com/p/626798393) | 2023-05-04 22:01:53 |
-| 4 | [广告策略产品大厂产品案例解析之小红书创意优选策略](https://zhuanlan.zhihu.com/p/624687123) | 2023-04-25 09:56:48 |
-| 5 | [广告机制策略产品案例解析之小红书广告平台智能创意生成策略](https://zhuanlan.zhihu.com/p/622450057) | 2023-04-17 09:33:24 |
-| 6 | [搜广推策略产品必知系列之黑盒“智能定向”策略](https://zhuanlan.zhihu.com/p/620621022) | 2023-04-09 23:39:06 |
-| 7 | [搜广推策略产品之灰盒“look alike”种子人群扩展策略（下篇）](https://zhuanlan.zhihu.com/p/619228278) | 2023-04-03 22:51:32 |
-| 8 | [搜广推策略产品之灰盒“look alike”种子人群扩展策略（上篇）](https://zhuanlan.zhihu.com/p/617504855) | 2023-03-27 22:57:13 |
-| 9 | [搜广推策略产品课堂之广告定向策略综述](https://zhuanlan.zhihu.com/p/615192819) | 2023-03-19 12:28:56 |
-| 10 | [广告机制策略产品解析之小红书跨渠道全站投放策略（下篇）](https://zhuanlan.zhihu.com/p/613717325) | 2023-03-13 22:13:33 |
-| 11 | [广告机制策略产品解析之小红书跨渠道全站投放策略（上篇）](https://zhuanlan.zhihu.com/p/611583542) | 2023-03-05 23:54:40 |
-| 12 | [阿里京东流量端体验策略之“相似图/相同类目”打散过滤策略](https://zhuanlan.zhihu.com/p/609999707) | 2023-02-28 08:59:39 |
-| 13 | [阿里京东流量端体验策略之“负反馈”过滤豁免策略](https://zhuanlan.zhihu.com/p/607722148) | 2023-02-19 23:24:20 |
-| 14 | [阿里京东电商推荐系统流量端体验策略——已购买过滤策略](https://zhuanlan.zhihu.com/p/606143799) | 2023-02-14 10:01:24 |
-| 15 | [阿里京东大厂策略产品案例分享之创意优选策略](https://zhuanlan.zhihu.com/p/604108452) | 2023-02-07 10:04:14 |
-| 16 | [阿里京东创意案例与思考分享之智能创意生成策略](https://zhuanlan.zhihu.com/p/603004332) | 2023-02-02 23:04:00 |
-| 17 | [商业化广告策略产品干货课堂第10课之广告创意策略百科全景](https://zhuanlan.zhihu.com/p/602704950) | 2023-02-01 23:39:43 |
-| 18 | [搜广推策略产品干货课堂第9课之新用户冷启动策略](https://zhuanlan.zhihu.com/p/602148295) | 2023-01-31 11:17:20 |
-| 19 | [搜广推策略产品干货课堂第8课之新品Item冷启动策略](https://zhuanlan.zhihu.com/p/601217652) | 2023-01-27 16:04:01 |
-| 20 | [搜广推策略产品干货课堂第7课之广告投放平台DSP设计思考理念](https://zhuanlan.zhihu.com/p/600238610) | 2023-01-20 15:45:33 |
-| 21 | [搜广推策略产品干货课堂第6课之自然搜推与广告搜推的对立统一](https://zhuanlan.zhihu.com/p/597258436) | 2023-01-07 11:45:25 |
-| 22 | [搜广推策略产品干货课堂第5课之广告出价策略之源“四点三率两控制一加强”](https://zhuanlan.zhihu.com/p/597251917) | 2023-01-07 11:19:49 |
-| 23 | [搜广推策略产品第4课之推荐系统召回那些事儿](https://zhuanlan.zhihu.com/p/581337857) | 2022-11-07 23:41:36 |
 
 
 ## 冯伟
