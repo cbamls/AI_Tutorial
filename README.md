@@ -25,25 +25,23 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-07-18 ~ 2023-07-25), 本周报更新时间:2023-07-25 23:34:05
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-07-19 ~ 2023-07-26), 本周报更新时间:2023-07-26 22:33:42
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [哔哩哔哩｜游戏中心个性化推荐系统实践](https://www.6aiq.com/article/1690272134493) | AIQ人工智能社区 | 2023-07-25 16:02:14 |
-| 2 | [搜广推策略产品训练营第9期招生简章](https://zhuanlan.zhihu.com/p/645649804) | 策略产品Arthur | 2023-07-24 22:03:04 |
-| 3 | [盘点大模型的16大挑战](https://zhuanlan.zhihu.com/p/645515816) | 朱翔宇 | 2023-07-24 12:40:38 |
-| 4 | [多场景多目标 \| [快手2023]PEPNet 模型如何做到大而全](https://zhuanlan.zhihu.com/p/645264991) | 亦一 | 2023-07-22 21:44:32 |
-| 5 | [是我们在训练大模型，还是大模型在训练我们？](https://zhuanlan.zhihu.com/p/645205269) | 刘聪NLP | 2023-07-22 13:18:35 |
-| 6 | [多场景 \| 基于独立建模的信息融合](https://zhuanlan.zhihu.com/p/645174846) | 亦一 | 2023-07-22 10:26:10 |
-| 7 | [“NLP工作站”成立技术交流群](https://zhuanlan.zhihu.com/p/645128495) | 刘聪NLP | 2023-07-21 21:40:53 |
-| 8 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 归来仍是少年 | 2023-07-21 15:44:03 |
-| 9 | [吴恩达来信：进一步完善AI相关版权法](https://zhuanlan.zhihu.com/p/644954760) | 吴恩达 | 2023-07-21 10:05:48 |
-| 10 | [EasyRec重磅升级：组件化开发深度学习模型](https://zhuanlan.zhihu.com/p/644910803) | 杨旭东 | 2023-07-21 00:10:55 |
-| 11 | [Llama2技术细节&开源影响](https://zhuanlan.zhihu.com/p/644671690) | 刘聪NLP | 2023-07-20 00:16:38 |
-| 12 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | JioNLP团队 | 2023-07-19 10:15:58 |
-| 13 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 大师兄 | 2023-07-18 18:27:59 |
-| 14 | [谷歌出品深度学习调参指南详细版](https://zhuanlan.zhihu.com/p/644360184) | 杨旭东 | 2023-07-18 17:15:53 |
-| 15 | [水可载舟亦可覆舟-AI，可信AI！](https://zhuanlan.zhihu.com/p/644172463) | 刘聪NLP | 2023-07-18 12:04:29 |
+| 1 | [AI绘画Stable Diffusion原理之Autoencoder-Latent](https://zhuanlan.zhihu.com/p/645939505) | Keep Learning | 2023-07-26 20:26:38 |
+| 2 | [哔哩哔哩｜游戏中心个性化推荐系统实践](https://www.6aiq.com/article/1690272134493) | AIQ人工智能社区 | 2023-07-25 16:02:14 |
+| 3 | [搜广推策略产品训练营第9期招生简章](https://zhuanlan.zhihu.com/p/645649804) | 策略产品Arthur | 2023-07-24 22:03:04 |
+| 4 | [盘点大模型的16大挑战](https://zhuanlan.zhihu.com/p/645515816) | 朱翔宇 | 2023-07-24 12:40:38 |
+| 5 | [多场景多目标 \| [快手2023]PEPNet 模型如何做到大而全](https://zhuanlan.zhihu.com/p/645264991) | 亦一 | 2023-07-22 21:44:32 |
+| 6 | [是我们在训练大模型，还是大模型在训练我们？](https://zhuanlan.zhihu.com/p/645205269) | 刘聪NLP | 2023-07-22 13:18:35 |
+| 7 | [多场景 \| 基于独立建模的信息融合](https://zhuanlan.zhihu.com/p/645174846) | 亦一 | 2023-07-22 10:26:10 |
+| 8 | [“NLP工作站”成立技术交流群](https://zhuanlan.zhihu.com/p/645128495) | 刘聪NLP | 2023-07-21 21:40:53 |
+| 9 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 归来仍是少年 | 2023-07-21 15:44:03 |
+| 10 | [吴恩达来信：进一步完善AI相关版权法](https://zhuanlan.zhihu.com/p/644954760) | 吴恩达 | 2023-07-21 10:05:48 |
+| 11 | [EasyRec重磅升级：组件化开发深度学习模型](https://zhuanlan.zhihu.com/p/644910803) | 杨旭东 | 2023-07-21 00:10:55 |
+| 12 | [Llama2技术细节&开源影响](https://zhuanlan.zhihu.com/p/644671690) | 刘聪NLP | 2023-07-20 00:16:38 |
+| 13 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | JioNLP团队 | 2023-07-19 10:15:58 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -81,9 +79,9 @@
   * [冯伟](#冯伟)(推荐系统,混迹推荐系统的小码农。...)
   * [Young](#young)(公众号【Young样说】探索前沿有趣的科技AI见闻,- 清华大学本科...)
   * [iwtbs](#iwtbs)(公众号：推荐广告算法小木屋,推荐算法工程师。...)
+  * [Keep Learning](#keep-learning)
   * [何枝](#何枝)(欣赏每一个用逻辑阐述观点的人，不喜欢无论据的情绪输出。,笑一个吧，功...)
   * [一两赘肉无](#一两赘肉无)(和鲸社区运营，heywhale.com,...)
-  * [Keep Learning](#keep-learning)
   * [Peter PanXin](#peter-panxin)(AI 大数据 分布式系统,Colossus, Spanner, IA...)
   * [萧瑟](#萧瑟)(王哲，广告/推荐/深度学习/NLP，知乎专栏：炼丹实验室,http:...)
   * [姚凯飞](#姚凯飞)(喜欢数学的算法工程师,码农，欢迎关注我的微信公众号: data_al...)
@@ -2659,6 +2657,34 @@ https://item.jd.com/13484669.html。
 | 22 | [谈谈我眼中的“推荐算法”](https://zhuanlan.zhihu.com/p/336689862) | 2020-12-13 23:46:27 |
 
 
+## Keep Learning
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [AI绘画Stable Diffusion原理之Autoencoder-Latent](https://zhuanlan.zhihu.com/p/645939505) | 2023-07-26 20:26:38 |
+| 2 | [CTR预估之Wide&Deep系列(下):NFM/xDeepFM](https://zhuanlan.zhihu.com/p/634584585) | 2023-06-04 17:21:54 |
+| 3 | [CTR预估之Wide&Deep系列模型:DeepFM/DCN](https://zhuanlan.zhihu.com/p/631668163) | 2023-05-23 21:54:19 |
+| 4 | [CTR预估之DNN系列模型:FNN/PNN/DeepCrossing](https://zhuanlan.zhihu.com/p/623567076) | 2023-04-20 22:04:08 |
+| 5 | [CTR预估之FMs系列:FM/FFM/FwFM/FEFM](https://zhuanlan.zhihu.com/p/613030015) | 2023-03-10 22:50:59 |
+| 6 | [引入对偶增强向量的双塔召回模型](https://zhuanlan.zhihu.com/p/608636233) | 2023-02-22 22:10:51 |
+| 7 | [ctr特征重要性建模：FiBiNet&FiBiNet++模型](https://zhuanlan.zhihu.com/p/603262632) | 2023-02-03 19:36:02 |
+| 8 | [BERT模型系列大全解读](https://zhuanlan.zhihu.com/p/598095233) | 2023-01-10 21:49:55 |
+| 9 | [分类模型-类别不均衡问题之loss设计](https://zhuanlan.zhihu.com/p/582312784) | 2022-11-10 20:50:39 |
+| 10 | [多兴趣推荐召回模型：ComiRec](https://zhuanlan.zhihu.com/p/568781562) | 2022-09-27 20:44:02 |
+| 11 | [CTR模型训练提速(超大batch size)：CowClip](https://zhuanlan.zhihu.com/p/557451365) | 2022-08-24 20:43:51 |
+| 12 | [炼丹系列2: Stochastic Weight Averaging (SWA) & Exponential Moving Average(EMA)](https://zhuanlan.zhihu.com/p/554955968) | 2022-08-17 22:12:35 |
+| 13 | [炼丹系列1: 分层学习率&梯度累积](https://zhuanlan.zhihu.com/p/553277132) | 2022-08-13 09:18:50 |
+| 14 | [BERT句向量(1)：Sentence-BERT](https://zhuanlan.zhihu.com/p/504983847) | 2022-04-25 21:54:28 |
+| 15 | [TensorRT&Triton学习笔记(一)：triton和模型部署+client](https://zhuanlan.zhihu.com/p/482170985) | 2022-03-16 21:17:57 |
+| 16 | [多兴趣推荐召回模型：MIND](https://zhuanlan.zhihu.com/p/463064543) | 2022-01-29 22:07:32 |
+| 17 | [多任务学习MTL模型：多目标Loss优化策略](https://zhuanlan.zhihu.com/p/456089764) | 2022-01-11 21:48:36 |
+| 18 | [多任务学习MTL模型：MMoE、PLE](https://zhuanlan.zhihu.com/p/425209494) | 2021-10-24 19:54:06 |
+| 19 | [深入浅出地理解Youtube DNN推荐模型](https://zhuanlan.zhihu.com/p/405907646) | 2021-09-01 21:40:21 |
+| 20 | [强大的向量数据库：Milvus](https://zhuanlan.zhihu.com/p/405186060) | 2021-08-30 22:12:52 |
+| 21 | [推荐系统的向量检索工具: Annoy & Faiss](https://zhuanlan.zhihu.com/p/402823379) | 2021-08-23 21:43:03 |
+
+
 ## 何枝
 > 介绍： 欣赏每一个用逻辑阐述观点的人，不喜欢无论据的情绪输出。,笑一个吧，功成名就不是目的。。
 
@@ -2713,33 +2739,6 @@ https://item.jd.com/13484669.html。
 | 19 | [10套练习，教你如何用Pandas做数据分析【6-10】](https://zhuanlan.zhihu.com/p/76929640) | 2019-08-15 13:01:32 |
 | 20 | [10套练习，教你如何用Pandas做数据分析【1-5】](https://zhuanlan.zhihu.com/p/76905282) | 2019-08-07 10:25:47 |
 | 21 | [100道练习带你玩转Numpy](https://zhuanlan.zhihu.com/p/76186124) | 2019-08-01 14:09:24 |
-
-
-## Keep Learning
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [CTR预估之Wide&Deep系列(下):NFM/xDeepFM](https://zhuanlan.zhihu.com/p/634584585) | 2023-06-04 17:21:54 |
-| 2 | [CTR预估之Wide&Deep系列模型:DeepFM/DCN](https://zhuanlan.zhihu.com/p/631668163) | 2023-05-23 21:54:19 |
-| 3 | [CTR预估之DNN系列模型:FNN/PNN/DeepCrossing](https://zhuanlan.zhihu.com/p/623567076) | 2023-04-20 22:04:08 |
-| 4 | [CTR预估之FMs系列:FM/FFM/FwFM/FEFM](https://zhuanlan.zhihu.com/p/613030015) | 2023-03-10 22:50:59 |
-| 5 | [引入对偶增强向量的双塔召回模型](https://zhuanlan.zhihu.com/p/608636233) | 2023-02-22 22:10:51 |
-| 6 | [ctr特征重要性建模：FiBiNet&FiBiNet++模型](https://zhuanlan.zhihu.com/p/603262632) | 2023-02-03 19:36:02 |
-| 7 | [BERT模型系列大全解读](https://zhuanlan.zhihu.com/p/598095233) | 2023-01-10 21:49:55 |
-| 8 | [分类模型-类别不均衡问题之loss设计](https://zhuanlan.zhihu.com/p/582312784) | 2022-11-10 20:50:39 |
-| 9 | [多兴趣推荐召回模型：ComiRec](https://zhuanlan.zhihu.com/p/568781562) | 2022-09-27 20:44:02 |
-| 10 | [CTR模型训练提速(超大batch size)：CowClip](https://zhuanlan.zhihu.com/p/557451365) | 2022-08-24 20:43:51 |
-| 11 | [炼丹系列2: Stochastic Weight Averaging (SWA) & Exponential Moving Average(EMA)](https://zhuanlan.zhihu.com/p/554955968) | 2022-08-17 22:12:35 |
-| 12 | [炼丹系列1: 分层学习率&梯度累积](https://zhuanlan.zhihu.com/p/553277132) | 2022-08-13 09:18:50 |
-| 13 | [BERT句向量(1)：Sentence-BERT](https://zhuanlan.zhihu.com/p/504983847) | 2022-04-25 21:54:28 |
-| 14 | [TensorRT&Triton学习笔记(一)：triton和模型部署+client](https://zhuanlan.zhihu.com/p/482170985) | 2022-03-16 21:17:57 |
-| 15 | [多兴趣推荐召回模型：MIND](https://zhuanlan.zhihu.com/p/463064543) | 2022-01-29 22:07:32 |
-| 16 | [多任务学习MTL模型：多目标Loss优化策略](https://zhuanlan.zhihu.com/p/456089764) | 2022-01-11 21:48:36 |
-| 17 | [多任务学习MTL模型：MMoE、PLE](https://zhuanlan.zhihu.com/p/425209494) | 2021-10-24 19:54:06 |
-| 18 | [深入浅出地理解Youtube DNN推荐模型](https://zhuanlan.zhihu.com/p/405907646) | 2021-09-01 21:40:21 |
-| 19 | [强大的向量数据库：Milvus](https://zhuanlan.zhihu.com/p/405186060) | 2021-08-30 22:12:52 |
-| 20 | [推荐系统的向量检索工具: Annoy & Faiss](https://zhuanlan.zhihu.com/p/402823379) | 2021-08-23 21:43:03 |
 
 
 ## Peter PanXin
