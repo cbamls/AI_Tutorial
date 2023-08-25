@@ -25,22 +25,22 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-08-17 ~ 2023-08-24), 本周报更新时间:2023-08-24 23:33:22
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-08-18 ~ 2023-08-25), 本周报更新时间:2023-08-25 22:34:33
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [SimRank++算法原理解析](https://zhuanlan.zhihu.com/p/652075921) | 杨旭东 | 2023-08-24 14:38:50 |
-| 2 | [吴恩达来信：多了解LLMs一点吧~](https://zhuanlan.zhihu.com/p/652063928) | 吴恩达 | 2023-08-24 13:52:31 |
-| 3 | [大模型中的人工反馈强化学习详解](https://zhuanlan.zhihu.com/p/651780908) | 归来仍是少年 | 2023-08-24 11:13:54 |
-| 4 | [禁止摸鱼：简评用户长期兴趣召回模型PinnerFormer](https://zhuanlan.zhihu.com/p/651975836) | 石塔西 | 2023-08-24 06:51:31 |
-| 5 | [WWW2023 \| 基于去噪对比学习的序列推荐](https://zhuanlan.zhihu.com/p/651925497) | 张小磊 | 2023-08-23 19:44:34 |
-| 6 | [似曾相识：谈Google CDN长尾物料推荐](https://zhuanlan.zhihu.com/p/651731184) | 石塔西 | 2023-08-23 05:59:08 |
-| 7 | [阿里云实时数仓与流式数据湖构建实践](https://zhuanlan.zhihu.com/p/651380913) | DataFunTalk | 2023-08-21 16:39:16 |
-| 8 | [换个思路，撬动十倍增长！](https://zhuanlan.zhihu.com/p/651311663) | 北冥乘海生 | 2023-08-21 11:57:55 |
-| 9 | [OpenAI的Superalignment策略：计算为王](https://zhuanlan.zhihu.com/p/651266416) | 李rumor | 2023-08-21 09:40:22 |
-| 10 | [一年半支付风控工作复盘](https://zhuanlan.zhihu.com/p/650796549) | 风控大鱼 | 2023-08-18 13:37:55 |
-| 11 | [吴恩达来信：基于LLMs构建应用程序的小tips](https://zhuanlan.zhihu.com/p/650667002) | 吴恩达 | 2023-08-17 17:01:09 |
-| 12 | [KDD'23 \| PerBid：在线广告个性化自动出价框架](https://zhuanlan.zhihu.com/p/650625534) | 阿里妈妈技术 | 2023-08-17 15:01:20 |
+| 1 | [阿里妈妈秋季2024届应届生招聘正式启动！](https://zhuanlan.zhihu.com/p/652370812) | 阿里妈妈技术 | 2023-08-25 17:41:22 |
+| 2 | [个性化目标权重：简评Pinterest的TransAct](https://zhuanlan.zhihu.com/p/652207249) | 石塔西 | 2023-08-25 06:04:04 |
+| 3 | [SimRank++算法原理解析](https://zhuanlan.zhihu.com/p/652075921) | 杨旭东 | 2023-08-24 14:38:50 |
+| 4 | [吴恩达来信：多了解LLMs一点吧~](https://zhuanlan.zhihu.com/p/652063928) | 吴恩达 | 2023-08-24 13:52:31 |
+| 5 | [大模型中的人工反馈强化学习详解](https://zhuanlan.zhihu.com/p/651780908) | 归来仍是少年 | 2023-08-24 11:13:54 |
+| 6 | [禁止摸鱼：简评用户长期兴趣召回模型PinnerFormer](https://zhuanlan.zhihu.com/p/651975836) | 石塔西 | 2023-08-24 06:51:31 |
+| 7 | [WWW2023 \| 基于去噪对比学习的序列推荐](https://zhuanlan.zhihu.com/p/651925497) | 张小磊 | 2023-08-23 19:44:34 |
+| 8 | [似曾相识：谈Google CDN长尾物料推荐](https://zhuanlan.zhihu.com/p/651731184) | 石塔西 | 2023-08-23 05:59:08 |
+| 9 | [阿里云实时数仓与流式数据湖构建实践](https://zhuanlan.zhihu.com/p/651380913) | DataFunTalk | 2023-08-21 16:39:16 |
+| 10 | [换个思路，撬动十倍增长！](https://zhuanlan.zhihu.com/p/651311663) | 北冥乘海生 | 2023-08-21 11:57:55 |
+| 11 | [OpenAI的Superalignment策略：计算为王](https://zhuanlan.zhihu.com/p/651266416) | 李rumor | 2023-08-21 09:40:22 |
+| 12 | [一年半支付风控工作复盘](https://zhuanlan.zhihu.com/p/650796549) | 风控大鱼 | 2023-08-18 13:37:55 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -67,8 +67,8 @@
   * [琦琦](#琦琦)(一个爱跳舞 的程序猿,建议尽量不要私信我，极有可能漏看。
 有疑问可在...)
   * [张俊林](#张俊林)(你所不知道的事,Heil Hydra！嗯。...)
-  * [King James](#king-james)(公众号：KingJames讲策略，算法出身的策略产品；,1. 专注于...)
   * [阿里妈妈技术](#阿里妈妈技术)
+  * [King James](#king-james)(公众号：KingJames讲策略，算法出身的策略产品；,1. 专注于...)
   * [李沐](#李沐)(https://github.com/mli。...)
   * [吴恩达](#吴恩达)
   * [衣介书生](#衣介书生)(打工人，公众号：后厂村搬砖工，欢迎关注,#打工人 #互联网 #推荐算...)
@@ -1863,62 +1863,63 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [禁止摸鱼：简评用户长期兴趣召回模型PinnerFormer](https://zhuanlan.zhihu.com/p/651975836) | 2023-08-24 06:51:31 |
-| 2 | [似曾相识：谈Google CDN长尾物料推荐](https://zhuanlan.zhihu.com/p/651731184) | 2023-08-23 05:59:08 |
-| 3 | [脚踏实地：来自Google的企业级推荐算法实践](https://zhuanlan.zhihu.com/p/634217033) | 2023-06-02 16:30:50 |
-| 4 | [授人以渔：学算法，我是如何记笔记的？](https://zhuanlan.zhihu.com/p/630511922) | 2023-05-19 07:22:28 |
-| 5 | [《互联网大厂推荐算法实战》思维导图福利](https://zhuanlan.zhihu.com/p/628243733) | 2023-05-10 11:43:46 |
-| 6 | [互联网大厂的这些推荐算法面试题，你都能答上来吗？](https://zhuanlan.zhihu.com/p/627578461) | 2023-05-08 08:42:45 |
-| 7 | [《互联网大厂推荐算法实战》上线啦！](https://zhuanlan.zhihu.com/p/623814354) | 2023-04-23 08:59:12 |
-| 8 | [《互联网大厂推荐算法实战》的目录](https://zhuanlan.zhihu.com/p/617615036) | 2023-03-28 12:47:12 |
-| 9 | [一桥飞架双塔：腾讯“虚拟内核”双塔](https://zhuanlan.zhihu.com/p/555757996) | 2022-08-22 08:04:04 |
-| 10 | [再见Attention：建模用户长期兴趣的新范式](https://zhuanlan.zhihu.com/p/540579632) | 2022-07-12 11:48:47 |
-| 11 | [三问阿里的TDM召回](https://zhuanlan.zhihu.com/p/535425154) | 2022-06-29 16:03:46 |
-| 12 | [一文搞懂Approximate Softmax：从公式到代码](https://zhuanlan.zhihu.com/p/528862933) | 2022-06-15 07:55:09 |
-| 13 | [算法周报：再思考PDN与DC-GNN](https://zhuanlan.zhihu.com/p/519643852) | 2022-05-25 11:51:47 |
-| 14 | [推荐算法遇到后悔药：评蚂蚁的ESCM2模型](https://zhuanlan.zhihu.com/p/515777381) | 2022-05-17 16:10:56 |
-| 15 | [算法周报220510：Online Learning怎么才能学了不忘](https://zhuanlan.zhihu.com/p/512556219) | 2022-05-11 10:36:08 |
-| 16 | [动态权重：推荐算法的新范式](https://zhuanlan.zhihu.com/p/500934745) | 2022-04-19 08:49:12 |
-| 17 | [日久见人心：论建模用户长期兴趣的几种姿势](https://zhuanlan.zhihu.com/p/494881660) | 2022-04-08 08:45:14 |
-| 18 | [新手福利！数据科学面试中的回家作业](https://zhuanlan.zhihu.com/p/487681524) | 2022-03-25 21:32:04 |
-| 19 | [重温经典之ps-lite源码解析(4)：实现分布式FM](https://zhuanlan.zhihu.com/p/467702941) | 2022-02-15 14:35:51 |
-| 20 | [重温经典之ps-lite源码解析(3)：顾客、工人和服务器](https://zhuanlan.zhihu.com/p/467697961) | 2022-02-15 14:23:57 |
-| 21 | [重温经典之ps-lite源码解析(2)：邮局和邮车](https://zhuanlan.zhihu.com/p/467693949) | 2022-02-15 14:16:06 |
-| 22 | [重温经典之ps-lite源码解析(1)：基础](https://zhuanlan.zhihu.com/p/467650462) | 2022-02-15 12:43:06 |
-| 23 | [授人以渔：分享我的算法学习经验](https://zhuanlan.zhihu.com/p/462811848) | 2022-01-28 20:46:04 |
-| 24 | [初来乍到：帮助新用户冷启的算法技巧](https://zhuanlan.zhihu.com/p/458843906) | 2022-01-18 11:19:57 |
-| 25 | [刀功：谈推荐系统特征工程中的几个高级技巧](https://zhuanlan.zhihu.com/p/448680238) | 2021-12-22 20:08:52 |
-| 26 | [先入为主：将先验知识注入推荐模型](https://zhuanlan.zhihu.com/p/442845759) | 2021-12-08 18:01:43 |
-| 27 | [少数派报告：谈推荐场景下的对比学习](https://zhuanlan.zhihu.com/p/435903339) | 2021-11-21 16:08:52 |
-| 28 | [久别重逢话双塔](https://zhuanlan.zhihu.com/p/428396126) | 2021-11-02 10:24:49 |
-| 29 | [万变不离其宗：用统一框架理解向量化召回](https://zhuanlan.zhihu.com/p/345378441) | 2021-01-19 12:32:13 |
-| 30 | [FM：推荐算法中的瑞士军刀](https://zhuanlan.zhihu.com/p/343174108) | 2021-01-10 10:12:12 |
-| 31 | [四化大业：论算法工程师的自我修养](https://zhuanlan.zhihu.com/p/341376500) | 2021-01-02 15:42:14 |
-| 32 | [推荐算法的"五环之歌"](https://zhuanlan.zhihu.com/p/336643635) | 2020-12-13 18:56:19 |
-| 33 | [阿里ESAM：用迁移学习解决召回中的样本偏差](https://zhuanlan.zhihu.com/p/335626180) | 2020-12-10 14:14:05 |
-| 34 | [无中生有：论推荐算法中的Embedding思想](https://zhuanlan.zhihu.com/p/320196402) | 2020-11-29 19:24:20 |
-| 35 | [知识图谱上的双塔召回：阿里的IntentGC模型](https://zhuanlan.zhihu.com/p/312065828) | 2020-11-25 20:50:13 |
-| 36 | [Google PPRGo: 两分钟分类千万节点的最快GNN](https://zhuanlan.zhihu.com/p/298087878) | 2020-11-17 17:44:30 |
-| 37 | [亲兄弟明算账：快速了解阿里的M2GRL模型](https://zhuanlan.zhihu.com/p/286168931) | 2020-11-11 18:42:05 |
-| 38 | [PinSAGE有伴了! 快速了解PinnerSAGE模型](https://zhuanlan.zhihu.com/p/283791190) | 2020-11-10 20:07:27 |
-| 39 | [GraphSAGE+FM+Transformer强强联手：评微信的GraphTR模型](https://zhuanlan.zhihu.com/p/279287735) | 2020-11-08 15:08:23 |
-| 40 | [PinSAGE召回模型及源码分析(3)：PinSAGE模型及训练](https://zhuanlan.zhihu.com/p/275960775) | 2020-11-06 15:06:58 |
-| 41 | [PinSAGE召回模型及源码分析(2)：数据管道](https://zhuanlan.zhihu.com/p/275949260) | 2020-11-06 14:54:37 |
-| 42 | [PinSAGE 召回模型及源码分析(1): PinSAGE 简介](https://zhuanlan.zhihu.com/p/275942839) | 2020-11-06 14:49:36 |
-| 43 | [负样本为王：评Facebook的向量化召回算法](https://zhuanlan.zhihu.com/p/165064102) | 2020-07-29 17:28:39 |
-| 44 | [再评Airbnb的经典Embedding论文](https://zhuanlan.zhihu.com/p/162163054) | 2020-07-21 15:21:27 |
-| 45 | [一图胜千言: 解读阿里的Deep Image CTR Model](https://zhuanlan.zhihu.com/p/57056588) | 2019-02-19 10:48:32 |
-| 46 | [也评Deep Interest Evolution Network](https://zhuanlan.zhihu.com/p/54838663) | 2019-01-14 18:28:33 |
-| 47 | [用NumPy手工打造 Wide & Deep](https://zhuanlan.zhihu.com/p/53110408) | 2018-12-24 14:53:50 |
-| 48 | [走马观花Google TF-Ranking的源代码](https://zhuanlan.zhihu.com/p/52447211) | 2018-12-15 15:32:53 |
-| 49 | [看漫画学强化学习](https://zhuanlan.zhihu.com/p/51652845) | 2018-12-05 19:33:09 |
-| 50 | [学习Airbnb是如何将"业务"与"算法"结合的](https://zhuanlan.zhihu.com/p/50081120) | 2018-11-16 15:27:44 |
-| 51 | [看Google如何实现Wide & Deep模型(3)](https://zhuanlan.zhihu.com/p/48251812) | 2018-11-01 20:38:56 |
-| 52 | [用TensorFlow实现支持多值、稀疏、共享权重的DeepFM](https://zhuanlan.zhihu.com/p/48057256) | 2018-10-30 20:18:00 |
-| 53 | [看Google如何实现Wide & Deep模型（2.2）](https://zhuanlan.zhihu.com/p/47970601) | 2018-10-29 21:03:52 |
-| 54 | [看Google如何实现Wide & Deep模型（2.1）](https://zhuanlan.zhihu.com/p/47965313) | 2018-10-29 20:55:25 |
-| 55 | [看Google如何实现Wide & Deep模型(1)](https://zhuanlan.zhihu.com/p/47293765) | 2018-10-21 16:10:44 |
-| 56 | [看Youtube怎么利用深度学习做推荐](https://zhuanlan.zhihu.com/p/46247835) | 2018-10-15 21:12:14 |
+| 1 | [个性化目标权重：简评Pinterest的TransAct](https://zhuanlan.zhihu.com/p/652207249) | 2023-08-25 06:04:04 |
+| 2 | [禁止摸鱼：简评用户长期兴趣召回模型PinnerFormer](https://zhuanlan.zhihu.com/p/651975836) | 2023-08-24 06:51:31 |
+| 3 | [似曾相识：谈Google CDN长尾物料推荐](https://zhuanlan.zhihu.com/p/651731184) | 2023-08-23 05:59:08 |
+| 4 | [脚踏实地：来自Google的企业级推荐算法实践](https://zhuanlan.zhihu.com/p/634217033) | 2023-06-02 16:30:50 |
+| 5 | [授人以渔：学算法，我是如何记笔记的？](https://zhuanlan.zhihu.com/p/630511922) | 2023-05-19 07:22:28 |
+| 6 | [《互联网大厂推荐算法实战》思维导图福利](https://zhuanlan.zhihu.com/p/628243733) | 2023-05-10 11:43:46 |
+| 7 | [互联网大厂的这些推荐算法面试题，你都能答上来吗？](https://zhuanlan.zhihu.com/p/627578461) | 2023-05-08 08:42:45 |
+| 8 | [《互联网大厂推荐算法实战》上线啦！](https://zhuanlan.zhihu.com/p/623814354) | 2023-04-23 08:59:12 |
+| 9 | [《互联网大厂推荐算法实战》的目录](https://zhuanlan.zhihu.com/p/617615036) | 2023-03-28 12:47:12 |
+| 10 | [一桥飞架双塔：腾讯“虚拟内核”双塔](https://zhuanlan.zhihu.com/p/555757996) | 2022-08-22 08:04:04 |
+| 11 | [再见Attention：建模用户长期兴趣的新范式](https://zhuanlan.zhihu.com/p/540579632) | 2022-07-12 11:48:47 |
+| 12 | [三问阿里的TDM召回](https://zhuanlan.zhihu.com/p/535425154) | 2022-06-29 16:03:46 |
+| 13 | [一文搞懂Approximate Softmax：从公式到代码](https://zhuanlan.zhihu.com/p/528862933) | 2022-06-15 07:55:09 |
+| 14 | [算法周报：再思考PDN与DC-GNN](https://zhuanlan.zhihu.com/p/519643852) | 2022-05-25 11:51:47 |
+| 15 | [推荐算法遇到后悔药：评蚂蚁的ESCM2模型](https://zhuanlan.zhihu.com/p/515777381) | 2022-05-17 16:10:56 |
+| 16 | [算法周报220510：Online Learning怎么才能学了不忘](https://zhuanlan.zhihu.com/p/512556219) | 2022-05-11 10:36:08 |
+| 17 | [动态权重：推荐算法的新范式](https://zhuanlan.zhihu.com/p/500934745) | 2022-04-19 08:49:12 |
+| 18 | [日久见人心：论建模用户长期兴趣的几种姿势](https://zhuanlan.zhihu.com/p/494881660) | 2022-04-08 08:45:14 |
+| 19 | [新手福利！数据科学面试中的回家作业](https://zhuanlan.zhihu.com/p/487681524) | 2022-03-25 21:32:04 |
+| 20 | [重温经典之ps-lite源码解析(4)：实现分布式FM](https://zhuanlan.zhihu.com/p/467702941) | 2022-02-15 14:35:51 |
+| 21 | [重温经典之ps-lite源码解析(3)：顾客、工人和服务器](https://zhuanlan.zhihu.com/p/467697961) | 2022-02-15 14:23:57 |
+| 22 | [重温经典之ps-lite源码解析(2)：邮局和邮车](https://zhuanlan.zhihu.com/p/467693949) | 2022-02-15 14:16:06 |
+| 23 | [重温经典之ps-lite源码解析(1)：基础](https://zhuanlan.zhihu.com/p/467650462) | 2022-02-15 12:43:06 |
+| 24 | [授人以渔：分享我的算法学习经验](https://zhuanlan.zhihu.com/p/462811848) | 2022-01-28 20:46:04 |
+| 25 | [初来乍到：帮助新用户冷启的算法技巧](https://zhuanlan.zhihu.com/p/458843906) | 2022-01-18 11:19:57 |
+| 26 | [刀功：谈推荐系统特征工程中的几个高级技巧](https://zhuanlan.zhihu.com/p/448680238) | 2021-12-22 20:08:52 |
+| 27 | [先入为主：将先验知识注入推荐模型](https://zhuanlan.zhihu.com/p/442845759) | 2021-12-08 18:01:43 |
+| 28 | [少数派报告：谈推荐场景下的对比学习](https://zhuanlan.zhihu.com/p/435903339) | 2021-11-21 16:08:52 |
+| 29 | [久别重逢话双塔](https://zhuanlan.zhihu.com/p/428396126) | 2021-11-02 10:24:49 |
+| 30 | [万变不离其宗：用统一框架理解向量化召回](https://zhuanlan.zhihu.com/p/345378441) | 2021-01-19 12:32:13 |
+| 31 | [FM：推荐算法中的瑞士军刀](https://zhuanlan.zhihu.com/p/343174108) | 2021-01-10 10:12:12 |
+| 32 | [四化大业：论算法工程师的自我修养](https://zhuanlan.zhihu.com/p/341376500) | 2021-01-02 15:42:14 |
+| 33 | [推荐算法的"五环之歌"](https://zhuanlan.zhihu.com/p/336643635) | 2020-12-13 18:56:19 |
+| 34 | [阿里ESAM：用迁移学习解决召回中的样本偏差](https://zhuanlan.zhihu.com/p/335626180) | 2020-12-10 14:14:05 |
+| 35 | [无中生有：论推荐算法中的Embedding思想](https://zhuanlan.zhihu.com/p/320196402) | 2020-11-29 19:24:20 |
+| 36 | [知识图谱上的双塔召回：阿里的IntentGC模型](https://zhuanlan.zhihu.com/p/312065828) | 2020-11-25 20:50:13 |
+| 37 | [Google PPRGo: 两分钟分类千万节点的最快GNN](https://zhuanlan.zhihu.com/p/298087878) | 2020-11-17 17:44:30 |
+| 38 | [亲兄弟明算账：快速了解阿里的M2GRL模型](https://zhuanlan.zhihu.com/p/286168931) | 2020-11-11 18:42:05 |
+| 39 | [PinSAGE有伴了! 快速了解PinnerSAGE模型](https://zhuanlan.zhihu.com/p/283791190) | 2020-11-10 20:07:27 |
+| 40 | [GraphSAGE+FM+Transformer强强联手：评微信的GraphTR模型](https://zhuanlan.zhihu.com/p/279287735) | 2020-11-08 15:08:23 |
+| 41 | [PinSAGE召回模型及源码分析(3)：PinSAGE模型及训练](https://zhuanlan.zhihu.com/p/275960775) | 2020-11-06 15:06:58 |
+| 42 | [PinSAGE召回模型及源码分析(2)：数据管道](https://zhuanlan.zhihu.com/p/275949260) | 2020-11-06 14:54:37 |
+| 43 | [PinSAGE 召回模型及源码分析(1): PinSAGE 简介](https://zhuanlan.zhihu.com/p/275942839) | 2020-11-06 14:49:36 |
+| 44 | [负样本为王：评Facebook的向量化召回算法](https://zhuanlan.zhihu.com/p/165064102) | 2020-07-29 17:28:39 |
+| 45 | [再评Airbnb的经典Embedding论文](https://zhuanlan.zhihu.com/p/162163054) | 2020-07-21 15:21:27 |
+| 46 | [一图胜千言: 解读阿里的Deep Image CTR Model](https://zhuanlan.zhihu.com/p/57056588) | 2019-02-19 10:48:32 |
+| 47 | [也评Deep Interest Evolution Network](https://zhuanlan.zhihu.com/p/54838663) | 2019-01-14 18:28:33 |
+| 48 | [用NumPy手工打造 Wide & Deep](https://zhuanlan.zhihu.com/p/53110408) | 2018-12-24 14:53:50 |
+| 49 | [走马观花Google TF-Ranking的源代码](https://zhuanlan.zhihu.com/p/52447211) | 2018-12-15 15:32:53 |
+| 50 | [看漫画学强化学习](https://zhuanlan.zhihu.com/p/51652845) | 2018-12-05 19:33:09 |
+| 51 | [学习Airbnb是如何将"业务"与"算法"结合的](https://zhuanlan.zhihu.com/p/50081120) | 2018-11-16 15:27:44 |
+| 52 | [看Google如何实现Wide & Deep模型(3)](https://zhuanlan.zhihu.com/p/48251812) | 2018-11-01 20:38:56 |
+| 53 | [用TensorFlow实现支持多值、稀疏、共享权重的DeepFM](https://zhuanlan.zhihu.com/p/48057256) | 2018-10-30 20:18:00 |
+| 54 | [看Google如何实现Wide & Deep模型（2.2）](https://zhuanlan.zhihu.com/p/47970601) | 2018-10-29 21:03:52 |
+| 55 | [看Google如何实现Wide & Deep模型（2.1）](https://zhuanlan.zhihu.com/p/47965313) | 2018-10-29 20:55:25 |
+| 56 | [看Google如何实现Wide & Deep模型(1)](https://zhuanlan.zhihu.com/p/47293765) | 2018-10-21 16:10:44 |
+| 57 | [看Youtube怎么利用深度学习做推荐](https://zhuanlan.zhihu.com/p/46247835) | 2018-10-15 21:12:14 |
 
 
 ## Houye
@@ -2325,6 +2326,46 @@ https://item.jd.com/13484669.html。
 | 34 | [2017年AI技术前沿进展与趋势](https://zhuanlan.zhihu.com/p/37057045) | 2018-05-19 22:27:39 |
 
 
+## 阿里妈妈技术
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [阿里妈妈秋季2024届应届生招聘正式启动！](https://zhuanlan.zhihu.com/p/652370812) | 2023-08-25 17:41:22 |
+| 2 | [KDD'23 \| PerBid：在线广告个性化自动出价框架](https://zhuanlan.zhihu.com/p/650625534) | 2023-08-17 15:01:20 |
+| 3 | [ACM MM’23 \| 4篇论文解析阿里妈妈广告创意算法最新进展](https://zhuanlan.zhihu.com/p/649488593) | 2023-08-11 17:55:06 |
+| 4 | [阿里妈妈技术团队8篇论文入选 CIKM 2023](https://zhuanlan.zhihu.com/p/649434751) | 2023-08-11 17:13:44 |
+| 5 | [SIGIR'23 \| 基于特征自适应的多场景预估建模](https://zhuanlan.zhihu.com/p/641895931) | 2023-07-10 13:49:18 |
+| 6 | [阿里妈妈 AI 热招岗位已就绪！还在等待才华横溢的你~](https://zhuanlan.zhihu.com/p/641831359) | 2023-07-06 10:55:52 |
+| 7 | [KDD'23 \| 转化率预估新思路：基于历史数据复用的大促转化率精准预估](https://zhuanlan.zhihu.com/p/640387297) | 2023-06-29 14:42:25 |
+| 8 | [KDD'23 \| 排序和准度联合优化：一种基于混合生成/判别式建模的方案](https://zhuanlan.zhihu.com/p/639569672) | 2023-06-26 10:15:58 |
+| 9 | [化繁为简，精工细作——阿里妈妈直播智能剪辑技术详解](https://zhuanlan.zhihu.com/p/638683425) | 2023-06-21 14:03:53 |
+| 10 | [CVPR 2023 \| 基于内容融合的字体生成方法](https://zhuanlan.zhihu.com/p/633833249) | 2023-06-01 10:20:20 |
+| 11 | [【征文】DLP@RecSys 2023：第五届面向高维稀疏数据的深度学习实践国际研讨会](https://zhuanlan.zhihu.com/p/630571560) | 2023-05-19 10:57:10 |
+| 12 | [AdaSparse: 自适应稀疏网络的多场景CTR预估建模](https://zhuanlan.zhihu.com/p/628537645) | 2023-05-11 11:35:33 |
+| 13 | [就等你了！MAX-Code首届阿里妈妈极限代码挑战赛来啦~](https://zhuanlan.zhihu.com/p/627625030) | 2023-05-08 10:26:01 |
+| 14 | [增广拍卖——二跳页下的拍卖机制探索](https://zhuanlan.zhihu.com/p/623670570) | 2023-04-21 11:35:33 |
+| 15 | [​Auction Design in the Auto-bidding World系列一：面向异质目标函数广告主的拍卖机制设计](https://zhuanlan.zhihu.com/p/621506959) | 2023-04-13 06:02:30 |
+| 16 | [Bidding模型训练新范式：阿里妈妈生成式出价模型（AIGB）详解](https://zhuanlan.zhihu.com/p/619301816) | 2023-04-04 10:33:10 |
+| 17 | [万字长文，漫谈广告技术中的拍卖机制设计（经典篇）](https://zhuanlan.zhihu.com/p/618023549) | 2023-03-29 19:04:11 |
+| 18 | [阿里妈妈智能诊断工程能力建设](https://zhuanlan.zhihu.com/p/616334622) | 2023-03-23 11:43:14 |
+| 19 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614214963) | 2023-03-15 15:48:36 |
+| 20 | [贝叶斯分层模型应用之直播场景打分校准](https://zhuanlan.zhihu.com/p/614214235) | 2023-03-15 15:44:18 |
+| 21 | [阿里妈妈春季2024届实习生招聘正式启动！](https://zhuanlan.zhihu.com/p/613984334) | 2023-03-14 19:11:55 |
+| 22 | [积沙成塔——阿里妈妈动态算力技术的新演进与展望](https://zhuanlan.zhihu.com/p/612560873) | 2023-03-09 12:05:32 |
+| 23 | [广告营销场景下的隐私计算实践：阿里妈妈营销隐私计算平台SDH](https://zhuanlan.zhihu.com/p/612560388) | 2023-03-09 12:02:43 |
+| 24 | [Dolphin：面向营销场景的超融合多模智能引擎](https://zhuanlan.zhihu.com/p/606646857) | 2023-02-15 19:08:51 |
+| 25 | [广告深度学习计算：向量召回索引的演进以及工程实现](https://zhuanlan.zhihu.com/p/604748988) | 2023-02-09 10:39:17 |
+| 26 | [上下文驱动的图上文案生成](https://zhuanlan.zhihu.com/p/602795083) | 2023-02-02 13:52:14 |
+| 27 | [视频分割新范式：视频感兴趣物体实例分割 VOIS](https://zhuanlan.zhihu.com/p/602789593) | 2023-02-02 11:03:14 |
+| 28 | [开放下载 \|  2022阿里妈妈技术年刊来啦！](https://zhuanlan.zhihu.com/p/599915935) | 2023-01-18 18:14:00 |
+| 29 | [阿里妈妈内容风控模型预估引擎的探索和建设](https://zhuanlan.zhihu.com/p/598462611) | 2023-01-12 10:47:04 |
+| 30 | [阿里妈妈Dolphin智能计算引擎基于Flink+Hologres实践](https://zhuanlan.zhihu.com/p/598461310) | 2023-01-12 10:31:26 |
+| 31 | [Dolphin Streaming实时计算，助力商家端算法第二增长曲线](https://zhuanlan.zhihu.com/p/598459986) | 2023-01-12 10:29:42 |
+| 32 | [请查收 \| 2022 阿里妈妈技术文章回顾](https://zhuanlan.zhihu.com/p/598458603) | 2023-01-12 10:26:08 |
+| 33 | [新一代自动出价范式：在线强化学习SORL框架](https://zhuanlan.zhihu.com/p/595146953) | 2022-12-29 11:41:55 |
+
+
 ## King James
 > 介绍： 公众号：KingJames讲策略，算法出身的策略产品；,1. 专注于策略产品领域，+：MonkeyELuff 进策略产品交流群，定期给大家分享前沿策略知识；公众号：KingJames讲策略；2.《策略产品经理实战培训课程》持续招生中，https://zhuanlan.zhihu.com/p/561585077；。
 
@@ -2362,45 +2403,6 @@ https://item.jd.com/13484669.html。
 | 30 | [策略产品经理必读系列—第二讲强化学习](https://zhuanlan.zhihu.com/p/150451604) | 2020-07-05 18:15:27 |
 | 31 | [策略产品经理必读系列—第一讲机器学习](https://zhuanlan.zhihu.com/p/110166255) | 2020-03-01 19:30:35 |
 | 32 | [AI产品经理必读系列—第一讲AI一体机现状分析及商业化核心](https://zhuanlan.zhihu.com/p/84884970) | 2019-10-08 22:10:33 |
-
-
-## 阿里妈妈技术
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [KDD'23 \| PerBid：在线广告个性化自动出价框架](https://zhuanlan.zhihu.com/p/650625534) | 2023-08-17 15:01:20 |
-| 2 | [ACM MM’23 \| 4篇论文解析阿里妈妈广告创意算法最新进展](https://zhuanlan.zhihu.com/p/649488593) | 2023-08-11 17:55:06 |
-| 3 | [阿里妈妈技术团队8篇论文入选 CIKM 2023](https://zhuanlan.zhihu.com/p/649434751) | 2023-08-11 17:13:44 |
-| 4 | [SIGIR'23 \| 基于特征自适应的多场景预估建模](https://zhuanlan.zhihu.com/p/641895931) | 2023-07-10 13:49:18 |
-| 5 | [阿里妈妈 AI 热招岗位已就绪！还在等待才华横溢的你~](https://zhuanlan.zhihu.com/p/641831359) | 2023-07-06 10:55:52 |
-| 6 | [KDD'23 \| 转化率预估新思路：基于历史数据复用的大促转化率精准预估](https://zhuanlan.zhihu.com/p/640387297) | 2023-06-29 14:42:25 |
-| 7 | [KDD'23 \| 排序和准度联合优化：一种基于混合生成/判别式建模的方案](https://zhuanlan.zhihu.com/p/639569672) | 2023-06-26 10:15:58 |
-| 8 | [化繁为简，精工细作——阿里妈妈直播智能剪辑技术详解](https://zhuanlan.zhihu.com/p/638683425) | 2023-06-21 14:03:53 |
-| 9 | [CVPR 2023 \| 基于内容融合的字体生成方法](https://zhuanlan.zhihu.com/p/633833249) | 2023-06-01 10:20:20 |
-| 10 | [【征文】DLP@RecSys 2023：第五届面向高维稀疏数据的深度学习实践国际研讨会](https://zhuanlan.zhihu.com/p/630571560) | 2023-05-19 10:57:10 |
-| 11 | [AdaSparse: 自适应稀疏网络的多场景CTR预估建模](https://zhuanlan.zhihu.com/p/628537645) | 2023-05-11 11:35:33 |
-| 12 | [就等你了！MAX-Code首届阿里妈妈极限代码挑战赛来啦~](https://zhuanlan.zhihu.com/p/627625030) | 2023-05-08 10:26:01 |
-| 13 | [增广拍卖——二跳页下的拍卖机制探索](https://zhuanlan.zhihu.com/p/623670570) | 2023-04-21 11:35:33 |
-| 14 | [​Auction Design in the Auto-bidding World系列一：面向异质目标函数广告主的拍卖机制设计](https://zhuanlan.zhihu.com/p/621506959) | 2023-04-13 06:02:30 |
-| 15 | [Bidding模型训练新范式：阿里妈妈生成式出价模型（AIGB）详解](https://zhuanlan.zhihu.com/p/619301816) | 2023-04-04 10:33:10 |
-| 16 | [万字长文，漫谈广告技术中的拍卖机制设计（经典篇）](https://zhuanlan.zhihu.com/p/618023549) | 2023-03-29 19:04:11 |
-| 17 | [阿里妈妈智能诊断工程能力建设](https://zhuanlan.zhihu.com/p/616334622) | 2023-03-23 11:43:14 |
-| 18 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614214963) | 2023-03-15 15:48:36 |
-| 19 | [贝叶斯分层模型应用之直播场景打分校准](https://zhuanlan.zhihu.com/p/614214235) | 2023-03-15 15:44:18 |
-| 20 | [阿里妈妈春季2024届实习生招聘正式启动！](https://zhuanlan.zhihu.com/p/613984334) | 2023-03-14 19:11:55 |
-| 21 | [积沙成塔——阿里妈妈动态算力技术的新演进与展望](https://zhuanlan.zhihu.com/p/612560873) | 2023-03-09 12:05:32 |
-| 22 | [广告营销场景下的隐私计算实践：阿里妈妈营销隐私计算平台SDH](https://zhuanlan.zhihu.com/p/612560388) | 2023-03-09 12:02:43 |
-| 23 | [Dolphin：面向营销场景的超融合多模智能引擎](https://zhuanlan.zhihu.com/p/606646857) | 2023-02-15 19:08:51 |
-| 24 | [广告深度学习计算：向量召回索引的演进以及工程实现](https://zhuanlan.zhihu.com/p/604748988) | 2023-02-09 10:39:17 |
-| 25 | [上下文驱动的图上文案生成](https://zhuanlan.zhihu.com/p/602795083) | 2023-02-02 13:52:14 |
-| 26 | [视频分割新范式：视频感兴趣物体实例分割 VOIS](https://zhuanlan.zhihu.com/p/602789593) | 2023-02-02 11:03:14 |
-| 27 | [开放下载 \|  2022阿里妈妈技术年刊来啦！](https://zhuanlan.zhihu.com/p/599915935) | 2023-01-18 18:14:00 |
-| 28 | [阿里妈妈内容风控模型预估引擎的探索和建设](https://zhuanlan.zhihu.com/p/598462611) | 2023-01-12 10:47:04 |
-| 29 | [阿里妈妈Dolphin智能计算引擎基于Flink+Hologres实践](https://zhuanlan.zhihu.com/p/598461310) | 2023-01-12 10:31:26 |
-| 30 | [Dolphin Streaming实时计算，助力商家端算法第二增长曲线](https://zhuanlan.zhihu.com/p/598459986) | 2023-01-12 10:29:42 |
-| 31 | [请查收 \| 2022 阿里妈妈技术文章回顾](https://zhuanlan.zhihu.com/p/598458603) | 2023-01-12 10:26:08 |
-| 32 | [新一代自动出价范式：在线强化学习SORL框架](https://zhuanlan.zhihu.com/p/595146953) | 2022-12-29 11:41:55 |
 
 
 ## 李沐
