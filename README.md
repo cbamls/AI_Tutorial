@@ -25,7 +25,7 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-09-01 ~ 2023-09-08), 本周报更新时间:2023-09-08 23:33:24
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-09-02 ~ 2023-09-09), 本周报更新时间:2023-09-09 22:33:42
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
@@ -40,7 +40,6 @@
 | 9 | [字节基于 Hudi 的批流一体存储实践](https://zhuanlan.zhihu.com/p/654263972) | DataFunTalk | 2023-09-04 18:07:12 |
 | 10 | [似曾相识：评阿里促销季CVR预估算法HDR](https://zhuanlan.zhihu.com/p/654107781) | 石塔西 | 2023-09-04 07:22:33 |
 | 11 | [AUC详解与Python实现](https://zhuanlan.zhihu.com/p/607973196) | Microstrong | 2023-09-02 20:08:18 |
-| 12 | [Fresh Attention: 评Google的多通道物料冷启算法](https://zhuanlan.zhihu.com/p/653697870) | 石塔西 | 2023-09-01 11:53:42 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -3628,19 +3627,20 @@ https://item.jd.com/13484669.html。
 ## 微软
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [微软最新视觉语言预训练(VLP)综述：基础知识、最新进展和未来趋势，适合所有阶段读者阅读](https://www.6aiq.com/article/1691634730142) |
-| 2 | [深入理解推荐系统：微软xDeepFM原理与实践](https://www.6aiq.com/article/1682523096310) |
-| 3 | [微软亚洲研究院（上海）招聘 大语言模型与多模态预训练 实习生](https://www.6aiq.com/article/1678201423993) |
-| 4 | [Adobe 和微软通过微软边缘为 1 亿 Windows 用户带来行业领先的 Acrobat PDF 体验](https://www.6aiq.com/article/1675908069805) |
-| 5 | [微软推出 Designer 图形图像设计软件，与 Adobe Photoshop 的较量？](https://www.6aiq.com/article/1665983336164) |
-| 6 | [实验室小师弟的新鲜春招算法面经 (阿里搜索，微信，微软等)](https://www.6aiq.com/article/1588125294551) |
-| 7 | [微软小冰：如何构建人格化的对话系统](https://www.6aiq.com/article/1583730037433) |
-| 8 | [微软 AB/Testing EXP 实验管理平台](https://www.6aiq.com/article/1557945314515) |
-| 9 | [谷歌、阿里、微软等 10 大深度学习 CTR 模型最全演化图谱【推荐、广告、搜索领域】](https://www.6aiq.com/article/1557332028652) |
-| 10 | [微软专家眼中个性化推荐系统的 5 大研究趋势](https://www.6aiq.com/article/1543673861952) |
-| 11 | [NIPS 2018 丨解读微软亚洲研究院 10 篇入选论文](https://www.6aiq.com/article/1536334503252) |
-| 12 | [科学匠人 \| 微软亚洲研究院 陈薇 用数学逻辑来优化工作和人生](https://www.6aiq.com/article/1535805924411) |
-| 13 | [AIQ -  语音识别 \| 微软亚研自动语法纠错系统达到人类水平](https://www.6aiq.com/article/1530979943523) |
+| 1 | [微软发布！适合所有阶段读者阅读的最新视觉-语言预训练 (VLP) 100+页综述！](https://www.6aiq.com/article/1694239329707) |
+| 2 | [微软最新视觉语言预训练(VLP)综述：基础知识、最新进展和未来趋势，适合所有阶段读者阅读](https://www.6aiq.com/article/1691634730142) |
+| 3 | [深入理解推荐系统：微软xDeepFM原理与实践](https://www.6aiq.com/article/1682523096310) |
+| 4 | [微软亚洲研究院（上海）招聘 大语言模型与多模态预训练 实习生](https://www.6aiq.com/article/1678201423993) |
+| 5 | [Adobe 和微软通过微软边缘为 1 亿 Windows 用户带来行业领先的 Acrobat PDF 体验](https://www.6aiq.com/article/1675908069805) |
+| 6 | [微软推出 Designer 图形图像设计软件，与 Adobe Photoshop 的较量？](https://www.6aiq.com/article/1665983336164) |
+| 7 | [实验室小师弟的新鲜春招算法面经 (阿里搜索，微信，微软等)](https://www.6aiq.com/article/1588125294551) |
+| 8 | [微软小冰：如何构建人格化的对话系统](https://www.6aiq.com/article/1583730037433) |
+| 9 | [微软 AB/Testing EXP 实验管理平台](https://www.6aiq.com/article/1557945314515) |
+| 10 | [谷歌、阿里、微软等 10 大深度学习 CTR 模型最全演化图谱【推荐、广告、搜索领域】](https://www.6aiq.com/article/1557332028652) |
+| 11 | [微软专家眼中个性化推荐系统的 5 大研究趋势](https://www.6aiq.com/article/1543673861952) |
+| 12 | [NIPS 2018 丨解读微软亚洲研究院 10 篇入选论文](https://www.6aiq.com/article/1536334503252) |
+| 13 | [科学匠人 \| 微软亚洲研究院 陈薇 用数学逻辑来优化工作和人生](https://www.6aiq.com/article/1535805924411) |
+| 14 | [AIQ -  语音识别 \| 微软亚研自动语法纠错系统达到人类水平](https://www.6aiq.com/article/1530979943523) |
 ## UC
 | 序号 | 佳作 |
 | --- | --- |
