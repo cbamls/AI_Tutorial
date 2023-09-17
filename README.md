@@ -25,21 +25,22 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-09-09 ~ 2023-09-16), 本周报更新时间:2023-09-16 23:33:42
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-09-10 ~ 2023-09-17), 本周报更新时间:2023-09-17 22:34:22
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [BaiChuan2技术报告细节分享&个人想法](https://zhuanlan.zhihu.com/p/656570703) | 刘聪NLP | 2023-09-16 00:18:11 |
-| 2 | [打造极致HTAP精品国产数据库，TDSQL融合版来了！](https://zhuanlan.zhihu.com/p/656482270) | DataFunTalk | 2023-09-15 15:50:19 |
-| 3 | [大厂的数据产品设计模型](https://zhuanlan.zhihu.com/p/656188131) | DataFunTalk | 2023-09-14 12:04:22 |
-| 4 | [百川的大模型KnowHow](https://zhuanlan.zhihu.com/p/655984589) | 李rumor | 2023-09-13 11:53:05 |
-| 5 | [连续提示学习概述（Continue Prompt Learning）](https://zhuanlan.zhihu.com/p/655884416) | 大师兄 | 2023-09-13 11:05:11 |
-| 6 | [KDD'23 \| CC-GNN：基于内容协同图神经网络的电商召回方法](https://zhuanlan.zhihu.com/p/655950271) | 阿里妈妈技术 | 2023-09-13 10:08:06 |
-| 7 | [AI绘画Stable Diffusion原理之扩散模型DDPM](https://zhuanlan.zhihu.com/p/655877536) | Keep Learning | 2023-09-12 20:47:16 |
-| 8 | [深入浅出扩散模型(Diffusion Model)系列：基石DDPM（源码解读篇）](https://zhuanlan.zhihu.com/p/655568910) | 猛猿 | 2023-09-11 19:54:11 |
-| 9 | [【论文笔记】baichuan 2训练报告](https://zhuanlan.zhihu.com/p/655576902) | 归来仍是少年 | 2023-09-11 19:35:02 |
-| 10 | [AI Agents大爆发：OpenAI的下一步](https://zhuanlan.zhihu.com/p/655560864) | 朱翔宇 | 2023-09-11 19:11:58 |
-| 11 | [大厂项目实践案例——美团推荐系统“新颖性”建设思考](https://zhuanlan.zhihu.com/p/655481433) | 策略产品Arthur | 2023-09-11 09:35:16 |
+| 1 | [【JD】美团平台推荐引擎 Java 研发工程师](https://www.6aiq.com/article/1694927285732) | AIQ人工智能社区 | 2023-09-17 13:08:05 |
+| 2 | [BaiChuan2技术报告细节分享&个人想法](https://zhuanlan.zhihu.com/p/656570703) | 刘聪NLP | 2023-09-16 00:18:11 |
+| 3 | [打造极致HTAP精品国产数据库，TDSQL融合版来了！](https://zhuanlan.zhihu.com/p/656482270) | DataFunTalk | 2023-09-15 15:50:19 |
+| 4 | [大厂的数据产品设计模型](https://zhuanlan.zhihu.com/p/656188131) | DataFunTalk | 2023-09-14 12:04:22 |
+| 5 | [百川的大模型KnowHow](https://zhuanlan.zhihu.com/p/655984589) | 李rumor | 2023-09-13 11:53:05 |
+| 6 | [连续提示学习概述（Continue Prompt Learning）](https://zhuanlan.zhihu.com/p/655884416) | 大师兄 | 2023-09-13 11:05:11 |
+| 7 | [KDD'23 \| CC-GNN：基于内容协同图神经网络的电商召回方法](https://zhuanlan.zhihu.com/p/655950271) | 阿里妈妈技术 | 2023-09-13 10:08:06 |
+| 8 | [AI绘画Stable Diffusion原理之扩散模型DDPM](https://zhuanlan.zhihu.com/p/655877536) | Keep Learning | 2023-09-12 20:47:16 |
+| 9 | [深入浅出扩散模型(Diffusion Model)系列：基石DDPM（源码解读篇）](https://zhuanlan.zhihu.com/p/655568910) | 猛猿 | 2023-09-11 19:54:11 |
+| 10 | [【论文笔记】baichuan 2训练报告](https://zhuanlan.zhihu.com/p/655576902) | 归来仍是少年 | 2023-09-11 19:35:02 |
+| 11 | [AI Agents大爆发：OpenAI的下一步](https://zhuanlan.zhihu.com/p/655560864) | 朱翔宇 | 2023-09-11 19:11:58 |
+| 12 | [大厂项目实践案例——美团推荐系统“新颖性”建设思考](https://zhuanlan.zhihu.com/p/655481433) | 策略产品Arthur | 2023-09-11 09:35:16 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -3727,94 +3728,95 @@ https://item.jd.com/13484669.html。
 ## 美团
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [大厂项目实践案例——美团推荐系统“新颖性”建设思考](https://www.6aiq.com/article/1694397769809) |
-| 2 | [美团广告平台模型组科研实习生招聘](https://www.6aiq.com/article/1686123110396) |
-| 3 | [COLING 2022 \| 清华美团提出DABERT：针对匹配任务的双通道注意力增强预训练模型](https://www.6aiq.com/article/1682523122375) |
-| 4 | [美团广告平台招聘（校招-北京/上海）求贤若渴](https://www.6aiq.com/article/1681786890041) |
-| 5 | [美团是如何进行指标管理的？](https://www.6aiq.com/article/1681628442948) |
-| 6 | [美团在预训练语言模型上的探索和实践](https://www.6aiq.com/article/1681621552327) |
-| 7 | [美团酒旅图谱构建及应用](https://www.6aiq.com/article/1679292632275) |
-| 8 | [美团广告平台模型组招聘（北京）求贤若渴](https://www.6aiq.com/article/1679142707429) |
-| 9 | [美团广告平台模型组招聘（校招&社招）求贤若渴](https://www.6aiq.com/article/1679142705828) |
-| 10 | [美团广告平台模型组招聘（北京社招）求贤若渴](https://www.6aiq.com/article/1679140934303) |
-| 11 | [美团｜交互式推荐在外卖场景的探索与应用](https://www.6aiq.com/article/1676567215092) |
-| 12 | [美团外卖推荐智能流量分发的实践与探索](https://www.6aiq.com/article/1670506205377) |
-| 13 | [大规模异构图召回在美团到店推荐广告的应用](https://www.6aiq.com/article/1669292088314) |
-| 14 | [美团外卖搜索基于 Elasticsearch 的优化实践](https://www.6aiq.com/article/1668688185539) |
-| 15 | [美团图灵机器学习平台性能起飞的秘密（一）](https://www.6aiq.com/article/1668085628389) |
-| 16 | [检索式对话系统在美团客服场景的探索与实践](https://www.6aiq.com/article/1667530941124) |
-| 17 | [​美团关于 Apache Doris 存储层向量化改造的设计与实现](https://www.6aiq.com/article/1666874991171) |
-| 18 | [预训练语言模型压缩、双塔蒸馏在美团上的落地实践](https://www.6aiq.com/article/1665409968489) |
-| 19 | [知识图谱在美团搜索酒旅场景认知中的应用](https://www.6aiq.com/article/1664520291651) |
-| 20 | [美团基于知识图谱的个性化新闻推荐系统](https://www.6aiq.com/article/1664086122995) |
-| 21 | [知识图谱在美团推荐场景中的应用](https://www.6aiq.com/article/1663913783950) |
-| 22 | [图技术在美团外卖下的场景化应用及探索](https://www.6aiq.com/article/1662693836473) |
-| 23 | [美团搜索粗排优化的探索与实践](https://www.6aiq.com/article/1660225427073) |
-| 24 | [Kafka 在美团数据平台的实践](https://www.6aiq.com/article/1659623489985) |
-| 25 | [美团大众点评搜索相关性技术探索与实践](https://www.6aiq.com/article/1657116010069) |
-| 26 | [美团外卖广告大规模深度学习模型工程实践](https://www.6aiq.com/article/1657114335177) |
-| 27 | [美团综合业务推荐系统的质量模型及实践](https://www.6aiq.com/article/1656000342700) |
-| 28 | [张鸿志：美团大脑百亿级知识图谱的构建及应用进展](https://www.6aiq.com/article/1654268173987) |
-| 29 | [美团大脑中的商品理解与样本治理](https://www.6aiq.com/article/1652459085275) |
-| 30 | [美团 \| 标准化思想及组装式架构在后端 BFF 中的实践](https://www.6aiq.com/article/1651177599302) |
-| 31 | [李翔：美团到店综合知识图谱的构建与应用](https://www.6aiq.com/article/1649203601235) |
-| 32 | [异构广告混排在美团到店业务的探索与实践](https://www.6aiq.com/article/1646950622315) |
-| 33 | [GPU 在美团外卖场景精排模型预估中的应用实践](https://www.6aiq.com/article/1646351901765) |
-| 34 | [美团外卖广告平台化的探索与实践](https://www.6aiq.com/article/1646351707722) |
-| 35 | [干货 \| 美团搜索中查询改写技术的探索与实践](https://www.6aiq.com/article/1645745968583) |
-| 36 | [美团 Flink 大作业部署与状态稳定性优化实践](https://www.6aiq.com/article/1645722768596) |
-| 37 | [赵海源：峰值超 2 亿 / 秒，Kafka 在美团数据平台的实践](https://www.6aiq.com/article/1643750362429) |
-| 38 | [陈胜：美团搜索排序实践](https://www.6aiq.com/article/1643043366024) |
-| 39 | [汤楚熙：美团实时数仓架构演进与建设实践](https://www.6aiq.com/article/1642115390824) |
-| 40 | [美团 \| 预训练技术在美团到店搜索广告中的应用](https://www.6aiq.com/article/1638494351400) |
-| 41 | [美团搜索多业务商品排序探索与实践](https://www.6aiq.com/article/1637283563102) |
-| 42 | [美团知识图谱问答技术实践与探索](https://www.6aiq.com/article/1636078655771) |
-| 43 | [美团基于知识图谱的剧本杀标准化建设与应用](https://www.6aiq.com/article/1635461486333) |
-| 44 | [情感分析技术在美团的探索与应用](https://www.6aiq.com/article/1634856459132) |
-| 45 | [开奖了 \| 揭秘 2022 届美团和腾讯校招薪资，香水团完全不输鹅厂！](https://www.6aiq.com/article/1634478955073) |
-| 46 | [美团 \| 广告深度预估技术在美团到店场景下的突破与畅想](https://www.6aiq.com/article/1634256290321) |
-| 47 | [美团 \| 新一代 CTR 预测服务的 GPU 优化实践](https://www.6aiq.com/article/1631833358134) |
-| 48 | [美团智能客服技术实践](https://www.6aiq.com/article/1630675971284) |
-| 49 | [美团商品知识图谱的构建及应用](https://www.6aiq.com/article/1627834034798) |
-| 50 | [美团本地生活综合性需求知识图谱的构建及应用](https://www.6aiq.com/article/1626394493834) |
-| 51 | [多业务建模在美团搜索排序中的实践](https://www.6aiq.com/article/1625786203556) |
-| 52 | [美团外卖美食知识图谱的迭代及应用](https://www.6aiq.com/article/1622242677436) |
-| 53 | [美团图灵算法平台在线服务体系的演进与实践](https://www.6aiq.com/article/1620953167502) |
-| 54 | [Query 理解在美团搜索中的应用](https://www.6aiq.com/article/1620422043350) |
-| 55 | [美团图数据库平台建设及业务实践](https://www.6aiq.com/article/1618955928414) |
-| 56 | [美团酒旅数据治理实践](https://www.6aiq.com/article/1614352231236) |
-| 57 | [美团配送实时特征平台建设实践](https://www.6aiq.com/article/1610400281543) |
-| 58 | [美团智能问答技术探索与实践](https://www.6aiq.com/article/1608634818386) |
-| 59 | [美团本地生活场景的短视频分析](https://www.6aiq.com/article/1606090402535) |
-| 60 | [美团智能搜索模型预估框架 Augur 的建设与实践](https://www.6aiq.com/article/1603629168358) |
-| 61 | [美团外卖实时数仓建设实践](https://www.6aiq.com/article/1602549780101) |
-| 62 | [前沿重器 [2] \| 美团搜索理解和召回](https://www.6aiq.com/article/1600566222359) |
-| 63 | [【社招】美团点评 Java 开发工程师](https://www.6aiq.com/article/1597748818723) |
-| 64 | [美团搜索中 NER 技术的探索与实践](https://www.6aiq.com/article/1595549645074) |
-| 65 | [美团点评 \| 智能搜索模型预估框架的建设与实践](https://www.6aiq.com/article/1594941286899) |
-| 66 | [BERT 在美团搜索核心排序的探索和实践](https://www.6aiq.com/article/1594329514092) |
-| 67 | [美团配送 A/B 评估体系建设与实践](https://www.6aiq.com/article/1590713207541) |
-| 68 | [超强整理，非科班硕士的算法面经 (阿里 腾讯 字节 美团)](https://www.6aiq.com/article/1589071073376) |
-| 69 | [Java 线程池实现原理及其在美团业务中的实践](https://www.6aiq.com/article/1585850010612) |
-| 70 | [美团一站式机器学习平台建设实践](https://www.6aiq.com/article/1581320124242) |
-| 71 | [美团点评效果广告实验配置平台的设计与实现](https://www.6aiq.com/article/1575352029629) |
-| 72 | [美团点评 Kubernetes 集群管理实践](https://www.6aiq.com/article/1574928440098) |
-| 73 | [美团配送交付时间轻量级预估实践](https://www.6aiq.com/article/1571121996334) |
-| 74 | [头条，美团，滴滴，京东及其它公司面试经验分享！](https://www.6aiq.com/article/1569160784677) |
-| 75 | [《美团机器学习实践》—— 思维导图](https://www.6aiq.com/article/1550074429084) |
-| 76 | [美团深度学习在搜索业务中的探索与实践](https://www.6aiq.com/article/1547131939647) |
-| 77 | [【美团】LruCache 在美团 DSP 系统中的应用演进](https://www.6aiq.com/article/1545317989899) |
-| 78 | [【美团】深入浅出排序学习：写给程序员的算法系统开发实践](https://www.6aiq.com/article/1545317747570) |
-| 79 | [机器学习在美团配送系统的实践：用技术还原真实世界](https://www.6aiq.com/article/1544864657295) |
-| 80 | [美团大脑：知识图谱的建模方法及其应用](https://www.6aiq.com/article/1542188759508) |
-| 81 | [美团深度学习系统的工程实践](https://www.6aiq.com/article/1540469168580) |
-| 82 | [【AIQ】梁宁万字长文：美团的破局与开局](https://www.6aiq.com/article/1537525881642) |
-| 83 | [美团上市，开盘涨 5.7%，市值超京东！与阿里的交锋再升级](https://www.6aiq.com/article/1537427490660) |
-| 84 | [独家揭秘！2.5 亿用户的美团智能推荐平台是如何构建的？](https://www.6aiq.com/article/1535728178473) |
-| 85 | [美团在 O2O 场景下的广告营销](https://www.6aiq.com/article/1534504164016) |
-| 86 | [美团 \| 写给工程师的十条精进原则](https://www.6aiq.com/article/1534504104496) |
-| 87 | [美团点评 - 深度学习在计算机视觉中的应用](https://www.6aiq.com/article/1530374711602) |
-| 88 | [深度学习在美团搜索广告排序的应用实践是怎么样的？](https://www.6aiq.com/article/1530373055739) |
+| 1 | [【JD】美团平台推荐引擎 Java 研发工程师](https://www.6aiq.com/article/1694927285732) |
+| 2 | [大厂项目实践案例——美团推荐系统“新颖性”建设思考](https://www.6aiq.com/article/1694397769809) |
+| 3 | [美团广告平台模型组科研实习生招聘](https://www.6aiq.com/article/1686123110396) |
+| 4 | [COLING 2022 \| 清华美团提出DABERT：针对匹配任务的双通道注意力增强预训练模型](https://www.6aiq.com/article/1682523122375) |
+| 5 | [美团广告平台招聘（校招-北京/上海）求贤若渴](https://www.6aiq.com/article/1681786890041) |
+| 6 | [美团是如何进行指标管理的？](https://www.6aiq.com/article/1681628442948) |
+| 7 | [美团在预训练语言模型上的探索和实践](https://www.6aiq.com/article/1681621552327) |
+| 8 | [美团酒旅图谱构建及应用](https://www.6aiq.com/article/1679292632275) |
+| 9 | [美团广告平台模型组招聘（北京）求贤若渴](https://www.6aiq.com/article/1679142707429) |
+| 10 | [美团广告平台模型组招聘（校招&社招）求贤若渴](https://www.6aiq.com/article/1679142705828) |
+| 11 | [美团广告平台模型组招聘（北京社招）求贤若渴](https://www.6aiq.com/article/1679140934303) |
+| 12 | [美团｜交互式推荐在外卖场景的探索与应用](https://www.6aiq.com/article/1676567215092) |
+| 13 | [美团外卖推荐智能流量分发的实践与探索](https://www.6aiq.com/article/1670506205377) |
+| 14 | [大规模异构图召回在美团到店推荐广告的应用](https://www.6aiq.com/article/1669292088314) |
+| 15 | [美团外卖搜索基于 Elasticsearch 的优化实践](https://www.6aiq.com/article/1668688185539) |
+| 16 | [美团图灵机器学习平台性能起飞的秘密（一）](https://www.6aiq.com/article/1668085628389) |
+| 17 | [检索式对话系统在美团客服场景的探索与实践](https://www.6aiq.com/article/1667530941124) |
+| 18 | [​美团关于 Apache Doris 存储层向量化改造的设计与实现](https://www.6aiq.com/article/1666874991171) |
+| 19 | [预训练语言模型压缩、双塔蒸馏在美团上的落地实践](https://www.6aiq.com/article/1665409968489) |
+| 20 | [知识图谱在美团搜索酒旅场景认知中的应用](https://www.6aiq.com/article/1664520291651) |
+| 21 | [美团基于知识图谱的个性化新闻推荐系统](https://www.6aiq.com/article/1664086122995) |
+| 22 | [知识图谱在美团推荐场景中的应用](https://www.6aiq.com/article/1663913783950) |
+| 23 | [图技术在美团外卖下的场景化应用及探索](https://www.6aiq.com/article/1662693836473) |
+| 24 | [美团搜索粗排优化的探索与实践](https://www.6aiq.com/article/1660225427073) |
+| 25 | [Kafka 在美团数据平台的实践](https://www.6aiq.com/article/1659623489985) |
+| 26 | [美团大众点评搜索相关性技术探索与实践](https://www.6aiq.com/article/1657116010069) |
+| 27 | [美团外卖广告大规模深度学习模型工程实践](https://www.6aiq.com/article/1657114335177) |
+| 28 | [美团综合业务推荐系统的质量模型及实践](https://www.6aiq.com/article/1656000342700) |
+| 29 | [张鸿志：美团大脑百亿级知识图谱的构建及应用进展](https://www.6aiq.com/article/1654268173987) |
+| 30 | [美团大脑中的商品理解与样本治理](https://www.6aiq.com/article/1652459085275) |
+| 31 | [美团 \| 标准化思想及组装式架构在后端 BFF 中的实践](https://www.6aiq.com/article/1651177599302) |
+| 32 | [李翔：美团到店综合知识图谱的构建与应用](https://www.6aiq.com/article/1649203601235) |
+| 33 | [异构广告混排在美团到店业务的探索与实践](https://www.6aiq.com/article/1646950622315) |
+| 34 | [GPU 在美团外卖场景精排模型预估中的应用实践](https://www.6aiq.com/article/1646351901765) |
+| 35 | [美团外卖广告平台化的探索与实践](https://www.6aiq.com/article/1646351707722) |
+| 36 | [干货 \| 美团搜索中查询改写技术的探索与实践](https://www.6aiq.com/article/1645745968583) |
+| 37 | [美团 Flink 大作业部署与状态稳定性优化实践](https://www.6aiq.com/article/1645722768596) |
+| 38 | [赵海源：峰值超 2 亿 / 秒，Kafka 在美团数据平台的实践](https://www.6aiq.com/article/1643750362429) |
+| 39 | [陈胜：美团搜索排序实践](https://www.6aiq.com/article/1643043366024) |
+| 40 | [汤楚熙：美团实时数仓架构演进与建设实践](https://www.6aiq.com/article/1642115390824) |
+| 41 | [美团 \| 预训练技术在美团到店搜索广告中的应用](https://www.6aiq.com/article/1638494351400) |
+| 42 | [美团搜索多业务商品排序探索与实践](https://www.6aiq.com/article/1637283563102) |
+| 43 | [美团知识图谱问答技术实践与探索](https://www.6aiq.com/article/1636078655771) |
+| 44 | [美团基于知识图谱的剧本杀标准化建设与应用](https://www.6aiq.com/article/1635461486333) |
+| 45 | [情感分析技术在美团的探索与应用](https://www.6aiq.com/article/1634856459132) |
+| 46 | [开奖了 \| 揭秘 2022 届美团和腾讯校招薪资，香水团完全不输鹅厂！](https://www.6aiq.com/article/1634478955073) |
+| 47 | [美团 \| 广告深度预估技术在美团到店场景下的突破与畅想](https://www.6aiq.com/article/1634256290321) |
+| 48 | [美团 \| 新一代 CTR 预测服务的 GPU 优化实践](https://www.6aiq.com/article/1631833358134) |
+| 49 | [美团智能客服技术实践](https://www.6aiq.com/article/1630675971284) |
+| 50 | [美团商品知识图谱的构建及应用](https://www.6aiq.com/article/1627834034798) |
+| 51 | [美团本地生活综合性需求知识图谱的构建及应用](https://www.6aiq.com/article/1626394493834) |
+| 52 | [多业务建模在美团搜索排序中的实践](https://www.6aiq.com/article/1625786203556) |
+| 53 | [美团外卖美食知识图谱的迭代及应用](https://www.6aiq.com/article/1622242677436) |
+| 54 | [美团图灵算法平台在线服务体系的演进与实践](https://www.6aiq.com/article/1620953167502) |
+| 55 | [Query 理解在美团搜索中的应用](https://www.6aiq.com/article/1620422043350) |
+| 56 | [美团图数据库平台建设及业务实践](https://www.6aiq.com/article/1618955928414) |
+| 57 | [美团酒旅数据治理实践](https://www.6aiq.com/article/1614352231236) |
+| 58 | [美团配送实时特征平台建设实践](https://www.6aiq.com/article/1610400281543) |
+| 59 | [美团智能问答技术探索与实践](https://www.6aiq.com/article/1608634818386) |
+| 60 | [美团本地生活场景的短视频分析](https://www.6aiq.com/article/1606090402535) |
+| 61 | [美团智能搜索模型预估框架 Augur 的建设与实践](https://www.6aiq.com/article/1603629168358) |
+| 62 | [美团外卖实时数仓建设实践](https://www.6aiq.com/article/1602549780101) |
+| 63 | [前沿重器 [2] \| 美团搜索理解和召回](https://www.6aiq.com/article/1600566222359) |
+| 64 | [【社招】美团点评 Java 开发工程师](https://www.6aiq.com/article/1597748818723) |
+| 65 | [美团搜索中 NER 技术的探索与实践](https://www.6aiq.com/article/1595549645074) |
+| 66 | [美团点评 \| 智能搜索模型预估框架的建设与实践](https://www.6aiq.com/article/1594941286899) |
+| 67 | [BERT 在美团搜索核心排序的探索和实践](https://www.6aiq.com/article/1594329514092) |
+| 68 | [美团配送 A/B 评估体系建设与实践](https://www.6aiq.com/article/1590713207541) |
+| 69 | [超强整理，非科班硕士的算法面经 (阿里 腾讯 字节 美团)](https://www.6aiq.com/article/1589071073376) |
+| 70 | [Java 线程池实现原理及其在美团业务中的实践](https://www.6aiq.com/article/1585850010612) |
+| 71 | [美团一站式机器学习平台建设实践](https://www.6aiq.com/article/1581320124242) |
+| 72 | [美团点评效果广告实验配置平台的设计与实现](https://www.6aiq.com/article/1575352029629) |
+| 73 | [美团点评 Kubernetes 集群管理实践](https://www.6aiq.com/article/1574928440098) |
+| 74 | [美团配送交付时间轻量级预估实践](https://www.6aiq.com/article/1571121996334) |
+| 75 | [头条，美团，滴滴，京东及其它公司面试经验分享！](https://www.6aiq.com/article/1569160784677) |
+| 76 | [《美团机器学习实践》—— 思维导图](https://www.6aiq.com/article/1550074429084) |
+| 77 | [美团深度学习在搜索业务中的探索与实践](https://www.6aiq.com/article/1547131939647) |
+| 78 | [【美团】LruCache 在美团 DSP 系统中的应用演进](https://www.6aiq.com/article/1545317989899) |
+| 79 | [【美团】深入浅出排序学习：写给程序员的算法系统开发实践](https://www.6aiq.com/article/1545317747570) |
+| 80 | [机器学习在美团配送系统的实践：用技术还原真实世界](https://www.6aiq.com/article/1544864657295) |
+| 81 | [美团大脑：知识图谱的建模方法及其应用](https://www.6aiq.com/article/1542188759508) |
+| 82 | [美团深度学习系统的工程实践](https://www.6aiq.com/article/1540469168580) |
+| 83 | [【AIQ】梁宁万字长文：美团的破局与开局](https://www.6aiq.com/article/1537525881642) |
+| 84 | [美团上市，开盘涨 5.7%，市值超京东！与阿里的交锋再升级](https://www.6aiq.com/article/1537427490660) |
+| 85 | [独家揭秘！2.5 亿用户的美团智能推荐平台是如何构建的？](https://www.6aiq.com/article/1535728178473) |
+| 86 | [美团在 O2O 场景下的广告营销](https://www.6aiq.com/article/1534504164016) |
+| 87 | [美团 \| 写给工程师的十条精进原则](https://www.6aiq.com/article/1534504104496) |
+| 88 | [美团点评 - 深度学习在计算机视觉中的应用](https://www.6aiq.com/article/1530374711602) |
+| 89 | [深度学习在美团搜索广告排序的应用实践是怎么样的？](https://www.6aiq.com/article/1530373055739) |
 ## 携程
 | 序号 | 佳作 |
 | --- | --- |
