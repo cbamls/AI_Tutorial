@@ -25,26 +25,28 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-09-12 ~ 2023-09-19), 本周报更新时间:2023-09-19 23:33:54
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-09-13 ~ 2023-09-20), 本周报更新时间:2023-09-20 22:33:56
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [临近23年底，有哪些GenAI产品做起来了？](https://zhuanlan.zhihu.com/p/657251560) | 李rumor | 2023-09-19 21:51:10 |
-| 2 | [流式图计算在蚂蚁大数据场景的应用](https://zhuanlan.zhihu.com/p/657207758) | DataFunTalk | 2023-09-19 17:34:21 |
-| 3 | [零基础入门深度学习，学习路线及步骤参考](https://zhuanlan.zhihu.com/p/657163656) | Houye | 2023-09-19 15:08:06 |
-| 4 | [图解大模型微调系列之：AdaLoRA，能做“财务”预算的低秩适配器](https://zhuanlan.zhihu.com/p/657130029) | 猛猿 | 2023-09-19 13:21:01 |
-| 5 | [美团广告平台模型组社招招聘（北京）](https://zhuanlan.zhihu.com/p/657111474) | 萧瑟 | 2023-09-19 11:20:21 |
-| 6 | [网易伏羲游戏AI Bot的拟人化和风格化：AIGA赋能游戏探索](https://zhuanlan.zhihu.com/p/656997198) | DataFunTalk | 2023-09-18 18:43:53 |
-| 7 | [数据产品经理的三个成长路径](https://zhuanlan.zhihu.com/p/656923742) | DataFunTalk | 2023-09-18 14:20:45 |
-| 8 | [吴恩达：AI Fund建立初创公司的小心得](https://zhuanlan.zhihu.com/p/656897807) | 吴恩达 | 2023-09-18 11:52:12 |
-| 9 | [【JD】美团平台推荐引擎 Java 研发工程师](https://www.6aiq.com/article/1694927285732) | AIQ人工智能社区 | 2023-09-17 13:08:05 |
-| 10 | [BaiChuan2技术报告细节分享&个人想法](https://zhuanlan.zhihu.com/p/656570703) | 刘聪NLP | 2023-09-16 00:18:11 |
-| 11 | [打造极致HTAP精品国产数据库，TDSQL融合版来了！](https://zhuanlan.zhihu.com/p/656482270) | DataFunTalk | 2023-09-15 15:50:19 |
-| 12 | [大厂的数据产品设计模型](https://zhuanlan.zhihu.com/p/656188131) | DataFunTalk | 2023-09-14 12:04:22 |
-| 13 | [百川的大模型KnowHow](https://zhuanlan.zhihu.com/p/655984589) | 李rumor | 2023-09-13 11:53:05 |
-| 14 | [连续提示学习概述（Continue Prompt Learning）](https://zhuanlan.zhihu.com/p/655884416) | 大师兄 | 2023-09-13 11:05:11 |
-| 15 | [KDD'23 \| CC-GNN：基于内容协同图神经网络的电商召回方法](https://zhuanlan.zhihu.com/p/655950271) | 阿里妈妈技术 | 2023-09-13 10:08:06 |
-| 16 | [AI绘画Stable Diffusion原理之扩散模型DDPM](https://zhuanlan.zhihu.com/p/655877536) | Keep Learning | 2023-09-12 20:47:16 |
+| 1 | [北大 \| 摘要生成还有未来吗？](https://zhuanlan.zhihu.com/p/657442877) | zenRRan | 2023-09-20 18:41:33 |
+| 2 | [OpenBA：开源模型家族再添一员！从头训练的15B中英非对称Encoder-Decoder结构双语模型](https://zhuanlan.zhihu.com/p/657441633) | zenRRan | 2023-09-20 18:28:02 |
+| 3 | [花了两周，我又整了个开源软件 pyFFmpeg](https://zhuanlan.zhihu.com/p/657414446) | JioNLP团队 | 2023-09-20 16:46:42 |
+| 4 | [临近23年底，有哪些GenAI产品做起来了？](https://zhuanlan.zhihu.com/p/657251560) | 李rumor | 2023-09-19 21:51:10 |
+| 5 | [流式图计算在蚂蚁大数据场景的应用](https://zhuanlan.zhihu.com/p/657207758) | DataFunTalk | 2023-09-19 17:34:21 |
+| 6 | [零基础入门深度学习，学习路线及步骤参考](https://zhuanlan.zhihu.com/p/657163656) | Houye | 2023-09-19 15:08:06 |
+| 7 | [图解大模型微调系列之：AdaLoRA，能做“财务”预算的低秩适配器](https://zhuanlan.zhihu.com/p/657130029) | 猛猿 | 2023-09-19 13:21:01 |
+| 8 | [美团广告平台模型组社招招聘（北京）](https://zhuanlan.zhihu.com/p/657111474) | 萧瑟 | 2023-09-19 11:20:21 |
+| 9 | [网易伏羲游戏AI Bot的拟人化和风格化：AIGA赋能游戏探索](https://zhuanlan.zhihu.com/p/656997198) | DataFunTalk | 2023-09-18 18:43:53 |
+| 10 | [数据产品经理的三个成长路径](https://zhuanlan.zhihu.com/p/656923742) | DataFunTalk | 2023-09-18 14:20:45 |
+| 11 | [吴恩达：AI Fund建立初创公司的小心得](https://zhuanlan.zhihu.com/p/656897807) | 吴恩达 | 2023-09-18 11:52:12 |
+| 12 | [【JD】美团平台推荐引擎 Java 研发工程师](https://www.6aiq.com/article/1694927285732) | AIQ人工智能社区 | 2023-09-17 13:08:05 |
+| 13 | [BaiChuan2技术报告细节分享&个人想法](https://zhuanlan.zhihu.com/p/656570703) | 刘聪NLP | 2023-09-16 00:18:11 |
+| 14 | [打造极致HTAP精品国产数据库，TDSQL融合版来了！](https://zhuanlan.zhihu.com/p/656482270) | DataFunTalk | 2023-09-15 15:50:19 |
+| 15 | [大厂的数据产品设计模型](https://zhuanlan.zhihu.com/p/656188131) | DataFunTalk | 2023-09-14 12:04:22 |
+| 16 | [百川的大模型KnowHow](https://zhuanlan.zhihu.com/p/655984589) | 李rumor | 2023-09-13 11:53:05 |
+| 17 | [连续提示学习概述（Continue Prompt Learning）](https://zhuanlan.zhihu.com/p/655884416) | 大师兄 | 2023-09-13 11:05:11 |
+| 18 | [KDD'23 \| CC-GNN：基于内容协同图神经网络的电商召回方法](https://zhuanlan.zhihu.com/p/655950271) | 阿里妈妈技术 | 2023-09-13 10:08:06 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -2129,49 +2131,51 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [微软最新视觉语言预训练(VLP)综述：基础知识、最新进展和未来趋势，适合所有阶段读者阅读](https://zhuanlan.zhihu.com/p/649124369) | 2023-08-10 10:30:39 |
-| 2 | [寻找国内PhD offer、满足毕业要求、找教职等，还非常推荐COLING的，最简单b会之一，投稿交流群已建立~](https://zhuanlan.zhihu.com/p/648907940) | 2023-08-09 11:22:27 |
-| 3 | [清华大学刘知远老师的大模型公开课来啦！](https://zhuanlan.zhihu.com/p/647914732) | 2023-08-04 10:02:52 |
-| 4 | [UnIVAL：第一个支持图像、视频、音频和文本任务的大一统模型！](https://zhuanlan.zhihu.com/p/647672032) | 2023-08-03 09:54:19 |
-| 5 | [陈丹琦重新定义了文本相似性问题，提出C-STS，GPT-4也不能很好解决](https://zhuanlan.zhihu.com/p/647443903) | 2023-08-02 10:15:34 |
-| 6 | [刘知远等众多机构提出ToolLLM：促进大型语言模型掌握16000+真实世界的APIs](https://zhuanlan.zhihu.com/p/647204931) | 2023-08-01 10:07:57 |
-| 7 | [基础模型定义视觉新时代：综述与展望](https://zhuanlan.zhihu.com/p/646959493) | 2023-07-31 10:03:20 |
-| 8 | [LLM时代NLP研究何去何从？一个博士生的角度出发](https://zhuanlan.zhihu.com/p/632446200) | 2023-05-26 17:24:35 |
-| 9 | [上交清华提出中文大模型的知识评估基准C-Eval，辅助模型开发而非打榜](https://zhuanlan.zhihu.com/p/631509203) | 2023-05-23 12:29:12 |
-| 10 | [NLP中关于数据增强的最新综述](https://zhuanlan.zhihu.com/p/613978790) | 2023-03-14 19:23:33 |
-| 11 | [AIGC最新综述：从 GAN 到 ChatGPT 的AI生成历史](https://zhuanlan.zhihu.com/p/612963871) | 2023-03-10 17:29:19 |
-| 12 | [上交提出：更好的语言模型预训练需要更好的Masking](https://zhuanlan.zhihu.com/p/612252154) | 2023-03-08 11:02:57 |
-| 13 | [斯坦福+南洋理工等五大机构对ChatGPT做了在NLP任务上的优劣势的详细分析](https://zhuanlan.zhihu.com/p/606785094) | 2023-02-16 10:52:13 |
-| 14 | [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://zhuanlan.zhihu.com/p/604237227) | 2023-02-07 16:22:41 |
-| 15 | [访谈 \| 陈丹琦 —— 穿越多元文化，做独具特色的科研](https://zhuanlan.zhihu.com/p/602846688) | 2023-02-02 14:27:10 |
-| 16 | [AAAI2023 \| 百度+中科院提出USM：一种信息抽取的大一统方法](https://zhuanlan.zhihu.com/p/602554122) | 2023-02-01 15:08:24 |
-| 17 | [COLING2022 \| 中科院+北邮提出：具有Event-Argument相关性的事件因果关系提取方法](https://zhuanlan.zhihu.com/p/602202991) | 2023-01-31 12:42:37 |
-| 18 | [陈丹琦提出：带有语言约束的可控文本生成](https://zhuanlan.zhihu.com/p/601743431) | 2023-01-29 19:59:30 |
-| 19 | [邱锡鹏提出：DiffusionBERT - 用扩散模型改进生成式掩码语言模型](https://zhuanlan.zhihu.com/p/589379729) | 2022-12-05 17:02:57 |
-| 20 | [微软+上财提出GENIUS: 一个能根据草稿进行文本生成的“小天才”模型，也是一个即插即用的数据增强工具，代码开源](https://zhuanlan.zhihu.com/p/587180622) | 2022-11-27 20:16:51 |
-| 21 | [谷歌提出Flan预训练方法，一个模型解决可所有NLP任务，并发布Flan-T5模型](https://zhuanlan.zhihu.com/p/586660846) | 2022-11-25 20:32:41 |
-| 22 | [COLING'22 \| SelfMix：针对带噪数据集的半监督学习方法](https://zhuanlan.zhihu.com/p/573183339) | 2022-10-14 10:14:42 |
-| 23 | [近200篇文章汇总而成的机器翻译非自回归生成最新综述，揭示其挑战和未来研究方向](https://zhuanlan.zhihu.com/p/535238046) | 2022-06-29 10:17:48 |
-| 24 | [AAAI2022 \| 吐血整理了NLP相关的论文，包括信息抽取、机翻、NER、多模态、数据增强、问答、多语言、KD、文本纠错等](https://zhuanlan.zhihu.com/p/479490593) | 2022-03-11 19:00:20 |
-| 25 | [NLP算法面试的一些个人建议](https://zhuanlan.zhihu.com/p/478907106) | 2022-03-10 18:50:28 |
-| 26 | [ACL'22 \| 浙大提出基于强化学习的实体对齐方法](https://zhuanlan.zhihu.com/p/478902891) | 2022-03-10 18:43:59 |
-| 27 | [ACL'22 \| 基于双语文本填充任务的交互式机器翻译方法](https://zhuanlan.zhihu.com/p/478330686) | 2022-03-09 18:42:25 |
-| 28 | [多模态 \| 复旦推出跨视觉-语言预训练模型，并达到SOTA](https://zhuanlan.zhihu.com/p/478113589) | 2022-03-09 13:33:29 |
-| 29 | [ACL'22 \| 使用对比学习增强多标签文本分类中的k近邻机制](https://zhuanlan.zhihu.com/p/478107552) | 2022-03-09 13:23:05 |
-| 30 | [ACL'22 \| 一文解读复旦黄萱菁、邱锡鹏等老师NLP实验室的12篇长文](https://zhuanlan.zhihu.com/p/475247386) | 2022-03-03 14:42:53 |
-| 31 | [清华ACL'22 \| 一文读懂刘知远和刘洋老师所在实验室18篇论文详情](https://zhuanlan.zhihu.com/p/474679061) | 2022-03-02 14:24:24 |
-| 32 | [一种全新易用的基于Word-Word关系的NER统一模型，刷新了14种数据集并达到新SoTA](https://zhuanlan.zhihu.com/p/471546548) | 2022-02-23 22:14:18 |
-| 33 | [阿里+北大 \| 在梯度上做简单mask竟有如此的神奇效果](https://zhuanlan.zhihu.com/p/471543652) | 2022-02-23 22:11:00 |
-| 34 | [博士招生 \| 北京大学和中山大学博士申请考核还有名额，门槛不高，速来](https://zhuanlan.zhihu.com/p/437835107) | 2021-11-25 23:41:48 |
-| 35 | [NAACL2021 \| 陈丹琦又打破常规，最近流行的实体识别和关系抽取要回到最初状态？](https://zhuanlan.zhihu.com/p/414810626) | 2021-09-28 09:43:58 |
-| 36 | [清华刘知远联合新加坡国立大学提出CPT：基于预训练视觉-语言模型的跨模态Prompt-Tuning](https://zhuanlan.zhihu.com/p/414800147) | 2021-09-28 09:26:20 |
-| 37 | [让人深思：句法真的重要吗？邱锡鹏组提出一种基于Aspect的情感分析的强大基线](https://zhuanlan.zhihu.com/p/410969037) | 2021-09-16 12:58:18 |
-| 38 | [复旦邱锡鹏Lab提出：一个统一的面向基于Aspect的所有情感分析子任务的生成式方法](https://zhuanlan.zhihu.com/p/410967806) | 2021-09-16 12:54:44 |
-| 39 | [哈尔滨工业大学（深圳）张民教授团队招收自然语言处理推免硕博研究生](https://zhuanlan.zhihu.com/p/409515730) | 2021-09-12 12:02:24 |
-| 40 | [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://zhuanlan.zhihu.com/p/408881849) | 2021-09-10 10:05:09 |
-| 41 | [ACL2021 \| 一种巧妙解决NER覆盖和不连续问题的方法](https://zhuanlan.zhihu.com/p/408878682) | 2021-09-10 10:00:35 |
-| 42 | [NAACL2021 \| 苏大&阿里提出：一种统一的基于跨度的意见挖掘方法](https://zhuanlan.zhihu.com/p/407908896) | 2021-09-07 17:34:19 |
-| 43 | [一种巧妙且简单的数据增强方法 - MixUp 小综述](https://zhuanlan.zhihu.com/p/407089225) | 2021-09-05 18:06:58 |
+| 1 | [北大 \| 摘要生成还有未来吗？](https://zhuanlan.zhihu.com/p/657442877) | 2023-09-20 18:41:33 |
+| 2 | [OpenBA：开源模型家族再添一员！从头训练的15B中英非对称Encoder-Decoder结构双语模型](https://zhuanlan.zhihu.com/p/657441633) | 2023-09-20 18:28:02 |
+| 3 | [微软最新视觉语言预训练(VLP)综述：基础知识、最新进展和未来趋势，适合所有阶段读者阅读](https://zhuanlan.zhihu.com/p/649124369) | 2023-08-10 10:30:39 |
+| 4 | [寻找国内PhD offer、满足毕业要求、找教职等，还非常推荐COLING的，最简单b会之一，投稿交流群已建立~](https://zhuanlan.zhihu.com/p/648907940) | 2023-08-09 11:22:27 |
+| 5 | [清华大学刘知远老师的大模型公开课来啦！](https://zhuanlan.zhihu.com/p/647914732) | 2023-08-04 10:02:52 |
+| 6 | [UnIVAL：第一个支持图像、视频、音频和文本任务的大一统模型！](https://zhuanlan.zhihu.com/p/647672032) | 2023-08-03 09:54:19 |
+| 7 | [陈丹琦重新定义了文本相似性问题，提出C-STS，GPT-4也不能很好解决](https://zhuanlan.zhihu.com/p/647443903) | 2023-08-02 10:15:34 |
+| 8 | [刘知远等众多机构提出ToolLLM：促进大型语言模型掌握16000+真实世界的APIs](https://zhuanlan.zhihu.com/p/647204931) | 2023-08-01 10:07:57 |
+| 9 | [基础模型定义视觉新时代：综述与展望](https://zhuanlan.zhihu.com/p/646959493) | 2023-07-31 10:03:20 |
+| 10 | [LLM时代NLP研究何去何从？一个博士生的角度出发](https://zhuanlan.zhihu.com/p/632446200) | 2023-05-26 17:24:35 |
+| 11 | [上交清华提出中文大模型的知识评估基准C-Eval，辅助模型开发而非打榜](https://zhuanlan.zhihu.com/p/631509203) | 2023-05-23 12:29:12 |
+| 12 | [NLP中关于数据增强的最新综述](https://zhuanlan.zhihu.com/p/613978790) | 2023-03-14 19:23:33 |
+| 13 | [AIGC最新综述：从 GAN 到 ChatGPT 的AI生成历史](https://zhuanlan.zhihu.com/p/612963871) | 2023-03-10 17:29:19 |
+| 14 | [上交提出：更好的语言模型预训练需要更好的Masking](https://zhuanlan.zhihu.com/p/612252154) | 2023-03-08 11:02:57 |
+| 15 | [斯坦福+南洋理工等五大机构对ChatGPT做了在NLP任务上的优劣势的详细分析](https://zhuanlan.zhihu.com/p/606785094) | 2023-02-16 10:52:13 |
+| 16 | [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://zhuanlan.zhihu.com/p/604237227) | 2023-02-07 16:22:41 |
+| 17 | [访谈 \| 陈丹琦 —— 穿越多元文化，做独具特色的科研](https://zhuanlan.zhihu.com/p/602846688) | 2023-02-02 14:27:10 |
+| 18 | [AAAI2023 \| 百度+中科院提出USM：一种信息抽取的大一统方法](https://zhuanlan.zhihu.com/p/602554122) | 2023-02-01 15:08:24 |
+| 19 | [COLING2022 \| 中科院+北邮提出：具有Event-Argument相关性的事件因果关系提取方法](https://zhuanlan.zhihu.com/p/602202991) | 2023-01-31 12:42:37 |
+| 20 | [陈丹琦提出：带有语言约束的可控文本生成](https://zhuanlan.zhihu.com/p/601743431) | 2023-01-29 19:59:30 |
+| 21 | [邱锡鹏提出：DiffusionBERT - 用扩散模型改进生成式掩码语言模型](https://zhuanlan.zhihu.com/p/589379729) | 2022-12-05 17:02:57 |
+| 22 | [微软+上财提出GENIUS: 一个能根据草稿进行文本生成的“小天才”模型，也是一个即插即用的数据增强工具，代码开源](https://zhuanlan.zhihu.com/p/587180622) | 2022-11-27 20:16:51 |
+| 23 | [谷歌提出Flan预训练方法，一个模型解决可所有NLP任务，并发布Flan-T5模型](https://zhuanlan.zhihu.com/p/586660846) | 2022-11-25 20:32:41 |
+| 24 | [COLING'22 \| SelfMix：针对带噪数据集的半监督学习方法](https://zhuanlan.zhihu.com/p/573183339) | 2022-10-14 10:14:42 |
+| 25 | [近200篇文章汇总而成的机器翻译非自回归生成最新综述，揭示其挑战和未来研究方向](https://zhuanlan.zhihu.com/p/535238046) | 2022-06-29 10:17:48 |
+| 26 | [AAAI2022 \| 吐血整理了NLP相关的论文，包括信息抽取、机翻、NER、多模态、数据增强、问答、多语言、KD、文本纠错等](https://zhuanlan.zhihu.com/p/479490593) | 2022-03-11 19:00:20 |
+| 27 | [NLP算法面试的一些个人建议](https://zhuanlan.zhihu.com/p/478907106) | 2022-03-10 18:50:28 |
+| 28 | [ACL'22 \| 浙大提出基于强化学习的实体对齐方法](https://zhuanlan.zhihu.com/p/478902891) | 2022-03-10 18:43:59 |
+| 29 | [ACL'22 \| 基于双语文本填充任务的交互式机器翻译方法](https://zhuanlan.zhihu.com/p/478330686) | 2022-03-09 18:42:25 |
+| 30 | [多模态 \| 复旦推出跨视觉-语言预训练模型，并达到SOTA](https://zhuanlan.zhihu.com/p/478113589) | 2022-03-09 13:33:29 |
+| 31 | [ACL'22 \| 使用对比学习增强多标签文本分类中的k近邻机制](https://zhuanlan.zhihu.com/p/478107552) | 2022-03-09 13:23:05 |
+| 32 | [ACL'22 \| 一文解读复旦黄萱菁、邱锡鹏等老师NLP实验室的12篇长文](https://zhuanlan.zhihu.com/p/475247386) | 2022-03-03 14:42:53 |
+| 33 | [清华ACL'22 \| 一文读懂刘知远和刘洋老师所在实验室18篇论文详情](https://zhuanlan.zhihu.com/p/474679061) | 2022-03-02 14:24:24 |
+| 34 | [一种全新易用的基于Word-Word关系的NER统一模型，刷新了14种数据集并达到新SoTA](https://zhuanlan.zhihu.com/p/471546548) | 2022-02-23 22:14:18 |
+| 35 | [阿里+北大 \| 在梯度上做简单mask竟有如此的神奇效果](https://zhuanlan.zhihu.com/p/471543652) | 2022-02-23 22:11:00 |
+| 36 | [博士招生 \| 北京大学和中山大学博士申请考核还有名额，门槛不高，速来](https://zhuanlan.zhihu.com/p/437835107) | 2021-11-25 23:41:48 |
+| 37 | [NAACL2021 \| 陈丹琦又打破常规，最近流行的实体识别和关系抽取要回到最初状态？](https://zhuanlan.zhihu.com/p/414810626) | 2021-09-28 09:43:58 |
+| 38 | [清华刘知远联合新加坡国立大学提出CPT：基于预训练视觉-语言模型的跨模态Prompt-Tuning](https://zhuanlan.zhihu.com/p/414800147) | 2021-09-28 09:26:20 |
+| 39 | [让人深思：句法真的重要吗？邱锡鹏组提出一种基于Aspect的情感分析的强大基线](https://zhuanlan.zhihu.com/p/410969037) | 2021-09-16 12:58:18 |
+| 40 | [复旦邱锡鹏Lab提出：一个统一的面向基于Aspect的所有情感分析子任务的生成式方法](https://zhuanlan.zhihu.com/p/410967806) | 2021-09-16 12:54:44 |
+| 41 | [哈尔滨工业大学（深圳）张民教授团队招收自然语言处理推免硕博研究生](https://zhuanlan.zhihu.com/p/409515730) | 2021-09-12 12:02:24 |
+| 42 | [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://zhuanlan.zhihu.com/p/408881849) | 2021-09-10 10:05:09 |
+| 43 | [ACL2021 \| 一种巧妙解决NER覆盖和不连续问题的方法](https://zhuanlan.zhihu.com/p/408878682) | 2021-09-10 10:00:35 |
+| 44 | [NAACL2021 \| 苏大&阿里提出：一种统一的基于跨度的意见挖掘方法](https://zhuanlan.zhihu.com/p/407908896) | 2021-09-07 17:34:19 |
+| 45 | [一种巧妙且简单的数据增强方法 - MixUp 小综述](https://zhuanlan.zhihu.com/p/407089225) | 2021-09-05 18:06:58 |
 
 
 ## 蘑菇先生
@@ -3059,19 +3063,20 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [炮打学而思的 MathGPT](https://zhuanlan.zhihu.com/p/653363072) | 2023-08-30 20:08:02 |
-| 2 | [上帝在嘲笑 CEC-IDE](https://zhuanlan.zhihu.com/p/652569225) | 2023-08-26 23:28:16 |
-| 3 | [大语言模型LLM可以解决数学问题吗？](https://zhuanlan.zhihu.com/p/649011394) | 2023-08-09 17:28:59 |
-| 4 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | 2023-07-19 10:15:58 |
-| 5 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型（二）](https://zhuanlan.zhihu.com/p/631532268) | 2023-05-23 14:13:54 |
-| 6 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型](https://zhuanlan.zhihu.com/p/626786797) | 2023-05-04 20:56:11 |
-| 7 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | 2023-03-29 11:03:23 |
-| 8 | [ChatGPT、人口出生率与经济危机](https://zhuanlan.zhihu.com/p/609959260) | 2023-02-27 22:47:50 |
-| 9 | [ChatGPT这么强，会影响NLPer的就业环境吗](https://zhuanlan.zhihu.com/p/605673596) | 2023-02-12 16:14:44 |
-| 10 | [避坑一个JIT库numba](https://zhuanlan.zhihu.com/p/598260970) | 2023-01-11 15:03:42 |
-| 11 | [未来人工智能畅想——从ChatGPT想到的](https://zhuanlan.zhihu.com/p/591210118) | 2022-12-12 14:45:21 |
-| 12 | [一文读懂ChatGPT模型原理](https://zhuanlan.zhihu.com/p/589621442) | 2022-12-06 14:15:38 |
-| 13 | [JioNLP 数据分享，来看看这里有没有你想要的数据集](https://zhuanlan.zhihu.com/p/587630337) | 2022-11-29 10:38:47 |
+| 1 | [花了两周，我又整了个开源软件 pyFFmpeg](https://zhuanlan.zhihu.com/p/657414446) | 2023-09-20 16:46:42 |
+| 2 | [炮打学而思的 MathGPT](https://zhuanlan.zhihu.com/p/653363072) | 2023-08-30 20:08:02 |
+| 3 | [上帝在嘲笑 CEC-IDE](https://zhuanlan.zhihu.com/p/652569225) | 2023-08-26 23:28:16 |
+| 4 | [大语言模型LLM可以解决数学问题吗？](https://zhuanlan.zhihu.com/p/649011394) | 2023-08-09 17:28:59 |
+| 5 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | 2023-07-19 10:15:58 |
+| 6 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型（二）](https://zhuanlan.zhihu.com/p/631532268) | 2023-05-23 14:13:54 |
+| 7 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型](https://zhuanlan.zhihu.com/p/626786797) | 2023-05-04 20:56:11 |
+| 8 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | 2023-03-29 11:03:23 |
+| 9 | [ChatGPT、人口出生率与经济危机](https://zhuanlan.zhihu.com/p/609959260) | 2023-02-27 22:47:50 |
+| 10 | [ChatGPT这么强，会影响NLPer的就业环境吗](https://zhuanlan.zhihu.com/p/605673596) | 2023-02-12 16:14:44 |
+| 11 | [避坑一个JIT库numba](https://zhuanlan.zhihu.com/p/598260970) | 2023-01-11 15:03:42 |
+| 12 | [未来人工智能畅想——从ChatGPT想到的](https://zhuanlan.zhihu.com/p/591210118) | 2022-12-12 14:45:21 |
+| 13 | [一文读懂ChatGPT模型原理](https://zhuanlan.zhihu.com/p/589621442) | 2022-12-06 14:15:38 |
+| 14 | [JioNLP 数据分享，来看看这里有没有你想要的数据集](https://zhuanlan.zhihu.com/p/587630337) | 2022-11-29 10:38:47 |
 
 
 ## 归来仍是少年
