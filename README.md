@@ -25,26 +25,24 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-09-24 ~ 2023-10-01), 本周报更新时间:2023-10-01 23:33:18
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-09-25 ~ 2023-10-02), 本周报更新时间:2023-10-02 22:33:19
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [打造用户增长场景下的AB实验体系，我们需要做什么？](https://zhuanlan.zhihu.com/p/659019582) | DataFunTalk | 2023-09-29 09:48:29 |
-| 2 | [GNN在搜推上没有用？试试动态图GNN](https://zhuanlan.zhihu.com/p/658901046) | 朱翔宇 | 2023-09-28 18:56:24 |
-| 3 | [打起来了~ 最小SOTA模型：Mistral 7B，各方面碾压LLaMA2 13B和LLaMA1 34B](https://zhuanlan.zhihu.com/p/658957059) | zenRRan | 2023-09-28 17:40:39 |
-| 4 | [忽冷忽热：简评腾讯的Cold & Warm Net](https://zhuanlan.zhihu.com/p/658710826) | 石塔西 | 2023-09-27 14:57:04 |
-| 5 | [Trino 在哔哩哔哩湖仓一体化平台中的实践](https://zhuanlan.zhihu.com/p/658673572) | DataFunTalk | 2023-09-27 11:42:38 |
-| 6 | [58标签体系建设实践](https://zhuanlan.zhihu.com/p/658563505) | DataFunTalk | 2023-09-26 18:52:32 |
-| 7 | [NAACL2024投稿交流群已开启~](https://zhuanlan.zhihu.com/p/658428909) | zenRRan | 2023-09-26 10:01:33 |
-| 8 | [决策优化算法行业落地难点与发展趋势](https://zhuanlan.zhihu.com/p/658340635) | DataFunTalk | 2023-09-26 09:00:11 |
-| 9 | [通义千问-Qwen技术报告细节分享](https://zhuanlan.zhihu.com/p/658392609) | 刘聪NLP | 2023-09-26 00:16:39 |
-| 10 | [Doris新优化器背后的故事](https://zhuanlan.zhihu.com/p/658336237) | DataFunTalk | 2023-09-25 18:01:53 |
-| 11 | [这篇究极讽刺的文章一出，NLP无了](https://zhuanlan.zhihu.com/p/658328116) | zenRRan | 2023-09-25 17:23:56 |
-| 12 | [盘一盘支付风控系列（3）—— 大数据技术](https://zhuanlan.zhihu.com/p/658260889) | 风控大鱼 | 2023-09-25 13:59:56 |
-| 13 | [一文梳理推荐系统中如何应用大模型](https://zhuanlan.zhihu.com/p/658252702) | 蘑菇先生 | 2023-09-25 12:46:25 |
-| 14 | [推荐系统召回模型负采样](https://zhuanlan.zhihu.com/p/658149546) | 杨旭东 | 2023-09-24 20:58:08 |
-| 15 | [如何从数据集中自动识别高质量的指令数据-IFD指标的使用](https://zhuanlan.zhihu.com/p/658128530) | 刘聪NLP | 2023-09-24 17:34:47 |
-| 16 | [商业化产品经理必读系列—拼多多广告收入增长的产品利器](https://zhuanlan.zhihu.com/p/657506559) | King James | 2023-09-24 16:40:40 |
+| 1 | [来新加坡Tiktok一年多了，给各位大佬做个汇报](https://zhuanlan.zhihu.com/p/659057592) | 九老师 | 2023-10-02 18:10:01 |
+| 2 | [打造用户增长场景下的AB实验体系，我们需要做什么？](https://zhuanlan.zhihu.com/p/659019582) | DataFunTalk | 2023-09-29 09:48:29 |
+| 3 | [GNN在搜推上没有用？试试动态图GNN](https://zhuanlan.zhihu.com/p/658901046) | 朱翔宇 | 2023-09-28 18:56:24 |
+| 4 | [打起来了~ 最小SOTA模型：Mistral 7B，各方面碾压LLaMA2 13B和LLaMA1 34B](https://zhuanlan.zhihu.com/p/658957059) | zenRRan | 2023-09-28 17:40:39 |
+| 5 | [忽冷忽热：简评腾讯的Cold & Warm Net](https://zhuanlan.zhihu.com/p/658710826) | 石塔西 | 2023-09-27 14:57:04 |
+| 6 | [Trino 在哔哩哔哩湖仓一体化平台中的实践](https://zhuanlan.zhihu.com/p/658673572) | DataFunTalk | 2023-09-27 11:42:38 |
+| 7 | [58标签体系建设实践](https://zhuanlan.zhihu.com/p/658563505) | DataFunTalk | 2023-09-26 18:52:32 |
+| 8 | [NAACL2024投稿交流群已开启~](https://zhuanlan.zhihu.com/p/658428909) | zenRRan | 2023-09-26 10:01:33 |
+| 9 | [决策优化算法行业落地难点与发展趋势](https://zhuanlan.zhihu.com/p/658340635) | DataFunTalk | 2023-09-26 09:00:11 |
+| 10 | [通义千问-Qwen技术报告细节分享](https://zhuanlan.zhihu.com/p/658392609) | 刘聪NLP | 2023-09-26 00:16:39 |
+| 11 | [Doris新优化器背后的故事](https://zhuanlan.zhihu.com/p/658336237) | DataFunTalk | 2023-09-25 18:01:53 |
+| 12 | [这篇究极讽刺的文章一出，NLP无了](https://zhuanlan.zhihu.com/p/658328116) | zenRRan | 2023-09-25 17:23:56 |
+| 13 | [盘一盘支付风控系列（3）—— 大数据技术](https://zhuanlan.zhihu.com/p/658260889) | 风控大鱼 | 2023-09-25 13:59:56 |
+| 14 | [一文梳理推荐系统中如何应用大模型](https://zhuanlan.zhihu.com/p/658252702) | 蘑菇先生 | 2023-09-25 12:46:25 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -99,9 +97,9 @@
   * [归来仍是少年](#归来仍是少年)(欢迎大家关注公众号《我爱自然语言处理》,做自然语言处理方向，kagg...)
   * [kaiyuan](#kaiyuan)
   * [北冥有鱼](#北冥有鱼)(zepengzhang.com。...)
+  * [九老师](#九老师)
   * [yanianthe](#yanianthe)(炒股被抄家的前大厂程序员@不掉发就是胜利。,你好呀，交个朋友。...)
   * [黑猫白猫cutecat](#黑猫白猫cutecat)
-  * [九老师](#九老师)
   * [王峰](#王峰)(http://happynear.wang/。...)
   * [arXivDaily](#arxivdaily)
   * [bytecoder](#bytecoder)
@@ -3161,6 +3159,24 @@ https://item.jd.com/13484669.html。
 | 12 | [【CS224W Lecture 1 & 2】 图机器学习导论 & 传统图机器学习方法](https://zhuanlan.zhihu.com/p/384238476) | 2021-06-26 17:22:44 |
 
 
+## 九老师
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [来新加坡Tiktok一年多了，给各位大佬做个汇报](https://zhuanlan.zhihu.com/p/659057592) | 2023-10-02 18:10:01 |
+| 2 | [所谓技术深度](https://zhuanlan.zhihu.com/p/563100780) | 2022-09-10 07:04:02 |
+| 3 | [推荐系统-你真的会看AB指标吗](https://zhuanlan.zhihu.com/p/558649252) | 2022-08-28 13:41:53 |
+| 4 | [给校招算法同学的几点建议](https://zhuanlan.zhihu.com/p/553294462) | 2022-08-13 12:25:58 |
+| 5 | [我在阿里遇到的牛人](https://zhuanlan.zhihu.com/p/350525374) | 2021-02-12 14:34:51 |
+| 6 | [基于物品的协同过滤i2i--算法、trick及分布式实现](https://zhuanlan.zhihu.com/p/350447698) | 2021-02-12 09:57:15 |
+| 7 | [faiss-on-mr：推荐系统大规模离线向量检索工具](https://zhuanlan.zhihu.com/p/345639761) | 2021-01-20 14:30:53 |
+| 8 | [简单题与难题逻辑](https://zhuanlan.zhihu.com/p/342167785) | 2021-01-06 07:06:11 |
+| 9 | [2021年推荐系统相关会议投稿日程](https://zhuanlan.zhihu.com/p/285263172) | 2020-11-11 12:13:35 |
+| 10 | [互联网管理里面的两个深坑——手表定律与责权不一](https://zhuanlan.zhihu.com/p/277364641) | 2020-11-07 08:44:17 |
+| 11 | [Scrapy-Splash爬虫实战——爬取JS渲染的动态页面信息【附货币基金爬取筛选代码】](https://zhuanlan.zhihu.com/p/130867872) | 2020-04-17 07:26:52 |
+
+
 ## yanianthe
 > 介绍： 炒股被抄家的前大厂程序员@不掉发就是胜利。,你好呀，交个朋友。
 
@@ -3195,23 +3211,6 @@ https://item.jd.com/13484669.html。
 | 9 | [微软深度CTR预估模型xDeepFM：融合显式和隐式特征交互信息](https://zhuanlan.zhihu.com/p/403377718) | 2021-08-26 12:54:34 |
 | 10 | [淘宝推荐算法精排模型BST：Transformer建模用户行为序列](https://zhuanlan.zhihu.com/p/403372207) | 2021-08-25 12:02:42 |
 | 11 | [Google深度学习CTR预估模型DCN续集：DCN-v2](https://zhuanlan.zhihu.com/p/401904819) | 2021-08-20 18:20:16 |
-
-
-## 九老师
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [所谓技术深度](https://zhuanlan.zhihu.com/p/563100780) | 2022-09-10 07:04:02 |
-| 2 | [推荐系统-你真的会看AB指标吗](https://zhuanlan.zhihu.com/p/558649252) | 2022-08-28 13:41:53 |
-| 3 | [给校招算法同学的几点建议](https://zhuanlan.zhihu.com/p/553294462) | 2022-08-13 12:25:58 |
-| 4 | [我在阿里遇到的牛人](https://zhuanlan.zhihu.com/p/350525374) | 2021-02-12 14:34:51 |
-| 5 | [基于物品的协同过滤i2i--算法、trick及分布式实现](https://zhuanlan.zhihu.com/p/350447698) | 2021-02-12 09:57:15 |
-| 6 | [faiss-on-mr：推荐系统大规模离线向量检索工具](https://zhuanlan.zhihu.com/p/345639761) | 2021-01-20 14:30:53 |
-| 7 | [简单题与难题逻辑](https://zhuanlan.zhihu.com/p/342167785) | 2021-01-06 07:06:11 |
-| 8 | [2021年推荐系统相关会议投稿日程](https://zhuanlan.zhihu.com/p/285263172) | 2020-11-11 12:13:35 |
-| 9 | [互联网管理里面的两个深坑——手表定律与责权不一](https://zhuanlan.zhihu.com/p/277364641) | 2020-11-07 08:44:17 |
-| 10 | [Scrapy-Splash爬虫实战——爬取JS渲染的动态页面信息【附货币基金爬取筛选代码】](https://zhuanlan.zhihu.com/p/130867872) | 2020-04-17 07:26:52 |
 
 
 ## 王峰
