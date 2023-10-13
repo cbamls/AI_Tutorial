@@ -25,22 +25,22 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-05 ~ 2023-10-12), 本周报更新时间:2023-10-12 23:33:52
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-06 ~ 2023-10-13), 本周报更新时间:2023-10-13 22:33:34
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [大语言模型在推荐系统的实践应用](https://zhuanlan.zhihu.com/p/660982750) | DataFunTalk | 2023-10-12 18:59:03 |
-| 2 | [京东实时风险洞察的架构演迸与思考](https://zhuanlan.zhihu.com/p/660670033) | DataFunTalk | 2023-10-11 11:46:30 |
-| 3 | [CIKM2023 \| 序列推荐中的自适应多模态融合](https://zhuanlan.zhihu.com/p/654281143) | 张小磊 | 2023-10-11 09:09:28 |
-| 4 | [数据平台的6个关键模块](https://zhuanlan.zhihu.com/p/660543729) | DataFunTalk | 2023-10-10 17:18:50 |
-| 5 | [网易大数据智能运维平台 EasyEagle](https://zhuanlan.zhihu.com/p/660484176) | DataFunTalk | 2023-10-10 13:51:37 |
-| 6 | [关于多模态经典之作CLIP，还有哪些细节是你不知道的](https://zhuanlan.zhihu.com/p/660476765) | 猛猿 | 2023-10-10 13:12:17 |
-| 7 | [CTR特征建模：ContextNet & MaskNet(Twitter在用的排序模型)](https://zhuanlan.zhihu.com/p/660375034) | Keep Learning | 2023-10-09 21:34:26 |
-| 8 | [（一文读懂大数据行业）-面向百度商业数据产品的全流程 DataOps 实践](https://zhuanlan.zhihu.com/p/660317667) | DataFunTalk | 2023-10-09 16:19:55 |
-| 9 | [Llama 2 中使用 RLHF 的一些细节：margin r、reject sampling 和 PPO](https://zhuanlan.zhihu.com/p/660058778) | 何枝 | 2023-10-08 16:15:04 |
-| 10 | [阿里巴巴数据稳定性治理实践](https://zhuanlan.zhihu.com/p/660032042) | DataFunTalk | 2023-10-08 10:03:58 |
-| 11 | [GPT4 图像理解能力体验](https://zhuanlan.zhihu.com/p/659881445) | JioNLP团队 | 2023-10-07 13:57:04 |
-| 12 | [2023BDC大数据挑战赛全国六强获奖算法方案](https://zhuanlan.zhihu.com/p/658969914) | 朱翔宇 | 2023-10-05 17:12:39 |
+| 1 | [streaming-llm(无需微调无限扩展大模型输入)论文笔记](https://zhuanlan.zhihu.com/p/661059116) | 归来仍是少年 | 2023-10-13 11:38:15 |
+| 2 | [大语言模型在推荐系统的实践应用](https://zhuanlan.zhihu.com/p/660982750) | DataFunTalk | 2023-10-12 18:59:03 |
+| 3 | [京东实时风险洞察的架构演迸与思考](https://zhuanlan.zhihu.com/p/660670033) | DataFunTalk | 2023-10-11 11:46:30 |
+| 4 | [CIKM2023 \| 序列推荐中的自适应多模态融合](https://zhuanlan.zhihu.com/p/654281143) | 张小磊 | 2023-10-11 09:09:28 |
+| 5 | [数据平台的6个关键模块](https://zhuanlan.zhihu.com/p/660543729) | DataFunTalk | 2023-10-10 17:18:50 |
+| 6 | [网易大数据智能运维平台 EasyEagle](https://zhuanlan.zhihu.com/p/660484176) | DataFunTalk | 2023-10-10 13:51:37 |
+| 7 | [关于多模态经典之作CLIP，还有哪些细节是你不知道的](https://zhuanlan.zhihu.com/p/660476765) | 猛猿 | 2023-10-10 13:12:17 |
+| 8 | [CTR特征建模：ContextNet & MaskNet(Twitter在用的排序模型)](https://zhuanlan.zhihu.com/p/660375034) | Keep Learning | 2023-10-09 21:34:26 |
+| 9 | [（一文读懂大数据行业）-面向百度商业数据产品的全流程 DataOps 实践](https://zhuanlan.zhihu.com/p/660317667) | DataFunTalk | 2023-10-09 16:19:55 |
+| 10 | [Llama 2 中使用 RLHF 的一些细节：margin r、reject sampling 和 PPO](https://zhuanlan.zhihu.com/p/660058778) | 何枝 | 2023-10-08 16:15:04 |
+| 11 | [阿里巴巴数据稳定性治理实践](https://zhuanlan.zhihu.com/p/660032042) | DataFunTalk | 2023-10-08 10:03:58 |
+| 12 | [GPT4 图像理解能力体验](https://zhuanlan.zhihu.com/p/659881445) | JioNLP团队 | 2023-10-07 13:57:04 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -3120,18 +3120,19 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [【论文笔记】baichuan 2训练报告](https://zhuanlan.zhihu.com/p/655576902) | 2023-09-11 19:35:02 |
-| 2 | [大模型中的人工反馈强化学习详解](https://zhuanlan.zhihu.com/p/651780908) | 2023-08-24 11:13:54 |
-| 3 | [开源baichuan 7b聊天大模型](https://zhuanlan.zhihu.com/p/649209664) | 2023-08-14 16:33:11 |
-| 4 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 2023-07-21 15:44:03 |
-| 5 | [LLM模型在公司场景中的应用探索](https://zhuanlan.zhihu.com/p/641734707) | 2023-07-06 22:51:55 |
-| 6 | [开源LLM大模型位置编码探索](https://zhuanlan.zhihu.com/p/631003833) | 2023-05-22 10:20:56 |
-| 7 | [LLM大模型低资源微调p tuning v2和lora区别](https://zhuanlan.zhihu.com/p/622810394) | 2023-04-18 16:16:16 |
-| 8 | [构建开放中文聊天生成模型(训练细节和代码开源)](https://zhuanlan.zhihu.com/p/619064661) | 2023-04-03 16:41:56 |
-| 9 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 2023-03-21 10:55:17 |
-| 10 | [TensorFlow2内存泄漏问题优化](https://zhuanlan.zhihu.com/p/611734055) | 2023-03-06 17:21:32 |
-| 11 | [工业界信息抽取之负样本构造](https://zhuanlan.zhihu.com/p/604754436) | 2023-02-10 11:32:28 |
-| 12 | [chatgpt横空出世引发的一些思考](https://zhuanlan.zhihu.com/p/600657790) | 2023-01-25 14:56:53 |
+| 1 | [streaming-llm(无需微调无限扩展大模型输入)论文笔记](https://zhuanlan.zhihu.com/p/661059116) | 2023-10-13 11:38:15 |
+| 2 | [【论文笔记】baichuan 2训练报告](https://zhuanlan.zhihu.com/p/655576902) | 2023-09-11 19:35:02 |
+| 3 | [大模型中的人工反馈强化学习详解](https://zhuanlan.zhihu.com/p/651780908) | 2023-08-24 11:13:54 |
+| 4 | [开源baichuan 7b聊天大模型](https://zhuanlan.zhihu.com/p/649209664) | 2023-08-14 16:33:11 |
+| 5 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 2023-07-21 15:44:03 |
+| 6 | [LLM模型在公司场景中的应用探索](https://zhuanlan.zhihu.com/p/641734707) | 2023-07-06 22:51:55 |
+| 7 | [开源LLM大模型位置编码探索](https://zhuanlan.zhihu.com/p/631003833) | 2023-05-22 10:20:56 |
+| 8 | [LLM大模型低资源微调p tuning v2和lora区别](https://zhuanlan.zhihu.com/p/622810394) | 2023-04-18 16:16:16 |
+| 9 | [构建开放中文聊天生成模型(训练细节和代码开源)](https://zhuanlan.zhihu.com/p/619064661) | 2023-04-03 16:41:56 |
+| 10 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 2023-03-21 10:55:17 |
+| 11 | [TensorFlow2内存泄漏问题优化](https://zhuanlan.zhihu.com/p/611734055) | 2023-03-06 17:21:32 |
+| 12 | [工业界信息抽取之负样本构造](https://zhuanlan.zhihu.com/p/604754436) | 2023-02-10 11:32:28 |
+| 13 | [chatgpt横空出世引发的一些思考](https://zhuanlan.zhihu.com/p/600657790) | 2023-01-25 14:56:53 |
 
 
 ## kaiyuan
