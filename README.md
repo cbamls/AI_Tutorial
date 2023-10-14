@@ -25,22 +25,23 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-07 ~ 2023-10-14), 本周报更新时间:2023-10-14 23:03:26
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-07 ~ 2023-10-14), 本周报更新时间:2023-10-14 23:33:23
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [streaming-llm(无需微调无限扩展大模型输入)论文笔记](https://zhuanlan.zhihu.com/p/661059116) | 归来仍是少年 | 2023-10-13 11:38:15 |
-| 2 | [大语言模型在推荐系统的实践应用](https://zhuanlan.zhihu.com/p/660982750) | DataFunTalk | 2023-10-12 18:59:03 |
-| 3 | [京东实时风险洞察的架构演迸与思考](https://zhuanlan.zhihu.com/p/660670033) | DataFunTalk | 2023-10-11 11:46:30 |
-| 4 | [CIKM2023 \| 序列推荐中的自适应多模态融合](https://zhuanlan.zhihu.com/p/654281143) | 张小磊 | 2023-10-11 09:09:28 |
-| 5 | [数据平台的6个关键模块](https://zhuanlan.zhihu.com/p/660543729) | DataFunTalk | 2023-10-10 17:18:50 |
-| 6 | [网易大数据智能运维平台 EasyEagle](https://zhuanlan.zhihu.com/p/660484176) | DataFunTalk | 2023-10-10 13:51:37 |
-| 7 | [关于多模态经典之作CLIP，还有哪些细节是你不知道的](https://zhuanlan.zhihu.com/p/660476765) | 猛猿 | 2023-10-10 13:12:17 |
-| 8 | [CTR特征建模：ContextNet & MaskNet(Twitter在用的排序模型)](https://zhuanlan.zhihu.com/p/660375034) | Keep Learning | 2023-10-09 21:34:26 |
-| 9 | [（一文读懂大数据行业）-面向百度商业数据产品的全流程 DataOps 实践](https://zhuanlan.zhihu.com/p/660317667) | DataFunTalk | 2023-10-09 16:19:55 |
-| 10 | [Llama 2 中使用 RLHF 的一些细节：margin r、reject sampling 和 PPO](https://zhuanlan.zhihu.com/p/660058778) | 何枝 | 2023-10-08 16:15:04 |
-| 11 | [阿里巴巴数据稳定性治理实践](https://zhuanlan.zhihu.com/p/660032042) | DataFunTalk | 2023-10-08 10:03:58 |
-| 12 | [GPT4 图像理解能力体验](https://zhuanlan.zhihu.com/p/659881445) | JioNLP团队 | 2023-10-07 13:57:04 |
+| 1 | [简单预测一下2023年出生人口：847万](https://zhuanlan.zhihu.com/p/661352837) | JioNLP团队 | 2023-10-14 23:06:49 |
+| 2 | [streaming-llm(无需微调无限扩展大模型输入)论文笔记](https://zhuanlan.zhihu.com/p/661059116) | 归来仍是少年 | 2023-10-13 11:38:15 |
+| 3 | [大语言模型在推荐系统的实践应用](https://zhuanlan.zhihu.com/p/660982750) | DataFunTalk | 2023-10-12 18:59:03 |
+| 4 | [京东实时风险洞察的架构演迸与思考](https://zhuanlan.zhihu.com/p/660670033) | DataFunTalk | 2023-10-11 11:46:30 |
+| 5 | [CIKM2023 \| 序列推荐中的自适应多模态融合](https://zhuanlan.zhihu.com/p/654281143) | 张小磊 | 2023-10-11 09:09:28 |
+| 6 | [数据平台的6个关键模块](https://zhuanlan.zhihu.com/p/660543729) | DataFunTalk | 2023-10-10 17:18:50 |
+| 7 | [网易大数据智能运维平台 EasyEagle](https://zhuanlan.zhihu.com/p/660484176) | DataFunTalk | 2023-10-10 13:51:37 |
+| 8 | [关于多模态经典之作CLIP，还有哪些细节是你不知道的](https://zhuanlan.zhihu.com/p/660476765) | 猛猿 | 2023-10-10 13:12:17 |
+| 9 | [CTR特征建模：ContextNet & MaskNet(Twitter在用的排序模型)](https://zhuanlan.zhihu.com/p/660375034) | Keep Learning | 2023-10-09 21:34:26 |
+| 10 | [（一文读懂大数据行业）-面向百度商业数据产品的全流程 DataOps 实践](https://zhuanlan.zhihu.com/p/660317667) | DataFunTalk | 2023-10-09 16:19:55 |
+| 11 | [Llama 2 中使用 RLHF 的一些细节：margin r、reject sampling 和 PPO](https://zhuanlan.zhihu.com/p/660058778) | 何枝 | 2023-10-08 16:15:04 |
+| 12 | [阿里巴巴数据稳定性治理实践](https://zhuanlan.zhihu.com/p/660032042) | DataFunTalk | 2023-10-08 10:03:58 |
+| 13 | [GPT4 图像理解能力体验](https://zhuanlan.zhihu.com/p/659881445) | JioNLP团队 | 2023-10-07 13:57:04 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -3055,21 +3056,22 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [GPT4 图像理解能力体验](https://zhuanlan.zhihu.com/p/659881445) | 2023-10-07 13:57:04 |
-| 2 | [花了两周，我又整了个开源软件 pyFFmpeg](https://zhuanlan.zhihu.com/p/657414446) | 2023-09-20 16:46:42 |
-| 3 | [炮打学而思的 MathGPT](https://zhuanlan.zhihu.com/p/653363072) | 2023-08-30 20:08:02 |
-| 4 | [上帝在嘲笑 CEC-IDE](https://zhuanlan.zhihu.com/p/652569225) | 2023-08-26 23:28:16 |
-| 5 | [大语言模型LLM可以解决数学问题吗？](https://zhuanlan.zhihu.com/p/649011394) | 2023-08-09 17:28:59 |
-| 6 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | 2023-07-19 10:15:58 |
-| 7 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型（二）](https://zhuanlan.zhihu.com/p/631532268) | 2023-05-23 14:13:54 |
-| 8 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型](https://zhuanlan.zhihu.com/p/626786797) | 2023-05-04 20:56:11 |
-| 9 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | 2023-03-29 11:03:23 |
-| 10 | [ChatGPT、人口出生率与经济危机](https://zhuanlan.zhihu.com/p/609959260) | 2023-02-27 22:47:50 |
-| 11 | [ChatGPT这么强，会影响NLPer的就业环境吗](https://zhuanlan.zhihu.com/p/605673596) | 2023-02-12 16:14:44 |
-| 12 | [避坑一个JIT库numba](https://zhuanlan.zhihu.com/p/598260970) | 2023-01-11 15:03:42 |
-| 13 | [未来人工智能畅想——从ChatGPT想到的](https://zhuanlan.zhihu.com/p/591210118) | 2022-12-12 14:45:21 |
-| 14 | [一文读懂ChatGPT模型原理](https://zhuanlan.zhihu.com/p/589621442) | 2022-12-06 14:15:38 |
-| 15 | [JioNLP 数据分享，来看看这里有没有你想要的数据集](https://zhuanlan.zhihu.com/p/587630337) | 2022-11-29 10:38:47 |
+| 1 | [简单预测一下2023年出生人口：847万](https://zhuanlan.zhihu.com/p/661352837) | 2023-10-14 23:06:49 |
+| 2 | [GPT4 图像理解能力体验](https://zhuanlan.zhihu.com/p/659881445) | 2023-10-07 13:57:04 |
+| 3 | [花了两周，我又整了个开源软件 pyFFmpeg](https://zhuanlan.zhihu.com/p/657414446) | 2023-09-20 16:46:42 |
+| 4 | [炮打学而思的 MathGPT](https://zhuanlan.zhihu.com/p/653363072) | 2023-08-30 20:08:02 |
+| 5 | [上帝在嘲笑 CEC-IDE](https://zhuanlan.zhihu.com/p/652569225) | 2023-08-26 23:28:16 |
+| 6 | [大语言模型LLM可以解决数学问题吗？](https://zhuanlan.zhihu.com/p/649011394) | 2023-08-09 17:28:59 |
+| 7 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | 2023-07-19 10:15:58 |
+| 8 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型（二）](https://zhuanlan.zhihu.com/p/631532268) | 2023-05-23 14:13:54 |
+| 9 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型](https://zhuanlan.zhihu.com/p/626786797) | 2023-05-04 20:56:11 |
+| 10 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | 2023-03-29 11:03:23 |
+| 11 | [ChatGPT、人口出生率与经济危机](https://zhuanlan.zhihu.com/p/609959260) | 2023-02-27 22:47:50 |
+| 12 | [ChatGPT这么强，会影响NLPer的就业环境吗](https://zhuanlan.zhihu.com/p/605673596) | 2023-02-12 16:14:44 |
+| 13 | [避坑一个JIT库numba](https://zhuanlan.zhihu.com/p/598260970) | 2023-01-11 15:03:42 |
+| 14 | [未来人工智能畅想——从ChatGPT想到的](https://zhuanlan.zhihu.com/p/591210118) | 2022-12-12 14:45:21 |
+| 15 | [一文读懂ChatGPT模型原理](https://zhuanlan.zhihu.com/p/589621442) | 2022-12-06 14:15:38 |
+| 16 | [JioNLP 数据分享，来看看这里有没有你想要的数据集](https://zhuanlan.zhihu.com/p/587630337) | 2022-11-29 10:38:47 |
 
 
 ## Andy Yang
