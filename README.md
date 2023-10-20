@@ -25,7 +25,7 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-12 ~ 2023-10-19), 本周报更新时间:2023-10-19 23:33:46
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-13 ~ 2023-10-20), 本周报更新时间:2023-10-20 22:33:12
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
@@ -171,19 +171,20 @@
 ## 知乎
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [Flink 实时计算平台在知乎的演进](https://www.6aiq.com/article/1672735455961) |
-| 2 | [基于 Doris 的知乎 DMP 系统架构与实践](https://www.6aiq.com/article/1663900241491) |
-| 3 | [知乎 Flink 数据集成平台建设实践](https://www.6aiq.com/article/1620953681156) |
-| 4 | [知乎搜索排序模型的演进](https://www.6aiq.com/article/1611707324680) |
-| 5 | [知乎 \| 搜索文本相关性与知识蒸馏](https://www.6aiq.com/article/1610819003661) |
-| 6 | [Query 理解和语义召回在知乎搜索中的应用](https://www.6aiq.com/article/1577969687897) |
-| 7 | [用 Flink 取代 Spark Streaming，知乎实时数仓架构演进](https://www.6aiq.com/article/1550456648032) |
-| 8 | [58 技术沙龙——云搜 知乎 58 同城 搜索架构](https://www.6aiq.com/article/1549118463410) |
-| 9 | [「回顾」知乎推荐页 Ranking 经验分享](https://www.6aiq.com/article/1546015792766) |
-| 10 | [【转自知乎】当下（2018 年）腾讯的技术建设是否处于落后同体量公司的状态？](https://www.6aiq.com/article/1538026693169) |
-| 11 | [AIQ - 架构 \| 知乎服务化的实践与思考](https://www.6aiq.com/article/1530974329825) |
-| 12 | [AIQ - 深度 \| 知乎高赞：久居一线城市都有什么错觉？](https://www.6aiq.com/article/1530808073506) |
-| 13 | [知乎高赞：家里在一二线城市有很多套房是怎么的一种体验？答案太颠覆](https://www.6aiq.com/article/1530419775099) |
+| 1 | [知乎埋点平台建设升级](https://www.6aiq.com/article/1697766003286) |
+| 2 | [Flink 实时计算平台在知乎的演进](https://www.6aiq.com/article/1672735455961) |
+| 3 | [基于 Doris 的知乎 DMP 系统架构与实践](https://www.6aiq.com/article/1663900241491) |
+| 4 | [知乎 Flink 数据集成平台建设实践](https://www.6aiq.com/article/1620953681156) |
+| 5 | [知乎搜索排序模型的演进](https://www.6aiq.com/article/1611707324680) |
+| 6 | [知乎 \| 搜索文本相关性与知识蒸馏](https://www.6aiq.com/article/1610819003661) |
+| 7 | [Query 理解和语义召回在知乎搜索中的应用](https://www.6aiq.com/article/1577969687897) |
+| 8 | [用 Flink 取代 Spark Streaming，知乎实时数仓架构演进](https://www.6aiq.com/article/1550456648032) |
+| 9 | [58 技术沙龙——云搜 知乎 58 同城 搜索架构](https://www.6aiq.com/article/1549118463410) |
+| 10 | [「回顾」知乎推荐页 Ranking 经验分享](https://www.6aiq.com/article/1546015792766) |
+| 11 | [【转自知乎】当下（2018 年）腾讯的技术建设是否处于落后同体量公司的状态？](https://www.6aiq.com/article/1538026693169) |
+| 12 | [AIQ - 架构 \| 知乎服务化的实践与思考](https://www.6aiq.com/article/1530974329825) |
+| 13 | [AIQ - 深度 \| 知乎高赞：久居一线城市都有什么错觉？](https://www.6aiq.com/article/1530808073506) |
+| 14 | [知乎高赞：家里在一二线城市有很多套房是怎么的一种体验？答案太颠覆](https://www.6aiq.com/article/1530419775099) |
 ## 贝壳找房
 | 序号 | 佳作 |
 | --- | --- |
