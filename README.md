@@ -25,7 +25,7 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-16 ~ 2023-10-23), 本周报更新时间:2023-10-23 23:33:21
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-17 ~ 2023-10-24), 本周报更新时间:2023-10-24 22:33:15
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
@@ -609,32 +609,33 @@
 ## 快手
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [快手内容冷启动推荐模型实践](https://www.6aiq.com/article/1697108121186) |
-| 2 | [Blaze：SparkSQL Native 算子优化在快手的设计与实践](https://www.6aiq.com/article/1684655112016) |
-| 3 | [快手流批一体数据湖构建实践](https://www.6aiq.com/article/1684130674439) |
-| 4 | [快手增长渠道数据产品实践](https://www.6aiq.com/article/1680759250464) |
-| 5 | [快手双边市场的复杂实验设计问题](https://www.6aiq.com/article/1678514401484) |
-| 6 | [快手商业化数据产品建设经验](https://www.6aiq.com/article/1678359601840) |
-| 7 | [快手指标中台系列 - 快手指标中台发展史及经验教训](https://www.6aiq.com/article/1675612766523) |
-| 8 | [快手推荐系统精排模型实践](https://www.6aiq.com/article/1675233759039) |
-| 9 | [基于表征学习的因果推断技术在快手的实践](https://www.6aiq.com/article/1674628506319) |
-| 10 | [快手分布式高性能图平台 KGraph 及其应用](https://www.6aiq.com/article/1674627459316) |
-| 11 | [快手异质性因果效应模型构建及应用](https://www.6aiq.com/article/1667044053579) |
-| 12 | [快手端智能—移动端部署推荐系统：快手获数据挖掘顶会 CIKM 2022 最佳论文](https://www.6aiq.com/article/1666358567268) |
-| 13 | [快手单机千万 QPS 的分布式图数据库 KGraph 的实践](https://www.6aiq.com/article/1663500281088) |
-| 14 | [「繁星」：快手搜索在向量检索方向的探索和实践](https://www.6aiq.com/article/1663498700156) |
-| 15 | [Flink 引擎在快手的深度优化与生产实践](https://www.6aiq.com/article/1657360082522) |
-| 16 | [宛言：爆款素材识别在快手的应用与实践](https://www.6aiq.com/article/1657116210341) |
-| 17 | [快手牛亚男：基于多 Domain 多任务学习框架和 Transformer，搭建快手精排模型](https://www.6aiq.com/article/1654101558810) |
-| 18 | [罗清：对比学习在快手推荐排序的应用](https://www.6aiq.com/article/1653712690576) |
-| 19 | [渠江涛：重排序在快手短视频推荐系统中的演进](https://www.6aiq.com/article/1644883063745) |
-| 20 | [快手基于 Flink 构建实时数仓场景化实践](https://www.6aiq.com/article/1630198378731) |
-| 21 | [快手基于 Flink 的实时计算持续优化与实践](https://www.6aiq.com/article/1614731672830) |
-| 22 | [Flink 在快手的实践与创新](https://www.6aiq.com/article/1613168983154) |
-| 23 | [快手 \| 端上智能在快手上下滑推荐取得 APP 时长 +1% 的应用实践](https://www.6aiq.com/article/1607458709963) |
-| 24 | [快手 HBase 在千亿级用户特征数据分析中的应用与实践](https://www.6aiq.com/article/1563816249571) |
-| 25 | [快手万亿级别 Kafka 集群应用实践与技术演进之路](https://www.6aiq.com/article/1558077716919) |
-| 26 | [AIQ - AI \| 快手 AI 技术副总裁郑文：为什么说 AI 是短视频平台的核心能力](https://www.6aiq.com/article/1532522291362) |
+| 1 | [Flink on K8s在快手的实践](https://www.6aiq.com/article/1698109231654) |
+| 2 | [快手内容冷启动推荐模型实践](https://www.6aiq.com/article/1697108121186) |
+| 3 | [Blaze：SparkSQL Native 算子优化在快手的设计与实践](https://www.6aiq.com/article/1684655112016) |
+| 4 | [快手流批一体数据湖构建实践](https://www.6aiq.com/article/1684130674439) |
+| 5 | [快手增长渠道数据产品实践](https://www.6aiq.com/article/1680759250464) |
+| 6 | [快手双边市场的复杂实验设计问题](https://www.6aiq.com/article/1678514401484) |
+| 7 | [快手商业化数据产品建设经验](https://www.6aiq.com/article/1678359601840) |
+| 8 | [快手指标中台系列 - 快手指标中台发展史及经验教训](https://www.6aiq.com/article/1675612766523) |
+| 9 | [快手推荐系统精排模型实践](https://www.6aiq.com/article/1675233759039) |
+| 10 | [基于表征学习的因果推断技术在快手的实践](https://www.6aiq.com/article/1674628506319) |
+| 11 | [快手分布式高性能图平台 KGraph 及其应用](https://www.6aiq.com/article/1674627459316) |
+| 12 | [快手异质性因果效应模型构建及应用](https://www.6aiq.com/article/1667044053579) |
+| 13 | [快手端智能—移动端部署推荐系统：快手获数据挖掘顶会 CIKM 2022 最佳论文](https://www.6aiq.com/article/1666358567268) |
+| 14 | [快手单机千万 QPS 的分布式图数据库 KGraph 的实践](https://www.6aiq.com/article/1663500281088) |
+| 15 | [「繁星」：快手搜索在向量检索方向的探索和实践](https://www.6aiq.com/article/1663498700156) |
+| 16 | [Flink 引擎在快手的深度优化与生产实践](https://www.6aiq.com/article/1657360082522) |
+| 17 | [宛言：爆款素材识别在快手的应用与实践](https://www.6aiq.com/article/1657116210341) |
+| 18 | [快手牛亚男：基于多 Domain 多任务学习框架和 Transformer，搭建快手精排模型](https://www.6aiq.com/article/1654101558810) |
+| 19 | [罗清：对比学习在快手推荐排序的应用](https://www.6aiq.com/article/1653712690576) |
+| 20 | [渠江涛：重排序在快手短视频推荐系统中的演进](https://www.6aiq.com/article/1644883063745) |
+| 21 | [快手基于 Flink 构建实时数仓场景化实践](https://www.6aiq.com/article/1630198378731) |
+| 22 | [快手基于 Flink 的实时计算持续优化与实践](https://www.6aiq.com/article/1614731672830) |
+| 23 | [Flink 在快手的实践与创新](https://www.6aiq.com/article/1613168983154) |
+| 24 | [快手 \| 端上智能在快手上下滑推荐取得 APP 时长 +1% 的应用实践](https://www.6aiq.com/article/1607458709963) |
+| 25 | [快手 HBase 在千亿级用户特征数据分析中的应用与实践](https://www.6aiq.com/article/1563816249571) |
+| 26 | [快手万亿级别 Kafka 集群应用实践与技术演进之路](https://www.6aiq.com/article/1558077716919) |
+| 27 | [AIQ - AI \| 快手 AI 技术副总裁郑文：为什么说 AI 是短视频平台的核心能力](https://www.6aiq.com/article/1532522291362) |
 ## 小米
 | 序号 | 佳作 |
 | --- | --- |
