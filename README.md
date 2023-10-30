@@ -25,7 +25,7 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-22 ~ 2023-10-29), 本周报更新时间:2023-10-29 23:32:59
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-10-23 ~ 2023-10-30), 本周报更新时间:2023-10-30 22:33:56
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
@@ -1086,54 +1086,55 @@
 ## 京东
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [京东搜索EE链路演进](https://www.6aiq.com/article/1689326102189) |
-| 2 | [京东零售供应链数字孪生探索与实践](https://www.6aiq.com/article/1684751629625) |
-| 3 | [从用户体验洞察到商业价值变现，以京东为例](https://www.6aiq.com/article/1679048441828) |
-| 4 | [密集实体识别优化：京东商品命名识别为例](https://www.6aiq.com/article/1677516664814) |
-| 5 | [京东实时数据产品应用实践](https://www.6aiq.com/article/1676810488491) |
-| 6 | [京东电商搜索和推荐场景下的 MLOps 实践](https://www.6aiq.com/article/1676213821343) |
-| 7 | [京东降本实践：供应链超级自动化探索与应用](https://www.6aiq.com/article/1675347334869) |
-| 8 | [京东零售在电商搜索场景下的数据科学实践](https://www.6aiq.com/article/1675000907517) |
-| 9 | [数据服务化在京东的实践](https://www.6aiq.com/article/1674999676267) |
-| 10 | [京东零售基于 NLP 的风控算法模型构建实践](https://www.6aiq.com/article/1674628028280) |
-| 11 | [京东业务指标数据体系建设实践](https://www.6aiq.com/article/1673277903660) |
-| 12 | [【风控算法服务平台】京东科技高性能在线推理服务设计与实现](https://www.6aiq.com/article/1670687749795) |
-| 13 | [强化学习在京东 618 大促流量调控中的落地应用](https://www.6aiq.com/article/1665662093588) |
-| 14 | [京东基于时序知识图谱的问答系统](https://www.6aiq.com/article/1662120249483) |
-| 15 | [可视化服务编排在京东金融 APP 中的实践](https://www.6aiq.com/article/1661525384255) |
-| 16 | [京东 APP 百亿级的车与商品关系数据检索实践](https://www.6aiq.com/article/1658328250691) |
-| 17 | [京东零售营销选品平台架构设计](https://www.6aiq.com/article/1658225721594) |
-| 18 | [流批一体在京东的探索与实践](https://www.6aiq.com/article/1657437422885) |
-| 19 | [京东 618 广告精排百分位 AUC 提升技术方案](https://www.6aiq.com/article/1656647831516) |
-| 20 | [李阳：京东零售 OLAP 平台建设和场景实践](https://www.6aiq.com/article/1654272484596) |
-| 21 | [张政：京东在智能广告的实践和探索——集成 AI 理解、AI 生成、AI 分发的内容生态](https://www.6aiq.com/article/1654100318181) |
-| 22 | [陈振兴：京东图机器学习在智能反欺诈上的探索与实践](https://www.6aiq.com/article/1653713055128) |
-| 23 | [如何提升推荐系统的可解释性？京东智能推荐卖点技术全解析！](https://www.6aiq.com/article/1652277036960) |
-| 24 | [京东｜杨尚昂：FlinkSQL 在京东实时维度建模中的应用](https://www.6aiq.com/article/1648170024121) |
-| 25 | [王冬月：京东推荐算法精排技术实践](https://www.6aiq.com/article/1647294379283) |
-| 26 | [张菡：深度学习下的京东搜索召回技术](https://www.6aiq.com/article/1646913126889) |
-| 27 | [赵鑫：强化学习在京东广告序列推荐中的应用](https://www.6aiq.com/article/1645722190215) |
-| 28 | [京东商品知识图谱构建与实体对齐实践](https://www.6aiq.com/article/1641337359057) |
-| 29 | [峰值 6 亿 / 秒，Flink 在京东的应用与优化实践](https://www.6aiq.com/article/1641163266799) |
-| 30 | [Project Matrix：京东 Spark ML 线性模型的重构与优化实践](https://www.6aiq.com/article/1640650535214) |
-| 31 | [Apache Flink 在京东的实践与优化](https://www.6aiq.com/article/1630368865408) |
-| 32 | [多类目 MoE 模型在京东电商搜索中的应用](https://www.6aiq.com/article/1628373195066) |
-| 33 | [2021 年 4 月份，京东算法岗面试题 4 道](https://www.6aiq.com/article/1626197366563) |
-| 34 | [大规模图算法在京东广告的实践](https://www.6aiq.com/article/1622768140164) |
-| 35 | [京东超大规模联邦学习探索实践](https://www.6aiq.com/article/1622242547716) |
-| 36 | [京东搜索在线学习探索实践](https://www.6aiq.com/article/1614636296742) |
-| 37 | [京东搜索排序在线学习的 Flink 优化实践](https://www.6aiq.com/article/1610494888351) |
-| 38 | [京东 Flink 优化与技术实践](https://www.6aiq.com/article/1607387949786) |
-| 39 | [Apache Doris 在京东搜索实时 OLAP 中的应用实践](https://www.6aiq.com/article/1605651607181) |
-| 40 | [京东推荐系统中的兴趣拓展如何驱动业务持续增长](https://www.6aiq.com/article/1603629689702) |
-| 41 | [CSCNN：新一代京东电商广告排序模型](https://www.6aiq.com/article/1599175201402) |
-| 42 | [京东电商搜索中的语义检索与商品排序](https://www.6aiq.com/article/1591222526206) |
-| 43 | [头条，美团，滴滴，京东及其它公司面试经验分享！](https://www.6aiq.com/article/1569160784677) |
-| 44 | [风控建模流程：以京东群体感知项目为例](https://www.6aiq.com/article/1566483295719) |
-| 45 | [京东电商推荐系统实践](https://www.6aiq.com/article/1565595267683) |
-| 46 | [推荐系统遇上深度学习 (十五)-- 强化学习在京东推荐中的探索](https://www.6aiq.com/article/1547826520120) |
-| 47 | [美团上市，开盘涨 5.7%，市值超京东！与阿里的交锋再升级](https://www.6aiq.com/article/1537427490660) |
-| 48 | [AIQ - 架构 \| 京东推荐系统架构揭秘：大数据时代下的智能化改造](https://www.6aiq.com/article/1530723181346) |
+| 1 | [京东One-Service数据服务体系建设](https://www.6aiq.com/article/1698660912035) |
+| 2 | [京东搜索EE链路演进](https://www.6aiq.com/article/1689326102189) |
+| 3 | [京东零售供应链数字孪生探索与实践](https://www.6aiq.com/article/1684751629625) |
+| 4 | [从用户体验洞察到商业价值变现，以京东为例](https://www.6aiq.com/article/1679048441828) |
+| 5 | [密集实体识别优化：京东商品命名识别为例](https://www.6aiq.com/article/1677516664814) |
+| 6 | [京东实时数据产品应用实践](https://www.6aiq.com/article/1676810488491) |
+| 7 | [京东电商搜索和推荐场景下的 MLOps 实践](https://www.6aiq.com/article/1676213821343) |
+| 8 | [京东降本实践：供应链超级自动化探索与应用](https://www.6aiq.com/article/1675347334869) |
+| 9 | [京东零售在电商搜索场景下的数据科学实践](https://www.6aiq.com/article/1675000907517) |
+| 10 | [数据服务化在京东的实践](https://www.6aiq.com/article/1674999676267) |
+| 11 | [京东零售基于 NLP 的风控算法模型构建实践](https://www.6aiq.com/article/1674628028280) |
+| 12 | [京东业务指标数据体系建设实践](https://www.6aiq.com/article/1673277903660) |
+| 13 | [【风控算法服务平台】京东科技高性能在线推理服务设计与实现](https://www.6aiq.com/article/1670687749795) |
+| 14 | [强化学习在京东 618 大促流量调控中的落地应用](https://www.6aiq.com/article/1665662093588) |
+| 15 | [京东基于时序知识图谱的问答系统](https://www.6aiq.com/article/1662120249483) |
+| 16 | [可视化服务编排在京东金融 APP 中的实践](https://www.6aiq.com/article/1661525384255) |
+| 17 | [京东 APP 百亿级的车与商品关系数据检索实践](https://www.6aiq.com/article/1658328250691) |
+| 18 | [京东零售营销选品平台架构设计](https://www.6aiq.com/article/1658225721594) |
+| 19 | [流批一体在京东的探索与实践](https://www.6aiq.com/article/1657437422885) |
+| 20 | [京东 618 广告精排百分位 AUC 提升技术方案](https://www.6aiq.com/article/1656647831516) |
+| 21 | [李阳：京东零售 OLAP 平台建设和场景实践](https://www.6aiq.com/article/1654272484596) |
+| 22 | [张政：京东在智能广告的实践和探索——集成 AI 理解、AI 生成、AI 分发的内容生态](https://www.6aiq.com/article/1654100318181) |
+| 23 | [陈振兴：京东图机器学习在智能反欺诈上的探索与实践](https://www.6aiq.com/article/1653713055128) |
+| 24 | [如何提升推荐系统的可解释性？京东智能推荐卖点技术全解析！](https://www.6aiq.com/article/1652277036960) |
+| 25 | [京东｜杨尚昂：FlinkSQL 在京东实时维度建模中的应用](https://www.6aiq.com/article/1648170024121) |
+| 26 | [王冬月：京东推荐算法精排技术实践](https://www.6aiq.com/article/1647294379283) |
+| 27 | [张菡：深度学习下的京东搜索召回技术](https://www.6aiq.com/article/1646913126889) |
+| 28 | [赵鑫：强化学习在京东广告序列推荐中的应用](https://www.6aiq.com/article/1645722190215) |
+| 29 | [京东商品知识图谱构建与实体对齐实践](https://www.6aiq.com/article/1641337359057) |
+| 30 | [峰值 6 亿 / 秒，Flink 在京东的应用与优化实践](https://www.6aiq.com/article/1641163266799) |
+| 31 | [Project Matrix：京东 Spark ML 线性模型的重构与优化实践](https://www.6aiq.com/article/1640650535214) |
+| 32 | [Apache Flink 在京东的实践与优化](https://www.6aiq.com/article/1630368865408) |
+| 33 | [多类目 MoE 模型在京东电商搜索中的应用](https://www.6aiq.com/article/1628373195066) |
+| 34 | [2021 年 4 月份，京东算法岗面试题 4 道](https://www.6aiq.com/article/1626197366563) |
+| 35 | [大规模图算法在京东广告的实践](https://www.6aiq.com/article/1622768140164) |
+| 36 | [京东超大规模联邦学习探索实践](https://www.6aiq.com/article/1622242547716) |
+| 37 | [京东搜索在线学习探索实践](https://www.6aiq.com/article/1614636296742) |
+| 38 | [京东搜索排序在线学习的 Flink 优化实践](https://www.6aiq.com/article/1610494888351) |
+| 39 | [京东 Flink 优化与技术实践](https://www.6aiq.com/article/1607387949786) |
+| 40 | [Apache Doris 在京东搜索实时 OLAP 中的应用实践](https://www.6aiq.com/article/1605651607181) |
+| 41 | [京东推荐系统中的兴趣拓展如何驱动业务持续增长](https://www.6aiq.com/article/1603629689702) |
+| 42 | [CSCNN：新一代京东电商广告排序模型](https://www.6aiq.com/article/1599175201402) |
+| 43 | [京东电商搜索中的语义检索与商品排序](https://www.6aiq.com/article/1591222526206) |
+| 44 | [头条，美团，滴滴，京东及其它公司面试经验分享！](https://www.6aiq.com/article/1569160784677) |
+| 45 | [风控建模流程：以京东群体感知项目为例](https://www.6aiq.com/article/1566483295719) |
+| 46 | [京东电商推荐系统实践](https://www.6aiq.com/article/1565595267683) |
+| 47 | [推荐系统遇上深度学习 (十五)-- 强化学习在京东推荐中的探索](https://www.6aiq.com/article/1547826520120) |
+| 48 | [美团上市，开盘涨 5.7%，市值超京东！与阿里的交锋再升级](https://www.6aiq.com/article/1537427490660) |
+| 49 | [AIQ - 架构 \| 京东推荐系统架构揭秘：大数据时代下的智能化改造](https://www.6aiq.com/article/1530723181346) |
 ## 乐视
 | 序号 | 佳作 |
 | --- | --- |
