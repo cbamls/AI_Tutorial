@@ -25,25 +25,25 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2023-12-30 ~ 2024-01-06), 本周报更新时间:2024-01-06 23:33:36
+> 注：算法大牛本周发布的笔记汇总，统计区间(2023-12-31 ~ 2024-01-07), 本周报更新时间:2024-01-07 22:33:29
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [2024商业化新机：混合变现双赢之路](https://zhuanlan.zhihu.com/p/676351066) | 北冥乘海生 | 2024-01-06 10:14:48 |
-| 2 | [机器学习与运筹优化打造智慧供应链的最佳实践](https://zhuanlan.zhihu.com/p/676271261) | DataFunTalk | 2024-01-05 17:04:44 |
-| 3 | [吴恩达来信：纽约时报与OpenAI和微软的版权较量](https://zhuanlan.zhihu.com/p/676214060) | 吴恩达 | 2024-01-05 13:29:29 |
-| 4 | [OpenAI 的 GPT 应用商店将于下周推出](https://zhuanlan.zhihu.com/p/676207210) | 大林 | 2024-01-05 12:33:04 |
-| 5 | [《互联网大厂推荐算法实战》出版上架了！](https://zhuanlan.zhihu.com/p/676156556) | 石塔西 | 2024-01-05 09:15:17 |
-| 6 | [拼多多系列vol.4:Temu与跨境仓配的蛋鸡问题](https://zhuanlan.zhihu.com/p/676129482) | 姚凯飞 | 2024-01-04 22:41:52 |
-| 7 | [YY 直播业务指标治理实践](https://zhuanlan.zhihu.com/p/676093325) | DataFunTalk | 2024-01-04 18:13:22 |
-| 8 | [使用 OpenLLM 构建和部署大模型应用](https://zhuanlan.zhihu.com/p/676023813) | DataFunTalk | 2024-01-04 13:56:21 |
-| 9 | [DEITA-大模型指令微调的数据高效筛选方法](https://zhuanlan.zhihu.com/p/675928711) | 刘聪NLP | 2024-01-03 21:56:40 |
-| 10 | [OLAP 的技术研发与思考--ClickHouse 2023 总结和 2024 展望](https://zhuanlan.zhihu.com/p/675905983) | DataFunTalk | 2024-01-03 19:03:45 |
-| 11 | [肖仰华：走向千行百业的大模型](https://zhuanlan.zhihu.com/p/675698865) | DataFunTalk | 2024-01-02 17:38:28 |
-| 12 | [OPPO 广告召回算法实践与探索](https://zhuanlan.zhihu.com/p/675609025) | DataFunTalk | 2024-01-02 10:56:01 |
-| 13 | [吴恩达来信：迎接2024的变与不变](https://zhuanlan.zhihu.com/p/675541705) | 吴恩达 | 2024-01-01 20:11:49 |
-| 14 | [【RLHF】RL 究竟是如何与 LLM 做结合的？](https://zhuanlan.zhihu.com/p/675329917) | 何枝 | 2023-12-31 16:52:21 |
-| 15 | [JioNLP 的 2023 年终总结，再立新一年的 flag](https://zhuanlan.zhihu.com/p/675313722) | JioNLP团队 | 2023-12-30 12:17:33 |
+| 1 | [体验完阿里推出的AnyText，效果确实不错，如果落地，AI加持下的电商会怎么样？](https://zhuanlan.zhihu.com/p/676524866) | 大林 | 2024-01-07 19:20:25 |
+| 2 | [2024商业化新机：混合变现双赢之路](https://zhuanlan.zhihu.com/p/676351066) | 北冥乘海生 | 2024-01-06 10:14:48 |
+| 3 | [机器学习与运筹优化打造智慧供应链的最佳实践](https://zhuanlan.zhihu.com/p/676271261) | DataFunTalk | 2024-01-05 17:04:44 |
+| 4 | [吴恩达来信：纽约时报与OpenAI和微软的版权较量](https://zhuanlan.zhihu.com/p/676214060) | 吴恩达 | 2024-01-05 13:29:29 |
+| 5 | [OpenAI 的 GPT 应用商店将于下周推出](https://zhuanlan.zhihu.com/p/676207210) | 大林 | 2024-01-05 12:33:04 |
+| 6 | [《互联网大厂推荐算法实战》出版上架了！](https://zhuanlan.zhihu.com/p/676156556) | 石塔西 | 2024-01-05 09:15:17 |
+| 7 | [拼多多系列vol.4:Temu与跨境仓配的蛋鸡问题](https://zhuanlan.zhihu.com/p/676129482) | 姚凯飞 | 2024-01-04 22:41:52 |
+| 8 | [YY 直播业务指标治理实践](https://zhuanlan.zhihu.com/p/676093325) | DataFunTalk | 2024-01-04 18:13:22 |
+| 9 | [使用 OpenLLM 构建和部署大模型应用](https://zhuanlan.zhihu.com/p/676023813) | DataFunTalk | 2024-01-04 13:56:21 |
+| 10 | [DEITA-大模型指令微调的数据高效筛选方法](https://zhuanlan.zhihu.com/p/675928711) | 刘聪NLP | 2024-01-03 21:56:40 |
+| 11 | [OLAP 的技术研发与思考--ClickHouse 2023 总结和 2024 展望](https://zhuanlan.zhihu.com/p/675905983) | DataFunTalk | 2024-01-03 19:03:45 |
+| 12 | [肖仰华：走向千行百业的大模型](https://zhuanlan.zhihu.com/p/675698865) | DataFunTalk | 2024-01-02 17:38:28 |
+| 13 | [OPPO 广告召回算法实践与探索](https://zhuanlan.zhihu.com/p/675609025) | DataFunTalk | 2024-01-02 10:56:01 |
+| 14 | [吴恩达来信：迎接2024的变与不变](https://zhuanlan.zhihu.com/p/675541705) | 吴恩达 | 2024-01-01 20:11:49 |
+| 15 | [【RLHF】RL 究竟是如何与 LLM 做结合的？](https://zhuanlan.zhihu.com/p/675329917) | 何枝 | 2023-12-31 16:52:21 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -2889,29 +2889,30 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [OpenAI 的 GPT 应用商店将于下周推出](https://zhuanlan.zhihu.com/p/676207210) | 2024-01-05 12:33:04 |
-| 2 | [2023年的最后一篇文章，祝大家元旦快乐。看到这种视频好多了，一直知道是DomoAI做的，但就是没时间去玩，今天去玩了玩](https://zhuanlan.zhihu.com/p/675195324) | 2023-12-29 15:17:50 |
-| 3 | [今天看到 Pika 全面放开的消息，瞬间炸锅了，想到我前两天拿到的 pika 内测资格，瞬间不香了，今天玩下](https://zhuanlan.zhihu.com/p/674644544) | 2023-12-26 17:06:49 |
-| 4 | [吴恩达发布企业AI转型手册，AI Transformation Playbook，对公司高管、正在创业的AIer是不错的指南。](https://zhuanlan.zhihu.com/p/673289438) | 2023-12-20 17:08:34 |
-| 5 | [网上有很多的Prompt模板，这次OpenAI发布了写好Prompt的六个策略，很实用](https://zhuanlan.zhihu.com/p/673101835) | 2023-12-19 17:49:04 |
-| 6 | [OpenAI 发表的第一篇论文，值得一读，Weak-to-Strong Generalization](https://zhuanlan.zhihu.com/p/672517739) | 2023-12-15 22:59:24 |
-| 7 | [老用户抢先体验 MidJourney Alpha 网页版，再见了Discord](https://zhuanlan.zhihu.com/p/672031999) | 2023-12-13 16:13:22 |
-| 8 | [谷歌隆重推出 Gemini，中文版本以及技术报告下载](https://zhuanlan.zhihu.com/p/670837066) | 2023-12-07 08:23:04 |
-| 9 | [Heygen 80% 的问题，这篇文章搞定它](https://zhuanlan.zhihu.com/p/668779022) | 2023-11-25 17:38:44 |
-| 10 | [SD开启免费测试，教你一分钟加入尝鲜](https://zhuanlan.zhihu.com/p/643814199) | 2023-07-15 22:16:38 |
-| 11 | [亲测OpenAI开放的最新功能：代码解释器，效果着实不错](https://zhuanlan.zhihu.com/p/642722316) | 2023-07-10 22:22:44 |
-| 12 | [万字长文\|从0-1系统性的了解大语言模型LLM研究进展](https://zhuanlan.zhihu.com/p/629931592) | 2023-05-17 07:14:43 |
-| 13 | [紧跟AIGC风向知识库开放](https://zhuanlan.zhihu.com/p/627833284) | 2023-05-08 22:18:14 |
-| 14 | [到了一定年纪，回家过年都是感触](https://zhuanlan.zhihu.com/p/601480554) | 2023-01-28 19:28:08 |
-| 15 | [20230113-读书思考](https://zhuanlan.zhihu.com/p/598739763) | 2023-01-13 11:03:30 |
-| 16 | [国庆教你制作国旗微信头像](https://zhuanlan.zhihu.com/p/569587908) | 2022-09-30 09:54:25 |
-| 17 | [Prompt Learning 那些不错的文章合集](https://zhuanlan.zhihu.com/p/561823299) | 2022-09-06 20:00:09 |
-| 18 | [互联网职场晋升关键词](https://zhuanlan.zhihu.com/p/558836907) | 2022-08-28 23:21:07 |
-| 19 | [一个不会写sql的算法工程师、一个不会写sql的产品经理，能在公司活下去吗](https://zhuanlan.zhihu.com/p/555484473) | 2022-08-19 10:39:48 |
-| 20 | [被mentor质疑，我才知道这些互联网的含义](https://zhuanlan.zhihu.com/p/553614643) | 2022-08-14 13:49:27 |
-| 21 | [呕心沥血整理往年精华面经，2023秋招卷起来](https://zhuanlan.zhihu.com/p/533993498) | 2022-06-26 15:14:45 |
-| 22 | [能够轻松的熟练掌握上面这几个awk写法，你已经超过了90%的身边人。持续更新ing](https://zhuanlan.zhihu.com/p/532630013) | 2022-06-23 10:20:58 |
-| 23 | [ACL2022知识图谱、BERT论文合集，持续更新中](https://zhuanlan.zhihu.com/p/498868169) | 2022-04-15 09:14:32 |
+| 1 | [体验完阿里推出的AnyText，效果确实不错，如果落地，AI加持下的电商会怎么样？](https://zhuanlan.zhihu.com/p/676524866) | 2024-01-07 19:20:25 |
+| 2 | [OpenAI 的 GPT 应用商店将于下周推出](https://zhuanlan.zhihu.com/p/676207210) | 2024-01-05 12:33:04 |
+| 3 | [2023年的最后一篇文章，祝大家元旦快乐。看到这种视频好多了，一直知道是DomoAI做的，但就是没时间去玩，今天去玩了玩](https://zhuanlan.zhihu.com/p/675195324) | 2023-12-29 15:17:50 |
+| 4 | [今天看到 Pika 全面放开的消息，瞬间炸锅了，想到我前两天拿到的 pika 内测资格，瞬间不香了，今天玩下](https://zhuanlan.zhihu.com/p/674644544) | 2023-12-26 17:06:49 |
+| 5 | [吴恩达发布企业AI转型手册，AI Transformation Playbook，对公司高管、正在创业的AIer是不错的指南。](https://zhuanlan.zhihu.com/p/673289438) | 2023-12-20 17:08:34 |
+| 6 | [网上有很多的Prompt模板，这次OpenAI发布了写好Prompt的六个策略，很实用](https://zhuanlan.zhihu.com/p/673101835) | 2023-12-19 17:49:04 |
+| 7 | [OpenAI 发表的第一篇论文，值得一读，Weak-to-Strong Generalization](https://zhuanlan.zhihu.com/p/672517739) | 2023-12-15 22:59:24 |
+| 8 | [老用户抢先体验 MidJourney Alpha 网页版，再见了Discord](https://zhuanlan.zhihu.com/p/672031999) | 2023-12-13 16:13:22 |
+| 9 | [谷歌隆重推出 Gemini，中文版本以及技术报告下载](https://zhuanlan.zhihu.com/p/670837066) | 2023-12-07 08:23:04 |
+| 10 | [Heygen 80% 的问题，这篇文章搞定它](https://zhuanlan.zhihu.com/p/668779022) | 2023-11-25 17:38:44 |
+| 11 | [SD开启免费测试，教你一分钟加入尝鲜](https://zhuanlan.zhihu.com/p/643814199) | 2023-07-15 22:16:38 |
+| 12 | [亲测OpenAI开放的最新功能：代码解释器，效果着实不错](https://zhuanlan.zhihu.com/p/642722316) | 2023-07-10 22:22:44 |
+| 13 | [万字长文\|从0-1系统性的了解大语言模型LLM研究进展](https://zhuanlan.zhihu.com/p/629931592) | 2023-05-17 07:14:43 |
+| 14 | [紧跟AIGC风向知识库开放](https://zhuanlan.zhihu.com/p/627833284) | 2023-05-08 22:18:14 |
+| 15 | [到了一定年纪，回家过年都是感触](https://zhuanlan.zhihu.com/p/601480554) | 2023-01-28 19:28:08 |
+| 16 | [20230113-读书思考](https://zhuanlan.zhihu.com/p/598739763) | 2023-01-13 11:03:30 |
+| 17 | [国庆教你制作国旗微信头像](https://zhuanlan.zhihu.com/p/569587908) | 2022-09-30 09:54:25 |
+| 18 | [Prompt Learning 那些不错的文章合集](https://zhuanlan.zhihu.com/p/561823299) | 2022-09-06 20:00:09 |
+| 19 | [互联网职场晋升关键词](https://zhuanlan.zhihu.com/p/558836907) | 2022-08-28 23:21:07 |
+| 20 | [一个不会写sql的算法工程师、一个不会写sql的产品经理，能在公司活下去吗](https://zhuanlan.zhihu.com/p/555484473) | 2022-08-19 10:39:48 |
+| 21 | [被mentor质疑，我才知道这些互联网的含义](https://zhuanlan.zhihu.com/p/553614643) | 2022-08-14 13:49:27 |
+| 22 | [呕心沥血整理往年精华面经，2023秋招卷起来](https://zhuanlan.zhihu.com/p/533993498) | 2022-06-26 15:14:45 |
+| 23 | [能够轻松的熟练掌握上面这几个awk写法，你已经超过了90%的身边人。持续更新ing](https://zhuanlan.zhihu.com/p/532630013) | 2022-06-23 10:20:58 |
+| 24 | [ACL2022知识图谱、BERT论文合集，持续更新中](https://zhuanlan.zhihu.com/p/498868169) | 2022-04-15 09:14:32 |
 
 
 ## Ostrich
