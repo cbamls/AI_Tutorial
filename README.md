@@ -25,27 +25,27 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-01-01 ~ 2024-01-08), 本周报更新时间:2024-01-08 23:33:57
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-01-02 ~ 2024-01-09), 本周报更新时间:2024-01-09 22:33:29
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [百度推荐排序技术的思考与实践](https://zhuanlan.zhihu.com/p/676660251) | DataFunTalk | 2024-01-08 15:16:43 |
-| 2 | [蚂蚁营销推荐场景上的因果纠偏方法](https://zhuanlan.zhihu.com/p/676655357) | DataFunTalk | 2024-01-08 14:56:08 |
-| 3 | [如何提高LLMs的文本表征(Text Embedding)能力?](https://zhuanlan.zhihu.com/p/676589001) | 刘聪NLP | 2024-01-08 10:04:45 |
-| 4 | [体验完阿里推出的AnyText，效果确实不错，如果落地，AI加持下的电商会怎么样？](https://zhuanlan.zhihu.com/p/676524866) | 大林 | 2024-01-07 19:20:25 |
-| 5 | [2024商业化新机：混合变现双赢之路](https://zhuanlan.zhihu.com/p/676351066) | 北冥乘海生 | 2024-01-06 10:14:48 |
-| 6 | [机器学习与运筹优化打造智慧供应链的最佳实践](https://zhuanlan.zhihu.com/p/676271261) | DataFunTalk | 2024-01-05 17:04:44 |
-| 7 | [吴恩达来信：纽约时报与OpenAI和微软的版权较量](https://zhuanlan.zhihu.com/p/676214060) | 吴恩达 | 2024-01-05 13:29:29 |
-| 8 | [OpenAI 的 GPT 应用商店将于下周推出](https://zhuanlan.zhihu.com/p/676207210) | 大林 | 2024-01-05 12:33:04 |
-| 9 | [《互联网大厂推荐算法实战》出版上架了！](https://zhuanlan.zhihu.com/p/676156556) | 石塔西 | 2024-01-05 09:15:17 |
-| 10 | [拼多多系列vol.4:Temu与跨境仓配的蛋鸡问题](https://zhuanlan.zhihu.com/p/676129482) | 姚凯飞 | 2024-01-04 22:41:52 |
-| 11 | [YY 直播业务指标治理实践](https://zhuanlan.zhihu.com/p/676093325) | DataFunTalk | 2024-01-04 18:13:22 |
-| 12 | [使用 OpenLLM 构建和部署大模型应用](https://zhuanlan.zhihu.com/p/676023813) | DataFunTalk | 2024-01-04 13:56:21 |
-| 13 | [DEITA-大模型指令微调的数据高效筛选方法](https://zhuanlan.zhihu.com/p/675928711) | 刘聪NLP | 2024-01-03 21:56:40 |
-| 14 | [OLAP 的技术研发与思考--ClickHouse 2023 总结和 2024 展望](https://zhuanlan.zhihu.com/p/675905983) | DataFunTalk | 2024-01-03 19:03:45 |
-| 15 | [肖仰华：走向千行百业的大模型](https://zhuanlan.zhihu.com/p/675698865) | DataFunTalk | 2024-01-02 17:38:28 |
-| 16 | [OPPO 广告召回算法实践与探索](https://zhuanlan.zhihu.com/p/675609025) | DataFunTalk | 2024-01-02 10:56:01 |
-| 17 | [吴恩达来信：迎接2024的变与不变](https://zhuanlan.zhihu.com/p/675541705) | 吴恩达 | 2024-01-01 20:11:49 |
+| 1 | [怎么阻止大模型说瞎话？](https://zhuanlan.zhihu.com/p/676530275) | 归来仍是少年 | 2024-01-09 16:01:23 |
+| 2 | [百度推荐排序技术的思考与实践](https://zhuanlan.zhihu.com/p/676660251) | DataFunTalk | 2024-01-08 15:16:43 |
+| 3 | [蚂蚁营销推荐场景上的因果纠偏方法](https://zhuanlan.zhihu.com/p/676655357) | DataFunTalk | 2024-01-08 14:56:08 |
+| 4 | [如何提高LLMs的文本表征(Text Embedding)能力?](https://zhuanlan.zhihu.com/p/676589001) | 刘聪NLP | 2024-01-08 10:04:45 |
+| 5 | [体验完阿里推出的AnyText，效果确实不错，如果落地，AI加持下的电商会怎么样？](https://zhuanlan.zhihu.com/p/676524866) | 大林 | 2024-01-07 19:20:25 |
+| 6 | [2024商业化新机：混合变现双赢之路](https://zhuanlan.zhihu.com/p/676351066) | 北冥乘海生 | 2024-01-06 10:14:48 |
+| 7 | [机器学习与运筹优化打造智慧供应链的最佳实践](https://zhuanlan.zhihu.com/p/676271261) | DataFunTalk | 2024-01-05 17:04:44 |
+| 8 | [吴恩达来信：纽约时报与OpenAI和微软的版权较量](https://zhuanlan.zhihu.com/p/676214060) | 吴恩达 | 2024-01-05 13:29:29 |
+| 9 | [OpenAI 的 GPT 应用商店将于下周推出](https://zhuanlan.zhihu.com/p/676207210) | 大林 | 2024-01-05 12:33:04 |
+| 10 | [《互联网大厂推荐算法实战》出版上架了！](https://zhuanlan.zhihu.com/p/676156556) | 石塔西 | 2024-01-05 09:15:17 |
+| 11 | [拼多多系列vol.4:Temu与跨境仓配的蛋鸡问题](https://zhuanlan.zhihu.com/p/676129482) | 姚凯飞 | 2024-01-04 22:41:52 |
+| 12 | [YY 直播业务指标治理实践](https://zhuanlan.zhihu.com/p/676093325) | DataFunTalk | 2024-01-04 18:13:22 |
+| 13 | [使用 OpenLLM 构建和部署大模型应用](https://zhuanlan.zhihu.com/p/676023813) | DataFunTalk | 2024-01-04 13:56:21 |
+| 14 | [DEITA-大模型指令微调的数据高效筛选方法](https://zhuanlan.zhihu.com/p/675928711) | 刘聪NLP | 2024-01-03 21:56:40 |
+| 15 | [OLAP 的技术研发与思考--ClickHouse 2023 总结和 2024 展望](https://zhuanlan.zhihu.com/p/675905983) | DataFunTalk | 2024-01-03 19:03:45 |
+| 16 | [肖仰华：走向千行百业的大模型](https://zhuanlan.zhihu.com/p/675698865) | DataFunTalk | 2024-01-02 17:38:28 |
+| 17 | [OPPO 广告召回算法实践与探索](https://zhuanlan.zhihu.com/p/675609025) | DataFunTalk | 2024-01-02 10:56:01 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -96,8 +96,8 @@
   * [JioNLP团队](#jionlp团队)(开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp...)
   * [风控大鱼](#风控大鱼)(互联网风控/风险模型/反洗钱（公众号：风控大鱼）,Nothing w...)
   * [Tang AI](#tang-ai)(在机器学习中欲仙欲死,神经病王子，佛系，网瘾少年。...)
-  * [Andy Yang](#andy-yang)(生活、学习、思考和观察世界,自由之精神 独立之思想。...)
   * [归来仍是少年](#归来仍是少年)(欢迎大家关注公众号《我爱自然语言处理》,做自然语言处理方向，kagg...)
+  * [Andy Yang](#andy-yang)(生活、学习、思考和观察世界,自由之精神 独立之思想。...)
   * [kaiyuan](#kaiyuan)
   * [北冥有鱼](#北冥有鱼)(zepengzhang.com。...)
   * [九老师](#九老师)
@@ -3231,6 +3231,28 @@ https://item.jd.com/13484669.html。
 | 18 | [推荐系统的历史](https://zhuanlan.zhihu.com/p/566101084) | 2022-09-20 22:29:43 |
 
 
+## 归来仍是少年
+> 介绍： 欢迎大家关注公众号《我爱自然语言处理》,做自然语言处理方向，kaggle比赛top1%一共七块奖牌，百度多形态信息抽取top1%，ccks2021因果抽取top11等，完成推荐系统，知识图谱，智能问答系统，信息检索系统，基于elasticsearch的高性能搜索系统，文本语义聚类，中文电子病历信息抽取，疾病风险预警模型，超长文本语义识别等落地项目。。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [怎么阻止大模型说瞎话？](https://zhuanlan.zhihu.com/p/676530275) | 2024-01-09 16:01:23 |
+| 2 | [谁是大模型的显存救星？](https://zhuanlan.zhihu.com/p/667993454) | 2023-11-22 23:20:40 |
+| 3 | [streaming-llm(无需微调无限扩展大模型输入)论文笔记](https://zhuanlan.zhihu.com/p/661059116) | 2023-10-13 11:38:15 |
+| 4 | [【论文笔记】baichuan 2训练报告](https://zhuanlan.zhihu.com/p/655576902) | 2023-09-11 19:35:02 |
+| 5 | [大模型中的人工反馈强化学习详解](https://zhuanlan.zhihu.com/p/651780908) | 2023-08-24 11:13:54 |
+| 6 | [开源baichuan 7b聊天大模型](https://zhuanlan.zhihu.com/p/649209664) | 2023-08-14 16:33:11 |
+| 7 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 2023-07-21 15:44:03 |
+| 8 | [LLM模型在公司场景中的应用探索](https://zhuanlan.zhihu.com/p/641734707) | 2023-07-06 22:51:55 |
+| 9 | [开源LLM大模型位置编码探索](https://zhuanlan.zhihu.com/p/631003833) | 2023-05-22 10:20:56 |
+| 10 | [LLM大模型低资源微调p tuning v2和lora区别](https://zhuanlan.zhihu.com/p/622810394) | 2023-04-18 16:16:16 |
+| 11 | [构建开放中文聊天生成模型(训练细节和代码开源)](https://zhuanlan.zhihu.com/p/619064661) | 2023-04-03 16:41:56 |
+| 12 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 2023-03-21 10:55:17 |
+| 13 | [TensorFlow2内存泄漏问题优化](https://zhuanlan.zhihu.com/p/611734055) | 2023-03-06 17:21:32 |
+| 14 | [工业界信息抽取之负样本构造](https://zhuanlan.zhihu.com/p/604754436) | 2023-02-10 11:32:28 |
+| 15 | [chatgpt横空出世引发的一些思考](https://zhuanlan.zhihu.com/p/600657790) | 2023-01-25 14:56:53 |
+
+
 ## Andy Yang
 > 介绍： 生活、学习、思考和观察世界,自由之精神 独立之思想。
 
@@ -3251,27 +3273,6 @@ https://item.jd.com/13484669.html。
 | 13 | [RoBERTa：高级丹药炼制记录](https://zhuanlan.zhihu.com/p/76969817) | 2019-08-06 23:27:44 |
 | 14 | [ERNIE 2.0：芝麻街 2.0？](https://zhuanlan.zhihu.com/p/76125042) | 2019-08-01 08:49:40 |
 | 15 | [SpanBert：对 Bert 预训练的一次深度探索](https://zhuanlan.zhihu.com/p/75893972) | 2019-07-30 22:01:48 |
-
-
-## 归来仍是少年
-> 介绍： 欢迎大家关注公众号《我爱自然语言处理》,做自然语言处理方向，kaggle比赛top1%一共七块奖牌，百度多形态信息抽取top1%，ccks2021因果抽取top11等，完成推荐系统，知识图谱，智能问答系统，信息检索系统，基于elasticsearch的高性能搜索系统，文本语义聚类，中文电子病历信息抽取，疾病风险预警模型，超长文本语义识别等落地项目。。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [谁是大模型的显存救星？](https://zhuanlan.zhihu.com/p/667993454) | 2023-11-22 23:20:40 |
-| 2 | [streaming-llm(无需微调无限扩展大模型输入)论文笔记](https://zhuanlan.zhihu.com/p/661059116) | 2023-10-13 11:38:15 |
-| 3 | [【论文笔记】baichuan 2训练报告](https://zhuanlan.zhihu.com/p/655576902) | 2023-09-11 19:35:02 |
-| 4 | [大模型中的人工反馈强化学习详解](https://zhuanlan.zhihu.com/p/651780908) | 2023-08-24 11:13:54 |
-| 5 | [开源baichuan 7b聊天大模型](https://zhuanlan.zhihu.com/p/649209664) | 2023-08-14 16:33:11 |
-| 6 | [LLM（大语言模型）部署加速方法](https://zhuanlan.zhihu.com/p/644001250) | 2023-07-21 15:44:03 |
-| 7 | [LLM模型在公司场景中的应用探索](https://zhuanlan.zhihu.com/p/641734707) | 2023-07-06 22:51:55 |
-| 8 | [开源LLM大模型位置编码探索](https://zhuanlan.zhihu.com/p/631003833) | 2023-05-22 10:20:56 |
-| 9 | [LLM大模型低资源微调p tuning v2和lora区别](https://zhuanlan.zhihu.com/p/622810394) | 2023-04-18 16:16:16 |
-| 10 | [构建开放中文聊天生成模型(训练细节和代码开源)](https://zhuanlan.zhihu.com/p/619064661) | 2023-04-03 16:41:56 |
-| 11 | [动手训练个中文聊天小模型](https://zhuanlan.zhihu.com/p/615685274) | 2023-03-21 10:55:17 |
-| 12 | [TensorFlow2内存泄漏问题优化](https://zhuanlan.zhihu.com/p/611734055) | 2023-03-06 17:21:32 |
-| 13 | [工业界信息抽取之负样本构造](https://zhuanlan.zhihu.com/p/604754436) | 2023-02-10 11:32:28 |
-| 14 | [chatgpt横空出世引发的一些思考](https://zhuanlan.zhihu.com/p/600657790) | 2023-01-25 14:56:53 |
 
 
 ## kaiyuan
