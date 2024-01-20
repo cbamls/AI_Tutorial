@@ -25,36 +25,34 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-01-12 ~ 2024-01-19), 本周报更新时间:2024-01-19 23:33:03
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-01-13 ~ 2024-01-20), 本周报更新时间:2024-01-20 22:34:22
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [RoPE外推优化——支持192K上下文长度](https://zhuanlan.zhihu.com/p/678755776) | 绝密伏击 | 2024-01-19 20:38:38 |
-| 2 | [企业如何构建指标平台并实现智能分析？](https://zhuanlan.zhihu.com/p/678575781) | DataFunTalk | 2024-01-18 18:43:18 |
-| 3 | [阿里最近推出AI项目的动作太过频繁，脑子跟不上了，事出反常必有妖，盘点一下](https://zhuanlan.zhihu.com/p/678552261) | 大林 | 2024-01-18 16:58:09 |
-| 4 | [手把手教你构建标签中台](https://zhuanlan.zhihu.com/p/678480358) | DataFunTalk | 2024-01-18 11:34:19 |
-| 5 | [从00后整顿职场看2023年出生人口数](https://zhuanlan.zhihu.com/p/678406339) | JioNLP团队 | 2024-01-17 22:04:13 |
-| 6 | [蚂蚁 TuGraph-DB 数据库查询引擎技术](https://zhuanlan.zhihu.com/p/678370871) | DataFunTalk | 2024-01-17 18:33:05 |
-| 7 | [如何将知识图谱与AIGC结合？京东是这么做的](https://zhuanlan.zhihu.com/p/678369301) | DataFunTalk | 2024-01-17 17:56:27 |
-| 8 | [这6个词，为你照亮24年的商业化道路](https://zhuanlan.zhihu.com/p/678308579) | 北冥乘海生 | 2024-01-17 14:20:53 |
-| 9 | [淘宝直播APP用户增长实践](https://zhuanlan.zhihu.com/p/678129183) | DataFunTalk | 2024-01-17 11:22:04 |
-| 10 | [开放申请 \| 2024腾讯犀牛鸟精英人才计划](https://zhuanlan.zhihu.com/p/678226768) | Houye | 2024-01-17 06:22:45 |
-| 11 | [推荐策略产品必读系列文章之如何构建推荐系统的优化目标](https://zhuanlan.zhihu.com/p/678217663) | 策略产品Arthur | 2024-01-17 00:13:50 |
-| 12 | [智谱GLM-4发布，评测效果逼近GPT4，直接说几个比较重要的结论](https://zhuanlan.zhihu.com/p/678170214) | 大林 | 2024-01-16 18:26:22 |
-| 13 | [花了三周，我又更新了一版开源软件 ffio](https://zhuanlan.zhihu.com/p/678141936) | JioNLP团队 | 2024-01-16 16:33:52 |
-| 14 | [智谱GLMs初体验](https://zhuanlan.zhihu.com/p/678124557) | 刘聪NLP | 2024-01-16 15:30:45 |
-| 15 | [如何构建好的用户画像平台？](https://zhuanlan.zhihu.com/p/678098760) | DataFunTalk | 2024-01-16 14:04:07 |
-| 16 | [群魔乱舞：MoE大模型详解](https://zhuanlan.zhihu.com/p/677638939) | 绝密伏击 | 2024-01-15 21:05:42 |
-| 17 | [强化学习在广告自动出价场景的大规模落地实践（文末有小彩蛋）](https://zhuanlan.zhihu.com/p/677901083) | 阿里妈妈技术 | 2024-01-15 14:32:18 |
-| 18 | [请查收 \| 2023 阿里妈妈技术热门文章](https://zhuanlan.zhihu.com/p/677899448) | 阿里妈妈技术 | 2024-01-15 14:24:56 |
-| 19 | [数据集成产品的技术演进与实际应用-FastData DCT](https://zhuanlan.zhihu.com/p/677894198) | DataFunTalk | 2024-01-15 14:02:19 |
-| 20 | [商业化策略产品经理必读系列—百度“轻舸”新营销平台+“扬楫”大模型商业引擎全面解析](https://zhuanlan.zhihu.com/p/672342681) | King James | 2024-01-14 23:33:00 |
-| 21 | [图解大模型RLHF系列之：人人都能看懂的PPO原理与源码解读](https://zhuanlan.zhihu.com/p/677607581) | 猛猿 | 2024-01-13 12:05:52 |
-| 22 | [推荐系统工程(11):主流样本工程方案对比](https://zhuanlan.zhihu.com/p/677599349) | yanianthe | 2024-01-13 10:29:53 |
-| 23 | [推荐系统解释生成研究进展速览](https://zhuanlan.zhihu.com/p/677581251) | Houye | 2024-01-13 06:08:47 |
-| 24 | [数据治理全流程实战剖析，助力业务增长](https://zhuanlan.zhihu.com/p/677539400) | DataFunTalk | 2024-01-12 19:24:44 |
-| 25 | [阿里巴巴长文档推荐系统在企业数字化中的应用](https://zhuanlan.zhihu.com/p/677525998) | DataFunTalk | 2024-01-12 17:54:41 |
-| 26 | [用上GroMore智能管家，“躺平”也能多挣钱](https://zhuanlan.zhihu.com/p/677380743) | 北冥乘海生 | 2024-01-12 07:48:51 |
+| 1 | [深入浅出ChatGPT：技术原理一探究竟](https://zhuanlan.zhihu.com/p/678912290) | 绝密伏击 | 2024-01-20 20:49:14 |
+| 2 | [RoPE外推优化——支持192K上下文长度](https://zhuanlan.zhihu.com/p/678755776) | 绝密伏击 | 2024-01-19 20:38:38 |
+| 3 | [企业如何构建指标平台并实现智能分析？](https://zhuanlan.zhihu.com/p/678575781) | DataFunTalk | 2024-01-18 18:43:18 |
+| 4 | [阿里最近推出AI项目的动作太过频繁，脑子跟不上了，事出反常必有妖，盘点一下](https://zhuanlan.zhihu.com/p/678552261) | 大林 | 2024-01-18 16:58:09 |
+| 5 | [手把手教你构建标签中台](https://zhuanlan.zhihu.com/p/678480358) | DataFunTalk | 2024-01-18 11:34:19 |
+| 6 | [从00后整顿职场看2023年出生人口数](https://zhuanlan.zhihu.com/p/678406339) | JioNLP团队 | 2024-01-17 22:04:13 |
+| 7 | [蚂蚁 TuGraph-DB 数据库查询引擎技术](https://zhuanlan.zhihu.com/p/678370871) | DataFunTalk | 2024-01-17 18:33:05 |
+| 8 | [如何将知识图谱与AIGC结合？京东是这么做的](https://zhuanlan.zhihu.com/p/678369301) | DataFunTalk | 2024-01-17 17:56:27 |
+| 9 | [这6个词，为你照亮24年的商业化道路](https://zhuanlan.zhihu.com/p/678308579) | 北冥乘海生 | 2024-01-17 14:20:53 |
+| 10 | [淘宝直播APP用户增长实践](https://zhuanlan.zhihu.com/p/678129183) | DataFunTalk | 2024-01-17 11:22:04 |
+| 11 | [开放申请 \| 2024腾讯犀牛鸟精英人才计划](https://zhuanlan.zhihu.com/p/678226768) | Houye | 2024-01-17 06:22:45 |
+| 12 | [推荐策略产品必读系列文章之如何构建推荐系统的优化目标](https://zhuanlan.zhihu.com/p/678217663) | 策略产品Arthur | 2024-01-17 00:13:50 |
+| 13 | [智谱GLM-4发布，评测效果逼近GPT4，直接说几个比较重要的结论](https://zhuanlan.zhihu.com/p/678170214) | 大林 | 2024-01-16 18:26:22 |
+| 14 | [花了三周，我又更新了一版开源软件 ffio](https://zhuanlan.zhihu.com/p/678141936) | JioNLP团队 | 2024-01-16 16:33:52 |
+| 15 | [智谱GLMs初体验](https://zhuanlan.zhihu.com/p/678124557) | 刘聪NLP | 2024-01-16 15:30:45 |
+| 16 | [如何构建好的用户画像平台？](https://zhuanlan.zhihu.com/p/678098760) | DataFunTalk | 2024-01-16 14:04:07 |
+| 17 | [群魔乱舞：MoE大模型详解](https://zhuanlan.zhihu.com/p/677638939) | 绝密伏击 | 2024-01-15 21:05:42 |
+| 18 | [强化学习在广告自动出价场景的大规模落地实践（文末有小彩蛋）](https://zhuanlan.zhihu.com/p/677901083) | 阿里妈妈技术 | 2024-01-15 14:32:18 |
+| 19 | [请查收 \| 2023 阿里妈妈技术热门文章](https://zhuanlan.zhihu.com/p/677899448) | 阿里妈妈技术 | 2024-01-15 14:24:56 |
+| 20 | [数据集成产品的技术演进与实际应用-FastData DCT](https://zhuanlan.zhihu.com/p/677894198) | DataFunTalk | 2024-01-15 14:02:19 |
+| 21 | [商业化策略产品经理必读系列—百度“轻舸”新营销平台+“扬楫”大模型商业引擎全面解析](https://zhuanlan.zhihu.com/p/672342681) | King James | 2024-01-14 23:33:00 |
+| 22 | [图解大模型RLHF系列之：人人都能看懂的PPO原理与源码解读](https://zhuanlan.zhihu.com/p/677607581) | 猛猿 | 2024-01-13 12:05:52 |
+| 23 | [推荐系统工程(11):主流样本工程方案对比](https://zhuanlan.zhihu.com/p/677599349) | yanianthe | 2024-01-13 10:29:53 |
+| 24 | [推荐系统解释生成研究进展速览](https://zhuanlan.zhihu.com/p/677581251) | Houye | 2024-01-13 06:08:47 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -1780,77 +1778,78 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [RoPE外推优化——支持192K上下文长度](https://zhuanlan.zhihu.com/p/678755776) | 2024-01-19 20:38:38 |
-| 2 | [群魔乱舞：MoE大模型详解](https://zhuanlan.zhihu.com/p/677638939) | 2024-01-15 21:05:42 |
-| 3 | [再论大模型位置编码及其外推性](https://zhuanlan.zhihu.com/p/675243992) | 2023-12-29 23:20:21 |
-| 4 | [大模型混合精度训练](https://zhuanlan.zhihu.com/p/673702662) | 2023-12-22 19:15:59 |
-| 5 | [如何构建自己的大模型（万字长文）](https://zhuanlan.zhihu.com/p/673308333) | 2023-12-21 11:38:53 |
-| 6 | [用户序列建模](https://zhuanlan.zhihu.com/p/669898579) | 2023-12-01 18:02:38 |
-| 7 | [大模型轻量级微调（LoRA）：训练速度、显存占用分析](https://zhuanlan.zhihu.com/p/666000885) | 2023-11-09 21:53:40 |
-| 8 | [一文读懂Llama 2（从原理到实战）](https://zhuanlan.zhihu.com/p/653303123) | 2023-08-30 20:09:45 |
-| 9 | [LLaMa-1 技术详解](https://zhuanlan.zhihu.com/p/648774481) | 2023-08-08 19:15:58 |
-| 10 | [大模型文本生成——解码策略（Top-k & Top-p & Temperature）](https://zhuanlan.zhihu.com/p/647813179) | 2023-08-04 19:10:29 |
-| 11 | [十分钟读懂旋转编码（RoPE）](https://zhuanlan.zhihu.com/p/647109286) | 2023-08-01 18:52:37 |
-| 12 | [Sparse Transformer](https://zhuanlan.zhihu.com/p/643801236) | 2023-07-15 23:28:57 |
-| 13 | [6年推荐系统经验总结——「推荐系统技术原理与实践」](https://zhuanlan.zhihu.com/p/641176648) | 2023-07-03 16:13:22 |
-| 14 | [清华大学通用预训练模型：GLM](https://zhuanlan.zhihu.com/p/637382548) | 2023-06-17 20:16:34 |
-| 15 | [循环神经网络详解（RNN/LSTM/GRU）](https://zhuanlan.zhihu.com/p/636756912) | 2023-06-13 21:16:42 |
-| 16 | [压缩即智能：为什么 ChatGPT 拥有智能？](https://zhuanlan.zhihu.com/p/634194171) | 2023-06-02 20:12:29 |
-| 17 | [谷歌大模型指令微调：The Flan Collection](https://zhuanlan.zhihu.com/p/633346577) | 2023-05-31 14:51:51 |
-| 18 | [大模型CoT（思维链）总结](https://zhuanlan.zhihu.com/p/629087587) | 2023-05-13 21:14:31 |
-| 19 | [大模型微调实践：ChatGLM-6B全参数微调](https://zhuanlan.zhihu.com/p/627788620) | 2023-05-08 19:49:43 |
-| 20 | [大模型微调总结](https://zhuanlan.zhihu.com/p/627642632) | 2023-05-08 15:59:14 |
-| 21 | [LORA：大模型轻量级微调](https://zhuanlan.zhihu.com/p/623543497) | 2023-04-21 17:58:02 |
-| 22 | [ChatGPT技术原理解析](https://zhuanlan.zhihu.com/p/618320262) | 2023-03-31 20:52:49 |
-| 23 | [OpenAI ChatGPT（四）：十分钟读懂 GPT-3](https://zhuanlan.zhihu.com/p/614597581) | 2023-03-25 19:32:34 |
-| 24 | [GPT-4技术文档](https://zhuanlan.zhihu.com/p/614271969) | 2023-03-16 18:36:09 |
-| 25 | [OpenAI ChatGPT（三）：Tensorflow实现GPT-2](https://zhuanlan.zhihu.com/p/614003576) | 2023-03-14 21:17:17 |
-| 26 | [OpenAI ChatGPT（三）：十分钟读懂 GPT-2](https://zhuanlan.zhihu.com/p/613895056) | 2023-03-14 18:32:03 |
-| 27 | [OpenAI ChatGPT（二）：Tensorflow实现GPT-1](https://zhuanlan.zhihu.com/p/606318317) | 2023-02-15 17:26:01 |
-| 28 | [OpenAI ChatGPT（二）：十分钟读懂 GPT-1](https://zhuanlan.zhihu.com/p/604625917) | 2023-02-09 20:45:42 |
-| 29 | [ChatGPT Is All you Need](https://zhuanlan.zhihu.com/p/603497653) | 2023-02-04 21:43:02 |
-| 30 | [OpenAI ChatGPT（一）：Tensorflow实现Transformer](https://zhuanlan.zhihu.com/p/603243890) | 2023-02-03 20:55:02 |
-| 31 | [OpenAI ChatGPT（一）：十分钟读懂 Transformer](https://zhuanlan.zhihu.com/p/600773858) | 2023-01-28 00:04:49 |
-| 32 | [十分钟读懂Stable Duffision](https://zhuanlan.zhihu.com/p/600251419) | 2023-01-20 21:00:06 |
-| 33 | [十分钟读懂Diffusion：图解Diffusion扩散模型](https://zhuanlan.zhihu.com/p/599887666) | 2023-01-18 19:03:44 |
-| 34 | [爆火的ChatGPT，到底怎么样？](https://zhuanlan.zhihu.com/p/595278103) | 2022-12-29 20:44:06 |
-| 35 | [AIGC爆火的背后——扩散模型DDPM浅析](https://zhuanlan.zhihu.com/p/590840909) | 2022-12-11 00:10:56 |
-| 36 | [AIGC爆火的背后——对抗生成网络GAN浅析](https://zhuanlan.zhihu.com/p/580137376) | 2022-11-04 19:14:25 |
-| 37 | [长序列建模（二）：美团SDIM（Sampling-based Deep Interest Modeling）模型](https://zhuanlan.zhihu.com/p/560657191) | 2022-09-02 20:17:26 |
-| 38 | [阿里ETA模型——实践篇](https://zhuanlan.zhihu.com/p/556195411) | 2022-08-21 20:07:02 |
-| 39 | [长序列建模（一）：阿里ETA（End-to-end Target Attention）模型](https://zhuanlan.zhihu.com/p/547087040) | 2022-07-28 20:05:56 |
-| 40 | [SIGIR2022：阿里多任务学习最新论文ESCM2](https://zhuanlan.zhihu.com/p/526545110) | 2022-06-09 18:36:04 |
-| 41 | [多场景建模](https://zhuanlan.zhihu.com/p/446635065) | 2021-12-17 16:30:26 |
-| 42 | [【总结】推荐系统——精排篇【3】DIN/DIEN/BST/DSIN/MIMN/SIM/CAN](https://zhuanlan.zhihu.com/p/433135805) | 2021-11-14 18:29:53 |
-| 43 | [【总结】推荐系统——精排篇【2】WDL/DCN/DCN-v2](https://zhuanlan.zhihu.com/p/433086709) | 2021-11-14 13:19:41 |
-| 44 | [【总结】推荐系统——精排篇【1】FM/FFM/GBDT+LR/MLR](https://zhuanlan.zhihu.com/p/432817787) | 2021-11-13 21:21:44 |
-| 45 | [元学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/432088211) | 2021-11-12 19:31:58 |
-| 46 | [【总结】推荐系统中知识蒸馏应用](https://zhuanlan.zhihu.com/p/372575360) | 2021-05-16 15:41:44 |
-| 47 | [知识蒸馏在推荐系统中的应用](https://zhuanlan.zhihu.com/p/366725144) | 2021-04-22 16:27:54 |
-| 48 | [【总结】推荐系统——召回篇【4】](https://zhuanlan.zhihu.com/p/356560809) | 2021-03-19 21:41:33 |
-| 49 | [【总结】推荐系统——召回篇【3】](https://zhuanlan.zhihu.com/p/354859728) | 2021-03-09 20:52:33 |
-| 50 | [【总结】推荐系统——召回篇【2】](https://zhuanlan.zhihu.com/p/352169069) | 2021-03-01 19:45:10 |
-| 51 | [【总结】推荐系统——召回篇【1】](https://zhuanlan.zhihu.com/p/351716045) | 2021-02-21 22:29:45 |
-| 52 | [推荐系统中的用户留存优化](https://zhuanlan.zhihu.com/p/350042268) | 2021-02-08 17:05:35 |
-| 53 | [SIGIR2020最佳论文：如何消除推荐系统中的曝光偏差](https://zhuanlan.zhihu.com/p/338825375) | 2020-12-23 21:04:12 |
-| 54 | [多目标学习在推荐系统的应用(MMOE/ESMM/PLE)](https://zhuanlan.zhihu.com/p/291406172) | 2020-11-14 04:25:24 |
-| 55 | [模型的参数初始化](https://zhuanlan.zhihu.com/p/136438591) | 2020-04-26 20:40:48 |
-| 56 | [RALM: 实时Look-alike 算法在微信看一看中的应用](https://zhuanlan.zhihu.com/p/103531533) | 2020-01-20 10:52:22 |
-| 57 | [回顾阿里经典CTR预估模型DIN](https://zhuanlan.zhihu.com/p/103092757) | 2020-01-17 15:23:22 |
-| 58 | [深度学习中激活函数总结](https://zhuanlan.zhihu.com/p/102008364) | 2020-01-10 18:26:35 |
-| 59 | [回顾Google经典CTR预估模型WDL](https://zhuanlan.zhihu.com/p/100898327) | 2020-01-03 21:53:46 |
-| 60 | [回顾阿里经典CTR预估模型MLR](https://zhuanlan.zhihu.com/p/100532677) | 2020-01-01 13:59:27 |
-| 61 | [回顾阿里经典CTR预估模型：MLR(mixed logistic regression)](https://zhuanlan.zhihu.com/p/100207934) | 2019-12-31 17:07:07 |
-| 62 | [2019年度总结：深度学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/99536133) | 2019-12-26 23:10:00 |
-| 63 | [有趣的证明](https://zhuanlan.zhihu.com/p/97165613) | 2019-12-13 16:09:49 |
-| 64 | [推荐系统论文DSIN：Deep Session Interest Network](https://zhuanlan.zhihu.com/p/97015090) | 2019-12-12 22:29:10 |
-| 65 | [推荐系统论文：Behavior Sequence Transformer](https://zhuanlan.zhihu.com/p/96338316) | 2019-12-09 20:33:42 |
-| 66 | [行列式点过程DPP在推荐系统中的应用(续)](https://zhuanlan.zhihu.com/p/95677561) | 2019-12-06 15:17:41 |
-| 67 | [行列式点过程DPP在推荐系统中的应用](https://zhuanlan.zhihu.com/p/95607668) | 2019-12-05 22:08:58 |
-| 68 | [深度学习中Batch Normalization和Dice激活函数](https://zhuanlan.zhihu.com/p/78829402) | 2019-08-19 18:44:15 |
-| 69 | [LR训练优化-稀疏特征过滤](https://zhuanlan.zhihu.com/p/51947854) | 2018-12-09 17:57:16 |
-| 70 | [优先队列的使用](https://zhuanlan.zhihu.com/p/48525768) | 2018-11-04 20:26:19 |
-| 71 | [阿里论文《Deep Interest Evolution Network》](https://zhuanlan.zhihu.com/p/45325081) | 2018-09-25 18:21:53 |
+| 1 | [深入浅出ChatGPT：技术原理一探究竟](https://zhuanlan.zhihu.com/p/678912290) | 2024-01-20 20:49:14 |
+| 2 | [RoPE外推优化——支持192K上下文长度](https://zhuanlan.zhihu.com/p/678755776) | 2024-01-19 20:38:38 |
+| 3 | [群魔乱舞：MoE大模型详解](https://zhuanlan.zhihu.com/p/677638939) | 2024-01-15 21:05:42 |
+| 4 | [再论大模型位置编码及其外推性](https://zhuanlan.zhihu.com/p/675243992) | 2023-12-29 23:20:21 |
+| 5 | [大模型混合精度训练](https://zhuanlan.zhihu.com/p/673702662) | 2023-12-22 19:15:59 |
+| 6 | [如何构建自己的大模型（万字长文）](https://zhuanlan.zhihu.com/p/673308333) | 2023-12-21 11:38:53 |
+| 7 | [用户序列建模](https://zhuanlan.zhihu.com/p/669898579) | 2023-12-01 18:02:38 |
+| 8 | [大模型轻量级微调（LoRA）：训练速度、显存占用分析](https://zhuanlan.zhihu.com/p/666000885) | 2023-11-09 21:53:40 |
+| 9 | [一文读懂Llama 2（从原理到实战）](https://zhuanlan.zhihu.com/p/653303123) | 2023-08-30 20:09:45 |
+| 10 | [LLaMa-1 技术详解](https://zhuanlan.zhihu.com/p/648774481) | 2023-08-08 19:15:58 |
+| 11 | [大模型文本生成——解码策略（Top-k & Top-p & Temperature）](https://zhuanlan.zhihu.com/p/647813179) | 2023-08-04 19:10:29 |
+| 12 | [十分钟读懂旋转编码（RoPE）](https://zhuanlan.zhihu.com/p/647109286) | 2023-08-01 18:52:37 |
+| 13 | [Sparse Transformer](https://zhuanlan.zhihu.com/p/643801236) | 2023-07-15 23:28:57 |
+| 14 | [6年推荐系统经验总结——「推荐系统技术原理与实践」](https://zhuanlan.zhihu.com/p/641176648) | 2023-07-03 16:13:22 |
+| 15 | [清华大学通用预训练模型：GLM](https://zhuanlan.zhihu.com/p/637382548) | 2023-06-17 20:16:34 |
+| 16 | [循环神经网络详解（RNN/LSTM/GRU）](https://zhuanlan.zhihu.com/p/636756912) | 2023-06-13 21:16:42 |
+| 17 | [压缩即智能：为什么 ChatGPT 拥有智能？](https://zhuanlan.zhihu.com/p/634194171) | 2023-06-02 20:12:29 |
+| 18 | [谷歌大模型指令微调：The Flan Collection](https://zhuanlan.zhihu.com/p/633346577) | 2023-05-31 14:51:51 |
+| 19 | [大模型CoT（思维链）总结](https://zhuanlan.zhihu.com/p/629087587) | 2023-05-13 21:14:31 |
+| 20 | [大模型微调实践：ChatGLM-6B全参数微调](https://zhuanlan.zhihu.com/p/627788620) | 2023-05-08 19:49:43 |
+| 21 | [大模型微调总结](https://zhuanlan.zhihu.com/p/627642632) | 2023-05-08 15:59:14 |
+| 22 | [LORA：大模型轻量级微调](https://zhuanlan.zhihu.com/p/623543497) | 2023-04-21 17:58:02 |
+| 23 | [ChatGPT技术原理解析](https://zhuanlan.zhihu.com/p/618320262) | 2023-03-31 20:52:49 |
+| 24 | [OpenAI ChatGPT（四）：十分钟读懂 GPT-3](https://zhuanlan.zhihu.com/p/614597581) | 2023-03-25 19:32:34 |
+| 25 | [GPT-4技术文档](https://zhuanlan.zhihu.com/p/614271969) | 2023-03-16 18:36:09 |
+| 26 | [OpenAI ChatGPT（三）：Tensorflow实现GPT-2](https://zhuanlan.zhihu.com/p/614003576) | 2023-03-14 21:17:17 |
+| 27 | [OpenAI ChatGPT（三）：十分钟读懂 GPT-2](https://zhuanlan.zhihu.com/p/613895056) | 2023-03-14 18:32:03 |
+| 28 | [OpenAI ChatGPT（二）：Tensorflow实现GPT-1](https://zhuanlan.zhihu.com/p/606318317) | 2023-02-15 17:26:01 |
+| 29 | [OpenAI ChatGPT（二）：十分钟读懂 GPT-1](https://zhuanlan.zhihu.com/p/604625917) | 2023-02-09 20:45:42 |
+| 30 | [ChatGPT Is All you Need](https://zhuanlan.zhihu.com/p/603497653) | 2023-02-04 21:43:02 |
+| 31 | [OpenAI ChatGPT（一）：Tensorflow实现Transformer](https://zhuanlan.zhihu.com/p/603243890) | 2023-02-03 20:55:02 |
+| 32 | [OpenAI ChatGPT（一）：十分钟读懂 Transformer](https://zhuanlan.zhihu.com/p/600773858) | 2023-01-28 00:04:49 |
+| 33 | [十分钟读懂Stable Duffision](https://zhuanlan.zhihu.com/p/600251419) | 2023-01-20 21:00:06 |
+| 34 | [十分钟读懂Diffusion：图解Diffusion扩散模型](https://zhuanlan.zhihu.com/p/599887666) | 2023-01-18 19:03:44 |
+| 35 | [爆火的ChatGPT，到底怎么样？](https://zhuanlan.zhihu.com/p/595278103) | 2022-12-29 20:44:06 |
+| 36 | [AIGC爆火的背后——扩散模型DDPM浅析](https://zhuanlan.zhihu.com/p/590840909) | 2022-12-11 00:10:56 |
+| 37 | [AIGC爆火的背后——对抗生成网络GAN浅析](https://zhuanlan.zhihu.com/p/580137376) | 2022-11-04 19:14:25 |
+| 38 | [长序列建模（二）：美团SDIM（Sampling-based Deep Interest Modeling）模型](https://zhuanlan.zhihu.com/p/560657191) | 2022-09-02 20:17:26 |
+| 39 | [阿里ETA模型——实践篇](https://zhuanlan.zhihu.com/p/556195411) | 2022-08-21 20:07:02 |
+| 40 | [长序列建模（一）：阿里ETA（End-to-end Target Attention）模型](https://zhuanlan.zhihu.com/p/547087040) | 2022-07-28 20:05:56 |
+| 41 | [SIGIR2022：阿里多任务学习最新论文ESCM2](https://zhuanlan.zhihu.com/p/526545110) | 2022-06-09 18:36:04 |
+| 42 | [多场景建模](https://zhuanlan.zhihu.com/p/446635065) | 2021-12-17 16:30:26 |
+| 43 | [【总结】推荐系统——精排篇【3】DIN/DIEN/BST/DSIN/MIMN/SIM/CAN](https://zhuanlan.zhihu.com/p/433135805) | 2021-11-14 18:29:53 |
+| 44 | [【总结】推荐系统——精排篇【2】WDL/DCN/DCN-v2](https://zhuanlan.zhihu.com/p/433086709) | 2021-11-14 13:19:41 |
+| 45 | [【总结】推荐系统——精排篇【1】FM/FFM/GBDT+LR/MLR](https://zhuanlan.zhihu.com/p/432817787) | 2021-11-13 21:21:44 |
+| 46 | [元学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/432088211) | 2021-11-12 19:31:58 |
+| 47 | [【总结】推荐系统中知识蒸馏应用](https://zhuanlan.zhihu.com/p/372575360) | 2021-05-16 15:41:44 |
+| 48 | [知识蒸馏在推荐系统中的应用](https://zhuanlan.zhihu.com/p/366725144) | 2021-04-22 16:27:54 |
+| 49 | [【总结】推荐系统——召回篇【4】](https://zhuanlan.zhihu.com/p/356560809) | 2021-03-19 21:41:33 |
+| 50 | [【总结】推荐系统——召回篇【3】](https://zhuanlan.zhihu.com/p/354859728) | 2021-03-09 20:52:33 |
+| 51 | [【总结】推荐系统——召回篇【2】](https://zhuanlan.zhihu.com/p/352169069) | 2021-03-01 19:45:10 |
+| 52 | [【总结】推荐系统——召回篇【1】](https://zhuanlan.zhihu.com/p/351716045) | 2021-02-21 22:29:45 |
+| 53 | [推荐系统中的用户留存优化](https://zhuanlan.zhihu.com/p/350042268) | 2021-02-08 17:05:35 |
+| 54 | [SIGIR2020最佳论文：如何消除推荐系统中的曝光偏差](https://zhuanlan.zhihu.com/p/338825375) | 2020-12-23 21:04:12 |
+| 55 | [多目标学习在推荐系统的应用(MMOE/ESMM/PLE)](https://zhuanlan.zhihu.com/p/291406172) | 2020-11-14 04:25:24 |
+| 56 | [模型的参数初始化](https://zhuanlan.zhihu.com/p/136438591) | 2020-04-26 20:40:48 |
+| 57 | [RALM: 实时Look-alike 算法在微信看一看中的应用](https://zhuanlan.zhihu.com/p/103531533) | 2020-01-20 10:52:22 |
+| 58 | [回顾阿里经典CTR预估模型DIN](https://zhuanlan.zhihu.com/p/103092757) | 2020-01-17 15:23:22 |
+| 59 | [深度学习中激活函数总结](https://zhuanlan.zhihu.com/p/102008364) | 2020-01-10 18:26:35 |
+| 60 | [回顾Google经典CTR预估模型WDL](https://zhuanlan.zhihu.com/p/100898327) | 2020-01-03 21:53:46 |
+| 61 | [回顾阿里经典CTR预估模型MLR](https://zhuanlan.zhihu.com/p/100532677) | 2020-01-01 13:59:27 |
+| 62 | [回顾阿里经典CTR预估模型：MLR(mixed logistic regression)](https://zhuanlan.zhihu.com/p/100207934) | 2019-12-31 17:07:07 |
+| 63 | [2019年度总结：深度学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/99536133) | 2019-12-26 23:10:00 |
+| 64 | [有趣的证明](https://zhuanlan.zhihu.com/p/97165613) | 2019-12-13 16:09:49 |
+| 65 | [推荐系统论文DSIN：Deep Session Interest Network](https://zhuanlan.zhihu.com/p/97015090) | 2019-12-12 22:29:10 |
+| 66 | [推荐系统论文：Behavior Sequence Transformer](https://zhuanlan.zhihu.com/p/96338316) | 2019-12-09 20:33:42 |
+| 67 | [行列式点过程DPP在推荐系统中的应用(续)](https://zhuanlan.zhihu.com/p/95677561) | 2019-12-06 15:17:41 |
+| 68 | [行列式点过程DPP在推荐系统中的应用](https://zhuanlan.zhihu.com/p/95607668) | 2019-12-05 22:08:58 |
+| 69 | [深度学习中Batch Normalization和Dice激活函数](https://zhuanlan.zhihu.com/p/78829402) | 2019-08-19 18:44:15 |
+| 70 | [LR训练优化-稀疏特征过滤](https://zhuanlan.zhihu.com/p/51947854) | 2018-12-09 17:57:16 |
+| 71 | [优先队列的使用](https://zhuanlan.zhihu.com/p/48525768) | 2018-11-04 20:26:19 |
+| 72 | [阿里论文《Deep Interest Evolution Network》](https://zhuanlan.zhihu.com/p/45325081) | 2018-09-25 18:21:53 |
 
 
 ## Microstrong
