@@ -25,37 +25,36 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-01-24 ~ 2024-01-31), 本周报更新时间:2024-01-31 23:33:20
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-01-25 ~ 2024-02-01), 本周报更新时间:2024-02-01 22:33:18
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [​揭秘NVIDIA大模型推理框架：TensorRT-LLM](https://zhuanlan.zhihu.com/p/680808866) | DataFunTalk | 2024-01-31 18:54:33 |
-| 2 | [2024年，如何精准押注大模型？](https://zhuanlan.zhihu.com/p/680747508) | DataFunTalk | 2024-01-31 14:34:56 |
-| 3 | [基于“数据-模型-策略-实验”生态闭环的智能风控实践](https://zhuanlan.zhihu.com/p/680626074) | DataFunTalk | 2024-01-30 19:03:27 |
-| 4 | [模型与算法在石油产业链的优化应用实践](https://zhuanlan.zhihu.com/p/680432343) | DataFunTalk | 2024-01-30 12:33:15 |
-| 5 | [大模型时代，图在推荐系统中的前沿应用探索](https://zhuanlan.zhihu.com/p/680066257) | Houye | 2024-01-30 00:44:09 |
-| 6 | [腾讯数据采集治理之质量篇-从合规到合理](https://zhuanlan.zhihu.com/p/680431007) | DataFunTalk | 2024-01-29 20:54:02 |
-| 7 | [一文搞懂 NVIDIA 在 GPU 上高效部署语音 AI 模型的最新应用](https://zhuanlan.zhihu.com/p/680427251) | DataFunTalk | 2024-01-29 18:14:52 |
-| 8 | [深入浅出快手图数据库：看架构如何让推荐召回更高效](https://zhuanlan.zhihu.com/p/680423326) | DataFunTalk | 2024-01-29 17:41:20 |
-| 9 | [打通公私域的科学化经营时代来了！](https://zhuanlan.zhihu.com/p/680258057) | 北冥乘海生 | 2024-01-29 08:41:49 |
-| 10 | [2万字揭秘阿里巴巴数据治理平台建设经验](https://zhuanlan.zhihu.com/p/680249301) | DataFunTalk | 2024-01-28 19:03:26 |
-| 11 | [粗排\|基于整个推荐链路看粗排](https://zhuanlan.zhihu.com/p/680204749) | 亦一 | 2024-01-28 13:40:01 |
-| 12 | [无需训练/部署模型，一文学会图像相似度算法pHash原理和实战](https://zhuanlan.zhihu.com/p/677667097) | 琦琦 | 2024-01-27 22:15:01 |
-| 13 | [吴恩达：席卷世界经济论坛的AI议题](https://zhuanlan.zhihu.com/p/679860480) | 吴恩达 | 2024-01-26 11:24:07 |
-| 14 | [CTR之行为序列建模用户兴趣：DIN](https://zhuanlan.zhihu.com/p/679852484) | Keep Learning | 2024-01-25 21:51:37 |
-| 15 | [大数据分析平台之 OLAP 架构的最佳实践](https://zhuanlan.zhihu.com/p/679826138) | DataFunTalk | 2024-01-25 18:40:37 |
-| 16 | [强化学习和世界模型中的因果推断](https://zhuanlan.zhihu.com/p/679778066) | DataFunTalk | 2024-01-25 17:15:37 |
-| 17 | [如何建设一个良好的可观测性数据平台直击企业痛点？](https://zhuanlan.zhihu.com/p/679607628) | DataFunTalk | 2024-01-24 18:20:47 |
-| 18 | [B站大数据开发治理平台的产品设计心得](https://zhuanlan.zhihu.com/p/679414130) | DataFunTalk | 2024-01-24 17:05:47 |
-| 19 | [【2000个红包封面免费领】](https://zhuanlan.zhihu.com/p/679533507) | Young | 2024-01-24 13:23:35 |
-| 20 | [NeurIPS&#39;23 \| 图数据蒸馏 v.s. 图像数据蒸馏,](https://zhuanlan.zhihu.com/p/679459457) | Houye | 2024-01-24 01:28:01 |
+| 1 | [AFT（Attention Free Transformer ）详解](https://zhuanlan.zhihu.com/p/680983091) | 大师兄 | 2024-02-01 19:00:53 |
+| 2 | [从手游到小游戏，“全场景增长”怎么做](https://zhuanlan.zhihu.com/p/680955792) | 北冥乘海生 | 2024-02-01 16:23:59 |
+| 3 | [远距离LiDAR感知](https://zhuanlan.zhihu.com/p/680707145) | 王峰 | 2024-01-31 23:37:08 |
+| 4 | [​揭秘NVIDIA大模型推理框架：TensorRT-LLM](https://zhuanlan.zhihu.com/p/680808866) | DataFunTalk | 2024-01-31 18:54:33 |
+| 5 | [2024年，如何精准押注大模型？](https://zhuanlan.zhihu.com/p/680747508) | DataFunTalk | 2024-01-31 14:34:56 |
+| 6 | [基于“数据-模型-策略-实验”生态闭环的智能风控实践](https://zhuanlan.zhihu.com/p/680626074) | DataFunTalk | 2024-01-30 19:03:27 |
+| 7 | [模型与算法在石油产业链的优化应用实践](https://zhuanlan.zhihu.com/p/680432343) | DataFunTalk | 2024-01-30 12:33:15 |
+| 8 | [大模型时代，图在推荐系统中的前沿应用探索](https://zhuanlan.zhihu.com/p/680066257) | Houye | 2024-01-30 00:44:09 |
+| 9 | [腾讯数据采集治理之质量篇-从合规到合理](https://zhuanlan.zhihu.com/p/680431007) | DataFunTalk | 2024-01-29 20:54:02 |
+| 10 | [一文搞懂 NVIDIA 在 GPU 上高效部署语音 AI 模型的最新应用](https://zhuanlan.zhihu.com/p/680427251) | DataFunTalk | 2024-01-29 18:14:52 |
+| 11 | [深入浅出快手图数据库：看架构如何让推荐召回更高效](https://zhuanlan.zhihu.com/p/680423326) | DataFunTalk | 2024-01-29 17:41:20 |
+| 12 | [打通公私域的科学化经营时代来了！](https://zhuanlan.zhihu.com/p/680258057) | 北冥乘海生 | 2024-01-29 08:41:49 |
+| 13 | [2万字揭秘阿里巴巴数据治理平台建设经验](https://zhuanlan.zhihu.com/p/680249301) | DataFunTalk | 2024-01-28 19:03:26 |
+| 14 | [粗排\|基于整个推荐链路看粗排](https://zhuanlan.zhihu.com/p/680204749) | 亦一 | 2024-01-28 13:40:01 |
+| 15 | [无需训练/部署模型，一文学会图像相似度算法pHash原理和实战](https://zhuanlan.zhihu.com/p/677667097) | 琦琦 | 2024-01-27 22:15:01 |
+| 16 | [吴恩达：席卷世界经济论坛的AI议题](https://zhuanlan.zhihu.com/p/679860480) | 吴恩达 | 2024-01-26 11:24:07 |
+| 17 | [CTR之行为序列建模用户兴趣：DIN](https://zhuanlan.zhihu.com/p/679852484) | Keep Learning | 2024-01-25 21:51:37 |
+| 18 | [大数据分析平台之 OLAP 架构的最佳实践](https://zhuanlan.zhihu.com/p/679826138) | DataFunTalk | 2024-01-25 18:40:37 |
+| 19 | [强化学习和世界模型中的因果推断](https://zhuanlan.zhihu.com/p/679778066) | DataFunTalk | 2024-01-25 17:15:37 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
   * [机智的叉烧](#机智的叉烧)(OPPO对话算法，公众号：CS的陋室,个人微信公众号：CS的陋室，N...)
   * [大师兄](#大师兄)(《深度学习高手笔记》系列丛书作者,通过和 @人民邮电出版社 的合作，...)
-  * [刘聪NLP](#刘聪nlp)(专业炼丹师，专治疑难杂症,NLP算法工程师，个人微信：logCong...)
   * [北冥乘海生](#北冥乘海生)(大数据仁波切 公号“计算广告”(Comp_Ad),《计算广告》作者，...)
+  * [刘聪NLP](#刘聪nlp)(专业炼丹师，专治疑难杂症,NLP算法工程师，个人微信：logCong...)
   * [鱼遇雨欲语与余](#鱼遇雨欲语与余)(公众号：Coggle数据科学，《机器学习算法竞赛实战》作者,一对一学...)
   * [李rumor](#李rumor)(公众号「李rumor」，AI算法小姐姐，谷歌开发者专家,还没呢。...)
   * [张小磊](#张小磊)(小小又大大的梦想,小小又大大的梦想。...)
@@ -105,8 +104,8 @@
   * [kaiyuan](#kaiyuan)
   * [北冥有鱼](#北冥有鱼)(zepengzhang.com。...)
   * [九老师](#九老师)
-  * [黑猫白猫cutecat](#黑猫白猫cutecat)
   * [王峰](#王峰)(http://happynear.wang/。...)
+  * [黑猫白猫cutecat](#黑猫白猫cutecat)
   * [arXivDaily](#arxivdaily)
   * [bytecoder](#bytecoder)
   * [PaperWeekly](#paperweekly)(欢迎关注同名微信公众号：PaperWeekly,厚积薄发。...)
@@ -944,143 +943,265 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [AdaLoRA（Adaptive LoRA）详解](https://zhuanlan.zhihu.com/p/667432109) | 2023-11-17 19:48:09 |
-| 2 | [连续提示学习概述（Continue Prompt Learning）](https://zhuanlan.zhihu.com/p/655884416) | 2023-09-13 11:05:11 |
-| 3 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 2023-07-18 18:27:59 |
-| 4 | [预训练语言模型：GLM](https://zhuanlan.zhihu.com/p/641499380) | 2023-07-04 21:55:32 |
-| 5 | [多模态大模型KOSMOS-1](https://zhuanlan.zhihu.com/p/636694683) | 2023-06-13 11:08:14 |
-| 6 | [GPT-4核心技术探秘](https://zhuanlan.zhihu.com/p/626463196) | 2023-05-03 18:05:25 |
-| 7 | [扩散模型：DDPM](https://zhuanlan.zhihu.com/p/614498231) | 2023-03-16 15:55:24 |
-| 8 | [对比学习之SimCSE](https://zhuanlan.zhihu.com/p/611969853) | 2023-03-07 15:31:15 |
-| 9 | [对比学习之SimCLR](https://zhuanlan.zhihu.com/p/609426394) | 2023-02-25 20:04:38 |
-| 10 | [ChatGPT/InstructGPT详解](https://zhuanlan.zhihu.com/p/590311003) | 2022-12-08 18:53:46 |
-| 11 | [UniLM详解](https://zhuanlan.zhihu.com/p/584193190) | 2022-11-17 11:14:08 |
-| 12 | [多模态预训练：BEiT v3（Image as a Foreign Language）](https://zhuanlan.zhihu.com/p/571414839) | 2022-10-08 11:36:07 |
-| 13 | [多模态预训练：VLMo（Vision Language pretrained Model）](https://zhuanlan.zhihu.com/p/568704906) | 2022-09-27 17:03:14 |
-| 14 | [图像预训练：BEiT v2](https://zhuanlan.zhihu.com/p/566511151) | 2022-09-20 23:52:33 |
-| 15 | [图像预训练：BEIT](https://zhuanlan.zhihu.com/p/562957629) | 2022-09-09 16:28:43 |
-| 16 | [文本对抗之CLARE，BAE](https://zhuanlan.zhihu.com/p/552578652) | 2022-08-11 15:22:23 |
-| 17 | [文本对抗之BERT-Attack](https://zhuanlan.zhihu.com/p/551332459) | 2022-08-08 19:00:42 |
-| 18 | [文本对抗之TextFooler](https://zhuanlan.zhihu.com/p/548682666) | 2022-08-01 18:12:20 |
-| 19 | [稀疏Transformer（Sparse Transformer）](https://zhuanlan.zhihu.com/p/504609631) | 2022-04-25 11:54:02 |
-| 20 | [多模态预训练：DALL-E](https://zhuanlan.zhihu.com/p/480947973) | 2022-03-15 10:43:19 |
-| 21 | [多模态预训练CLIP](https://zhuanlan.zhihu.com/p/477760524) | 2022-03-08 19:51:55 |
-| 22 | [Pix2PixHD](https://zhuanlan.zhihu.com/p/467244077) | 2022-02-14 15:21:56 |
-| 23 | [图像翻译之Pix2Pix](https://zhuanlan.zhihu.com/p/464673225) | 2022-02-07 19:42:44 |
-| 24 | [重读FPN（Feature Pyramid Network）](https://zhuanlan.zhihu.com/p/460738972) | 2022-01-22 18:41:51 |
-| 25 | [ConvNeXt详解](https://zhuanlan.zhihu.com/p/459163188) | 2022-01-18 22:52:59 |
-| 26 | [多模态预训练ViLBERT](https://zhuanlan.zhihu.com/p/449421886) | 2021-12-24 15:16:09 |
-| 27 | [可逆Transformer：ReFormer](https://zhuanlan.zhihu.com/p/444384487) | 2021-12-12 17:09:35 |
-| 28 | [可逆残差网络RevNet](https://zhuanlan.zhihu.com/p/436621679) | 2021-11-23 12:05:40 |
-| 29 | [3D分割V-Net](https://zhuanlan.zhihu.com/p/431865940) | 2021-11-10 23:57:54 |
-| 30 | [BERT魔改II之BERT-WWM，SpanBERT，BART，MASS](https://zhuanlan.zhihu.com/p/430853441) | 2021-11-08 16:54:49 |
-| 31 | [模型结构搜索之RegNet](https://zhuanlan.zhihu.com/p/425558548) | 2021-10-25 18:33:17 |
-| 32 | [GAN详解](https://zhuanlan.zhihu.com/p/408766083) | 2021-09-09 21:10:23 |
-| 33 | [场景文字检测之EAST](https://zhuanlan.zhihu.com/p/401526609) | 2021-08-19 18:16:12 |
-| 34 | [Anchor-Free之FCOS](https://zhuanlan.zhihu.com/p/398796722) | 2021-08-11 20:37:12 |
-| 35 | [可变形卷积网络之DCN v1和DCN v2](https://zhuanlan.zhihu.com/p/395200094) | 2021-08-01 17:50:17 |
-| 36 | [Dropout详解](https://zhuanlan.zhihu.com/p/390990848) | 2021-07-19 11:19:13 |
-| 37 | [Vision Transformer 之 CSWin Transformer](https://zhuanlan.zhihu.com/p/388165447) | 2021-07-09 15:59:27 |
-| 38 | [Transformer目标检测之DETR](https://zhuanlan.zhihu.com/p/387102036) | 2021-07-06 14:30:49 |
-| 39 | [语义分割之Deeplab系列](https://zhuanlan.zhihu.com/p/385299424) | 2021-06-30 11:39:16 |
-| 40 | [人像抠图之Background Matting v2](https://zhuanlan.zhihu.com/p/381917042) | 2021-06-18 17:11:09 |
-| 41 | [NIC之Show Attend and Tell](https://zhuanlan.zhihu.com/p/380799029) | 2021-06-15 14:58:47 |
-| 42 | [语义分割之FCN](https://zhuanlan.zhihu.com/p/379325978) | 2021-06-09 21:04:47 |
-| 43 | [网络结构搜索之EfficientDet](https://zhuanlan.zhihu.com/p/377894403) | 2021-06-04 14:39:03 |
-| 44 | [骨干网络搜索之NAS-FPN](https://zhuanlan.zhihu.com/p/377039792) | 2021-06-01 16:13:55 |
-| 45 | [损失函数之Focal-EIoU Loss](https://zhuanlan.zhihu.com/p/375745293) | 2021-05-27 16:01:45 |
-| 46 | [损失函数之DIoU Loss和CIoU Loss](https://zhuanlan.zhihu.com/p/374907266) | 2021-05-24 19:53:50 |
-| 47 | [损失函数之GIoU Loss](https://zhuanlan.zhihu.com/p/374398128) | 2021-05-22 16:23:12 |
-| 48 | [双向融合：PANet](https://zhuanlan.zhihu.com/p/373907181) | 2021-05-20 17:47:17 |
-| 49 | [全连接？：MLP-Mixer](https://zhuanlan.zhihu.com/p/371738694) | 2021-05-12 16:45:22 |
-| 50 | [单阶段检测之YOLO v4](https://zhuanlan.zhihu.com/p/370460827) | 2021-05-07 18:45:59 |
-| 51 | [Anchor Free之CornerNet Lite](https://zhuanlan.zhihu.com/p/369144105) | 2021-04-30 18:37:32 |
-| 52 | [Anchor Free之CenterNet](https://zhuanlan.zhihu.com/p/368186188) | 2021-04-27 11:48:15 |
-| 53 | [Anchor Free之CornerNet](https://zhuanlan.zhihu.com/p/367215492) | 2021-04-23 15:01:00 |
-| 54 | [模型结构搜索之MobileNet v3](https://zhuanlan.zhihu.com/p/365119654) | 2021-04-15 16:43:18 |
-| 55 | [BERT魔改之MT-DNN，RoBERTa，XLM，ALBERT](https://zhuanlan.zhihu.com/p/363548937) | 2021-04-09 16:32:23 |
-| 56 | [模型搜索之EfficientNet v2](https://zhuanlan.zhihu.com/p/362767467) | 2021-04-06 22:34:39 |
-| 57 | [CV+Transformer之Swin Transformer](https://zhuanlan.zhihu.com/p/361366090) | 2021-03-31 17:46:08 |
-| 58 | [词向量之ERNIE（百度）和ERNIE 2.0](https://zhuanlan.zhihu.com/p/360351761) | 2021-03-27 16:23:45 |
-| 59 | [词向量之ERNIE-T（清华大学）](https://zhuanlan.zhihu.com/p/359379784) | 2021-03-23 22:21:09 |
-| 60 | [模型结构搜索之MNasNet](https://zhuanlan.zhihu.com/p/356625894) | 2021-03-12 18:25:49 |
-| 61 | [模型搜索之EfficientNet](https://zhuanlan.zhihu.com/p/355698666) | 2021-03-09 11:58:07 |
-| 62 | [词向量之XLNet](https://zhuanlan.zhihu.com/p/354886906) | 2021-03-05 18:01:53 |
-| 63 | [iGPT详解](https://zhuanlan.zhihu.com/p/352350329) | 2021-02-23 16:48:37 |
-| 64 | [DPN详解（Dual Path Networks）](https://zhuanlan.zhihu.com/p/351198007) | 2021-02-18 13:09:23 |
-| 65 | [预训练语言模型之GPT-1，GPT-2和GPT-3](https://zhuanlan.zhihu.com/p/350017443) | 2021-02-08 14:54:45 |
-| 66 | [词向量之ELMo](https://zhuanlan.zhihu.com/p/347775593) | 2021-01-28 21:04:00 |
-| 67 | [HAN详解（Heterogeneous graph attention network）](https://zhuanlan.zhihu.com/p/346658317) | 2021-01-24 17:34:32 |
-| 68 | [Attention 图解](https://zhuanlan.zhihu.com/p/342235515) | 2021-01-06 11:59:24 |
-| 69 | [GAT详解](https://zhuanlan.zhihu.com/p/339087706) | 2020-12-23 20:58:13 |
-| 70 | [GraphSAGE详解](https://zhuanlan.zhihu.com/p/336195862) | 2020-12-11 18:19:05 |
-| 71 | [详解Transformer-XL](https://zhuanlan.zhihu.com/p/271984518) | 2020-11-02 17:55:46 |
-| 72 | [基于Seq2Seq的公式识别引擎](https://zhuanlan.zhihu.com/p/183182208) | 2020-08-13 19:35:29 |
-| 73 | [Background Matting详解](https://zhuanlan.zhihu.com/p/148265115) | 2020-06-14 19:34:20 |
-| 74 | [MTL for OCR源码解析](https://zhuanlan.zhihu.com/p/109141910) | 2020-02-25 23:32:46 |
-| 75 | [OCR之Bi-STR](https://zhuanlan.zhihu.com/p/108909554) | 2020-02-24 22:10:05 |
-| 76 | [OCR之PixelLink](https://zhuanlan.zhihu.com/p/106798900) | 2020-02-13 23:53:37 |
-| 77 | [Image Caption: Show and Tell](https://zhuanlan.zhihu.com/p/92283673) | 2019-11-17 22:45:34 |
-| 78 | [模型优化之Switchable Normalization](https://zhuanlan.zhihu.com/p/57807576) | 2019-02-27 12:33:04 |
-| 79 | [AmoebaNet详解](https://zhuanlan.zhihu.com/p/57489362) | 2019-02-23 16:21:17 |
-| 80 | [文档分类之HAN](https://zhuanlan.zhihu.com/p/57126364) | 2019-02-19 16:03:08 |
-| 81 | [模型优化之Group Normalization](https://zhuanlan.zhihu.com/p/56613508) | 2019-02-13 16:42:43 |
-| 82 | [模型优化之Instance Normalization](https://zhuanlan.zhihu.com/p/56542480) | 2019-02-12 19:22:42 |
-| 83 | [图像风格迁移详解](https://zhuanlan.zhihu.com/p/55948352) | 2019-01-29 13:07:11 |
-| 84 | [RNN语言模型](https://zhuanlan.zhihu.com/p/55884752) | 2019-01-28 14:41:10 |
-| 85 | [模型优化之Weight Normalization](https://zhuanlan.zhihu.com/p/55102378) | 2019-01-17 16:25:54 |
-| 86 | [模型优化之Layer Normalization](https://zhuanlan.zhihu.com/p/54530247) | 2019-01-10 14:41:45 |
-| 87 | [模型优化之Batch Normalization](https://zhuanlan.zhihu.com/p/54171297) | 2019-01-06 14:54:01 |
-| 88 | [实例解析：12306验证码破解](https://zhuanlan.zhihu.com/p/53329216) | 2018-12-26 15:18:00 |
-| 89 | [卷积网络综述（从AlexNet到PNASNet）](https://zhuanlan.zhihu.com/p/53190433) | 2018-12-24 23:51:29 |
-| 90 | [PNASNet详解](https://zhuanlan.zhihu.com/p/52798148) | 2018-12-19 20:16:44 |
-| 91 | [NASNet详解](https://zhuanlan.zhihu.com/p/52616166) | 2018-12-17 20:50:55 |
-| 92 | [NAS详解](https://zhuanlan.zhihu.com/p/52471966) | 2018-12-15 19:21:04 |
-| 93 | [PolyNet详解](https://zhuanlan.zhihu.com/p/52138750) | 2018-12-11 18:27:26 |
-| 94 | [CondenseNet详解](https://zhuanlan.zhihu.com/p/52011716) | 2018-12-10 14:04:12 |
-| 95 | [ShuffNet v1 和 ShuffleNet v2](https://zhuanlan.zhihu.com/p/51566209) | 2018-12-04 18:54:29 |
-| 96 | [ResNeXt详解](https://zhuanlan.zhihu.com/p/51075096) | 2018-11-28 17:06:24 |
-| 97 | [Xception详解](https://zhuanlan.zhihu.com/p/50897945) | 2018-11-26 18:14:13 |
-| 98 | [MobileNet v1 和 MobileNet v2](https://zhuanlan.zhihu.com/p/50045821) | 2018-11-16 10:43:18 |
-| 99 | [SqueezeNet详解](https://zhuanlan.zhihu.com/p/49465950) | 2018-11-12 17:10:54 |
-| 100 | [物体检测之Focal Loss及RetinaNet](https://zhuanlan.zhihu.com/p/48958966) | 2018-11-08 16:39:12 |
-| 101 | [词向量之BERT](https://zhuanlan.zhihu.com/p/48612853) | 2018-11-05 16:41:21 |
-| 102 | [详解Transformer （Attention Is All You Need）](https://zhuanlan.zhihu.com/p/48508221) | 2018-11-04 15:25:46 |
-| 103 | [Squeeze-and-Excitation Networks](https://zhuanlan.zhihu.com/p/47494490) | 2018-10-23 22:47:19 |
-| 104 | [物体检测之SNIPER](https://zhuanlan.zhihu.com/p/46810110) | 2018-10-15 16:01:48 |
-| 105 | [OCR之RRPN](https://zhuanlan.zhihu.com/p/45507765) | 2018-09-27 19:27:38 |
-| 106 | [UnitBox详解](https://zhuanlan.zhihu.com/p/44323675) | 2018-09-12 09:19:37 |
-| 107 | [OCR之HMCP](https://zhuanlan.zhihu.com/p/44170391) | 2018-09-10 14:15:58 |
-| 108 | [人脸检测之DenseBox](https://zhuanlan.zhihu.com/p/44021975) | 2018-09-07 22:19:32 |
-| 109 | [图像分割之U-Net](https://zhuanlan.zhihu.com/p/43927696) | 2018-09-06 19:27:37 |
-| 110 | [边缘检测之HED](https://zhuanlan.zhihu.com/p/43600043) | 2018-09-03 10:41:16 |
-| 111 | [基于CNN的端到端文字检测与识别](https://zhuanlan.zhihu.com/p/43295656) | 2018-08-29 23:05:34 |
-| 112 | [物体检测历史](https://zhuanlan.zhihu.com/p/43211392) | 2018-08-29 08:52:17 |
-| 113 | [OCR之CTPN](https://zhuanlan.zhihu.com/p/43145228) | 2018-08-28 13:50:57 |
-| 114 | [OCR之RARE](https://zhuanlan.zhihu.com/p/43054073) | 2018-08-27 14:30:01 |
-| 115 | [OCR之Deep TextSpotter](https://zhuanlan.zhihu.com/p/43024857) | 2018-08-27 09:08:40 |
-| 116 | [OCR之DeepText](https://zhuanlan.zhihu.com/p/42868123) | 2018-08-24 15:56:21 |
-| 117 | [物体检测之YOLOv3](https://zhuanlan.zhihu.com/p/42865896) | 2018-08-24 15:40:17 |
-| 118 | [物体检测之YOLOv2](https://zhuanlan.zhihu.com/p/42861239) | 2018-08-24 15:26:50 |
-| 119 | [物体检测之R-FCN](https://zhuanlan.zhihu.com/p/42858039) | 2018-08-24 14:51:19 |
-| 120 | [物体检测之SSD](https://zhuanlan.zhihu.com/p/42795805) | 2018-08-23 21:30:45 |
-| 121 | [物体检测之YOLO](https://zhuanlan.zhihu.com/p/42772125) | 2018-08-23 15:38:53 |
-| 122 | [物体检测之MaskX R-CNN](https://zhuanlan.zhihu.com/p/42749621) | 2018-08-23 11:21:03 |
-| 123 | [物体检测之FPN及Mask R-CNN](https://zhuanlan.zhihu.com/p/42745788) | 2018-08-23 11:03:12 |
-| 124 | [物体检测之Faster R-CNN](https://zhuanlan.zhihu.com/p/42741973) | 2018-08-23 10:38:10 |
-| 125 | [物体检测之Fast R-CNN](https://zhuanlan.zhihu.com/p/42738847) | 2018-08-23 10:12:47 |
-| 126 | [物体检测之SPP-Net](https://zhuanlan.zhihu.com/p/42732128) | 2018-08-23 08:54:34 |
-| 127 | [物体检测之R-CNN](https://zhuanlan.zhihu.com/p/42731634) | 2018-08-23 08:40:33 |
-| 128 | [Attention in RNN](https://zhuanlan.zhihu.com/p/42724582) | 2018-08-23 00:03:15 |
-| 129 | [RNN Encoder-Decoder and GRU](https://zhuanlan.zhihu.com/p/42722623) | 2018-08-22 23:45:41 |
-| 130 | [详解CTC](https://zhuanlan.zhihu.com/p/42719047) | 2018-08-22 22:46:48 |
-| 131 | [详解LSTM](https://zhuanlan.zhihu.com/p/42717426) | 2018-08-22 22:14:36 |
-| 132 | [DenseNet](https://zhuanlan.zhihu.com/p/42708327) | 2018-08-22 19:41:59 |
-| 133 | [详解残差网络](https://zhuanlan.zhihu.com/p/42706477) | 2018-08-22 19:30:49 |
-| 134 | [GoogLeNet, Maxout and NIN](https://zhuanlan.zhihu.com/p/42704781) | 2018-08-22 19:04:58 |
-| 135 | [VGG](https://zhuanlan.zhihu.com/p/42695549) | 2018-08-22 17:23:22 |
-| 136 | [LeNet5 and AlexNet](https://zhuanlan.zhihu.com/p/42692344) | 2018-08-22 17:01:02 |
-| 137 | [Spatial Transformer Networks](https://zhuanlan.zhihu.com/p/42692080) | 2018-08-22 16:44:27 |
+| 1 | [AFT（Attention Free Transformer ）详解](https://zhuanlan.zhihu.com/p/680983091) | 2024-02-01 19:00:53 |
+| 2 | [AdaLoRA（Adaptive LoRA）详解](https://zhuanlan.zhihu.com/p/667432109) | 2023-11-17 19:48:09 |
+| 3 | [连续提示学习概述（Continue Prompt Learning）](https://zhuanlan.zhihu.com/p/655884416) | 2023-09-13 11:05:11 |
+| 4 | [提示学习：PET for BERT](https://zhuanlan.zhihu.com/p/644369467) | 2023-07-18 18:27:59 |
+| 5 | [预训练语言模型：GLM](https://zhuanlan.zhihu.com/p/641499380) | 2023-07-04 21:55:32 |
+| 6 | [多模态大模型KOSMOS-1](https://zhuanlan.zhihu.com/p/636694683) | 2023-06-13 11:08:14 |
+| 7 | [GPT-4核心技术探秘](https://zhuanlan.zhihu.com/p/626463196) | 2023-05-03 18:05:25 |
+| 8 | [扩散模型：DDPM](https://zhuanlan.zhihu.com/p/614498231) | 2023-03-16 15:55:24 |
+| 9 | [对比学习之SimCSE](https://zhuanlan.zhihu.com/p/611969853) | 2023-03-07 15:31:15 |
+| 10 | [对比学习之SimCLR](https://zhuanlan.zhihu.com/p/609426394) | 2023-02-25 20:04:38 |
+| 11 | [ChatGPT/InstructGPT详解](https://zhuanlan.zhihu.com/p/590311003) | 2022-12-08 18:53:46 |
+| 12 | [UniLM详解](https://zhuanlan.zhihu.com/p/584193190) | 2022-11-17 11:14:08 |
+| 13 | [多模态预训练：BEiT v3（Image as a Foreign Language）](https://zhuanlan.zhihu.com/p/571414839) | 2022-10-08 11:36:07 |
+| 14 | [多模态预训练：VLMo（Vision Language pretrained Model）](https://zhuanlan.zhihu.com/p/568704906) | 2022-09-27 17:03:14 |
+| 15 | [图像预训练：BEiT v2](https://zhuanlan.zhihu.com/p/566511151) | 2022-09-20 23:52:33 |
+| 16 | [图像预训练：BEIT](https://zhuanlan.zhihu.com/p/562957629) | 2022-09-09 16:28:43 |
+| 17 | [文本对抗之CLARE，BAE](https://zhuanlan.zhihu.com/p/552578652) | 2022-08-11 15:22:23 |
+| 18 | [文本对抗之BERT-Attack](https://zhuanlan.zhihu.com/p/551332459) | 2022-08-08 19:00:42 |
+| 19 | [文本对抗之TextFooler](https://zhuanlan.zhihu.com/p/548682666) | 2022-08-01 18:12:20 |
+| 20 | [稀疏Transformer（Sparse Transformer）](https://zhuanlan.zhihu.com/p/504609631) | 2022-04-25 11:54:02 |
+| 21 | [多模态预训练：DALL-E](https://zhuanlan.zhihu.com/p/480947973) | 2022-03-15 10:43:19 |
+| 22 | [多模态预训练CLIP](https://zhuanlan.zhihu.com/p/477760524) | 2022-03-08 19:51:55 |
+| 23 | [Pix2PixHD](https://zhuanlan.zhihu.com/p/467244077) | 2022-02-14 15:21:56 |
+| 24 | [图像翻译之Pix2Pix](https://zhuanlan.zhihu.com/p/464673225) | 2022-02-07 19:42:44 |
+| 25 | [重读FPN（Feature Pyramid Network）](https://zhuanlan.zhihu.com/p/460738972) | 2022-01-22 18:41:51 |
+| 26 | [ConvNeXt详解](https://zhuanlan.zhihu.com/p/459163188) | 2022-01-18 22:52:59 |
+| 27 | [多模态预训练ViLBERT](https://zhuanlan.zhihu.com/p/449421886) | 2021-12-24 15:16:09 |
+| 28 | [可逆Transformer：ReFormer](https://zhuanlan.zhihu.com/p/444384487) | 2021-12-12 17:09:35 |
+| 29 | [可逆残差网络RevNet](https://zhuanlan.zhihu.com/p/436621679) | 2021-11-23 12:05:40 |
+| 30 | [3D分割V-Net](https://zhuanlan.zhihu.com/p/431865940) | 2021-11-10 23:57:54 |
+| 31 | [BERT魔改II之BERT-WWM，SpanBERT，BART，MASS](https://zhuanlan.zhihu.com/p/430853441) | 2021-11-08 16:54:49 |
+| 32 | [模型结构搜索之RegNet](https://zhuanlan.zhihu.com/p/425558548) | 2021-10-25 18:33:17 |
+| 33 | [GAN详解](https://zhuanlan.zhihu.com/p/408766083) | 2021-09-09 21:10:23 |
+| 34 | [场景文字检测之EAST](https://zhuanlan.zhihu.com/p/401526609) | 2021-08-19 18:16:12 |
+| 35 | [Anchor-Free之FCOS](https://zhuanlan.zhihu.com/p/398796722) | 2021-08-11 20:37:12 |
+| 36 | [可变形卷积网络之DCN v1和DCN v2](https://zhuanlan.zhihu.com/p/395200094) | 2021-08-01 17:50:17 |
+| 37 | [Dropout详解](https://zhuanlan.zhihu.com/p/390990848) | 2021-07-19 11:19:13 |
+| 38 | [Vision Transformer 之 CSWin Transformer](https://zhuanlan.zhihu.com/p/388165447) | 2021-07-09 15:59:27 |
+| 39 | [Transformer目标检测之DETR](https://zhuanlan.zhihu.com/p/387102036) | 2021-07-06 14:30:49 |
+| 40 | [语义分割之Deeplab系列](https://zhuanlan.zhihu.com/p/385299424) | 2021-06-30 11:39:16 |
+| 41 | [人像抠图之Background Matting v2](https://zhuanlan.zhihu.com/p/381917042) | 2021-06-18 17:11:09 |
+| 42 | [NIC之Show Attend and Tell](https://zhuanlan.zhihu.com/p/380799029) | 2021-06-15 14:58:47 |
+| 43 | [语义分割之FCN](https://zhuanlan.zhihu.com/p/379325978) | 2021-06-09 21:04:47 |
+| 44 | [网络结构搜索之EfficientDet](https://zhuanlan.zhihu.com/p/377894403) | 2021-06-04 14:39:03 |
+| 45 | [骨干网络搜索之NAS-FPN](https://zhuanlan.zhihu.com/p/377039792) | 2021-06-01 16:13:55 |
+| 46 | [损失函数之Focal-EIoU Loss](https://zhuanlan.zhihu.com/p/375745293) | 2021-05-27 16:01:45 |
+| 47 | [损失函数之DIoU Loss和CIoU Loss](https://zhuanlan.zhihu.com/p/374907266) | 2021-05-24 19:53:50 |
+| 48 | [损失函数之GIoU Loss](https://zhuanlan.zhihu.com/p/374398128) | 2021-05-22 16:23:12 |
+| 49 | [双向融合：PANet](https://zhuanlan.zhihu.com/p/373907181) | 2021-05-20 17:47:17 |
+| 50 | [全连接？：MLP-Mixer](https://zhuanlan.zhihu.com/p/371738694) | 2021-05-12 16:45:22 |
+| 51 | [单阶段检测之YOLO v4](https://zhuanlan.zhihu.com/p/370460827) | 2021-05-07 18:45:59 |
+| 52 | [Anchor Free之CornerNet Lite](https://zhuanlan.zhihu.com/p/369144105) | 2021-04-30 18:37:32 |
+| 53 | [Anchor Free之CenterNet](https://zhuanlan.zhihu.com/p/368186188) | 2021-04-27 11:48:15 |
+| 54 | [Anchor Free之CornerNet](https://zhuanlan.zhihu.com/p/367215492) | 2021-04-23 15:01:00 |
+| 55 | [模型结构搜索之MobileNet v3](https://zhuanlan.zhihu.com/p/365119654) | 2021-04-15 16:43:18 |
+| 56 | [BERT魔改之MT-DNN，RoBERTa，XLM，ALBERT](https://zhuanlan.zhihu.com/p/363548937) | 2021-04-09 16:32:23 |
+| 57 | [模型搜索之EfficientNet v2](https://zhuanlan.zhihu.com/p/362767467) | 2021-04-06 22:34:39 |
+| 58 | [CV+Transformer之Swin Transformer](https://zhuanlan.zhihu.com/p/361366090) | 2021-03-31 17:46:08 |
+| 59 | [词向量之ERNIE（百度）和ERNIE 2.0](https://zhuanlan.zhihu.com/p/360351761) | 2021-03-27 16:23:45 |
+| 60 | [词向量之ERNIE-T（清华大学）](https://zhuanlan.zhihu.com/p/359379784) | 2021-03-23 22:21:09 |
+| 61 | [模型结构搜索之MNasNet](https://zhuanlan.zhihu.com/p/356625894) | 2021-03-12 18:25:49 |
+| 62 | [模型搜索之EfficientNet](https://zhuanlan.zhihu.com/p/355698666) | 2021-03-09 11:58:07 |
+| 63 | [词向量之XLNet](https://zhuanlan.zhihu.com/p/354886906) | 2021-03-05 18:01:53 |
+| 64 | [iGPT详解](https://zhuanlan.zhihu.com/p/352350329) | 2021-02-23 16:48:37 |
+| 65 | [DPN详解（Dual Path Networks）](https://zhuanlan.zhihu.com/p/351198007) | 2021-02-18 13:09:23 |
+| 66 | [预训练语言模型之GPT-1，GPT-2和GPT-3](https://zhuanlan.zhihu.com/p/350017443) | 2021-02-08 14:54:45 |
+| 67 | [词向量之ELMo](https://zhuanlan.zhihu.com/p/347775593) | 2021-01-28 21:04:00 |
+| 68 | [HAN详解（Heterogeneous graph attention network）](https://zhuanlan.zhihu.com/p/346658317) | 2021-01-24 17:34:32 |
+| 69 | [Attention 图解](https://zhuanlan.zhihu.com/p/342235515) | 2021-01-06 11:59:24 |
+| 70 | [GAT详解](https://zhuanlan.zhihu.com/p/339087706) | 2020-12-23 20:58:13 |
+| 71 | [GraphSAGE详解](https://zhuanlan.zhihu.com/p/336195862) | 2020-12-11 18:19:05 |
+| 72 | [详解Transformer-XL](https://zhuanlan.zhihu.com/p/271984518) | 2020-11-02 17:55:46 |
+| 73 | [基于Seq2Seq的公式识别引擎](https://zhuanlan.zhihu.com/p/183182208) | 2020-08-13 19:35:29 |
+| 74 | [Background Matting详解](https://zhuanlan.zhihu.com/p/148265115) | 2020-06-14 19:34:20 |
+| 75 | [MTL for OCR源码解析](https://zhuanlan.zhihu.com/p/109141910) | 2020-02-25 23:32:46 |
+| 76 | [OCR之Bi-STR](https://zhuanlan.zhihu.com/p/108909554) | 2020-02-24 22:10:05 |
+| 77 | [OCR之PixelLink](https://zhuanlan.zhihu.com/p/106798900) | 2020-02-13 23:53:37 |
+| 78 | [Image Caption: Show and Tell](https://zhuanlan.zhihu.com/p/92283673) | 2019-11-17 22:45:34 |
+| 79 | [模型优化之Switchable Normalization](https://zhuanlan.zhihu.com/p/57807576) | 2019-02-27 12:33:04 |
+| 80 | [AmoebaNet详解](https://zhuanlan.zhihu.com/p/57489362) | 2019-02-23 16:21:17 |
+| 81 | [文档分类之HAN](https://zhuanlan.zhihu.com/p/57126364) | 2019-02-19 16:03:08 |
+| 82 | [模型优化之Group Normalization](https://zhuanlan.zhihu.com/p/56613508) | 2019-02-13 16:42:43 |
+| 83 | [模型优化之Instance Normalization](https://zhuanlan.zhihu.com/p/56542480) | 2019-02-12 19:22:42 |
+| 84 | [图像风格迁移详解](https://zhuanlan.zhihu.com/p/55948352) | 2019-01-29 13:07:11 |
+| 85 | [RNN语言模型](https://zhuanlan.zhihu.com/p/55884752) | 2019-01-28 14:41:10 |
+| 86 | [模型优化之Weight Normalization](https://zhuanlan.zhihu.com/p/55102378) | 2019-01-17 16:25:54 |
+| 87 | [模型优化之Layer Normalization](https://zhuanlan.zhihu.com/p/54530247) | 2019-01-10 14:41:45 |
+| 88 | [模型优化之Batch Normalization](https://zhuanlan.zhihu.com/p/54171297) | 2019-01-06 14:54:01 |
+| 89 | [实例解析：12306验证码破解](https://zhuanlan.zhihu.com/p/53329216) | 2018-12-26 15:18:00 |
+| 90 | [卷积网络综述（从AlexNet到PNASNet）](https://zhuanlan.zhihu.com/p/53190433) | 2018-12-24 23:51:29 |
+| 91 | [PNASNet详解](https://zhuanlan.zhihu.com/p/52798148) | 2018-12-19 20:16:44 |
+| 92 | [NASNet详解](https://zhuanlan.zhihu.com/p/52616166) | 2018-12-17 20:50:55 |
+| 93 | [NAS详解](https://zhuanlan.zhihu.com/p/52471966) | 2018-12-15 19:21:04 |
+| 94 | [PolyNet详解](https://zhuanlan.zhihu.com/p/52138750) | 2018-12-11 18:27:26 |
+| 95 | [CondenseNet详解](https://zhuanlan.zhihu.com/p/52011716) | 2018-12-10 14:04:12 |
+| 96 | [ShuffNet v1 和 ShuffleNet v2](https://zhuanlan.zhihu.com/p/51566209) | 2018-12-04 18:54:29 |
+| 97 | [ResNeXt详解](https://zhuanlan.zhihu.com/p/51075096) | 2018-11-28 17:06:24 |
+| 98 | [Xception详解](https://zhuanlan.zhihu.com/p/50897945) | 2018-11-26 18:14:13 |
+| 99 | [MobileNet v1 和 MobileNet v2](https://zhuanlan.zhihu.com/p/50045821) | 2018-11-16 10:43:18 |
+| 100 | [SqueezeNet详解](https://zhuanlan.zhihu.com/p/49465950) | 2018-11-12 17:10:54 |
+| 101 | [物体检测之Focal Loss及RetinaNet](https://zhuanlan.zhihu.com/p/48958966) | 2018-11-08 16:39:12 |
+| 102 | [词向量之BERT](https://zhuanlan.zhihu.com/p/48612853) | 2018-11-05 16:41:21 |
+| 103 | [详解Transformer （Attention Is All You Need）](https://zhuanlan.zhihu.com/p/48508221) | 2018-11-04 15:25:46 |
+| 104 | [Squeeze-and-Excitation Networks](https://zhuanlan.zhihu.com/p/47494490) | 2018-10-23 22:47:19 |
+| 105 | [物体检测之SNIPER](https://zhuanlan.zhihu.com/p/46810110) | 2018-10-15 16:01:48 |
+| 106 | [OCR之RRPN](https://zhuanlan.zhihu.com/p/45507765) | 2018-09-27 19:27:38 |
+| 107 | [UnitBox详解](https://zhuanlan.zhihu.com/p/44323675) | 2018-09-12 09:19:37 |
+| 108 | [OCR之HMCP](https://zhuanlan.zhihu.com/p/44170391) | 2018-09-10 14:15:58 |
+| 109 | [人脸检测之DenseBox](https://zhuanlan.zhihu.com/p/44021975) | 2018-09-07 22:19:32 |
+| 110 | [图像分割之U-Net](https://zhuanlan.zhihu.com/p/43927696) | 2018-09-06 19:27:37 |
+| 111 | [边缘检测之HED](https://zhuanlan.zhihu.com/p/43600043) | 2018-09-03 10:41:16 |
+| 112 | [基于CNN的端到端文字检测与识别](https://zhuanlan.zhihu.com/p/43295656) | 2018-08-29 23:05:34 |
+| 113 | [物体检测历史](https://zhuanlan.zhihu.com/p/43211392) | 2018-08-29 08:52:17 |
+| 114 | [OCR之CTPN](https://zhuanlan.zhihu.com/p/43145228) | 2018-08-28 13:50:57 |
+| 115 | [OCR之RARE](https://zhuanlan.zhihu.com/p/43054073) | 2018-08-27 14:30:01 |
+| 116 | [OCR之Deep TextSpotter](https://zhuanlan.zhihu.com/p/43024857) | 2018-08-27 09:08:40 |
+| 117 | [OCR之DeepText](https://zhuanlan.zhihu.com/p/42868123) | 2018-08-24 15:56:21 |
+| 118 | [物体检测之YOLOv3](https://zhuanlan.zhihu.com/p/42865896) | 2018-08-24 15:40:17 |
+| 119 | [物体检测之YOLOv2](https://zhuanlan.zhihu.com/p/42861239) | 2018-08-24 15:26:50 |
+| 120 | [物体检测之R-FCN](https://zhuanlan.zhihu.com/p/42858039) | 2018-08-24 14:51:19 |
+| 121 | [物体检测之SSD](https://zhuanlan.zhihu.com/p/42795805) | 2018-08-23 21:30:45 |
+| 122 | [物体检测之YOLO](https://zhuanlan.zhihu.com/p/42772125) | 2018-08-23 15:38:53 |
+| 123 | [物体检测之MaskX R-CNN](https://zhuanlan.zhihu.com/p/42749621) | 2018-08-23 11:21:03 |
+| 124 | [物体检测之FPN及Mask R-CNN](https://zhuanlan.zhihu.com/p/42745788) | 2018-08-23 11:03:12 |
+| 125 | [物体检测之Faster R-CNN](https://zhuanlan.zhihu.com/p/42741973) | 2018-08-23 10:38:10 |
+| 126 | [物体检测之Fast R-CNN](https://zhuanlan.zhihu.com/p/42738847) | 2018-08-23 10:12:47 |
+| 127 | [物体检测之SPP-Net](https://zhuanlan.zhihu.com/p/42732128) | 2018-08-23 08:54:34 |
+| 128 | [物体检测之R-CNN](https://zhuanlan.zhihu.com/p/42731634) | 2018-08-23 08:40:33 |
+| 129 | [Attention in RNN](https://zhuanlan.zhihu.com/p/42724582) | 2018-08-23 00:03:15 |
+| 130 | [RNN Encoder-Decoder and GRU](https://zhuanlan.zhihu.com/p/42722623) | 2018-08-22 23:45:41 |
+| 131 | [详解CTC](https://zhuanlan.zhihu.com/p/42719047) | 2018-08-22 22:46:48 |
+| 132 | [详解LSTM](https://zhuanlan.zhihu.com/p/42717426) | 2018-08-22 22:14:36 |
+| 133 | [DenseNet](https://zhuanlan.zhihu.com/p/42708327) | 2018-08-22 19:41:59 |
+| 134 | [详解残差网络](https://zhuanlan.zhihu.com/p/42706477) | 2018-08-22 19:30:49 |
+| 135 | [GoogLeNet, Maxout and NIN](https://zhuanlan.zhihu.com/p/42704781) | 2018-08-22 19:04:58 |
+| 136 | [VGG](https://zhuanlan.zhihu.com/p/42695549) | 2018-08-22 17:23:22 |
+| 137 | [LeNet5 and AlexNet](https://zhuanlan.zhihu.com/p/42692344) | 2018-08-22 17:01:02 |
+| 138 | [Spatial Transformer Networks](https://zhuanlan.zhihu.com/p/42692080) | 2018-08-22 16:44:27 |
+
+
+## 北冥乘海生
+> 介绍： 大数据仁波切 公号“计算广告”(Comp_Ad),《计算广告》作者，微信公号“计算广告”。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [从手游到小游戏，“全场景增长”怎么做](https://zhuanlan.zhihu.com/p/680955792) | 2024-02-01 16:23:59 |
+| 2 | [打通公私域的科学化经营时代来了！](https://zhuanlan.zhihu.com/p/680258057) | 2024-01-29 08:41:49 |
+| 3 | [这6个词，为你照亮24年的商业化道路](https://zhuanlan.zhihu.com/p/678308579) | 2024-01-17 14:20:53 |
+| 4 | [用上GroMore智能管家，“躺平”也能多挣钱](https://zhuanlan.zhihu.com/p/677380743) | 2024-01-12 07:48:51 |
+| 5 | [AI 做的创意，是怎么比我们还懂生意的？](https://zhuanlan.zhihu.com/p/676935884) | 2024-01-10 08:36:47 |
+| 6 | [2024商业化新机：混合变现双赢之路](https://zhuanlan.zhihu.com/p/676351066) | 2024-01-06 10:14:48 |
+| 7 | [买量难+成本高，用户增长卷又卷不赢，躺也躺不平？](https://zhuanlan.zhihu.com/p/672128071) | 2023-12-14 08:43:07 |
+| 8 | [深度解析扬楫：AI广告引擎如何工作](https://zhuanlan.zhihu.com/p/669195330) | 2023-11-28 11:19:52 |
+| 9 | [厂商营销不止应用市场！](https://zhuanlan.zhihu.com/p/665265470) | 2023-11-06 11:00:03 |
+| 10 | [换个思路，撬动十倍增长！](https://zhuanlan.zhihu.com/p/651311663) | 2023-08-21 11:57:55 |
+| 11 | [游戏增长，不再是买量游戏！](https://zhuanlan.zhihu.com/p/650084427) | 2023-08-15 10:17:21 |
+| 12 | [版号常态化发放时代，游戏的“全生命周期智能增长”](https://zhuanlan.zhihu.com/p/642062862) | 2023-07-07 12:26:55 |
+| 13 | [生成式AI，将如何重塑营销？](https://zhuanlan.zhihu.com/p/639458943) | 2023-06-25 18:30:32 |
+| 14 | [裁掉的码农，不过是戏里的龙套](https://zhuanlan.zhihu.com/p/639124124) | 2023-06-24 07:42:29 |
+| 15 | [做营销，大模型真的有用么？](https://zhuanlan.zhihu.com/p/638626640) | 2023-06-21 10:26:50 |
+| 16 | [开发者青睐的变现平台，要有“专业性”](https://zhuanlan.zhihu.com/p/638349298) | 2023-06-20 09:56:07 |
+| 17 | [大模型只有"大"一条路吗？](https://zhuanlan.zhihu.com/p/632239395) | 2023-05-25 21:24:42 |
+| 18 | [巨量千川全面升级，助力商家高效经营](https://zhuanlan.zhihu.com/p/625697801) | 2023-04-29 19:33:17 |
+| 19 | [工具开发者的新春天，就要来了！](https://zhuanlan.zhihu.com/p/625313205) | 2023-04-27 12:04:47 |
+| 20 | [你卖的不是广告，是商品！](https://zhuanlan.zhihu.com/p/621331101) | 2023-04-12 14:33:22 |
+| 21 | [瑞士，扯下了"规矩"的底裤](https://zhuanlan.zhihu.com/p/619546283) | 2023-04-05 08:14:38 |
+| 22 | [巨量千川商品卡推广——抖音电商卖家的新型武器](https://zhuanlan.zhihu.com/p/615992105) | 2023-03-22 13:30:20 |
+| 23 | [ChatGPT吹牛逼大赛，谁能胜出？](https://zhuanlan.zhihu.com/p/606794506) | 2023-02-17 08:53:00 |
+| 24 | [2023，广告平台变迁的七大趋势](https://zhuanlan.zhihu.com/p/600014791) | 2023-01-19 12:41:34 |
+| 25 | [让变现“润物细无声”，优量汇与开发者的共同探索](https://zhuanlan.zhihu.com/p/596712522) | 2023-01-05 12:30:47 |
+| 26 | [增长变现一体化的利器，现在开放了！](https://zhuanlan.zhihu.com/p/592227720) | 2022-12-16 11:05:15 |
+| 27 | [广告营销怎样摆脱玄学？](https://zhuanlan.zhihu.com/p/574133871) | 2022-10-16 17:02:15 |
+| 28 | [🦊连线王玥波：互联网就是个江湖](https://zhuanlan.zhihu.com/p/567321399) | 2022-09-23 09:36:46 |
+| 29 | [全局一盘棋，聊聊投放一体化与降本增效](https://zhuanlan.zhihu.com/p/565815229) | 2022-09-19 09:35:25 |
+| 30 | [穿山甲大开放：从变现工具到商业生态](https://zhuanlan.zhihu.com/p/559610826) | 2022-08-30 21:33:49 |
+| 31 | [算法监管：碳与硅的博弈](https://zhuanlan.zhihu.com/p/539594213) | 2022-07-09 15:45:13 |
+| 32 | [千亿参数的广告模型，是怎样炼成的？](https://zhuanlan.zhihu.com/p/536607554) | 2022-07-02 09:43:53 |
+| 33 | [酒香怎破巷子深？从“激活七留双出价”看智能投放进展](https://zhuanlan.zhihu.com/p/535805558) | 2022-06-30 13:35:33 |
+| 34 | [你要润么？先想清几件事……](https://zhuanlan.zhihu.com/p/530177307) | 2022-06-17 17:30:02 |
+| 35 | [防疫长城背后的云端政务，强在何处？](https://zhuanlan.zhihu.com/p/501368650) | 2022-04-19 19:16:46 |
+| 36 | [数字营销正走向全域经营](https://zhuanlan.zhihu.com/p/462086755) | 2022-01-26 15:49:48 |
+| 37 | [2022，开发者变现的生机何在？](https://zhuanlan.zhihu.com/p/453868270) | 2022-01-06 10:06:24 |
+| 38 | [浓眉大眼的谷歌也“叛变”了么？从Adsense放弃二价谈起](https://zhuanlan.zhihu.com/p/431303589) | 2021-11-09 17:18:55 |
+| 39 | [许家印与袁世凯的信息茧房](https://zhuanlan.zhihu.com/p/420919999) | 2021-10-13 11:28:46 |
+| 40 | [产品经理的哲学三问](https://zhuanlan.zhihu.com/p/391144526) | 2021-07-19 18:49:05 |
+| 41 | [网服广告商品化——与广告主共创未来增长点](https://zhuanlan.zhihu.com/p/383168246) | 2021-06-23 11:05:47 |
+| 42 | [在大厂上班，你牛逼什么劲？](https://zhuanlan.zhihu.com/p/381381735) | 2021-06-17 08:42:23 |
+| 43 | [找准“增值”突破口，金融行业营销的“道”与“数”](https://zhuanlan.zhihu.com/p/381381047) | 2021-06-17 08:38:48 |
+| 44 | [数字营销服务，是独善其身还是百花齐放？](https://zhuanlan.zhihu.com/p/377083607) | 2021-06-02 08:47:10 |
+| 45 | [进击的315，没落的央视](https://zhuanlan.zhihu.com/p/360014075) | 2021-03-26 10:08:06 |
+| 46 | [广告主玩数据，有个大误区](https://zhuanlan.zhihu.com/p/354855285) | 2021-03-05 19:17:59 |
+| 47 | [我们做了个“自动卖货引擎”](https://zhuanlan.zhihu.com/p/352838841) | 2021-02-25 18:41:26 |
+| 48 | [粗放式增长过后，“分层拉活”正兴起](https://zhuanlan.zhihu.com/p/345854729) | 2021-01-21 08:31:27 |
+| 49 | [猝死码农的半生福报，垄断巨头的三把镰刀](https://zhuanlan.zhihu.com/p/343698356) | 2021-01-12 18:25:10 |
+| 50 | [白手起家的三条土豪路，你选哪条？](https://zhuanlan.zhihu.com/p/342569172) | 2021-01-07 18:36:03 |
+| 51 | [数据产品叫好不叫座，该如何破局](https://zhuanlan.zhihu.com/p/333797690) | 2020-12-08 20:52:56 |
+| 52 | [大公司，你不讲武德！](https://zhuanlan.zhihu.com/p/326415899) | 2020-12-03 08:16:45 |
+| 53 | [职业教育增长，正在“电商化”](https://zhuanlan.zhihu.com/p/321698462) | 2020-11-30 17:54:22 |
+| 54 | [蚂蚁市值25万亿？互联网的“后棚”买卖，你我都逃不过](https://zhuanlan.zhihu.com/p/270145476) | 2020-10-30 08:54:38 |
+| 55 | [源代码审查能否成为国际惯例？](https://zhuanlan.zhihu.com/p/262714971) | 2020-10-07 21:48:34 |
+| 56 | [从流量到增长，营销产品有何趋势？](https://zhuanlan.zhihu.com/p/259326552) | 2020-09-25 20:46:06 |
+| 57 | [广告优化是一门玄学么？](https://zhuanlan.zhihu.com/p/259319381) | 2020-09-25 16:58:12 |
+| 58 | [捉放Tiktok，特朗普摆了一场鸿门宴](https://zhuanlan.zhihu.com/p/257848222) | 2020-09-22 10:24:17 |
+| 59 | [听完吴声的演讲，我感觉智商梗阻了](https://zhuanlan.zhihu.com/p/200864904) | 2020-08-27 13:22:02 |
+| 60 | [干掉Tiktok只是打响了第一枪](https://zhuanlan.zhihu.com/p/171678325) | 2020-08-07 10:33:39 |
+| 61 | [腾讯广告终于迎来全面整合](https://zhuanlan.zhihu.com/p/157598675) | 2020-07-07 19:10:09 |
+| 62 | [KPI是怎样凑出来的？​](https://zhuanlan.zhihu.com/p/149048722) | 2020-06-17 21:38:52 |
+| 63 | [约炮，是权与利交易的剪彩仪式](https://zhuanlan.zhihu.com/p/136841705) | 2020-04-28 12:37:39 |
+| 64 | [平地抠饼型公司，CXO们怎么分工？](https://zhuanlan.zhihu.com/p/136635949) | 2020-04-27 11:10:37 |
+| 65 | [隐私保护，在法规以外更依赖技术](https://zhuanlan.zhihu.com/p/124242485) | 2020-04-03 18:22:54 |
+| 66 | [被谷歌剪掉命根子的出海应用，没几个冤枉的](https://zhuanlan.zhihu.com/p/115058740) | 2020-03-21 19:51:46 |
+| 67 | [谁家公司还没几个F4呢？](https://zhuanlan.zhihu.com/p/109610288) | 2020-02-28 08:01:31 |
+| 68 | [这场疫情，敲响了电影院线的丧钟](https://zhuanlan.zhihu.com/p/104218956) | 2020-01-28 20:54:18 |
+| 69 | [职场新人打怪升级，这两招最管用](https://zhuanlan.zhihu.com/p/101512522) | 2020-01-07 17:43:06 |
+| 70 | [愤青是怎样炼成的](https://zhuanlan.zhihu.com/p/100206004) | 2019-12-30 15:54:28 |
+| 71 | [真的有人想反作弊吗？](https://zhuanlan.zhihu.com/p/96832047) | 2019-12-11 20:24:09 |
+| 72 | [关于品效合一的经济学分析](https://zhuanlan.zhihu.com/p/89357055) | 2019-10-30 20:00:22 |
+| 73 | [天下产品一大抄](https://zhuanlan.zhihu.com/p/85878699) | 2019-10-10 11:29:59 |
+| 74 | [25岁的年轻人，要想清两件事](https://zhuanlan.zhihu.com/p/82028811) | 2019-09-10 20:33:12 |
+| 75 | [互联网贪腐见闻拾萃](https://zhuanlan.zhihu.com/p/80043942) | 2019-08-28 07:40:22 |
+| 76 | [一文搞懂互联网广告的计算原理](https://zhuanlan.zhihu.com/p/72092504) | 2019-07-04 19:59:29 |
+| 77 | [素质教育，让令郎输在受精卵上](https://zhuanlan.zhihu.com/p/68932145) | 2019-06-13 07:20:19 |
+| 78 | [深受读者爱戴的十大负能量雄文](https://zhuanlan.zhihu.com/p/65930682) | 2019-05-16 07:41:25 |
+| 79 | [996其实没什么卵用](https://zhuanlan.zhihu.com/p/62765114) | 2019-04-17 18:32:52 |
+| 80 | [愿你饱览群书，归来仍是屌丝](https://zhuanlan.zhihu.com/p/61294309) | 2019-04-03 17:55:08 |
+| 81 | [没事少听创业导师们瞎逼逼](https://zhuanlan.zhihu.com/p/57822418) | 2019-02-27 20:59:07 |
+| 82 | [后AI时代的没羞没臊生活指南](https://zhuanlan.zhihu.com/p/55568285) | 2019-01-23 21:50:54 |
+| 83 | [去中心化交易能比VISA还快么？](https://zhuanlan.zhihu.com/p/53290655) | 2018-12-26 18:48:29 |
+| 84 | [为什么外企有那么多奇葩老板？](https://zhuanlan.zhihu.com/p/45598789) | 2018-09-28 21:11:43 |
+| 85 | [互联网+拯救不了强哥奶茶的品味](https://zhuanlan.zhihu.com/p/43616415) | 2018-09-03 13:39:40 |
+| 86 | [为什么说大多数ICO都是诈骗？](https://zhuanlan.zhihu.com/p/43277632) | 2018-08-29 18:33:28 |
+| 87 | [码农四十不如狗](https://zhuanlan.zhihu.com/p/41416771) | 2018-08-06 22:20:22 |
+| 88 | [做劣币，挣大钱](https://zhuanlan.zhihu.com/p/38616374) | 2018-06-28 20:44:48 |
+| 89 | [图灵测试离我们还有多远？](https://zhuanlan.zhihu.com/p/37822983) | 2018-06-07 20:41:33 |
+| 90 | [我怀了谁的孩子？——一部安卓手机的情感史](https://zhuanlan.zhihu.com/p/37405708) | 2018-05-28 20:02:48 |
+| 91 | [如何迅速提高公司估值？](https://zhuanlan.zhihu.com/p/37171660) | 2018-05-22 21:21:31 |
+| 92 | [财务自由是个大骗局](https://zhuanlan.zhihu.com/p/36348981) | 2018-05-02 22:02:07 |
+| 93 | [怎样收智商税](https://zhuanlan.zhihu.com/p/35011033) | 2018-03-27 22:20:57 |
+| 94 | [勤劳致贫](https://zhuanlan.zhihu.com/p/34216349) | 2018-03-04 22:43:17 |
+| 95 | [2018，广告技术公司路在何方？](https://zhuanlan.zhihu.com/p/33272689) | 2018-01-25 09:51:48 |
+| 96 | [被叔叔猥亵，我有亲身经历](https://zhuanlan.zhihu.com/p/31769123) | 2017-12-06 22:12:09 |
+| 97 | [怎样在大公司混成中层干部？](https://zhuanlan.zhihu.com/p/31340026) | 2017-11-23 20:56:49 |
+| 98 | [产品狗的圣战](https://zhuanlan.zhihu.com/p/30219739) | 2017-10-18 09:04:17 |
+| 99 | [二十年前的北京四中到底哪里牛？](https://zhuanlan.zhihu.com/p/29838075) | 2017-10-01 21:26:07 |
+| 100 | [从薛之谦到林心如，大V们有多少僵尸粉？](https://zhuanlan.zhihu.com/p/29717228) | 2017-09-27 22:39:58 |
+| 101 | [从初夜权到在线广告——拍卖中的趣味与玄机](https://zhuanlan.zhihu.com/p/29486653) | 2017-09-19 22:47:37 |
+| 102 | [假装成功是成功之母——屌丝测不准原理](https://zhuanlan.zhihu.com/p/28954535) | 2017-08-31 20:10:54 |
+| 103 | [印度，一个盛产高管与狗的国度](https://zhuanlan.zhihu.com/p/28525835) | 2017-08-15 22:05:14 |
+| 104 | [为什么你挣钱比别人慢？——屌丝第一守恒定律](https://zhuanlan.zhihu.com/p/28141966) | 2017-07-27 22:10:35 |
+| 105 | [从马云斗王卫，看互联网的三场大战](https://zhuanlan.zhihu.com/p/27689900) | 2017-07-04 15:31:40 |
+| 106 | [20万、50万、100万的算法工程师，到底有什么区别？](https://zhuanlan.zhihu.com/p/27072134) | 2017-05-23 22:52:56 |
+| 107 | [魏方丹、李静思：下流才是内容创业的王道](https://zhuanlan.zhihu.com/p/26726280) | 2017-05-05 08:37:08 |
+| 108 | [月月灵欠的三千万广告费，小红还能要回来么？](https://zhuanlan.zhihu.com/p/26317826) | 2017-04-12 22:05:49 |
+| 109 | [局长私访售楼处，怒了！](https://zhuanlan.zhihu.com/p/26256090) | 2017-04-09 21:27:42 |
+| 110 | [一个大数据屌丝的一天](https://zhuanlan.zhihu.com/p/25897210) | 2017-03-22 22:06:31 |
+| 111 | [共享经济+坐台=？](https://zhuanlan.zhihu.com/p/25767529) | 2017-03-14 21:20:31 |
+| 112 | [手把手教你互联网流量作弊](https://zhuanlan.zhihu.com/p/25637455) | 2017-03-09 20:46:20 |
+| 113 | [Facebook的广告效果真的那么好么？](https://zhuanlan.zhihu.com/p/25504607) | 2017-03-01 17:45:40 |
+| 114 | [数据分析真的能驱动用户快速增长么？](https://zhuanlan.zhihu.com/p/21802698) | 2016-07-31 11:10:48 |
 
 
 ## 刘聪NLP
@@ -1201,126 +1322,6 @@ https://item.jd.com/13484669.html。
 | 111 | [论文阅读笔记：文本蕴含之DIIN](https://zhuanlan.zhihu.com/p/73526585) | 2019-07-20 09:24:39 |
 | 112 | [论文阅读笔记：文本蕴含之ESIM](https://zhuanlan.zhihu.com/p/73408108) | 2019-07-13 13:18:02 |
 | 113 | [论文阅读笔记：文本蕴含之BiMPM](https://zhuanlan.zhihu.com/p/72403578) | 2019-07-06 11:49:24 |
-
-
-## 北冥乘海生
-> 介绍： 大数据仁波切 公号“计算广告”(Comp_Ad),《计算广告》作者，微信公号“计算广告”。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [打通公私域的科学化经营时代来了！](https://zhuanlan.zhihu.com/p/680258057) | 2024-01-29 08:41:49 |
-| 2 | [这6个词，为你照亮24年的商业化道路](https://zhuanlan.zhihu.com/p/678308579) | 2024-01-17 14:20:53 |
-| 3 | [用上GroMore智能管家，“躺平”也能多挣钱](https://zhuanlan.zhihu.com/p/677380743) | 2024-01-12 07:48:51 |
-| 4 | [AI 做的创意，是怎么比我们还懂生意的？](https://zhuanlan.zhihu.com/p/676935884) | 2024-01-10 08:36:47 |
-| 5 | [2024商业化新机：混合变现双赢之路](https://zhuanlan.zhihu.com/p/676351066) | 2024-01-06 10:14:48 |
-| 6 | [买量难+成本高，用户增长卷又卷不赢，躺也躺不平？](https://zhuanlan.zhihu.com/p/672128071) | 2023-12-14 08:43:07 |
-| 7 | [深度解析扬楫：AI广告引擎如何工作](https://zhuanlan.zhihu.com/p/669195330) | 2023-11-28 11:19:52 |
-| 8 | [厂商营销不止应用市场！](https://zhuanlan.zhihu.com/p/665265470) | 2023-11-06 11:00:03 |
-| 9 | [换个思路，撬动十倍增长！](https://zhuanlan.zhihu.com/p/651311663) | 2023-08-21 11:57:55 |
-| 10 | [游戏增长，不再是买量游戏！](https://zhuanlan.zhihu.com/p/650084427) | 2023-08-15 10:17:21 |
-| 11 | [版号常态化发放时代，游戏的“全生命周期智能增长”](https://zhuanlan.zhihu.com/p/642062862) | 2023-07-07 12:26:55 |
-| 12 | [生成式AI，将如何重塑营销？](https://zhuanlan.zhihu.com/p/639458943) | 2023-06-25 18:30:32 |
-| 13 | [裁掉的码农，不过是戏里的龙套](https://zhuanlan.zhihu.com/p/639124124) | 2023-06-24 07:42:29 |
-| 14 | [做营销，大模型真的有用么？](https://zhuanlan.zhihu.com/p/638626640) | 2023-06-21 10:26:50 |
-| 15 | [开发者青睐的变现平台，要有“专业性”](https://zhuanlan.zhihu.com/p/638349298) | 2023-06-20 09:56:07 |
-| 16 | [大模型只有"大"一条路吗？](https://zhuanlan.zhihu.com/p/632239395) | 2023-05-25 21:24:42 |
-| 17 | [巨量千川全面升级，助力商家高效经营](https://zhuanlan.zhihu.com/p/625697801) | 2023-04-29 19:33:17 |
-| 18 | [工具开发者的新春天，就要来了！](https://zhuanlan.zhihu.com/p/625313205) | 2023-04-27 12:04:47 |
-| 19 | [你卖的不是广告，是商品！](https://zhuanlan.zhihu.com/p/621331101) | 2023-04-12 14:33:22 |
-| 20 | [瑞士，扯下了"规矩"的底裤](https://zhuanlan.zhihu.com/p/619546283) | 2023-04-05 08:14:38 |
-| 21 | [巨量千川商品卡推广——抖音电商卖家的新型武器](https://zhuanlan.zhihu.com/p/615992105) | 2023-03-22 13:30:20 |
-| 22 | [ChatGPT吹牛逼大赛，谁能胜出？](https://zhuanlan.zhihu.com/p/606794506) | 2023-02-17 08:53:00 |
-| 23 | [2023，广告平台变迁的七大趋势](https://zhuanlan.zhihu.com/p/600014791) | 2023-01-19 12:41:34 |
-| 24 | [让变现“润物细无声”，优量汇与开发者的共同探索](https://zhuanlan.zhihu.com/p/596712522) | 2023-01-05 12:30:47 |
-| 25 | [增长变现一体化的利器，现在开放了！](https://zhuanlan.zhihu.com/p/592227720) | 2022-12-16 11:05:15 |
-| 26 | [广告营销怎样摆脱玄学？](https://zhuanlan.zhihu.com/p/574133871) | 2022-10-16 17:02:15 |
-| 27 | [🦊连线王玥波：互联网就是个江湖](https://zhuanlan.zhihu.com/p/567321399) | 2022-09-23 09:36:46 |
-| 28 | [全局一盘棋，聊聊投放一体化与降本增效](https://zhuanlan.zhihu.com/p/565815229) | 2022-09-19 09:35:25 |
-| 29 | [穿山甲大开放：从变现工具到商业生态](https://zhuanlan.zhihu.com/p/559610826) | 2022-08-30 21:33:49 |
-| 30 | [算法监管：碳与硅的博弈](https://zhuanlan.zhihu.com/p/539594213) | 2022-07-09 15:45:13 |
-| 31 | [千亿参数的广告模型，是怎样炼成的？](https://zhuanlan.zhihu.com/p/536607554) | 2022-07-02 09:43:53 |
-| 32 | [酒香怎破巷子深？从“激活七留双出价”看智能投放进展](https://zhuanlan.zhihu.com/p/535805558) | 2022-06-30 13:35:33 |
-| 33 | [你要润么？先想清几件事……](https://zhuanlan.zhihu.com/p/530177307) | 2022-06-17 17:30:02 |
-| 34 | [防疫长城背后的云端政务，强在何处？](https://zhuanlan.zhihu.com/p/501368650) | 2022-04-19 19:16:46 |
-| 35 | [数字营销正走向全域经营](https://zhuanlan.zhihu.com/p/462086755) | 2022-01-26 15:49:48 |
-| 36 | [2022，开发者变现的生机何在？](https://zhuanlan.zhihu.com/p/453868270) | 2022-01-06 10:06:24 |
-| 37 | [浓眉大眼的谷歌也“叛变”了么？从Adsense放弃二价谈起](https://zhuanlan.zhihu.com/p/431303589) | 2021-11-09 17:18:55 |
-| 38 | [许家印与袁世凯的信息茧房](https://zhuanlan.zhihu.com/p/420919999) | 2021-10-13 11:28:46 |
-| 39 | [产品经理的哲学三问](https://zhuanlan.zhihu.com/p/391144526) | 2021-07-19 18:49:05 |
-| 40 | [网服广告商品化——与广告主共创未来增长点](https://zhuanlan.zhihu.com/p/383168246) | 2021-06-23 11:05:47 |
-| 41 | [在大厂上班，你牛逼什么劲？](https://zhuanlan.zhihu.com/p/381381735) | 2021-06-17 08:42:23 |
-| 42 | [找准“增值”突破口，金融行业营销的“道”与“数”](https://zhuanlan.zhihu.com/p/381381047) | 2021-06-17 08:38:48 |
-| 43 | [数字营销服务，是独善其身还是百花齐放？](https://zhuanlan.zhihu.com/p/377083607) | 2021-06-02 08:47:10 |
-| 44 | [进击的315，没落的央视](https://zhuanlan.zhihu.com/p/360014075) | 2021-03-26 10:08:06 |
-| 45 | [广告主玩数据，有个大误区](https://zhuanlan.zhihu.com/p/354855285) | 2021-03-05 19:17:59 |
-| 46 | [我们做了个“自动卖货引擎”](https://zhuanlan.zhihu.com/p/352838841) | 2021-02-25 18:41:26 |
-| 47 | [粗放式增长过后，“分层拉活”正兴起](https://zhuanlan.zhihu.com/p/345854729) | 2021-01-21 08:31:27 |
-| 48 | [猝死码农的半生福报，垄断巨头的三把镰刀](https://zhuanlan.zhihu.com/p/343698356) | 2021-01-12 18:25:10 |
-| 49 | [白手起家的三条土豪路，你选哪条？](https://zhuanlan.zhihu.com/p/342569172) | 2021-01-07 18:36:03 |
-| 50 | [数据产品叫好不叫座，该如何破局](https://zhuanlan.zhihu.com/p/333797690) | 2020-12-08 20:52:56 |
-| 51 | [大公司，你不讲武德！](https://zhuanlan.zhihu.com/p/326415899) | 2020-12-03 08:16:45 |
-| 52 | [职业教育增长，正在“电商化”](https://zhuanlan.zhihu.com/p/321698462) | 2020-11-30 17:54:22 |
-| 53 | [蚂蚁市值25万亿？互联网的“后棚”买卖，你我都逃不过](https://zhuanlan.zhihu.com/p/270145476) | 2020-10-30 08:54:38 |
-| 54 | [源代码审查能否成为国际惯例？](https://zhuanlan.zhihu.com/p/262714971) | 2020-10-07 21:48:34 |
-| 55 | [从流量到增长，营销产品有何趋势？](https://zhuanlan.zhihu.com/p/259326552) | 2020-09-25 20:46:06 |
-| 56 | [广告优化是一门玄学么？](https://zhuanlan.zhihu.com/p/259319381) | 2020-09-25 16:58:12 |
-| 57 | [捉放Tiktok，特朗普摆了一场鸿门宴](https://zhuanlan.zhihu.com/p/257848222) | 2020-09-22 10:24:17 |
-| 58 | [听完吴声的演讲，我感觉智商梗阻了](https://zhuanlan.zhihu.com/p/200864904) | 2020-08-27 13:22:02 |
-| 59 | [干掉Tiktok只是打响了第一枪](https://zhuanlan.zhihu.com/p/171678325) | 2020-08-07 10:33:39 |
-| 60 | [腾讯广告终于迎来全面整合](https://zhuanlan.zhihu.com/p/157598675) | 2020-07-07 19:10:09 |
-| 61 | [KPI是怎样凑出来的？​](https://zhuanlan.zhihu.com/p/149048722) | 2020-06-17 21:38:52 |
-| 62 | [约炮，是权与利交易的剪彩仪式](https://zhuanlan.zhihu.com/p/136841705) | 2020-04-28 12:37:39 |
-| 63 | [平地抠饼型公司，CXO们怎么分工？](https://zhuanlan.zhihu.com/p/136635949) | 2020-04-27 11:10:37 |
-| 64 | [隐私保护，在法规以外更依赖技术](https://zhuanlan.zhihu.com/p/124242485) | 2020-04-03 18:22:54 |
-| 65 | [被谷歌剪掉命根子的出海应用，没几个冤枉的](https://zhuanlan.zhihu.com/p/115058740) | 2020-03-21 19:51:46 |
-| 66 | [谁家公司还没几个F4呢？](https://zhuanlan.zhihu.com/p/109610288) | 2020-02-28 08:01:31 |
-| 67 | [这场疫情，敲响了电影院线的丧钟](https://zhuanlan.zhihu.com/p/104218956) | 2020-01-28 20:54:18 |
-| 68 | [职场新人打怪升级，这两招最管用](https://zhuanlan.zhihu.com/p/101512522) | 2020-01-07 17:43:06 |
-| 69 | [愤青是怎样炼成的](https://zhuanlan.zhihu.com/p/100206004) | 2019-12-30 15:54:28 |
-| 70 | [真的有人想反作弊吗？](https://zhuanlan.zhihu.com/p/96832047) | 2019-12-11 20:24:09 |
-| 71 | [关于品效合一的经济学分析](https://zhuanlan.zhihu.com/p/89357055) | 2019-10-30 20:00:22 |
-| 72 | [天下产品一大抄](https://zhuanlan.zhihu.com/p/85878699) | 2019-10-10 11:29:59 |
-| 73 | [25岁的年轻人，要想清两件事](https://zhuanlan.zhihu.com/p/82028811) | 2019-09-10 20:33:12 |
-| 74 | [互联网贪腐见闻拾萃](https://zhuanlan.zhihu.com/p/80043942) | 2019-08-28 07:40:22 |
-| 75 | [一文搞懂互联网广告的计算原理](https://zhuanlan.zhihu.com/p/72092504) | 2019-07-04 19:59:29 |
-| 76 | [素质教育，让令郎输在受精卵上](https://zhuanlan.zhihu.com/p/68932145) | 2019-06-13 07:20:19 |
-| 77 | [深受读者爱戴的十大负能量雄文](https://zhuanlan.zhihu.com/p/65930682) | 2019-05-16 07:41:25 |
-| 78 | [996其实没什么卵用](https://zhuanlan.zhihu.com/p/62765114) | 2019-04-17 18:32:52 |
-| 79 | [愿你饱览群书，归来仍是屌丝](https://zhuanlan.zhihu.com/p/61294309) | 2019-04-03 17:55:08 |
-| 80 | [没事少听创业导师们瞎逼逼](https://zhuanlan.zhihu.com/p/57822418) | 2019-02-27 20:59:07 |
-| 81 | [后AI时代的没羞没臊生活指南](https://zhuanlan.zhihu.com/p/55568285) | 2019-01-23 21:50:54 |
-| 82 | [去中心化交易能比VISA还快么？](https://zhuanlan.zhihu.com/p/53290655) | 2018-12-26 18:48:29 |
-| 83 | [为什么外企有那么多奇葩老板？](https://zhuanlan.zhihu.com/p/45598789) | 2018-09-28 21:11:43 |
-| 84 | [互联网+拯救不了强哥奶茶的品味](https://zhuanlan.zhihu.com/p/43616415) | 2018-09-03 13:39:40 |
-| 85 | [为什么说大多数ICO都是诈骗？](https://zhuanlan.zhihu.com/p/43277632) | 2018-08-29 18:33:28 |
-| 86 | [码农四十不如狗](https://zhuanlan.zhihu.com/p/41416771) | 2018-08-06 22:20:22 |
-| 87 | [做劣币，挣大钱](https://zhuanlan.zhihu.com/p/38616374) | 2018-06-28 20:44:48 |
-| 88 | [图灵测试离我们还有多远？](https://zhuanlan.zhihu.com/p/37822983) | 2018-06-07 20:41:33 |
-| 89 | [我怀了谁的孩子？——一部安卓手机的情感史](https://zhuanlan.zhihu.com/p/37405708) | 2018-05-28 20:02:48 |
-| 90 | [如何迅速提高公司估值？](https://zhuanlan.zhihu.com/p/37171660) | 2018-05-22 21:21:31 |
-| 91 | [财务自由是个大骗局](https://zhuanlan.zhihu.com/p/36348981) | 2018-05-02 22:02:07 |
-| 92 | [怎样收智商税](https://zhuanlan.zhihu.com/p/35011033) | 2018-03-27 22:20:57 |
-| 93 | [勤劳致贫](https://zhuanlan.zhihu.com/p/34216349) | 2018-03-04 22:43:17 |
-| 94 | [2018，广告技术公司路在何方？](https://zhuanlan.zhihu.com/p/33272689) | 2018-01-25 09:51:48 |
-| 95 | [被叔叔猥亵，我有亲身经历](https://zhuanlan.zhihu.com/p/31769123) | 2017-12-06 22:12:09 |
-| 96 | [怎样在大公司混成中层干部？](https://zhuanlan.zhihu.com/p/31340026) | 2017-11-23 20:56:49 |
-| 97 | [产品狗的圣战](https://zhuanlan.zhihu.com/p/30219739) | 2017-10-18 09:04:17 |
-| 98 | [二十年前的北京四中到底哪里牛？](https://zhuanlan.zhihu.com/p/29838075) | 2017-10-01 21:26:07 |
-| 99 | [从薛之谦到林心如，大V们有多少僵尸粉？](https://zhuanlan.zhihu.com/p/29717228) | 2017-09-27 22:39:58 |
-| 100 | [从初夜权到在线广告——拍卖中的趣味与玄机](https://zhuanlan.zhihu.com/p/29486653) | 2017-09-19 22:47:37 |
-| 101 | [假装成功是成功之母——屌丝测不准原理](https://zhuanlan.zhihu.com/p/28954535) | 2017-08-31 20:10:54 |
-| 102 | [印度，一个盛产高管与狗的国度](https://zhuanlan.zhihu.com/p/28525835) | 2017-08-15 22:05:14 |
-| 103 | [为什么你挣钱比别人慢？——屌丝第一守恒定律](https://zhuanlan.zhihu.com/p/28141966) | 2017-07-27 22:10:35 |
-| 104 | [从马云斗王卫，看互联网的三场大战](https://zhuanlan.zhihu.com/p/27689900) | 2017-07-04 15:31:40 |
-| 105 | [20万、50万、100万的算法工程师，到底有什么区别？](https://zhuanlan.zhihu.com/p/27072134) | 2017-05-23 22:52:56 |
-| 106 | [魏方丹、李静思：下流才是内容创业的王道](https://zhuanlan.zhihu.com/p/26726280) | 2017-05-05 08:37:08 |
-| 107 | [月月灵欠的三千万广告费，小红还能要回来么？](https://zhuanlan.zhihu.com/p/26317826) | 2017-04-12 22:05:49 |
-| 108 | [局长私访售楼处，怒了！](https://zhuanlan.zhihu.com/p/26256090) | 2017-04-09 21:27:42 |
-| 109 | [一个大数据屌丝的一天](https://zhuanlan.zhihu.com/p/25897210) | 2017-03-22 22:06:31 |
-| 110 | [共享经济+坐台=？](https://zhuanlan.zhihu.com/p/25767529) | 2017-03-14 21:20:31 |
-| 111 | [手把手教你互联网流量作弊](https://zhuanlan.zhihu.com/p/25637455) | 2017-03-09 20:46:20 |
-| 112 | [Facebook的广告效果真的那么好么？](https://zhuanlan.zhihu.com/p/25504607) | 2017-03-01 17:45:40 |
-| 113 | [数据分析真的能驱动用户快速增长么？](https://zhuanlan.zhihu.com/p/21802698) | 2016-07-31 11:10:48 |
 
 
 ## 鱼遇雨欲语与余
@@ -3418,6 +3419,24 @@ https://item.jd.com/13484669.html。
 | 11 | [Scrapy-Splash爬虫实战——爬取JS渲染的动态页面信息【附货币基金爬取筛选代码】](https://zhuanlan.zhihu.com/p/130867872) | 2020-04-17 07:26:52 |
 
 
+## 王峰
+> 介绍： http://happynear.wang/。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [远距离LiDAR感知](https://zhuanlan.zhihu.com/p/680707145) | 2024-01-31 23:37:08 |
+| 2 | [LiDAR R-CNN：一种快速、通用的二阶段3D检测器](https://zhuanlan.zhihu.com/p/359800738) | 2021-04-02 09:46:58 |
+| 3 | [Label Smoothing分析](https://zhuanlan.zhihu.com/p/302843504) | 2020-11-20 17:56:00 |
+| 4 | [Cross Entropy Regression](https://zhuanlan.zhihu.com/p/160122896) | 2020-07-15 21:56:23 |
+| 5 | [被忽略的Focal Loss变种](https://zhuanlan.zhihu.com/p/62314673) | 2019-04-13 17:40:28 |
+| 6 | [margin的自动化设置](https://zhuanlan.zhihu.com/p/62229855) | 2019-04-12 18:44:58 |
+| 7 | [Softmax理解之margin](https://zhuanlan.zhihu.com/p/52108088) | 2018-12-17 17:33:03 |
+| 8 | [Softmax理解之Smooth程度控制](https://zhuanlan.zhihu.com/p/49939159) | 2018-12-11 10:22:14 |
+| 9 | [Softmax理解之二分类与多分类](https://zhuanlan.zhihu.com/p/45368976) | 2018-09-26 15:12:44 |
+| 10 | [从最优化的角度看待Softmax损失函数](https://zhuanlan.zhihu.com/p/45014864) | 2018-09-25 17:06:05 |
+| 11 | [人脸识别数据集的身份重合问题](https://zhuanlan.zhihu.com/p/31968327) | 2017-12-13 14:51:12 |
+
+
 ## 黑猫白猫cutecat
 
 
@@ -3434,23 +3453,6 @@ https://item.jd.com/13484669.html。
 | 9 | [微软深度CTR预估模型xDeepFM：融合显式和隐式特征交互信息](https://zhuanlan.zhihu.com/p/403377718) | 2021-08-26 12:54:34 |
 | 10 | [淘宝推荐算法精排模型BST：Transformer建模用户行为序列](https://zhuanlan.zhihu.com/p/403372207) | 2021-08-25 12:02:42 |
 | 11 | [Google深度学习CTR预估模型DCN续集：DCN-v2](https://zhuanlan.zhihu.com/p/401904819) | 2021-08-20 18:20:16 |
-
-
-## 王峰
-> 介绍： http://happynear.wang/。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [LiDAR R-CNN：一种快速、通用的二阶段3D检测器](https://zhuanlan.zhihu.com/p/359800738) | 2021-04-02 09:46:58 |
-| 2 | [Label Smoothing分析](https://zhuanlan.zhihu.com/p/302843504) | 2020-11-20 17:56:00 |
-| 3 | [Cross Entropy Regression](https://zhuanlan.zhihu.com/p/160122896) | 2020-07-15 21:56:23 |
-| 4 | [被忽略的Focal Loss变种](https://zhuanlan.zhihu.com/p/62314673) | 2019-04-13 17:40:28 |
-| 5 | [margin的自动化设置](https://zhuanlan.zhihu.com/p/62229855) | 2019-04-12 18:44:58 |
-| 6 | [Softmax理解之margin](https://zhuanlan.zhihu.com/p/52108088) | 2018-12-17 17:33:03 |
-| 7 | [Softmax理解之Smooth程度控制](https://zhuanlan.zhihu.com/p/49939159) | 2018-12-11 10:22:14 |
-| 8 | [Softmax理解之二分类与多分类](https://zhuanlan.zhihu.com/p/45368976) | 2018-09-26 15:12:44 |
-| 9 | [从最优化的角度看待Softmax损失函数](https://zhuanlan.zhihu.com/p/45014864) | 2018-09-25 17:06:05 |
-| 10 | [人脸识别数据集的身份重合问题](https://zhuanlan.zhihu.com/p/31968327) | 2017-12-13 14:51:12 |
 
 
 ## arXivDaily
