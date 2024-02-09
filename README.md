@@ -25,22 +25,21 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-02-01 ~ 2024-02-08), 本周报更新时间:2024-02-08 23:33:20
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-02-02 ~ 2024-02-09), 本周报更新时间:2024-02-09 22:34:15
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [粗排系列汇总](https://zhuanlan.zhihu.com/p/681808861) | 亦一 | 2024-02-07 19:03:50 |
-| 2 | [计算机视觉算法，难以落地无人机航拍应用，why？](https://zhuanlan.zhihu.com/p/681694142) | JioNLP团队 | 2024-02-06 19:57:51 |
-| 3 | [图解大模型训练系列之：DeepSpeed-Megatron MoE并行训练（源码解读篇）](https://zhuanlan.zhihu.com/p/681692152) | 猛猿 | 2024-02-06 19:41:07 |
-| 4 | [ICDE2023推荐系统论文整理](https://zhuanlan.zhihu.com/p/681620265) | 机器学习推荐算法 | 2024-02-06 10:48:52 |
-| 5 | [我们发布了WeShop商拍1.5版----分享一些最近的思考](https://zhuanlan.zhihu.com/p/680507675) | 吴海波 | 2024-02-05 20:28:10 |
-| 6 | [吴恩达来信：这个世界需要智能](https://zhuanlan.zhihu.com/p/681480265) | 吴恩达 | 2024-02-05 11:16:41 |
-| 7 | [商业化策略产品必读系列之穿山甲RTA策略（Real Time API）](https://zhuanlan.zhihu.com/p/681257847) | 策略产品Arthur | 2024-02-03 17:27:58 |
-| 8 | [兼顾降本增效，StarRocks 3.0 关于存算这对CP分离的最佳"姿势"](https://zhuanlan.zhihu.com/p/681149648) | DataFunTalk | 2024-02-02 20:00:12 |
-| 9 | [图解大模型训练系列之：DeepSpeed-Megatron MoE并行训练（原理篇）](https://zhuanlan.zhihu.com/p/681154742) | 猛猿 | 2024-02-02 19:04:20 |
-| 10 | [AB实验「坑」贼多？腾讯搜索实验有妙招！](https://zhuanlan.zhihu.com/p/680874317) | DataFunTalk | 2024-02-02 18:02:18 |
-| 11 | [AFT（Attention Free Transformer ）详解](https://zhuanlan.zhihu.com/p/680983091) | 大师兄 | 2024-02-01 19:00:53 |
-| 12 | [从手游到小游戏，“全场景增长”怎么做](https://zhuanlan.zhihu.com/p/680955792) | 北冥乘海生 | 2024-02-01 16:23:59 |
+| 1 | [《西游记》本就是一场大型真人秀](https://zhuanlan.zhihu.com/p/681979928) | JioNLP团队 | 2024-02-09 21:45:02 |
+| 2 | [粗排系列汇总](https://zhuanlan.zhihu.com/p/681808861) | 亦一 | 2024-02-07 19:03:50 |
+| 3 | [计算机视觉算法，难以落地无人机航拍应用，why？](https://zhuanlan.zhihu.com/p/681694142) | JioNLP团队 | 2024-02-06 19:57:51 |
+| 4 | [图解大模型训练系列之：DeepSpeed-Megatron MoE并行训练（源码解读篇）](https://zhuanlan.zhihu.com/p/681692152) | 猛猿 | 2024-02-06 19:41:07 |
+| 5 | [ICDE2023推荐系统论文整理](https://zhuanlan.zhihu.com/p/681620265) | 机器学习推荐算法 | 2024-02-06 10:48:52 |
+| 6 | [我们发布了WeShop商拍1.5版----分享一些最近的思考](https://zhuanlan.zhihu.com/p/680507675) | 吴海波 | 2024-02-05 20:28:10 |
+| 7 | [吴恩达来信：这个世界需要智能](https://zhuanlan.zhihu.com/p/681480265) | 吴恩达 | 2024-02-05 11:16:41 |
+| 8 | [商业化策略产品必读系列之穿山甲RTA策略（Real Time API）](https://zhuanlan.zhihu.com/p/681257847) | 策略产品Arthur | 2024-02-03 17:27:58 |
+| 9 | [兼顾降本增效，StarRocks 3.0 关于存算这对CP分离的最佳"姿势"](https://zhuanlan.zhihu.com/p/681149648) | DataFunTalk | 2024-02-02 20:00:12 |
+| 10 | [图解大模型训练系列之：DeepSpeed-Megatron MoE并行训练（原理篇）](https://zhuanlan.zhihu.com/p/681154742) | 猛猿 | 2024-02-02 19:04:20 |
+| 11 | [AB实验「坑」贼多？腾讯搜索实验有妙招！](https://zhuanlan.zhihu.com/p/680874317) | DataFunTalk | 2024-02-02 18:02:18 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -80,11 +79,11 @@
   * [大林](#大林)
   * [Keep Learning](#keep-learning)
   * [姚凯飞](#姚凯飞)(喜欢数学的算法工程师,码农，欢迎关注我的微信公众号: data_al...)
+  * [JioNLP团队](#jionlp团队)(开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp...)
   * [Ostrich](#ostrich)(厚积薄发,分享互联网技术和成长经验。...)
   * [Young](#young)(公众号【Young样说】探索前沿有趣的科技AI见闻,- 清华大学本科...)
   * [冯伟](#冯伟)(推荐系统,混迹推荐系统的小码农。...)
   * [杨旭东](#杨旭东)
-  * [JioNLP团队](#jionlp团队)(开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp...)
   * [iwtbs](#iwtbs)(公众号：推荐广告算法小木屋,推荐算法工程师。...)
   * [萧瑟](#萧瑟)(王哲，广告/推荐/深度学习/NLP，知乎专栏：炼丹实验室,http:...)
   * [一两赘肉无](#一两赘肉无)(和鲸社区运营，heywhale.com,...)
@@ -2988,6 +2987,36 @@ https://item.jd.com/13484669.html。
 | 26 | [【零.前言】](https://zhuanlan.zhihu.com/p/56889793) | 2019-02-16 18:13:33 |
 
 
+## JioNLP团队
+> 介绍： 开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp团队，微信公众号：JioNLP，开源软件 JioNLP 同名在Github。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [《西游记》本就是一场大型真人秀](https://zhuanlan.zhihu.com/p/681979928) | 2024-02-09 21:45:02 |
+| 2 | [计算机视觉算法，难以落地无人机航拍应用，why？](https://zhuanlan.zhihu.com/p/681694142) | 2024-02-06 19:57:51 |
+| 3 | [从00后整顿职场看2023年出生人口数](https://zhuanlan.zhihu.com/p/678406339) | 2024-01-17 22:04:13 |
+| 4 | [花了三周，我又更新了一版开源软件 ffio](https://zhuanlan.zhihu.com/p/678141936) | 2024-01-16 16:33:52 |
+| 5 | [JioNLP 的 2023 年终总结，再立新一年的 flag](https://zhuanlan.zhihu.com/p/675313722) | 2023-12-30 12:17:33 |
+| 6 | [给大模型LLM评测画一个句号](https://zhuanlan.zhihu.com/p/671636095) | 2023-12-11 18:01:55 |
+| 7 | [如何优雅地自动评测 LLM 模型质量](https://zhuanlan.zhihu.com/p/666001842) | 2023-11-09 19:03:40 |
+| 8 | [简单预测一下2023年出生人口：847万](https://zhuanlan.zhihu.com/p/661352837) | 2023-10-14 23:06:49 |
+| 9 | [GPT4 图像理解能力体验](https://zhuanlan.zhihu.com/p/659881445) | 2023-10-07 13:57:04 |
+| 10 | [花了两周，我又整了个开源软件 pyFFmpeg](https://zhuanlan.zhihu.com/p/657414446) | 2023-09-20 16:46:42 |
+| 11 | [炮打学而思的 MathGPT](https://zhuanlan.zhihu.com/p/653363072) | 2023-08-30 20:08:02 |
+| 12 | [上帝在嘲笑 CEC-IDE](https://zhuanlan.zhihu.com/p/652569225) | 2023-08-26 23:28:16 |
+| 13 | [大语言模型LLM可以解决数学问题吗？](https://zhuanlan.zhihu.com/p/649011394) | 2023-08-09 17:28:59 |
+| 14 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | 2023-07-19 10:15:58 |
+| 15 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型（二）](https://zhuanlan.zhihu.com/p/631532268) | 2023-05-23 14:13:54 |
+| 16 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型](https://zhuanlan.zhihu.com/p/626786797) | 2023-05-04 20:56:11 |
+| 17 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | 2023-03-29 11:03:23 |
+| 18 | [ChatGPT、人口出生率与经济危机](https://zhuanlan.zhihu.com/p/609959260) | 2023-02-27 22:47:50 |
+| 19 | [ChatGPT这么强，会影响NLPer的就业环境吗](https://zhuanlan.zhihu.com/p/605673596) | 2023-02-12 16:14:44 |
+| 20 | [避坑一个JIT库numba](https://zhuanlan.zhihu.com/p/598260970) | 2023-01-11 15:03:42 |
+| 21 | [未来人工智能畅想——从ChatGPT想到的](https://zhuanlan.zhihu.com/p/591210118) | 2022-12-12 14:45:21 |
+| 22 | [一文读懂ChatGPT模型原理](https://zhuanlan.zhihu.com/p/589621442) | 2022-12-06 14:15:38 |
+| 23 | [JioNLP 数据分享，来看看这里有没有你想要的数据集](https://zhuanlan.zhihu.com/p/587630337) | 2022-11-29 10:38:47 |
+
+
 ## Ostrich
 > 介绍： 厚积薄发,分享互联网技术和成长经验。
 
@@ -3107,35 +3136,6 @@ https://item.jd.com/13484669.html。
 | 20 | [推荐模型离线评测效果好，线上效果却不佳的原因](https://zhuanlan.zhihu.com/p/510067184) | 2022-05-06 11:25:14 |
 | 21 | [推荐算法效果不佳时的检查清单](https://zhuanlan.zhihu.com/p/479267766) | 2022-03-11 13:25:02 |
 | 22 | [冷启动推荐模型DropoutNet深度解析与改进](https://zhuanlan.zhihu.com/p/475117993) | 2022-03-03 10:55:20 |
-
-
-## JioNLP团队
-> 介绍： 开源JioNLP千星作者，公众号JioNLP，数据分析,jionlp团队，微信公众号：JioNLP，开源软件 JioNLP 同名在Github。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [计算机视觉算法，难以落地无人机航拍应用，why？](https://zhuanlan.zhihu.com/p/681694142) | 2024-02-06 19:57:51 |
-| 2 | [从00后整顿职场看2023年出生人口数](https://zhuanlan.zhihu.com/p/678406339) | 2024-01-17 22:04:13 |
-| 3 | [花了三周，我又更新了一版开源软件 ffio](https://zhuanlan.zhihu.com/p/678141936) | 2024-01-16 16:33:52 |
-| 4 | [JioNLP 的 2023 年终总结，再立新一年的 flag](https://zhuanlan.zhihu.com/p/675313722) | 2023-12-30 12:17:33 |
-| 5 | [给大模型LLM评测画一个句号](https://zhuanlan.zhihu.com/p/671636095) | 2023-12-11 18:01:55 |
-| 6 | [如何优雅地自动评测 LLM 模型质量](https://zhuanlan.zhihu.com/p/666001842) | 2023-11-09 19:03:40 |
-| 7 | [简单预测一下2023年出生人口：847万](https://zhuanlan.zhihu.com/p/661352837) | 2023-10-14 23:06:49 |
-| 8 | [GPT4 图像理解能力体验](https://zhuanlan.zhihu.com/p/659881445) | 2023-10-07 13:57:04 |
-| 9 | [花了两周，我又整了个开源软件 pyFFmpeg](https://zhuanlan.zhihu.com/p/657414446) | 2023-09-20 16:46:42 |
-| 10 | [炮打学而思的 MathGPT](https://zhuanlan.zhihu.com/p/653363072) | 2023-08-30 20:08:02 |
-| 11 | [上帝在嘲笑 CEC-IDE](https://zhuanlan.zhihu.com/p/652569225) | 2023-08-26 23:28:16 |
-| 12 | [大语言模型LLM可以解决数学问题吗？](https://zhuanlan.zhihu.com/p/649011394) | 2023-08-09 17:28:59 |
-| 13 | [裁员潮下，我拒绝了120万年薪的Offer](https://zhuanlan.zhihu.com/p/644478847) | 2023-07-19 10:15:58 |
-| 14 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型（二）](https://zhuanlan.zhihu.com/p/631532268) | 2023-05-23 14:13:54 |
-| 15 | [出一份试题，评测国内各种对标 ChatGPT 的大语言模型](https://zhuanlan.zhihu.com/p/626786797) | 2023-05-04 20:56:11 |
-| 16 | [评价一下国内的类ChatGPT产品](https://zhuanlan.zhihu.com/p/617874265) | 2023-03-29 11:03:23 |
-| 17 | [ChatGPT、人口出生率与经济危机](https://zhuanlan.zhihu.com/p/609959260) | 2023-02-27 22:47:50 |
-| 18 | [ChatGPT这么强，会影响NLPer的就业环境吗](https://zhuanlan.zhihu.com/p/605673596) | 2023-02-12 16:14:44 |
-| 19 | [避坑一个JIT库numba](https://zhuanlan.zhihu.com/p/598260970) | 2023-01-11 15:03:42 |
-| 20 | [未来人工智能畅想——从ChatGPT想到的](https://zhuanlan.zhihu.com/p/591210118) | 2022-12-12 14:45:21 |
-| 21 | [一文读懂ChatGPT模型原理](https://zhuanlan.zhihu.com/p/589621442) | 2022-12-06 14:15:38 |
-| 22 | [JioNLP 数据分享，来看看这里有没有你想要的数据集](https://zhuanlan.zhihu.com/p/587630337) | 2022-11-29 10:38:47 |
 
 
 ## iwtbs
