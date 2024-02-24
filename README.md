@@ -25,36 +25,37 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-02-16 ~ 2024-02-23), 本周报更新时间:2024-02-23 23:33:06
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-02-17 ~ 2024-02-24), 本周报更新时间:2024-02-24 22:33:45
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [DiT详解](https://zhuanlan.zhihu.com/p/683612528) | 大师兄 | 2024-02-23 17:28:45 |
-| 2 | [24年最新资料《Agent技能实践地图2.0》下载地址来啦！](https://zhuanlan.zhihu.com/p/683594315) | DataFunTalk | 2024-02-23 16:02:54 |
-| 3 | [紧跟着 Sora，搞 AI 的大厂都纷纷坐不住了。就在深夜，Stability AI 放出了 SD3，文字控制效果炸裂](https://zhuanlan.zhihu.com/p/683588424) | 大林 | 2024-02-23 15:44:48 |
-| 4 | [生成式AI在育碧3A游戏图像生成的实践应用](https://zhuanlan.zhihu.com/p/683559725) | DataFunTalk | 2024-02-23 13:54:44 |
-| 5 | [WWW2024推荐系统论文整理，包括大模型/跨域/序列/可信推荐等热门主题](https://zhuanlan.zhihu.com/p/683516906) | 机器学习推荐算法 | 2024-02-23 10:16:36 |
-| 6 | [谷歌刚刚发布开源大语言模型 Gemma，对标LLAMA2，汇总大家关注的一些问题](https://zhuanlan.zhihu.com/p/683413607) | 大林 | 2024-02-22 17:36:15 |
-| 7 | [吴恩达来信：AI企业家们的三个主题](https://zhuanlan.zhihu.com/p/683387104) | 吴恩达 | 2024-02-22 15:06:00 |
-| 8 | [下载地址来啦！下载破万的《大模型与推荐知识地图》2.0版](https://zhuanlan.zhihu.com/p/683377965) | DataFunTalk | 2024-02-22 14:25:10 |
-| 9 | [快手推荐系统海量模型数据处理实践](https://zhuanlan.zhihu.com/p/683223601) | DataFunTalk | 2024-02-22 08:30:04 |
-| 10 | [京东, 招推荐算法实习生, 有顶会论文发表机会](https://zhuanlan.zhihu.com/p/683295333) | Houye | 2024-02-22 05:01:51 |
-| 11 | [openAI文生视频sora的技术核心是什么？将会对哪些行业产生影响？](https://zhuanlan.zhihu.com/p/682999379) | 琦琦 | 2024-02-21 22:38:20 |
-| 12 | [vivo 大模型从训练到产品落地的最佳实践](https://zhuanlan.zhihu.com/p/683222143) | DataFunTalk | 2024-02-21 18:30:15 |
-| 13 | [LDM（Latent Diffusion Model）详解](https://zhuanlan.zhihu.com/p/683237596) | 大师兄 | 2024-02-21 17:57:38 |
-| 14 | [字节基于用户画像标签的分析及业务场景应用](https://zhuanlan.zhihu.com/p/683220155) | DataFunTalk | 2024-02-21 16:37:48 |
-| 15 | [免费资源来啦！《大模型微调方案设计&能力整合知识地图2.0》](https://zhuanlan.zhihu.com/p/683218355) | DataFunTalk | 2024-02-21 16:31:40 |
-| 16 | [知识盛宴：探秘LLMs、Sora和LWM的神奇世界](https://zhuanlan.zhihu.com/p/672633137) | sliderSun | 2024-02-21 13:17:31 |
-| 17 | [加上AI音频的Sora视频终于有了灵魂](https://zhuanlan.zhihu.com/p/683061623) | 大林 | 2024-02-20 19:22:13 |
-| 18 | [字节跳动数据集成引擎 BitSail 开源架构演进和实践](https://zhuanlan.zhihu.com/p/683061590) | DataFunTalk | 2024-02-20 19:06:08 |
-| 19 | [如何提升Agent角色扮演能力](https://zhuanlan.zhihu.com/p/682961096) | DataFunTalk | 2024-02-20 11:06:52 |
-| 20 | [高性能 LLM 推理框架的设计与实现](https://zhuanlan.zhihu.com/p/682872971) | DataFunTalk | 2024-02-19 18:51:50 |
-| 21 | [WeShop 2023秋冬季客户案例精选](https://zhuanlan.zhihu.com/p/682839180) | 吴海波 | 2024-02-19 16:41:27 |
-| 22 | [快手短视频推荐中的因果推断实践](https://zhuanlan.zhihu.com/p/682817867) | DataFunTalk | 2024-02-19 14:52:50 |
-| 23 | [新年杂感：从4号坦克谈到大模型与NFT](https://zhuanlan.zhihu.com/p/682757607) | 石塔西 | 2024-02-19 09:57:43 |
-| 24 | [为什么 OpenAI 能够制作出 GPT 和 Sora？](https://zhuanlan.zhihu.com/p/682755956) | JioNLP团队 | 2024-02-19 09:53:32 |
-| 25 | [拼多多的“坏”、“好”、“猛”以及国内电商未来格局](https://zhuanlan.zhihu.com/p/682480095) | King James | 2024-02-18 07:22:48 |
-| 26 | [Sora技术报告——世界模拟器](https://zhuanlan.zhihu.com/p/682549750) | 绝密伏击 | 2024-02-17 22:19:11 |
+| 1 | [Sora最新视频，一骑绝尘](https://zhuanlan.zhihu.com/p/683727780) | 大林 | 2024-02-24 15:43:54 |
+| 2 | [DiT详解](https://zhuanlan.zhihu.com/p/683612528) | 大师兄 | 2024-02-23 17:28:45 |
+| 3 | [24年最新资料《Agent技能实践地图2.0》下载地址来啦！](https://zhuanlan.zhihu.com/p/683594315) | DataFunTalk | 2024-02-23 16:02:54 |
+| 4 | [紧跟着 Sora，搞 AI 的大厂都纷纷坐不住了。就在深夜，Stability AI 放出了 SD3，文字控制效果炸裂](https://zhuanlan.zhihu.com/p/683588424) | 大林 | 2024-02-23 15:44:48 |
+| 5 | [生成式AI在育碧3A游戏图像生成的实践应用](https://zhuanlan.zhihu.com/p/683559725) | DataFunTalk | 2024-02-23 13:54:44 |
+| 6 | [WWW2024推荐系统论文整理，包括大模型/跨域/序列/可信推荐等热门主题](https://zhuanlan.zhihu.com/p/683516906) | 机器学习推荐算法 | 2024-02-23 10:16:36 |
+| 7 | [谷歌刚刚发布开源大语言模型 Gemma，对标LLAMA2，汇总大家关注的一些问题](https://zhuanlan.zhihu.com/p/683413607) | 大林 | 2024-02-22 17:36:15 |
+| 8 | [吴恩达来信：AI企业家们的三个主题](https://zhuanlan.zhihu.com/p/683387104) | 吴恩达 | 2024-02-22 15:06:00 |
+| 9 | [下载地址来啦！下载破万的《大模型与推荐知识地图》2.0版](https://zhuanlan.zhihu.com/p/683377965) | DataFunTalk | 2024-02-22 14:25:10 |
+| 10 | [快手推荐系统海量模型数据处理实践](https://zhuanlan.zhihu.com/p/683223601) | DataFunTalk | 2024-02-22 08:30:04 |
+| 11 | [京东, 招推荐算法实习生, 有顶会论文发表机会](https://zhuanlan.zhihu.com/p/683295333) | Houye | 2024-02-22 05:01:51 |
+| 12 | [openAI文生视频sora的技术核心是什么？将会对哪些行业产生影响？](https://zhuanlan.zhihu.com/p/682999379) | 琦琦 | 2024-02-21 22:38:20 |
+| 13 | [vivo 大模型从训练到产品落地的最佳实践](https://zhuanlan.zhihu.com/p/683222143) | DataFunTalk | 2024-02-21 18:30:15 |
+| 14 | [LDM（Latent Diffusion Model）详解](https://zhuanlan.zhihu.com/p/683237596) | 大师兄 | 2024-02-21 17:57:38 |
+| 15 | [字节基于用户画像标签的分析及业务场景应用](https://zhuanlan.zhihu.com/p/683220155) | DataFunTalk | 2024-02-21 16:37:48 |
+| 16 | [免费资源来啦！《大模型微调方案设计&能力整合知识地图2.0》](https://zhuanlan.zhihu.com/p/683218355) | DataFunTalk | 2024-02-21 16:31:40 |
+| 17 | [知识盛宴：探秘LLMs、Sora和LWM的神奇世界](https://zhuanlan.zhihu.com/p/672633137) | sliderSun | 2024-02-21 13:17:31 |
+| 18 | [加上AI音频的Sora视频终于有了灵魂](https://zhuanlan.zhihu.com/p/683061623) | 大林 | 2024-02-20 19:22:13 |
+| 19 | [字节跳动数据集成引擎 BitSail 开源架构演进和实践](https://zhuanlan.zhihu.com/p/683061590) | DataFunTalk | 2024-02-20 19:06:08 |
+| 20 | [如何提升Agent角色扮演能力](https://zhuanlan.zhihu.com/p/682961096) | DataFunTalk | 2024-02-20 11:06:52 |
+| 21 | [高性能 LLM 推理框架的设计与实现](https://zhuanlan.zhihu.com/p/682872971) | DataFunTalk | 2024-02-19 18:51:50 |
+| 22 | [WeShop 2023秋冬季客户案例精选](https://zhuanlan.zhihu.com/p/682839180) | 吴海波 | 2024-02-19 16:41:27 |
+| 23 | [快手短视频推荐中的因果推断实践](https://zhuanlan.zhihu.com/p/682817867) | DataFunTalk | 2024-02-19 14:52:50 |
+| 24 | [新年杂感：从4号坦克谈到大模型与NFT](https://zhuanlan.zhihu.com/p/682757607) | 石塔西 | 2024-02-19 09:57:43 |
+| 25 | [为什么 OpenAI 能够制作出 GPT 和 Sora？](https://zhuanlan.zhihu.com/p/682755956) | JioNLP团队 | 2024-02-19 09:53:32 |
+| 26 | [拼多多的“坏”、“好”、“猛”以及国内电商未来格局](https://zhuanlan.zhihu.com/p/682480095) | King James | 2024-02-18 07:22:48 |
+| 27 | [Sora技术报告——世界模拟器](https://zhuanlan.zhihu.com/p/682549750) | 绝密伏击 | 2024-02-17 22:19:11 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -85,9 +86,9 @@
   * [张俊林](#张俊林)(你所不知道的事,Heil Hydra！嗯。...)
   * [King James](#king-james)(公众号：KingJames讲策略，算法出身的策略产品；,1. 专注于...)
   * [李沐](#李沐)(https://github.com/mli。...)
+  * [大林](#大林)
   * [猛猿](#猛猿)(公众号：大猿搬砖简记,学习和职业历程：
 会计➡️算法➡️大数据➡️算...)
-  * [大林](#大林)
   * [何枝](#何枝)(欣赏每一个用逻辑阐述观点的人，不喜欢无论据的情绪输出。,笑一个吧，功...)
   * [潘润琦](#潘润琦)(一只菜鸡 木有学上,...)
   * [衣介书生](#衣介书生)(打工人，公众号：后厂村搬砖工，欢迎关注,#打工人 #互联网 #推荐算...)
@@ -2739,6 +2740,44 @@ https://item.jd.com/13484669.html。
 | 32 | [一起动手学习深度学习](https://zhuanlan.zhihu.com/p/29029832) | 2017-09-04 10:00:00 |
 
 
+## 大林
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [Sora最新视频，一骑绝尘](https://zhuanlan.zhihu.com/p/683727780) | 2024-02-24 15:43:54 |
+| 2 | [紧跟着 Sora，搞 AI 的大厂都纷纷坐不住了。就在深夜，Stability AI 放出了 SD3，文字控制效果炸裂](https://zhuanlan.zhihu.com/p/683588424) | 2024-02-23 15:44:48 |
+| 3 | [谷歌刚刚发布开源大语言模型 Gemma，对标LLAMA2，汇总大家关注的一些问题](https://zhuanlan.zhihu.com/p/683413607) | 2024-02-22 17:36:15 |
+| 4 | [加上AI音频的Sora视频终于有了灵魂](https://zhuanlan.zhihu.com/p/683061623) | 2024-02-20 19:22:13 |
+| 5 | [阿里最近推出AI项目的动作太过频繁，脑子跟不上了，事出反常必有妖，盘点一下](https://zhuanlan.zhihu.com/p/678552261) | 2024-01-18 16:58:09 |
+| 6 | [智谱GLM-4发布，评测效果逼近GPT4，直接说几个比较重要的结论](https://zhuanlan.zhihu.com/p/678170214) | 2024-01-16 18:26:22 |
+| 7 | [GPT应用商店如约而至，和我们想的略有不同，与此同此还同步推出了付费计划的ChatGPT Team](https://zhuanlan.zhihu.com/p/677160698) | 2024-01-11 07:49:56 |
+| 8 | [体验完阿里推出的AnyText，效果确实不错，如果落地，AI加持下的电商会怎么样？](https://zhuanlan.zhihu.com/p/676524866) | 2024-01-07 19:20:25 |
+| 9 | [OpenAI 的 GPT 应用商店将于下周推出](https://zhuanlan.zhihu.com/p/676207210) | 2024-01-05 12:33:04 |
+| 10 | [2023年的最后一篇文章，祝大家元旦快乐。看到这种视频好多了，一直知道是DomoAI做的，但就是没时间去玩，今天去玩了玩](https://zhuanlan.zhihu.com/p/675195324) | 2023-12-29 15:17:50 |
+| 11 | [今天看到 Pika 全面放开的消息，瞬间炸锅了，想到我前两天拿到的 pika 内测资格，瞬间不香了，今天玩下](https://zhuanlan.zhihu.com/p/674644544) | 2023-12-26 17:06:49 |
+| 12 | [吴恩达发布企业AI转型手册，AI Transformation Playbook，对公司高管、正在创业的AIer是不错的指南。](https://zhuanlan.zhihu.com/p/673289438) | 2023-12-20 17:08:34 |
+| 13 | [网上有很多的Prompt模板，这次OpenAI发布了写好Prompt的六个策略，很实用](https://zhuanlan.zhihu.com/p/673101835) | 2023-12-19 17:49:04 |
+| 14 | [OpenAI 发表的第一篇论文，值得一读，Weak-to-Strong Generalization](https://zhuanlan.zhihu.com/p/672517739) | 2023-12-15 22:59:24 |
+| 15 | [老用户抢先体验 MidJourney Alpha 网页版，再见了Discord](https://zhuanlan.zhihu.com/p/672031999) | 2023-12-13 16:13:22 |
+| 16 | [谷歌隆重推出 Gemini，中文版本以及技术报告下载](https://zhuanlan.zhihu.com/p/670837066) | 2023-12-07 08:23:04 |
+| 17 | [Heygen 80% 的问题，这篇文章搞定它](https://zhuanlan.zhihu.com/p/668779022) | 2023-11-25 17:38:44 |
+| 18 | [SD开启免费测试，教你一分钟加入尝鲜](https://zhuanlan.zhihu.com/p/643814199) | 2023-07-15 22:16:38 |
+| 19 | [亲测OpenAI开放的最新功能：代码解释器，效果着实不错](https://zhuanlan.zhihu.com/p/642722316) | 2023-07-10 22:22:44 |
+| 20 | [万字长文\|从0-1系统性的了解大语言模型LLM研究进展](https://zhuanlan.zhihu.com/p/629931592) | 2023-05-17 07:14:43 |
+| 21 | [紧跟AIGC风向知识库开放](https://zhuanlan.zhihu.com/p/627833284) | 2023-05-08 22:18:14 |
+| 22 | [到了一定年纪，回家过年都是感触](https://zhuanlan.zhihu.com/p/601480554) | 2023-01-28 19:28:08 |
+| 23 | [20230113-读书思考](https://zhuanlan.zhihu.com/p/598739763) | 2023-01-13 11:03:30 |
+| 24 | [国庆教你制作国旗微信头像](https://zhuanlan.zhihu.com/p/569587908) | 2022-09-30 09:54:25 |
+| 25 | [Prompt Learning 那些不错的文章合集](https://zhuanlan.zhihu.com/p/561823299) | 2022-09-06 20:00:09 |
+| 26 | [互联网职场晋升关键词](https://zhuanlan.zhihu.com/p/558836907) | 2022-08-28 23:21:07 |
+| 27 | [一个不会写sql的算法工程师、一个不会写sql的产品经理，能在公司活下去吗](https://zhuanlan.zhihu.com/p/555484473) | 2022-08-19 10:39:48 |
+| 28 | [被mentor质疑，我才知道这些互联网的含义](https://zhuanlan.zhihu.com/p/553614643) | 2022-08-14 13:49:27 |
+| 29 | [呕心沥血整理往年精华面经，2023秋招卷起来](https://zhuanlan.zhihu.com/p/533993498) | 2022-06-26 15:14:45 |
+| 30 | [能够轻松的熟练掌握上面这几个awk写法，你已经超过了90%的身边人。持续更新ing](https://zhuanlan.zhihu.com/p/532630013) | 2022-06-23 10:20:58 |
+| 31 | [ACL2022知识图谱、BERT论文合集，持续更新中](https://zhuanlan.zhihu.com/p/498868169) | 2022-04-15 09:14:32 |
+
+
 ## 猛猿
 > 介绍： 公众号：大猿搬砖简记,学习和职业历程：
 会计➡️算法➡️大数据➡️算法
@@ -2779,43 +2818,6 @@ https://item.jd.com/13484669.html。
 | 29 | [Transformer学习笔记三：为什么Transformer要用LayerNorm/Batch Normalization & Layer Normalization （批量&层标准化)](https://zhuanlan.zhihu.com/p/456863215) | 2022-01-13 15:56:47 |
 | 30 | [Transformer学习笔记二：Self-Attention（自注意力机制）](https://zhuanlan.zhihu.com/p/455399791) | 2022-01-10 13:05:46 |
 | 31 | [Transformer学习笔记一：Positional Encoding（位置编码）](https://zhuanlan.zhihu.com/p/454482273) | 2022-01-07 17:18:25 |
-
-
-## 大林
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [紧跟着 Sora，搞 AI 的大厂都纷纷坐不住了。就在深夜，Stability AI 放出了 SD3，文字控制效果炸裂](https://zhuanlan.zhihu.com/p/683588424) | 2024-02-23 15:44:48 |
-| 2 | [谷歌刚刚发布开源大语言模型 Gemma，对标LLAMA2，汇总大家关注的一些问题](https://zhuanlan.zhihu.com/p/683413607) | 2024-02-22 17:36:15 |
-| 3 | [加上AI音频的Sora视频终于有了灵魂](https://zhuanlan.zhihu.com/p/683061623) | 2024-02-20 19:22:13 |
-| 4 | [阿里最近推出AI项目的动作太过频繁，脑子跟不上了，事出反常必有妖，盘点一下](https://zhuanlan.zhihu.com/p/678552261) | 2024-01-18 16:58:09 |
-| 5 | [智谱GLM-4发布，评测效果逼近GPT4，直接说几个比较重要的结论](https://zhuanlan.zhihu.com/p/678170214) | 2024-01-16 18:26:22 |
-| 6 | [GPT应用商店如约而至，和我们想的略有不同，与此同此还同步推出了付费计划的ChatGPT Team](https://zhuanlan.zhihu.com/p/677160698) | 2024-01-11 07:49:56 |
-| 7 | [体验完阿里推出的AnyText，效果确实不错，如果落地，AI加持下的电商会怎么样？](https://zhuanlan.zhihu.com/p/676524866) | 2024-01-07 19:20:25 |
-| 8 | [OpenAI 的 GPT 应用商店将于下周推出](https://zhuanlan.zhihu.com/p/676207210) | 2024-01-05 12:33:04 |
-| 9 | [2023年的最后一篇文章，祝大家元旦快乐。看到这种视频好多了，一直知道是DomoAI做的，但就是没时间去玩，今天去玩了玩](https://zhuanlan.zhihu.com/p/675195324) | 2023-12-29 15:17:50 |
-| 10 | [今天看到 Pika 全面放开的消息，瞬间炸锅了，想到我前两天拿到的 pika 内测资格，瞬间不香了，今天玩下](https://zhuanlan.zhihu.com/p/674644544) | 2023-12-26 17:06:49 |
-| 11 | [吴恩达发布企业AI转型手册，AI Transformation Playbook，对公司高管、正在创业的AIer是不错的指南。](https://zhuanlan.zhihu.com/p/673289438) | 2023-12-20 17:08:34 |
-| 12 | [网上有很多的Prompt模板，这次OpenAI发布了写好Prompt的六个策略，很实用](https://zhuanlan.zhihu.com/p/673101835) | 2023-12-19 17:49:04 |
-| 13 | [OpenAI 发表的第一篇论文，值得一读，Weak-to-Strong Generalization](https://zhuanlan.zhihu.com/p/672517739) | 2023-12-15 22:59:24 |
-| 14 | [老用户抢先体验 MidJourney Alpha 网页版，再见了Discord](https://zhuanlan.zhihu.com/p/672031999) | 2023-12-13 16:13:22 |
-| 15 | [谷歌隆重推出 Gemini，中文版本以及技术报告下载](https://zhuanlan.zhihu.com/p/670837066) | 2023-12-07 08:23:04 |
-| 16 | [Heygen 80% 的问题，这篇文章搞定它](https://zhuanlan.zhihu.com/p/668779022) | 2023-11-25 17:38:44 |
-| 17 | [SD开启免费测试，教你一分钟加入尝鲜](https://zhuanlan.zhihu.com/p/643814199) | 2023-07-15 22:16:38 |
-| 18 | [亲测OpenAI开放的最新功能：代码解释器，效果着实不错](https://zhuanlan.zhihu.com/p/642722316) | 2023-07-10 22:22:44 |
-| 19 | [万字长文\|从0-1系统性的了解大语言模型LLM研究进展](https://zhuanlan.zhihu.com/p/629931592) | 2023-05-17 07:14:43 |
-| 20 | [紧跟AIGC风向知识库开放](https://zhuanlan.zhihu.com/p/627833284) | 2023-05-08 22:18:14 |
-| 21 | [到了一定年纪，回家过年都是感触](https://zhuanlan.zhihu.com/p/601480554) | 2023-01-28 19:28:08 |
-| 22 | [20230113-读书思考](https://zhuanlan.zhihu.com/p/598739763) | 2023-01-13 11:03:30 |
-| 23 | [国庆教你制作国旗微信头像](https://zhuanlan.zhihu.com/p/569587908) | 2022-09-30 09:54:25 |
-| 24 | [Prompt Learning 那些不错的文章合集](https://zhuanlan.zhihu.com/p/561823299) | 2022-09-06 20:00:09 |
-| 25 | [互联网职场晋升关键词](https://zhuanlan.zhihu.com/p/558836907) | 2022-08-28 23:21:07 |
-| 26 | [一个不会写sql的算法工程师、一个不会写sql的产品经理，能在公司活下去吗](https://zhuanlan.zhihu.com/p/555484473) | 2022-08-19 10:39:48 |
-| 27 | [被mentor质疑，我才知道这些互联网的含义](https://zhuanlan.zhihu.com/p/553614643) | 2022-08-14 13:49:27 |
-| 28 | [呕心沥血整理往年精华面经，2023秋招卷起来](https://zhuanlan.zhihu.com/p/533993498) | 2022-06-26 15:14:45 |
-| 29 | [能够轻松的熟练掌握上面这几个awk写法，你已经超过了90%的身边人。持续更新ing](https://zhuanlan.zhihu.com/p/532630013) | 2022-06-23 10:20:58 |
-| 30 | [ACL2022知识图谱、BERT论文合集，持续更新中](https://zhuanlan.zhihu.com/p/498868169) | 2022-04-15 09:14:32 |
 
 
 ## 何枝
