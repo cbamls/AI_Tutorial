@@ -25,41 +25,43 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-02-20 ~ 2024-02-27), 本周报更新时间:2024-02-27 22:33:19
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-02-20 ~ 2024-02-27), 本周报更新时间:2024-02-27 23:03:20
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [飞猪旅行供应链品类规划算法——推荐和选品模型](https://zhuanlan.zhihu.com/p/684184873) | DataFunTalk | 2024-02-27 20:00:14 |
-| 2 | [设备指纹中所谓的bncode数据到底指啥？](https://zhuanlan.zhihu.com/p/684224409) | 风控大鱼 | 2024-02-27 17:43:27 |
-| 3 | [谷歌deepmind开源Gemma技术报告](https://zhuanlan.zhihu.com/p/684117352) | 归来仍是少年 | 2024-02-27 15:51:57 |
-| 4 | [基于 StarRocks 和 Paimon 打造湖仓分析新范式](https://zhuanlan.zhihu.com/p/684177680) | DataFunTalk | 2024-02-27 15:02:46 |
-| 5 | [你们要的资料来了！强化学习经典算法—DQN算法揭秘](https://zhuanlan.zhihu.com/p/684163306) | DataFunTalk | 2024-02-27 14:06:16 |
-| 6 | [Mistral AI发布Mistral Large模型](https://zhuanlan.zhihu.com/p/684127212) | 刘聪NLP | 2024-02-27 10:58:14 |
-| 7 | [Sora能作为物理世界模拟器吗](https://zhuanlan.zhihu.com/p/684089478) | 张俊林 | 2024-02-27 08:31:36 |
-| 8 | [当"狂飙"的大模型撞上推荐系统](https://zhuanlan.zhihu.com/p/684020568) | DataFunTalk | 2024-02-26 17:20:52 |
-| 9 | [最新资料下载！京东因果推断方法实践文档！](https://zhuanlan.zhihu.com/p/683983732) | DataFunTalk | 2024-02-26 15:07:05 |
-| 10 | [LLMs源码阅读（二）Baichuan](https://zhuanlan.zhihu.com/p/675212809) | sliderSun | 2024-02-26 14:47:13 |
-| 11 | [腾讯金融 AI 开发平台落地实践](https://www.6aiq.com/article/1708858257401) | AIQ人工智能社区 | 2024-02-25 18:50:57 |
-| 12 | [Sora最新视频，一骑绝尘](https://zhuanlan.zhihu.com/p/683727780) | 大林 | 2024-02-24 15:43:54 |
-| 13 | [DiT详解](https://zhuanlan.zhihu.com/p/683612528) | 大师兄 | 2024-02-23 17:28:45 |
-| 14 | [24年最新资料《Agent技能实践地图2.0》下载地址来啦！](https://zhuanlan.zhihu.com/p/683594315) | DataFunTalk | 2024-02-23 16:02:54 |
-| 15 | [紧跟着 Sora，搞 AI 的大厂都纷纷坐不住了。就在深夜，Stability AI 放出了 SD3，文字控制效果炸裂](https://zhuanlan.zhihu.com/p/683588424) | 大林 | 2024-02-23 15:44:48 |
-| 16 | [生成式AI在育碧3A游戏图像生成的实践应用](https://zhuanlan.zhihu.com/p/683559725) | DataFunTalk | 2024-02-23 13:54:44 |
-| 17 | [WWW2024推荐系统论文整理，包括大模型/跨域/序列/可信推荐等热门主题](https://zhuanlan.zhihu.com/p/683516906) | 机器学习推荐算法 | 2024-02-23 10:16:36 |
-| 18 | [谷歌刚刚发布开源大语言模型 Gemma，对标LLAMA2，汇总大家关注的一些问题](https://zhuanlan.zhihu.com/p/683413607) | 大林 | 2024-02-22 17:36:15 |
-| 19 | [吴恩达来信：AI企业家们的三个主题](https://zhuanlan.zhihu.com/p/683387104) | 吴恩达 | 2024-02-22 15:06:00 |
-| 20 | [下载地址来啦！下载破万的《大模型与推荐知识地图》2.0版](https://zhuanlan.zhihu.com/p/683377965) | DataFunTalk | 2024-02-22 14:25:10 |
-| 21 | [快手推荐系统海量模型数据处理实践](https://zhuanlan.zhihu.com/p/683223601) | DataFunTalk | 2024-02-22 08:30:04 |
-| 22 | [京东, 招推荐算法实习生, 有顶会论文发表机会](https://zhuanlan.zhihu.com/p/683295333) | Houye | 2024-02-22 05:01:51 |
-| 23 | [openAI文生视频sora的技术核心是什么？将会对哪些行业产生影响？](https://zhuanlan.zhihu.com/p/682999379) | 琦琦 | 2024-02-21 22:38:20 |
-| 24 | [vivo 大模型从训练到产品落地的最佳实践](https://zhuanlan.zhihu.com/p/683222143) | DataFunTalk | 2024-02-21 18:30:15 |
-| 25 | [LDM（Latent Diffusion Model）详解](https://zhuanlan.zhihu.com/p/683237596) | 大师兄 | 2024-02-21 17:57:38 |
-| 26 | [字节基于用户画像标签的分析及业务场景应用](https://zhuanlan.zhihu.com/p/683220155) | DataFunTalk | 2024-02-21 16:37:48 |
-| 27 | [免费资源来啦！《大模型微调方案设计&能力整合知识地图2.0》](https://zhuanlan.zhihu.com/p/683218355) | DataFunTalk | 2024-02-21 16:31:40 |
-| 28 | [知识盛宴：探秘LLMs、Sora和LWM的神奇世界](https://zhuanlan.zhihu.com/p/672633137) | sliderSun | 2024-02-21 13:17:31 |
-| 29 | [加上AI音频的Sora视频终于有了灵魂](https://zhuanlan.zhihu.com/p/683061623) | 大林 | 2024-02-20 19:22:13 |
-| 30 | [字节跳动数据集成引擎 BitSail 开源架构演进和实践](https://zhuanlan.zhihu.com/p/683061590) | DataFunTalk | 2024-02-20 19:06:08 |
-| 31 | [如何提升Agent角色扮演能力](https://zhuanlan.zhihu.com/p/682961096) | DataFunTalk | 2024-02-20 11:06:52 |
+| 1 | [春节寒假感悟](https://zhuanlan.zhihu.com/p/684269504) | 琦琦 | 2024-02-27 22:54:19 |
+| 2 | [2024 最新综述 \| 当知识图谱遇上多模态学习](https://zhuanlan.zhihu.com/p/684268416) | Houye | 2024-02-27 22:43:39 |
+| 3 | [飞猪旅行供应链品类规划算法——推荐和选品模型](https://zhuanlan.zhihu.com/p/684184873) | DataFunTalk | 2024-02-27 20:00:14 |
+| 4 | [设备指纹中所谓的bncode数据到底指啥？](https://zhuanlan.zhihu.com/p/684224409) | 风控大鱼 | 2024-02-27 17:43:27 |
+| 5 | [谷歌deepmind开源Gemma技术报告](https://zhuanlan.zhihu.com/p/684117352) | 归来仍是少年 | 2024-02-27 15:51:57 |
+| 6 | [基于 StarRocks 和 Paimon 打造湖仓分析新范式](https://zhuanlan.zhihu.com/p/684177680) | DataFunTalk | 2024-02-27 15:02:46 |
+| 7 | [你们要的资料来了！强化学习经典算法—DQN算法揭秘](https://zhuanlan.zhihu.com/p/684163306) | DataFunTalk | 2024-02-27 14:06:16 |
+| 8 | [Mistral AI发布Mistral Large模型](https://zhuanlan.zhihu.com/p/684127212) | 刘聪NLP | 2024-02-27 10:58:14 |
+| 9 | [Sora能作为物理世界模拟器吗](https://zhuanlan.zhihu.com/p/684089478) | 张俊林 | 2024-02-27 08:31:36 |
+| 10 | [当"狂飙"的大模型撞上推荐系统](https://zhuanlan.zhihu.com/p/684020568) | DataFunTalk | 2024-02-26 17:20:52 |
+| 11 | [最新资料下载！京东因果推断方法实践文档！](https://zhuanlan.zhihu.com/p/683983732) | DataFunTalk | 2024-02-26 15:07:05 |
+| 12 | [LLMs源码阅读（二）Baichuan](https://zhuanlan.zhihu.com/p/675212809) | sliderSun | 2024-02-26 14:47:13 |
+| 13 | [腾讯金融 AI 开发平台落地实践](https://www.6aiq.com/article/1708858257401) | AIQ人工智能社区 | 2024-02-25 18:50:57 |
+| 14 | [Sora最新视频，一骑绝尘](https://zhuanlan.zhihu.com/p/683727780) | 大林 | 2024-02-24 15:43:54 |
+| 15 | [DiT详解](https://zhuanlan.zhihu.com/p/683612528) | 大师兄 | 2024-02-23 17:28:45 |
+| 16 | [24年最新资料《Agent技能实践地图2.0》下载地址来啦！](https://zhuanlan.zhihu.com/p/683594315) | DataFunTalk | 2024-02-23 16:02:54 |
+| 17 | [紧跟着 Sora，搞 AI 的大厂都纷纷坐不住了。就在深夜，Stability AI 放出了 SD3，文字控制效果炸裂](https://zhuanlan.zhihu.com/p/683588424) | 大林 | 2024-02-23 15:44:48 |
+| 18 | [生成式AI在育碧3A游戏图像生成的实践应用](https://zhuanlan.zhihu.com/p/683559725) | DataFunTalk | 2024-02-23 13:54:44 |
+| 19 | [WWW2024推荐系统论文整理，包括大模型/跨域/序列/可信推荐等热门主题](https://zhuanlan.zhihu.com/p/683516906) | 机器学习推荐算法 | 2024-02-23 10:16:36 |
+| 20 | [谷歌刚刚发布开源大语言模型 Gemma，对标LLAMA2，汇总大家关注的一些问题](https://zhuanlan.zhihu.com/p/683413607) | 大林 | 2024-02-22 17:36:15 |
+| 21 | [吴恩达来信：AI企业家们的三个主题](https://zhuanlan.zhihu.com/p/683387104) | 吴恩达 | 2024-02-22 15:06:00 |
+| 22 | [下载地址来啦！下载破万的《大模型与推荐知识地图》2.0版](https://zhuanlan.zhihu.com/p/683377965) | DataFunTalk | 2024-02-22 14:25:10 |
+| 23 | [快手推荐系统海量模型数据处理实践](https://zhuanlan.zhihu.com/p/683223601) | DataFunTalk | 2024-02-22 08:30:04 |
+| 24 | [京东, 招推荐算法实习生, 有顶会论文发表机会](https://zhuanlan.zhihu.com/p/683295333) | Houye | 2024-02-22 05:01:51 |
+| 25 | [openAI文生视频sora的技术核心是什么？将会对哪些行业产生影响？](https://zhuanlan.zhihu.com/p/682999379) | 琦琦 | 2024-02-21 22:38:20 |
+| 26 | [vivo 大模型从训练到产品落地的最佳实践](https://zhuanlan.zhihu.com/p/683222143) | DataFunTalk | 2024-02-21 18:30:15 |
+| 27 | [LDM（Latent Diffusion Model）详解](https://zhuanlan.zhihu.com/p/683237596) | 大师兄 | 2024-02-21 17:57:38 |
+| 28 | [字节基于用户画像标签的分析及业务场景应用](https://zhuanlan.zhihu.com/p/683220155) | DataFunTalk | 2024-02-21 16:37:48 |
+| 29 | [免费资源来啦！《大模型微调方案设计&能力整合知识地图2.0》](https://zhuanlan.zhihu.com/p/683218355) | DataFunTalk | 2024-02-21 16:31:40 |
+| 30 | [知识盛宴：探秘LLMs、Sora和LWM的神奇世界](https://zhuanlan.zhihu.com/p/672633137) | sliderSun | 2024-02-21 13:17:31 |
+| 31 | [加上AI音频的Sora视频终于有了灵魂](https://zhuanlan.zhihu.com/p/683061623) | 大林 | 2024-02-20 19:22:13 |
+| 32 | [字节跳动数据集成引擎 BitSail 开源架构演进和实践](https://zhuanlan.zhihu.com/p/683061590) | DataFunTalk | 2024-02-20 19:06:08 |
+| 33 | [如何提升Agent角色扮演能力](https://zhuanlan.zhihu.com/p/682961096) | DataFunTalk | 2024-02-20 11:06:52 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -1911,74 +1913,75 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [京东, 招推荐算法实习生, 有顶会论文发表机会](https://zhuanlan.zhihu.com/p/683295333) | 2024-02-22 05:01:51 |
-| 2 | [大模型时代，图在推荐系统中的前沿应用探索](https://zhuanlan.zhihu.com/p/680066257) | 2024-01-30 00:44:09 |
-| 3 | [NeurIPS&#39;23 \| 图数据蒸馏 v.s. 图像数据蒸馏,](https://zhuanlan.zhihu.com/p/679459457) | 2024-01-24 01:28:01 |
-| 4 | [开放申请 \| 2024腾讯犀牛鸟精英人才计划](https://zhuanlan.zhihu.com/p/678226768) | 2024-01-17 06:22:45 |
-| 5 | [推荐系统解释生成研究进展速览](https://zhuanlan.zhihu.com/p/677581251) | 2024-01-13 06:08:47 |
-| 6 | [综述：LLM驱动的生成式信息抽取](https://zhuanlan.zhihu.com/p/677158149) | 2024-01-11 06:20:00 |
-| 7 | [最新综述 \| GNN如何处理表格？](https://zhuanlan.zhihu.com/p/677157654) | 2024-01-11 05:52:04 |
-| 8 | [淘宝主搜：大模型在长尾Query改写召回上的实践](https://zhuanlan.zhihu.com/p/676959257) | 2024-01-10 10:43:32 |
-| 9 | [论文周报 \| 推荐系统领域最新研究进展](https://zhuanlan.zhihu.com/p/676959253) | 2024-01-10 06:18:47 |
-| 10 | [大模型天才少年！“智谱星”计划等你来](https://zhuanlan.zhihu.com/p/677359927) | 2024-01-02 17:43:21 |
-| 11 | [谷歌出品 \| TIGER:生成式检索推荐系统](https://zhuanlan.zhihu.com/p/674703547) | 2023-12-26 22:54:43 |
-| 12 | [香港中文领衔港科广、复旦重磅发布：迈向通用图智能的新方法，图提示学习进展与挑战](https://zhuanlan.zhihu.com/p/670415529) | 2023-12-05 08:27:41 |
-| 13 | [零基础入门深度学习，学习路线及步骤参考](https://zhuanlan.zhihu.com/p/657163656) | 2023-09-19 15:08:06 |
-| 14 | [JD 招推荐算法工程师](https://zhuanlan.zhihu.com/p/632057831) | 2023-05-25 11:01:49 |
-| 15 | [最新综述解读 \| 图对比学习的范式, 优化目标等](https://zhuanlan.zhihu.com/p/619464792) | 2023-04-05 10:53:59 |
-| 16 | [Hulu北京大裁员，规模超90%。。](https://zhuanlan.zhihu.com/p/619464740) | 2023-04-05 10:53:53 |
-| 17 | [2023.3.29, 图机器学习论文快讯](https://zhuanlan.zhihu.com/p/619511377) | 2023-03-30 12:58:36 |
-| 18 | [斯坦福CS224W《几何图学习》2023课程！ 入门必看!](https://zhuanlan.zhihu.com/p/617170610) | 2023-03-24 17:47:11 |
-| 19 | [WWW23推荐系统论文集锦，GNNRec 依然火热](https://zhuanlan.zhihu.com/p/616251921) | 2023-03-23 06:25:53 |
-| 20 | [大淘宝 \| 招AIGC方向阿里星(对比华为天才少年)](https://zhuanlan.zhihu.com/p/616251915) | 2023-03-23 06:25:52 |
-| 21 | [​ICLR&#39;23 \| 图表示学习遇到类别不平衡怎么办?](https://zhuanlan.zhihu.com/p/615943434) | 2023-03-22 06:10:28 |
-| 22 | [顶会审稿人分享图神经网络的应用与挑战！](https://zhuanlan.zhihu.com/p/615943429) | 2023-03-22 06:10:27 |
-| 23 | [交流群&资料群](https://zhuanlan.zhihu.com/p/615633884) | 2023-03-21 06:03:06 |
-| 24 | [3万美金奖金! KDD CUP 2023 竞赛正式启动](https://zhuanlan.zhihu.com/p/615633877) | 2023-03-21 06:03:05 |
-| 25 | [阿里, 招算法工程师](https://zhuanlan.zhihu.com/p/615633874) | 2023-03-21 06:03:04 |
-| 26 | [ChatGPT背景下，知识图谱该何去何从？](https://zhuanlan.zhihu.com/p/614895981) | 2023-03-17 21:10:07 |
-| 27 | [京东, 招搜索召回与排序算法实习生, 待遇超好](https://zhuanlan.zhihu.com/p/614895975) | 2023-03-17 21:10:05 |
-| 28 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614895965) | 2023-03-17 21:10:04 |
-| 29 | [字节, 招NLP 算法实习生(急招日常实习, base北京)](https://zhuanlan.zhihu.com/p/614306923) | 2023-03-15 21:10:05 |
-| 30 | [华为中央研究院, 招图计算科研实习生](https://zhuanlan.zhihu.com/p/614060633) | 2023-03-15 06:10:22 |
-| 31 | [AI有哪些方向更容易发论文？](https://zhuanlan.zhihu.com/p/614060631) | 2023-03-15 06:10:20 |
-| 32 | [百度大搜 \| 招GNN/Transformer/图网络+问答+搜索方向实习生](https://zhuanlan.zhihu.com/p/613763329) | 2023-03-14 05:55:10 |
-| 33 | [关于Kaiming面试MIT教职这件事, 我问了问ChatGPT](https://zhuanlan.zhihu.com/p/612763484) | 2023-03-10 00:56:42 |
-| 34 | [DGL 1.0, 让所有人都能快速使用图机器学习。](https://zhuanlan.zhihu.com/p/612422263) | 2023-03-08 21:10:49 |
-| 35 | [最新综述 \| 图上知识蒸馏怎么做？](https://zhuanlan.zhihu.com/p/612188672) | 2023-03-08 06:10:52 |
-| 36 | [GNN论文周报 \| 来自剑桥、港大、华中科大等机构前沿论文研究](https://zhuanlan.zhihu.com/p/611891878) | 2023-03-07 05:29:17 |
-| 37 | [腾讯招科研型算法实习生(犀牛鸟精英人才)](https://zhuanlan.zhihu.com/p/611891874) | 2023-03-07 05:29:16 |
-| 38 | [对标OGB! 新一代大规模GNN数据集IGB来啦~](https://zhuanlan.zhihu.com/p/611394487) | 2023-03-05 00:10:23 |
-| 39 | [​ICLR 2023 \| LightGCL: 简单且高效的图对比学习推荐系统](https://zhuanlan.zhihu.com/p/611190099) | 2023-03-04 01:17:55 |
-| 40 | [358 篇论文, 最新知识图谱KG综述](https://zhuanlan.zhihu.com/p/611190098) | 2023-03-04 01:17:54 |
-| 41 | [招全奖博士 \| 图神经网络+强化学习方向](https://zhuanlan.zhihu.com/p/610606579) | 2023-03-02 05:46:25 |
-| 42 | [AAAI&#39;23 \| 推荐系统相关论文整理](https://zhuanlan.zhihu.com/p/610304249) | 2023-03-01 06:01:14 |
-| 43 | [超硬核！！！超图（Hypergraph）研究一览: Survey, 学习算法，理论分析，tutorial，数据集，Tools!](https://zhuanlan.zhihu.com/p/610304242) | 2023-03-01 06:01:13 |
-| 44 | [麦考瑞大学最新知识图谱构建综述，37页内容358篇文献系统阐述大数据视野下知识图谱构建全过程方法及其最新进展](https://zhuanlan.zhihu.com/p/610304236) | 2023-03-01 06:01:12 |
-| 45 | [「WWW&#39;23 \| 快手」短视频推荐系统中提升用户留存算法](https://zhuanlan.zhihu.com/p/610023562) | 2023-02-28 09:49:13 |
-| 46 | [斯坦福博士论文 \| 双曲空间中的图表示学习](https://zhuanlan.zhihu.com/p/610023539) | 2023-02-28 09:49:12 |
-| 47 | [​ICLR23 \| 具有引力-斥力机制的GNN](https://zhuanlan.zhihu.com/p/609493653) | 2023-02-26 02:10:26 |
-| 48 | [寒冬中为数不多的 HC \| 快手招图学习+多模态+推荐方向实习生](https://zhuanlan.zhihu.com/p/609493652) | 2023-02-26 02:10:25 |
-| 49 | [降本提效 \| 如何将工业推荐模型的参数量降低1000倍?](https://zhuanlan.zhihu.com/p/609288019) | 2023-02-25 05:38:18 |
-| 50 | [Nat. Mach. Intell：图机器学习的软硬件协同](https://zhuanlan.zhihu.com/p/609288013) | 2023-02-25 05:38:17 |
-| 51 | [CIKM2022: LTE4G：图神经网络中的长尾专家](https://zhuanlan.zhihu.com/p/608661182) | 2023-02-22 23:50:28 |
-| 52 | [知识增强的图机器学习在药物发现中的应用](https://zhuanlan.zhihu.com/p/608661177) | 2023-02-22 23:50:27 |
-| 53 | [GNN领域最新的研究综述以及研究趋势 \| 附论文下载](https://zhuanlan.zhihu.com/p/608364218) | 2023-02-22 06:10:48 |
-| 54 | [知乎精选 \| 长远看算法岗真的比开发岗香吗？](https://zhuanlan.zhihu.com/p/608054561) | 2023-02-21 05:20:53 |
-| 55 | [剑桥 \|几何图神经网络表达能力如何？附Slides与视频](https://zhuanlan.zhihu.com/p/606740867) | 2023-02-16 08:38:05 |
-| 56 | [【剑桥大学博士论文】图神经网络的实用处理与加速，190页pdf](https://zhuanlan.zhihu.com/p/606404838) | 2023-02-15 06:10:17 |
-| 57 | [AAAI&#39;23教程 \| 图神经网络:基础、前沿与应用，209页ppt全面阐述GNN最新进展](https://zhuanlan.zhihu.com/p/606112437) | 2023-02-14 06:33:12 |
-| 58 | [Awesome！搜索/推荐/广告 近400篇优质文章整理](https://zhuanlan.zhihu.com/p/605329339) | 2023-02-11 01:05:02 |
-| 59 | [AAAI&#39;23杰出论文一作分享：如何将推荐系统训练提速 72 倍？](https://zhuanlan.zhihu.com/p/605329331) | 2023-02-11 01:05:01 |
-| 60 | [阿里妈妈向量化召回实践：量化索引->树索引->图索引](https://zhuanlan.zhihu.com/p/605022526) | 2023-02-10 06:46:15 |
-| 61 | [PyG 官方教程 \| 开箱即用的图神经网络解释框架](https://zhuanlan.zhihu.com/p/605022520) | 2023-02-10 06:46:14 |
-| 62 | [中科院计算所招聘特别研究助理/博士后：社会计算、图神经网络、AI for Social Science](https://zhuanlan.zhihu.com/p/604698105) | 2023-02-09 06:10:02 |
-| 63 | [ICML’22 \| 时间-then-图 v.s. 时间-and-图](https://zhuanlan.zhihu.com/p/604085915) | 2023-02-07 08:37:30 |
-| 64 | [【经典书】图论第二版，654页pdf](https://zhuanlan.zhihu.com/p/604085910) | 2023-02-07 08:37:29 |
-| 65 | [8篇 ICLR 2023 高分GNN论文](https://zhuanlan.zhihu.com/p/603336620) | 2023-02-04 00:52:28 |
-| 66 | [最新综述 \| GNN如何建模时空信息？](https://zhuanlan.zhihu.com/p/603336606) | 2023-02-04 00:52:27 |
-| 67 | [顶会审稿人:论文的这些坑不要踩！](https://zhuanlan.zhihu.com/p/602731329) | 2023-02-02 06:12:02 |
-| 68 | [斯坦福@AAAI2021 \| 身份感知图神经网络](https://zhuanlan.zhihu.com/p/348232715) | 2021-01-30 22:17:07 |
+| 1 | [2024 最新综述 \| 当知识图谱遇上多模态学习](https://zhuanlan.zhihu.com/p/684268416) | 2024-02-27 22:43:39 |
+| 2 | [京东, 招推荐算法实习生, 有顶会论文发表机会](https://zhuanlan.zhihu.com/p/683295333) | 2024-02-22 05:01:51 |
+| 3 | [大模型时代，图在推荐系统中的前沿应用探索](https://zhuanlan.zhihu.com/p/680066257) | 2024-01-30 00:44:09 |
+| 4 | [NeurIPS&#39;23 \| 图数据蒸馏 v.s. 图像数据蒸馏,](https://zhuanlan.zhihu.com/p/679459457) | 2024-01-24 01:28:01 |
+| 5 | [开放申请 \| 2024腾讯犀牛鸟精英人才计划](https://zhuanlan.zhihu.com/p/678226768) | 2024-01-17 06:22:45 |
+| 6 | [推荐系统解释生成研究进展速览](https://zhuanlan.zhihu.com/p/677581251) | 2024-01-13 06:08:47 |
+| 7 | [综述：LLM驱动的生成式信息抽取](https://zhuanlan.zhihu.com/p/677158149) | 2024-01-11 06:20:00 |
+| 8 | [最新综述 \| GNN如何处理表格？](https://zhuanlan.zhihu.com/p/677157654) | 2024-01-11 05:52:04 |
+| 9 | [淘宝主搜：大模型在长尾Query改写召回上的实践](https://zhuanlan.zhihu.com/p/676959257) | 2024-01-10 10:43:32 |
+| 10 | [论文周报 \| 推荐系统领域最新研究进展](https://zhuanlan.zhihu.com/p/676959253) | 2024-01-10 06:18:47 |
+| 11 | [大模型天才少年！“智谱星”计划等你来](https://zhuanlan.zhihu.com/p/677359927) | 2024-01-02 17:43:21 |
+| 12 | [谷歌出品 \| TIGER:生成式检索推荐系统](https://zhuanlan.zhihu.com/p/674703547) | 2023-12-26 22:54:43 |
+| 13 | [香港中文领衔港科广、复旦重磅发布：迈向通用图智能的新方法，图提示学习进展与挑战](https://zhuanlan.zhihu.com/p/670415529) | 2023-12-05 08:27:41 |
+| 14 | [零基础入门深度学习，学习路线及步骤参考](https://zhuanlan.zhihu.com/p/657163656) | 2023-09-19 15:08:06 |
+| 15 | [JD 招推荐算法工程师](https://zhuanlan.zhihu.com/p/632057831) | 2023-05-25 11:01:49 |
+| 16 | [最新综述解读 \| 图对比学习的范式, 优化目标等](https://zhuanlan.zhihu.com/p/619464792) | 2023-04-05 10:53:59 |
+| 17 | [Hulu北京大裁员，规模超90%。。](https://zhuanlan.zhihu.com/p/619464740) | 2023-04-05 10:53:53 |
+| 18 | [2023.3.29, 图机器学习论文快讯](https://zhuanlan.zhihu.com/p/619511377) | 2023-03-30 12:58:36 |
+| 19 | [斯坦福CS224W《几何图学习》2023课程！ 入门必看!](https://zhuanlan.zhihu.com/p/617170610) | 2023-03-24 17:47:11 |
+| 20 | [WWW23推荐系统论文集锦，GNNRec 依然火热](https://zhuanlan.zhihu.com/p/616251921) | 2023-03-23 06:25:53 |
+| 21 | [大淘宝 \| 招AIGC方向阿里星(对比华为天才少年)](https://zhuanlan.zhihu.com/p/616251915) | 2023-03-23 06:25:52 |
+| 22 | [​ICLR&#39;23 \| 图表示学习遇到类别不平衡怎么办?](https://zhuanlan.zhihu.com/p/615943434) | 2023-03-22 06:10:28 |
+| 23 | [顶会审稿人分享图神经网络的应用与挑战！](https://zhuanlan.zhihu.com/p/615943429) | 2023-03-22 06:10:27 |
+| 24 | [交流群&资料群](https://zhuanlan.zhihu.com/p/615633884) | 2023-03-21 06:03:06 |
+| 25 | [3万美金奖金! KDD CUP 2023 竞赛正式启动](https://zhuanlan.zhihu.com/p/615633877) | 2023-03-21 06:03:05 |
+| 26 | [阿里, 招算法工程师](https://zhuanlan.zhihu.com/p/615633874) | 2023-03-21 06:03:04 |
+| 27 | [ChatGPT背景下，知识图谱该何去何从？](https://zhuanlan.zhihu.com/p/614895981) | 2023-03-17 21:10:07 |
+| 28 | [京东, 招搜索召回与排序算法实习生, 待遇超好](https://zhuanlan.zhihu.com/p/614895975) | 2023-03-17 21:10:05 |
+| 29 | [代码开源！阿里妈妈展示广告Match底层技术架构最新进展](https://zhuanlan.zhihu.com/p/614895965) | 2023-03-17 21:10:04 |
+| 30 | [字节, 招NLP 算法实习生(急招日常实习, base北京)](https://zhuanlan.zhihu.com/p/614306923) | 2023-03-15 21:10:05 |
+| 31 | [华为中央研究院, 招图计算科研实习生](https://zhuanlan.zhihu.com/p/614060633) | 2023-03-15 06:10:22 |
+| 32 | [AI有哪些方向更容易发论文？](https://zhuanlan.zhihu.com/p/614060631) | 2023-03-15 06:10:20 |
+| 33 | [百度大搜 \| 招GNN/Transformer/图网络+问答+搜索方向实习生](https://zhuanlan.zhihu.com/p/613763329) | 2023-03-14 05:55:10 |
+| 34 | [关于Kaiming面试MIT教职这件事, 我问了问ChatGPT](https://zhuanlan.zhihu.com/p/612763484) | 2023-03-10 00:56:42 |
+| 35 | [DGL 1.0, 让所有人都能快速使用图机器学习。](https://zhuanlan.zhihu.com/p/612422263) | 2023-03-08 21:10:49 |
+| 36 | [最新综述 \| 图上知识蒸馏怎么做？](https://zhuanlan.zhihu.com/p/612188672) | 2023-03-08 06:10:52 |
+| 37 | [GNN论文周报 \| 来自剑桥、港大、华中科大等机构前沿论文研究](https://zhuanlan.zhihu.com/p/611891878) | 2023-03-07 05:29:17 |
+| 38 | [腾讯招科研型算法实习生(犀牛鸟精英人才)](https://zhuanlan.zhihu.com/p/611891874) | 2023-03-07 05:29:16 |
+| 39 | [对标OGB! 新一代大规模GNN数据集IGB来啦~](https://zhuanlan.zhihu.com/p/611394487) | 2023-03-05 00:10:23 |
+| 40 | [​ICLR 2023 \| LightGCL: 简单且高效的图对比学习推荐系统](https://zhuanlan.zhihu.com/p/611190099) | 2023-03-04 01:17:55 |
+| 41 | [358 篇论文, 最新知识图谱KG综述](https://zhuanlan.zhihu.com/p/611190098) | 2023-03-04 01:17:54 |
+| 42 | [招全奖博士 \| 图神经网络+强化学习方向](https://zhuanlan.zhihu.com/p/610606579) | 2023-03-02 05:46:25 |
+| 43 | [AAAI&#39;23 \| 推荐系统相关论文整理](https://zhuanlan.zhihu.com/p/610304249) | 2023-03-01 06:01:14 |
+| 44 | [超硬核！！！超图（Hypergraph）研究一览: Survey, 学习算法，理论分析，tutorial，数据集，Tools!](https://zhuanlan.zhihu.com/p/610304242) | 2023-03-01 06:01:13 |
+| 45 | [麦考瑞大学最新知识图谱构建综述，37页内容358篇文献系统阐述大数据视野下知识图谱构建全过程方法及其最新进展](https://zhuanlan.zhihu.com/p/610304236) | 2023-03-01 06:01:12 |
+| 46 | [「WWW&#39;23 \| 快手」短视频推荐系统中提升用户留存算法](https://zhuanlan.zhihu.com/p/610023562) | 2023-02-28 09:49:13 |
+| 47 | [斯坦福博士论文 \| 双曲空间中的图表示学习](https://zhuanlan.zhihu.com/p/610023539) | 2023-02-28 09:49:12 |
+| 48 | [​ICLR23 \| 具有引力-斥力机制的GNN](https://zhuanlan.zhihu.com/p/609493653) | 2023-02-26 02:10:26 |
+| 49 | [寒冬中为数不多的 HC \| 快手招图学习+多模态+推荐方向实习生](https://zhuanlan.zhihu.com/p/609493652) | 2023-02-26 02:10:25 |
+| 50 | [降本提效 \| 如何将工业推荐模型的参数量降低1000倍?](https://zhuanlan.zhihu.com/p/609288019) | 2023-02-25 05:38:18 |
+| 51 | [Nat. Mach. Intell：图机器学习的软硬件协同](https://zhuanlan.zhihu.com/p/609288013) | 2023-02-25 05:38:17 |
+| 52 | [CIKM2022: LTE4G：图神经网络中的长尾专家](https://zhuanlan.zhihu.com/p/608661182) | 2023-02-22 23:50:28 |
+| 53 | [知识增强的图机器学习在药物发现中的应用](https://zhuanlan.zhihu.com/p/608661177) | 2023-02-22 23:50:27 |
+| 54 | [GNN领域最新的研究综述以及研究趋势 \| 附论文下载](https://zhuanlan.zhihu.com/p/608364218) | 2023-02-22 06:10:48 |
+| 55 | [知乎精选 \| 长远看算法岗真的比开发岗香吗？](https://zhuanlan.zhihu.com/p/608054561) | 2023-02-21 05:20:53 |
+| 56 | [剑桥 \|几何图神经网络表达能力如何？附Slides与视频](https://zhuanlan.zhihu.com/p/606740867) | 2023-02-16 08:38:05 |
+| 57 | [【剑桥大学博士论文】图神经网络的实用处理与加速，190页pdf](https://zhuanlan.zhihu.com/p/606404838) | 2023-02-15 06:10:17 |
+| 58 | [AAAI&#39;23教程 \| 图神经网络:基础、前沿与应用，209页ppt全面阐述GNN最新进展](https://zhuanlan.zhihu.com/p/606112437) | 2023-02-14 06:33:12 |
+| 59 | [Awesome！搜索/推荐/广告 近400篇优质文章整理](https://zhuanlan.zhihu.com/p/605329339) | 2023-02-11 01:05:02 |
+| 60 | [AAAI&#39;23杰出论文一作分享：如何将推荐系统训练提速 72 倍？](https://zhuanlan.zhihu.com/p/605329331) | 2023-02-11 01:05:01 |
+| 61 | [阿里妈妈向量化召回实践：量化索引->树索引->图索引](https://zhuanlan.zhihu.com/p/605022526) | 2023-02-10 06:46:15 |
+| 62 | [PyG 官方教程 \| 开箱即用的图神经网络解释框架](https://zhuanlan.zhihu.com/p/605022520) | 2023-02-10 06:46:14 |
+| 63 | [中科院计算所招聘特别研究助理/博士后：社会计算、图神经网络、AI for Social Science](https://zhuanlan.zhihu.com/p/604698105) | 2023-02-09 06:10:02 |
+| 64 | [ICML’22 \| 时间-then-图 v.s. 时间-and-图](https://zhuanlan.zhihu.com/p/604085915) | 2023-02-07 08:37:30 |
+| 65 | [【经典书】图论第二版，654页pdf](https://zhuanlan.zhihu.com/p/604085910) | 2023-02-07 08:37:29 |
+| 66 | [8篇 ICLR 2023 高分GNN论文](https://zhuanlan.zhihu.com/p/603336620) | 2023-02-04 00:52:28 |
+| 67 | [最新综述 \| GNN如何建模时空信息？](https://zhuanlan.zhihu.com/p/603336606) | 2023-02-04 00:52:27 |
+| 68 | [顶会审稿人:论文的这些坑不要踩！](https://zhuanlan.zhihu.com/p/602731329) | 2023-02-02 06:12:02 |
+| 69 | [斯坦福@AAAI2021 \| 身份感知图神经网络](https://zhuanlan.zhihu.com/p/348232715) | 2021-01-30 22:17:07 |
 
 
 ## Microstrong
@@ -2381,53 +2384,54 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [openAI文生视频sora的技术核心是什么？将会对哪些行业产生影响？](https://zhuanlan.zhihu.com/p/682999379) | 2024-02-21 22:38:20 |
-| 2 | [无需训练/部署模型，一文学会图像相似度算法pHash原理和实战](https://zhuanlan.zhihu.com/p/677667097) | 2024-01-27 22:15:01 |
-| 3 | [如何用产假提升自己——遇见更好的自己](https://zhuanlan.zhihu.com/p/674048492) | 2023-12-25 19:55:58 |
-| 4 | [基于扩散建模（Diffusion Modeling）的推荐系统——Part2](https://zhuanlan.zhihu.com/p/673002694) | 2023-12-19 16:43:32 |
-| 5 | [基于扩散建模（Diffusion Modeling）的推荐系统——Part1](https://zhuanlan.zhihu.com/p/672814349) | 2023-12-18 19:49:36 |
-| 6 | [让所有大模型参数可调——Parameter-Efficient Fine-Tuning(PEFT)高效微调方法总结（系列4终结篇）](https://zhuanlan.zhihu.com/p/672553093) | 2023-12-17 15:13:56 |
-| 7 | [大模型Parameter-Efficient Fine-Tuning(PEFT)——参数高效微调方法技术总览（系列3）](https://zhuanlan.zhihu.com/p/672350814) | 2023-12-15 17:29:40 |
-| 8 | [国内外类ChatGPT大模型总览——含40页PPT总结（系列2）](https://zhuanlan.zhihu.com/p/672159840) | 2023-12-14 15:52:17 |
-| 9 | [“学而时习之，不亦说乎？”——三和书院医道传承第九次主干课感悟](https://zhuanlan.zhihu.com/p/668475995) | 2023-11-23 21:39:40 |
-| 10 | [三和书院医道传承第七次主干课感悟](https://zhuanlan.zhihu.com/p/657863290) | 2023-09-22 17:23:01 |
-| 11 | [三和书院五届同有班2023暑假作业](https://zhuanlan.zhihu.com/p/653441126) | 2023-08-31 10:12:03 |
-| 12 | [推荐今年的一本新书《这就是推荐系统》](https://zhuanlan.zhihu.com/p/652142790) | 2023-08-26 20:37:12 |
-| 13 | [针对推荐任务调整LLM大语言模型](https://zhuanlan.zhihu.com/p/640214714) | 2023-06-28 18:10:18 |
-| 14 | [基于ChatGPT的推荐系统](https://zhuanlan.zhihu.com/p/638794937) | 2023-06-21 21:33:28 |
-| 15 | [无术不立，无道不远——三和书院医道传承第六次主干课感悟](https://zhuanlan.zhihu.com/p/638287451) | 2023-06-19 22:38:18 |
-| 16 | [[万字硬核总结]通过个性化prompt结合语言建模与用户行为——基于LLM的零样本推荐系统](https://zhuanlan.zhihu.com/p/637856419) | 2023-06-17 21:53:10 |
-| 17 | [[亚马逊]GPT4Rec解读：用于个性化推荐和用户兴趣解释的生成式框架——GPT在推荐系统中的应用](https://zhuanlan.zhihu.com/p/637105415) | 2023-06-14 18:52:17 |
-| 18 | [开源家族——中文羊驼LLaMA & Alpaca大语言模型](https://zhuanlan.zhihu.com/p/636136687) | 2023-06-10 19:06:06 |
-| 19 | [现代人之“伤寒”——三和书院医道传承第五次主干课感悟](https://zhuanlan.zhihu.com/p/634893324) | 2023-06-05 21:24:34 |
-| 20 | [开源大模型论文/代码/模型文件汇总](https://zhuanlan.zhihu.com/p/631625550) | 2023-05-23 18:19:13 |
-| 21 | [开源大模型斯坦福Alpaca（小羊驼）——指令调优的LLaMA模型——100美元媲美GPT3.5](https://zhuanlan.zhihu.com/p/631296001) | 2023-05-22 16:38:04 |
-| 22 | [开源大模型LLaMA（羊驼）论文详解——Facebook母公司Meta推出，超越GPT-3](https://zhuanlan.zhihu.com/p/631085425) | 2023-05-21 21:06:31 |
-| 23 | [清华ChatGLM底层原理详解——ChatGPT国内最强开源平替，单卡可运行](https://zhuanlan.zhihu.com/p/630134021) | 2023-05-17 18:01:52 |
-| 24 | [[万字论文详解]媲美ChatGPT——Google支持的Anthropic推出”更理性的Claude“](https://zhuanlan.zhihu.com/p/629225773) | 2023-05-14 11:27:21 |
-| 25 | [揭开大型语言模型ChatGPT的神秘面纱](https://zhuanlan.zhihu.com/p/627509839) | 2023-05-07 19:05:07 |
-| 26 | [InstructGPT论文精读——ChatGPT前身，从人类反馈中学习](https://zhuanlan.zhihu.com/p/627312306) | 2023-05-06 18:21:56 |
-| 27 | [[万字长文]ChatGPT系列论文精读——大模型经典论文GPT1、GPT2、GPT3](https://zhuanlan.zhihu.com/p/626494749) | 2023-05-03 21:15:42 |
-| 28 | [一文读懂GPT家族和BERT的底层区别——自回归和自编码语言模型详解](https://zhuanlan.zhihu.com/p/625714067) | 2023-04-28 18:29:09 |
-| 29 | [ChatGPT相关技术必读论文](https://zhuanlan.zhihu.com/p/624811729) | 2023-04-25 18:40:07 |
-| 30 | [巫医一家，从国学角度看中医治病——三和书院医道传承第四次主干课感悟](https://zhuanlan.zhihu.com/p/622387530) | 2023-04-16 21:16:12 |
-| 31 | [君子慎始，差若毫厘，谬以千里——三和书院医道传承第三次主干课感悟](https://zhuanlan.zhihu.com/p/613320387) | 2023-03-12 12:08:05 |
-| 32 | [我是如何看待和应对新冠疫情的](https://zhuanlan.zhihu.com/p/603684513) | 2023-02-05 19:02:21 |
-| 33 | [辨证求因，审因论治——三和书院医道传承大课“疫情当下，我们该如何应对”感悟](https://zhuanlan.zhihu.com/p/592721054) | 2022-12-18 18:48:13 |
-| 34 | [CS285深度强化学习笔记3——马尔科夫决策过程 & 强化学习目标 & RL结构 & RL类型](https://zhuanlan.zhihu.com/p/356053534) | 2021-03-11 20:04:38 |
-| 35 | [CS285深度强化学习笔记2——序列决策问题和imitation learning](https://zhuanlan.zhihu.com/p/354748682) | 2021-03-08 19:39:53 |
-| 36 | [CS285深度强化学习笔记1——概览](https://zhuanlan.zhihu.com/p/354553750) | 2021-03-04 20:51:37 |
-| 37 | [多任务学习——共享模式／权重选择／attention融合论文剖析](https://zhuanlan.zhihu.com/p/347338896) | 2021-02-10 16:29:10 |
-| 38 | [基于ESMM模型的MTL多目标优化实践——用户活跃度影响排序机制——蘑菇街首页信息流推荐](https://zhuanlan.zhihu.com/p/344165004) | 2021-02-08 18:50:15 |
-| 39 | [基于ESMM模型的多目标优化实践——蘑菇街商城篇](https://zhuanlan.zhihu.com/p/338515054) | 2021-01-08 16:16:49 |
-| 40 | [蘑菇街增量学习番外篇三：deepFM的动态正则实践](https://zhuanlan.zhihu.com/p/337649676) | 2020-12-18 15:35:17 |
-| 41 | [蘑菇街增量学习番外篇二：优化器设计理论篇（AdamW、AdaDeltaW、FTRL）](https://zhuanlan.zhihu.com/p/329877052) | 2020-12-17 18:06:37 |
-| 42 | [蘑菇街增量学习番外篇一：动态正则之tensorflow中div转mod设计（含代码实现）](https://zhuanlan.zhihu.com/p/270354109) | 2020-11-27 21:02:52 |
-| 43 | [蘑菇街首页推荐多目标优化之reweight实践：一把双刃剑？](https://zhuanlan.zhihu.com/p/271858727) | 2020-11-10 21:39:01 |
-| 44 | [文本相关性在蘑菇街搜索推荐排序系统中的应用](https://zhuanlan.zhihu.com/p/265522400) | 2020-10-30 21:39:43 |
-| 45 | [蘑菇街推荐算法之迷——self attention不如traditional attention？](https://zhuanlan.zhihu.com/p/256252184) | 2020-09-23 22:09:25 |
-| 46 | [来唠个嗑——深度学习之表示学习（理论结合实践的思考）](https://zhuanlan.zhihu.com/p/234224652) | 2020-09-16 22:06:08 |
-| 47 | [蘑菇街首页推荐视频流——增量学习与wide&deepFM实践（工程+算法）](https://zhuanlan.zhihu.com/p/212647751) | 2020-09-03 21:17:57 |
+| 1 | [春节寒假感悟](https://zhuanlan.zhihu.com/p/684269504) | 2024-02-27 22:54:19 |
+| 2 | [openAI文生视频sora的技术核心是什么？将会对哪些行业产生影响？](https://zhuanlan.zhihu.com/p/682999379) | 2024-02-21 22:38:20 |
+| 3 | [无需训练/部署模型，一文学会图像相似度算法pHash原理和实战](https://zhuanlan.zhihu.com/p/677667097) | 2024-01-27 22:15:01 |
+| 4 | [如何用产假提升自己——遇见更好的自己](https://zhuanlan.zhihu.com/p/674048492) | 2023-12-25 19:55:58 |
+| 5 | [基于扩散建模（Diffusion Modeling）的推荐系统——Part2](https://zhuanlan.zhihu.com/p/673002694) | 2023-12-19 16:43:32 |
+| 6 | [基于扩散建模（Diffusion Modeling）的推荐系统——Part1](https://zhuanlan.zhihu.com/p/672814349) | 2023-12-18 19:49:36 |
+| 7 | [让所有大模型参数可调——Parameter-Efficient Fine-Tuning(PEFT)高效微调方法总结（系列4终结篇）](https://zhuanlan.zhihu.com/p/672553093) | 2023-12-17 15:13:56 |
+| 8 | [大模型Parameter-Efficient Fine-Tuning(PEFT)——参数高效微调方法技术总览（系列3）](https://zhuanlan.zhihu.com/p/672350814) | 2023-12-15 17:29:40 |
+| 9 | [国内外类ChatGPT大模型总览——含40页PPT总结（系列2）](https://zhuanlan.zhihu.com/p/672159840) | 2023-12-14 15:52:17 |
+| 10 | [“学而时习之，不亦说乎？”——三和书院医道传承第九次主干课感悟](https://zhuanlan.zhihu.com/p/668475995) | 2023-11-23 21:39:40 |
+| 11 | [三和书院医道传承第七次主干课感悟](https://zhuanlan.zhihu.com/p/657863290) | 2023-09-22 17:23:01 |
+| 12 | [三和书院五届同有班2023暑假作业](https://zhuanlan.zhihu.com/p/653441126) | 2023-08-31 10:12:03 |
+| 13 | [推荐今年的一本新书《这就是推荐系统》](https://zhuanlan.zhihu.com/p/652142790) | 2023-08-26 20:37:12 |
+| 14 | [针对推荐任务调整LLM大语言模型](https://zhuanlan.zhihu.com/p/640214714) | 2023-06-28 18:10:18 |
+| 15 | [基于ChatGPT的推荐系统](https://zhuanlan.zhihu.com/p/638794937) | 2023-06-21 21:33:28 |
+| 16 | [无术不立，无道不远——三和书院医道传承第六次主干课感悟](https://zhuanlan.zhihu.com/p/638287451) | 2023-06-19 22:38:18 |
+| 17 | [[万字硬核总结]通过个性化prompt结合语言建模与用户行为——基于LLM的零样本推荐系统](https://zhuanlan.zhihu.com/p/637856419) | 2023-06-17 21:53:10 |
+| 18 | [[亚马逊]GPT4Rec解读：用于个性化推荐和用户兴趣解释的生成式框架——GPT在推荐系统中的应用](https://zhuanlan.zhihu.com/p/637105415) | 2023-06-14 18:52:17 |
+| 19 | [开源家族——中文羊驼LLaMA & Alpaca大语言模型](https://zhuanlan.zhihu.com/p/636136687) | 2023-06-10 19:06:06 |
+| 20 | [现代人之“伤寒”——三和书院医道传承第五次主干课感悟](https://zhuanlan.zhihu.com/p/634893324) | 2023-06-05 21:24:34 |
+| 21 | [开源大模型论文/代码/模型文件汇总](https://zhuanlan.zhihu.com/p/631625550) | 2023-05-23 18:19:13 |
+| 22 | [开源大模型斯坦福Alpaca（小羊驼）——指令调优的LLaMA模型——100美元媲美GPT3.5](https://zhuanlan.zhihu.com/p/631296001) | 2023-05-22 16:38:04 |
+| 23 | [开源大模型LLaMA（羊驼）论文详解——Facebook母公司Meta推出，超越GPT-3](https://zhuanlan.zhihu.com/p/631085425) | 2023-05-21 21:06:31 |
+| 24 | [清华ChatGLM底层原理详解——ChatGPT国内最强开源平替，单卡可运行](https://zhuanlan.zhihu.com/p/630134021) | 2023-05-17 18:01:52 |
+| 25 | [[万字论文详解]媲美ChatGPT——Google支持的Anthropic推出”更理性的Claude“](https://zhuanlan.zhihu.com/p/629225773) | 2023-05-14 11:27:21 |
+| 26 | [揭开大型语言模型ChatGPT的神秘面纱](https://zhuanlan.zhihu.com/p/627509839) | 2023-05-07 19:05:07 |
+| 27 | [InstructGPT论文精读——ChatGPT前身，从人类反馈中学习](https://zhuanlan.zhihu.com/p/627312306) | 2023-05-06 18:21:56 |
+| 28 | [[万字长文]ChatGPT系列论文精读——大模型经典论文GPT1、GPT2、GPT3](https://zhuanlan.zhihu.com/p/626494749) | 2023-05-03 21:15:42 |
+| 29 | [一文读懂GPT家族和BERT的底层区别——自回归和自编码语言模型详解](https://zhuanlan.zhihu.com/p/625714067) | 2023-04-28 18:29:09 |
+| 30 | [ChatGPT相关技术必读论文](https://zhuanlan.zhihu.com/p/624811729) | 2023-04-25 18:40:07 |
+| 31 | [巫医一家，从国学角度看中医治病——三和书院医道传承第四次主干课感悟](https://zhuanlan.zhihu.com/p/622387530) | 2023-04-16 21:16:12 |
+| 32 | [君子慎始，差若毫厘，谬以千里——三和书院医道传承第三次主干课感悟](https://zhuanlan.zhihu.com/p/613320387) | 2023-03-12 12:08:05 |
+| 33 | [我是如何看待和应对新冠疫情的](https://zhuanlan.zhihu.com/p/603684513) | 2023-02-05 19:02:21 |
+| 34 | [辨证求因，审因论治——三和书院医道传承大课“疫情当下，我们该如何应对”感悟](https://zhuanlan.zhihu.com/p/592721054) | 2022-12-18 18:48:13 |
+| 35 | [CS285深度强化学习笔记3——马尔科夫决策过程 & 强化学习目标 & RL结构 & RL类型](https://zhuanlan.zhihu.com/p/356053534) | 2021-03-11 20:04:38 |
+| 36 | [CS285深度强化学习笔记2——序列决策问题和imitation learning](https://zhuanlan.zhihu.com/p/354748682) | 2021-03-08 19:39:53 |
+| 37 | [CS285深度强化学习笔记1——概览](https://zhuanlan.zhihu.com/p/354553750) | 2021-03-04 20:51:37 |
+| 38 | [多任务学习——共享模式／权重选择／attention融合论文剖析](https://zhuanlan.zhihu.com/p/347338896) | 2021-02-10 16:29:10 |
+| 39 | [基于ESMM模型的MTL多目标优化实践——用户活跃度影响排序机制——蘑菇街首页信息流推荐](https://zhuanlan.zhihu.com/p/344165004) | 2021-02-08 18:50:15 |
+| 40 | [基于ESMM模型的多目标优化实践——蘑菇街商城篇](https://zhuanlan.zhihu.com/p/338515054) | 2021-01-08 16:16:49 |
+| 41 | [蘑菇街增量学习番外篇三：deepFM的动态正则实践](https://zhuanlan.zhihu.com/p/337649676) | 2020-12-18 15:35:17 |
+| 42 | [蘑菇街增量学习番外篇二：优化器设计理论篇（AdamW、AdaDeltaW、FTRL）](https://zhuanlan.zhihu.com/p/329877052) | 2020-12-17 18:06:37 |
+| 43 | [蘑菇街增量学习番外篇一：动态正则之tensorflow中div转mod设计（含代码实现）](https://zhuanlan.zhihu.com/p/270354109) | 2020-11-27 21:02:52 |
+| 44 | [蘑菇街首页推荐多目标优化之reweight实践：一把双刃剑？](https://zhuanlan.zhihu.com/p/271858727) | 2020-11-10 21:39:01 |
+| 45 | [文本相关性在蘑菇街搜索推荐排序系统中的应用](https://zhuanlan.zhihu.com/p/265522400) | 2020-10-30 21:39:43 |
+| 46 | [蘑菇街推荐算法之迷——self attention不如traditional attention？](https://zhuanlan.zhihu.com/p/256252184) | 2020-09-23 22:09:25 |
+| 47 | [来唠个嗑——深度学习之表示学习（理论结合实践的思考）](https://zhuanlan.zhihu.com/p/234224652) | 2020-09-16 22:06:08 |
+| 48 | [蘑菇街首页推荐视频流——增量学习与wide&deepFM实践（工程+算法）](https://zhuanlan.zhihu.com/p/212647751) | 2020-09-03 21:17:57 |
 
 
 ## 蘑菇先生
