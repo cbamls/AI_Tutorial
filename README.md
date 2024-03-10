@@ -25,7 +25,7 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-03-02 ~ 2024-03-09), 本周报更新时间:2024-03-09 23:33:46
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-03-03 ~ 2024-03-10), 本周报更新时间:2024-03-10 22:33:33
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
@@ -4356,42 +4356,43 @@ https://item.jd.com/13484669.html。
 ## 快手
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [快手推荐系统海量模型数据处理实践](https://www.6aiq.com/article/1708562068179) |
-| 2 | [快手短视频推荐中的因果推断实践](https://www.6aiq.com/article/1708325761071) |
-| 3 | [深入浅出快手图数据库：看架构如何让推荐召回更高效](https://www.6aiq.com/article/1706521531544) |
-| 4 | [快手关于因果科学及其工业界应用落地](https://www.6aiq.com/article/1703670011695) |
-| 5 | [如何成为好的数据产品经理？-快手数据平台负责人](https://www.6aiq.com/article/1702989322036) |
-| 6 | [快手 Dragonfly 策略引擎的设计与应用](https://www.6aiq.com/article/1702896931474) |
-| 7 | [快手指标体系的管理驾驶舱场景应用实践](https://www.6aiq.com/article/1701251105460) |
-| 8 | [快手3D数字人直播互动解决方案](https://www.6aiq.com/article/1700355815551) |
-| 9 | [快手强化学习与多任务推荐](https://www.6aiq.com/article/1699440301242) |
-| 10 | [Flink on K8s在快手的实践](https://www.6aiq.com/article/1698109231654) |
-| 11 | [快手内容冷启动推荐模型实践](https://www.6aiq.com/article/1697108121186) |
-| 12 | [Blaze：SparkSQL Native 算子优化在快手的设计与实践](https://www.6aiq.com/article/1684655112016) |
-| 13 | [快手流批一体数据湖构建实践](https://www.6aiq.com/article/1684130674439) |
-| 14 | [快手增长渠道数据产品实践](https://www.6aiq.com/article/1680759250464) |
-| 15 | [快手双边市场的复杂实验设计问题](https://www.6aiq.com/article/1678514401484) |
-| 16 | [快手商业化数据产品建设经验](https://www.6aiq.com/article/1678359601840) |
-| 17 | [快手指标中台系列 - 快手指标中台发展史及经验教训](https://www.6aiq.com/article/1675612766523) |
-| 18 | [快手推荐系统精排模型实践](https://www.6aiq.com/article/1675233759039) |
-| 19 | [基于表征学习的因果推断技术在快手的实践](https://www.6aiq.com/article/1674628506319) |
-| 20 | [快手分布式高性能图平台 KGraph 及其应用](https://www.6aiq.com/article/1674627459316) |
-| 21 | [快手异质性因果效应模型构建及应用](https://www.6aiq.com/article/1667044053579) |
-| 22 | [快手端智能—移动端部署推荐系统：快手获数据挖掘顶会 CIKM 2022 最佳论文](https://www.6aiq.com/article/1666358567268) |
-| 23 | [快手单机千万 QPS 的分布式图数据库 KGraph 的实践](https://www.6aiq.com/article/1663500281088) |
-| 24 | [「繁星」：快手搜索在向量检索方向的探索和实践](https://www.6aiq.com/article/1663498700156) |
-| 25 | [Flink 引擎在快手的深度优化与生产实践](https://www.6aiq.com/article/1657360082522) |
-| 26 | [宛言：爆款素材识别在快手的应用与实践](https://www.6aiq.com/article/1657116210341) |
-| 27 | [快手牛亚男：基于多 Domain 多任务学习框架和 Transformer，搭建快手精排模型](https://www.6aiq.com/article/1654101558810) |
-| 28 | [罗清：对比学习在快手推荐排序的应用](https://www.6aiq.com/article/1653712690576) |
-| 29 | [渠江涛：重排序在快手短视频推荐系统中的演进](https://www.6aiq.com/article/1644883063745) |
-| 30 | [快手基于 Flink 构建实时数仓场景化实践](https://www.6aiq.com/article/1630198378731) |
-| 31 | [快手基于 Flink 的实时计算持续优化与实践](https://www.6aiq.com/article/1614731672830) |
-| 32 | [Flink 在快手的实践与创新](https://www.6aiq.com/article/1613168983154) |
-| 33 | [快手 \| 端上智能在快手上下滑推荐取得 APP 时长 +1% 的应用实践](https://www.6aiq.com/article/1607458709963) |
-| 34 | [快手 HBase 在千亿级用户特征数据分析中的应用与实践](https://www.6aiq.com/article/1563816249571) |
-| 35 | [快手万亿级别 Kafka 集群应用实践与技术演进之路](https://www.6aiq.com/article/1558077716919) |
-| 36 | [AIQ - AI \| 快手 AI 技术副总裁郑文：为什么说 AI 是短视频平台的核心能力](https://www.6aiq.com/article/1532522291362) |
+| 1 | [快手数据成本白盒化治理实践](https://www.6aiq.com/article/1710046203068) |
+| 2 | [快手推荐系统海量模型数据处理实践](https://www.6aiq.com/article/1708562068179) |
+| 3 | [快手短视频推荐中的因果推断实践](https://www.6aiq.com/article/1708325761071) |
+| 4 | [深入浅出快手图数据库：看架构如何让推荐召回更高效](https://www.6aiq.com/article/1706521531544) |
+| 5 | [快手关于因果科学及其工业界应用落地](https://www.6aiq.com/article/1703670011695) |
+| 6 | [如何成为好的数据产品经理？-快手数据平台负责人](https://www.6aiq.com/article/1702989322036) |
+| 7 | [快手 Dragonfly 策略引擎的设计与应用](https://www.6aiq.com/article/1702896931474) |
+| 8 | [快手指标体系的管理驾驶舱场景应用实践](https://www.6aiq.com/article/1701251105460) |
+| 9 | [快手3D数字人直播互动解决方案](https://www.6aiq.com/article/1700355815551) |
+| 10 | [快手强化学习与多任务推荐](https://www.6aiq.com/article/1699440301242) |
+| 11 | [Flink on K8s在快手的实践](https://www.6aiq.com/article/1698109231654) |
+| 12 | [快手内容冷启动推荐模型实践](https://www.6aiq.com/article/1697108121186) |
+| 13 | [Blaze：SparkSQL Native 算子优化在快手的设计与实践](https://www.6aiq.com/article/1684655112016) |
+| 14 | [快手流批一体数据湖构建实践](https://www.6aiq.com/article/1684130674439) |
+| 15 | [快手增长渠道数据产品实践](https://www.6aiq.com/article/1680759250464) |
+| 16 | [快手双边市场的复杂实验设计问题](https://www.6aiq.com/article/1678514401484) |
+| 17 | [快手商业化数据产品建设经验](https://www.6aiq.com/article/1678359601840) |
+| 18 | [快手指标中台系列 - 快手指标中台发展史及经验教训](https://www.6aiq.com/article/1675612766523) |
+| 19 | [快手推荐系统精排模型实践](https://www.6aiq.com/article/1675233759039) |
+| 20 | [基于表征学习的因果推断技术在快手的实践](https://www.6aiq.com/article/1674628506319) |
+| 21 | [快手分布式高性能图平台 KGraph 及其应用](https://www.6aiq.com/article/1674627459316) |
+| 22 | [快手异质性因果效应模型构建及应用](https://www.6aiq.com/article/1667044053579) |
+| 23 | [快手端智能—移动端部署推荐系统：快手获数据挖掘顶会 CIKM 2022 最佳论文](https://www.6aiq.com/article/1666358567268) |
+| 24 | [快手单机千万 QPS 的分布式图数据库 KGraph 的实践](https://www.6aiq.com/article/1663500281088) |
+| 25 | [「繁星」：快手搜索在向量检索方向的探索和实践](https://www.6aiq.com/article/1663498700156) |
+| 26 | [Flink 引擎在快手的深度优化与生产实践](https://www.6aiq.com/article/1657360082522) |
+| 27 | [宛言：爆款素材识别在快手的应用与实践](https://www.6aiq.com/article/1657116210341) |
+| 28 | [快手牛亚男：基于多 Domain 多任务学习框架和 Transformer，搭建快手精排模型](https://www.6aiq.com/article/1654101558810) |
+| 29 | [罗清：对比学习在快手推荐排序的应用](https://www.6aiq.com/article/1653712690576) |
+| 30 | [渠江涛：重排序在快手短视频推荐系统中的演进](https://www.6aiq.com/article/1644883063745) |
+| 31 | [快手基于 Flink 构建实时数仓场景化实践](https://www.6aiq.com/article/1630198378731) |
+| 32 | [快手基于 Flink 的实时计算持续优化与实践](https://www.6aiq.com/article/1614731672830) |
+| 33 | [Flink 在快手的实践与创新](https://www.6aiq.com/article/1613168983154) |
+| 34 | [快手 \| 端上智能在快手上下滑推荐取得 APP 时长 +1% 的应用实践](https://www.6aiq.com/article/1607458709963) |
+| 35 | [快手 HBase 在千亿级用户特征数据分析中的应用与实践](https://www.6aiq.com/article/1563816249571) |
+| 36 | [快手万亿级别 Kafka 集群应用实践与技术演进之路](https://www.6aiq.com/article/1558077716919) |
+| 37 | [AIQ - AI \| 快手 AI 技术副总裁郑文：为什么说 AI 是短视频平台的核心能力](https://www.6aiq.com/article/1532522291362) |
 ## 小米
 | 序号 | 佳作 |
 | --- | --- |
@@ -4864,58 +4865,59 @@ https://item.jd.com/13484669.html。
 ## 京东
 | 序号 | 佳作 |
 | --- | --- |
-| 1 | [百万并发场景中倒排索引与位图计算的实践](https://www.6aiq.com/article/1705939495425) |
-| 2 | [如何将知识图谱与AIGC结合？京东是这么做的](https://www.6aiq.com/article/1705485836536) |
-| 3 | [京东零售数据可视化平台产品实践与思考](https://www.6aiq.com/article/1704883841406) |
-| 4 | [京东One-Service数据服务体系建设](https://www.6aiq.com/article/1698660912035) |
-| 5 | [京东搜索EE链路演进](https://www.6aiq.com/article/1689326102189) |
-| 6 | [京东零售供应链数字孪生探索与实践](https://www.6aiq.com/article/1684751629625) |
-| 7 | [从用户体验洞察到商业价值变现，以京东为例](https://www.6aiq.com/article/1679048441828) |
-| 8 | [密集实体识别优化：京东商品命名识别为例](https://www.6aiq.com/article/1677516664814) |
-| 9 | [京东实时数据产品应用实践](https://www.6aiq.com/article/1676810488491) |
-| 10 | [京东电商搜索和推荐场景下的 MLOps 实践](https://www.6aiq.com/article/1676213821343) |
-| 11 | [京东降本实践：供应链超级自动化探索与应用](https://www.6aiq.com/article/1675347334869) |
-| 12 | [京东零售在电商搜索场景下的数据科学实践](https://www.6aiq.com/article/1675000907517) |
-| 13 | [数据服务化在京东的实践](https://www.6aiq.com/article/1674999676267) |
-| 14 | [京东零售基于 NLP 的风控算法模型构建实践](https://www.6aiq.com/article/1674628028280) |
-| 15 | [京东业务指标数据体系建设实践](https://www.6aiq.com/article/1673277903660) |
-| 16 | [【风控算法服务平台】京东科技高性能在线推理服务设计与实现](https://www.6aiq.com/article/1670687749795) |
-| 17 | [强化学习在京东 618 大促流量调控中的落地应用](https://www.6aiq.com/article/1665662093588) |
-| 18 | [京东基于时序知识图谱的问答系统](https://www.6aiq.com/article/1662120249483) |
-| 19 | [可视化服务编排在京东金融 APP 中的实践](https://www.6aiq.com/article/1661525384255) |
-| 20 | [京东 APP 百亿级的车与商品关系数据检索实践](https://www.6aiq.com/article/1658328250691) |
-| 21 | [京东零售营销选品平台架构设计](https://www.6aiq.com/article/1658225721594) |
-| 22 | [流批一体在京东的探索与实践](https://www.6aiq.com/article/1657437422885) |
-| 23 | [京东 618 广告精排百分位 AUC 提升技术方案](https://www.6aiq.com/article/1656647831516) |
-| 24 | [李阳：京东零售 OLAP 平台建设和场景实践](https://www.6aiq.com/article/1654272484596) |
-| 25 | [张政：京东在智能广告的实践和探索——集成 AI 理解、AI 生成、AI 分发的内容生态](https://www.6aiq.com/article/1654100318181) |
-| 26 | [陈振兴：京东图机器学习在智能反欺诈上的探索与实践](https://www.6aiq.com/article/1653713055128) |
-| 27 | [如何提升推荐系统的可解释性？京东智能推荐卖点技术全解析！](https://www.6aiq.com/article/1652277036960) |
-| 28 | [京东｜杨尚昂：FlinkSQL 在京东实时维度建模中的应用](https://www.6aiq.com/article/1648170024121) |
-| 29 | [王冬月：京东推荐算法精排技术实践](https://www.6aiq.com/article/1647294379283) |
-| 30 | [张菡：深度学习下的京东搜索召回技术](https://www.6aiq.com/article/1646913126889) |
-| 31 | [赵鑫：强化学习在京东广告序列推荐中的应用](https://www.6aiq.com/article/1645722190215) |
-| 32 | [京东商品知识图谱构建与实体对齐实践](https://www.6aiq.com/article/1641337359057) |
-| 33 | [峰值 6 亿 / 秒，Flink 在京东的应用与优化实践](https://www.6aiq.com/article/1641163266799) |
-| 34 | [Project Matrix：京东 Spark ML 线性模型的重构与优化实践](https://www.6aiq.com/article/1640650535214) |
-| 35 | [Apache Flink 在京东的实践与优化](https://www.6aiq.com/article/1630368865408) |
-| 36 | [多类目 MoE 模型在京东电商搜索中的应用](https://www.6aiq.com/article/1628373195066) |
-| 37 | [2021 年 4 月份，京东算法岗面试题 4 道](https://www.6aiq.com/article/1626197366563) |
-| 38 | [大规模图算法在京东广告的实践](https://www.6aiq.com/article/1622768140164) |
-| 39 | [京东超大规模联邦学习探索实践](https://www.6aiq.com/article/1622242547716) |
-| 40 | [京东搜索在线学习探索实践](https://www.6aiq.com/article/1614636296742) |
-| 41 | [京东搜索排序在线学习的 Flink 优化实践](https://www.6aiq.com/article/1610494888351) |
-| 42 | [京东 Flink 优化与技术实践](https://www.6aiq.com/article/1607387949786) |
-| 43 | [Apache Doris 在京东搜索实时 OLAP 中的应用实践](https://www.6aiq.com/article/1605651607181) |
-| 44 | [京东推荐系统中的兴趣拓展如何驱动业务持续增长](https://www.6aiq.com/article/1603629689702) |
-| 45 | [CSCNN：新一代京东电商广告排序模型](https://www.6aiq.com/article/1599175201402) |
-| 46 | [京东电商搜索中的语义检索与商品排序](https://www.6aiq.com/article/1591222526206) |
-| 47 | [头条，美团，滴滴，京东及其它公司面试经验分享！](https://www.6aiq.com/article/1569160784677) |
-| 48 | [风控建模流程：以京东群体感知项目为例](https://www.6aiq.com/article/1566483295719) |
-| 49 | [京东电商推荐系统实践](https://www.6aiq.com/article/1565595267683) |
-| 50 | [推荐系统遇上深度学习 (十五)-- 强化学习在京东推荐中的探索](https://www.6aiq.com/article/1547826520120) |
-| 51 | [美团上市，开盘涨 5.7%，市值超京东！与阿里的交锋再升级](https://www.6aiq.com/article/1537427490660) |
-| 52 | [AIQ - 架构 \| 京东推荐系统架构揭秘：大数据时代下的智能化改造](https://www.6aiq.com/article/1530723181346) |
+| 1 | [京东物流一站式敏捷BI平台建设方法论](https://www.6aiq.com/article/1710064851404) |
+| 2 | [百万并发场景中倒排索引与位图计算的实践](https://www.6aiq.com/article/1705939495425) |
+| 3 | [如何将知识图谱与AIGC结合？京东是这么做的](https://www.6aiq.com/article/1705485836536) |
+| 4 | [京东零售数据可视化平台产品实践与思考](https://www.6aiq.com/article/1704883841406) |
+| 5 | [京东One-Service数据服务体系建设](https://www.6aiq.com/article/1698660912035) |
+| 6 | [京东搜索EE链路演进](https://www.6aiq.com/article/1689326102189) |
+| 7 | [京东零售供应链数字孪生探索与实践](https://www.6aiq.com/article/1684751629625) |
+| 8 | [从用户体验洞察到商业价值变现，以京东为例](https://www.6aiq.com/article/1679048441828) |
+| 9 | [密集实体识别优化：京东商品命名识别为例](https://www.6aiq.com/article/1677516664814) |
+| 10 | [京东实时数据产品应用实践](https://www.6aiq.com/article/1676810488491) |
+| 11 | [京东电商搜索和推荐场景下的 MLOps 实践](https://www.6aiq.com/article/1676213821343) |
+| 12 | [京东降本实践：供应链超级自动化探索与应用](https://www.6aiq.com/article/1675347334869) |
+| 13 | [京东零售在电商搜索场景下的数据科学实践](https://www.6aiq.com/article/1675000907517) |
+| 14 | [数据服务化在京东的实践](https://www.6aiq.com/article/1674999676267) |
+| 15 | [京东零售基于 NLP 的风控算法模型构建实践](https://www.6aiq.com/article/1674628028280) |
+| 16 | [京东业务指标数据体系建设实践](https://www.6aiq.com/article/1673277903660) |
+| 17 | [【风控算法服务平台】京东科技高性能在线推理服务设计与实现](https://www.6aiq.com/article/1670687749795) |
+| 18 | [强化学习在京东 618 大促流量调控中的落地应用](https://www.6aiq.com/article/1665662093588) |
+| 19 | [京东基于时序知识图谱的问答系统](https://www.6aiq.com/article/1662120249483) |
+| 20 | [可视化服务编排在京东金融 APP 中的实践](https://www.6aiq.com/article/1661525384255) |
+| 21 | [京东 APP 百亿级的车与商品关系数据检索实践](https://www.6aiq.com/article/1658328250691) |
+| 22 | [京东零售营销选品平台架构设计](https://www.6aiq.com/article/1658225721594) |
+| 23 | [流批一体在京东的探索与实践](https://www.6aiq.com/article/1657437422885) |
+| 24 | [京东 618 广告精排百分位 AUC 提升技术方案](https://www.6aiq.com/article/1656647831516) |
+| 25 | [李阳：京东零售 OLAP 平台建设和场景实践](https://www.6aiq.com/article/1654272484596) |
+| 26 | [张政：京东在智能广告的实践和探索——集成 AI 理解、AI 生成、AI 分发的内容生态](https://www.6aiq.com/article/1654100318181) |
+| 27 | [陈振兴：京东图机器学习在智能反欺诈上的探索与实践](https://www.6aiq.com/article/1653713055128) |
+| 28 | [如何提升推荐系统的可解释性？京东智能推荐卖点技术全解析！](https://www.6aiq.com/article/1652277036960) |
+| 29 | [京东｜杨尚昂：FlinkSQL 在京东实时维度建模中的应用](https://www.6aiq.com/article/1648170024121) |
+| 30 | [王冬月：京东推荐算法精排技术实践](https://www.6aiq.com/article/1647294379283) |
+| 31 | [张菡：深度学习下的京东搜索召回技术](https://www.6aiq.com/article/1646913126889) |
+| 32 | [赵鑫：强化学习在京东广告序列推荐中的应用](https://www.6aiq.com/article/1645722190215) |
+| 33 | [京东商品知识图谱构建与实体对齐实践](https://www.6aiq.com/article/1641337359057) |
+| 34 | [峰值 6 亿 / 秒，Flink 在京东的应用与优化实践](https://www.6aiq.com/article/1641163266799) |
+| 35 | [Project Matrix：京东 Spark ML 线性模型的重构与优化实践](https://www.6aiq.com/article/1640650535214) |
+| 36 | [Apache Flink 在京东的实践与优化](https://www.6aiq.com/article/1630368865408) |
+| 37 | [多类目 MoE 模型在京东电商搜索中的应用](https://www.6aiq.com/article/1628373195066) |
+| 38 | [2021 年 4 月份，京东算法岗面试题 4 道](https://www.6aiq.com/article/1626197366563) |
+| 39 | [大规模图算法在京东广告的实践](https://www.6aiq.com/article/1622768140164) |
+| 40 | [京东超大规模联邦学习探索实践](https://www.6aiq.com/article/1622242547716) |
+| 41 | [京东搜索在线学习探索实践](https://www.6aiq.com/article/1614636296742) |
+| 42 | [京东搜索排序在线学习的 Flink 优化实践](https://www.6aiq.com/article/1610494888351) |
+| 43 | [京东 Flink 优化与技术实践](https://www.6aiq.com/article/1607387949786) |
+| 44 | [Apache Doris 在京东搜索实时 OLAP 中的应用实践](https://www.6aiq.com/article/1605651607181) |
+| 45 | [京东推荐系统中的兴趣拓展如何驱动业务持续增长](https://www.6aiq.com/article/1603629689702) |
+| 46 | [CSCNN：新一代京东电商广告排序模型](https://www.6aiq.com/article/1599175201402) |
+| 47 | [京东电商搜索中的语义检索与商品排序](https://www.6aiq.com/article/1591222526206) |
+| 48 | [头条，美团，滴滴，京东及其它公司面试经验分享！](https://www.6aiq.com/article/1569160784677) |
+| 49 | [风控建模流程：以京东群体感知项目为例](https://www.6aiq.com/article/1566483295719) |
+| 50 | [京东电商推荐系统实践](https://www.6aiq.com/article/1565595267683) |
+| 51 | [推荐系统遇上深度学习 (十五)-- 强化学习在京东推荐中的探索](https://www.6aiq.com/article/1547826520120) |
+| 52 | [美团上市，开盘涨 5.7%，市值超京东！与阿里的交锋再升级](https://www.6aiq.com/article/1537427490660) |
+| 53 | [AIQ - 架构 \| 京东推荐系统架构揭秘：大数据时代下的智能化改造](https://www.6aiq.com/article/1530723181346) |
 ## 乐视
 | 序号 | 佳作 |
 | --- | --- |
