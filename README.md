@@ -25,30 +25,27 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-03-12 ~ 2024-03-19), 本周报更新时间:2024-03-19 23:34:10
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-03-13 ~ 2024-03-20), 本周报更新时间:2024-03-20 22:33:17
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [十分钟验证一个高性能车联网数据平台解决方案](https://zhuanlan.zhihu.com/p/687899067) | DataFunTalk | 2024-03-19 17:41:27 |
-| 2 | [指令微调数据的高效筛选方法-排序&聚类-CaR方法](https://zhuanlan.zhihu.com/p/687775223) | 刘聪NLP | 2024-03-19 09:33:31 |
-| 3 | [温凉河畔，南阳古城，拜谒医圣——三和书院医道传承第十次主干课感悟](https://zhuanlan.zhihu.com/p/687733082) | 琦琦 | 2024-03-18 21:59:48 |
-| 4 | [金融数据治理场景化实践](https://zhuanlan.zhihu.com/p/687658993) | DataFunTalk | 2024-03-18 15:41:55 |
-| 5 | [OLTP&OLAP超融合，揭秘新一代云原生数据库的设计之道](https://zhuanlan.zhihu.com/p/687011291) | DataFunTalk | 2024-03-18 09:23:03 |
-| 6 | [行动胜过言语: Meta落地工业界首个万亿级别参数的生成式推荐系统模型](https://zhuanlan.zhihu.com/p/687478684) | 蘑菇先生 | 2024-03-18 09:03:30 |
-| 7 | [深度营销增益模型Uplift Model](https://zhuanlan.zhihu.com/p/687355859) | 朱翔宇 | 2024-03-16 15:24:06 |
-| 8 | [VLDB2024 \| 基于动态图神经网络的多元时间序列预测](https://zhuanlan.zhihu.com/p/687311305) | Houye | 2024-03-16 06:01:34 |
-| 9 | [WWW2024 \| 工业界大模型与搜广推工作梳理](https://zhuanlan.zhihu.com/p/687092311) | 蘑菇先生 | 2024-03-14 22:41:36 |
-| 10 | [流图计算在蚂蚁数仓加速场景的应用](https://zhuanlan.zhihu.com/p/687009189) | DataFunTalk | 2024-03-14 18:30:08 |
-| 11 | [吴恩达来信：低数据重力下的发展](https://zhuanlan.zhihu.com/p/686957251) | 吴恩达 | 2024-03-14 11:20:33 |
-| 12 | [条件扩散模型：Classifier-Guidance](https://zhuanlan.zhihu.com/p/686864187) | 大师兄 | 2024-03-13 20:22:57 |
-| 13 | [AI风暴来袭：2024年数据平台的演进、挑战与机遇](https://zhuanlan.zhihu.com/p/686844867) | DataFunTalk | 2024-03-13 18:30:07 |
-| 14 | [海外游戏智能营销技术应用探索](https://zhuanlan.zhihu.com/p/686750676) | DataFunTalk | 2024-03-13 11:30:44 |
-| 15 | [大模型时代，新一代向量数据库的探索应用-DingoDB](https://zhuanlan.zhihu.com/p/686616689) | DataFunTalk | 2024-03-13 09:00:08 |
-| 16 | [腾讯欧拉平台数据血缘架构及应用](https://zhuanlan.zhihu.com/p/686615758) | DataFunTalk | 2024-03-12 20:10:05 |
-| 17 | [蚂蚁金服异常检测和归因诊断分析实践](https://zhuanlan.zhihu.com/p/686614715) | DataFunTalk | 2024-03-12 16:36:41 |
-| 18 | [大模型推动下的百度信息流推荐系统重构设计](https://zhuanlan.zhihu.com/p/686545542) | DataFunTalk | 2024-03-12 11:31:58 |
-| 19 | [自我蒸馏方法-减轻大模型微调过程中的灾难性遗忘](https://zhuanlan.zhihu.com/p/686515415) | 刘聪NLP | 2024-03-12 09:57:25 |
-| 20 | [LLM+GNN=GraphEdit](https://zhuanlan.zhihu.com/p/686488070) | Houye | 2024-03-12 06:23:30 |
+| 1 | [PixelRec \| 大规模短视频封面图像推荐数据集](https://zhuanlan.zhihu.com/p/688052950) | 机器学习推荐算法 | 2024-03-20 14:43:02 |
+| 2 | [技术神秘化的去魅：Sora关键技术逆向工程图解](https://zhuanlan.zhihu.com/p/687928845) | 张俊林 | 2024-03-20 08:45:41 |
+| 3 | [十分钟验证一个高性能车联网数据平台解决方案](https://zhuanlan.zhihu.com/p/687899067) | DataFunTalk | 2024-03-19 17:41:27 |
+| 4 | [指令微调数据的高效筛选方法-排序&聚类-CaR方法](https://zhuanlan.zhihu.com/p/687775223) | 刘聪NLP | 2024-03-19 09:33:31 |
+| 5 | [温凉河畔，南阳古城，拜谒医圣——三和书院医道传承第十次主干课感悟](https://zhuanlan.zhihu.com/p/687733082) | 琦琦 | 2024-03-18 21:59:48 |
+| 6 | [金融数据治理场景化实践](https://zhuanlan.zhihu.com/p/687658993) | DataFunTalk | 2024-03-18 15:41:55 |
+| 7 | [OLTP&OLAP超融合，揭秘新一代云原生数据库的设计之道](https://zhuanlan.zhihu.com/p/687011291) | DataFunTalk | 2024-03-18 09:23:03 |
+| 8 | [行动胜过言语: Meta落地工业界首个万亿级别参数的生成式推荐系统模型](https://zhuanlan.zhihu.com/p/687478684) | 蘑菇先生 | 2024-03-18 09:03:30 |
+| 9 | [深度营销增益模型Uplift Model](https://zhuanlan.zhihu.com/p/687355859) | 朱翔宇 | 2024-03-16 15:24:06 |
+| 10 | [VLDB2024 \| 基于动态图神经网络的多元时间序列预测](https://zhuanlan.zhihu.com/p/687311305) | Houye | 2024-03-16 06:01:34 |
+| 11 | [WWW2024 \| 工业界大模型与搜广推工作梳理](https://zhuanlan.zhihu.com/p/687092311) | 蘑菇先生 | 2024-03-14 22:41:36 |
+| 12 | [流图计算在蚂蚁数仓加速场景的应用](https://zhuanlan.zhihu.com/p/687009189) | DataFunTalk | 2024-03-14 18:30:08 |
+| 13 | [吴恩达来信：低数据重力下的发展](https://zhuanlan.zhihu.com/p/686957251) | 吴恩达 | 2024-03-14 11:20:33 |
+| 14 | [条件扩散模型：Classifier-Guidance](https://zhuanlan.zhihu.com/p/686864187) | 大师兄 | 2024-03-13 20:22:57 |
+| 15 | [AI风暴来袭：2024年数据平台的演进、挑战与机遇](https://zhuanlan.zhihu.com/p/686844867) | DataFunTalk | 2024-03-13 18:30:07 |
+| 16 | [海外游戏智能营销技术应用探索](https://zhuanlan.zhihu.com/p/686750676) | DataFunTalk | 2024-03-13 11:30:44 |
+| 17 | [大模型时代，新一代向量数据库的探索应用-DingoDB](https://zhuanlan.zhihu.com/p/686616689) | DataFunTalk | 2024-03-13 09:00:08 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -75,8 +72,8 @@
   * [吴恩达](#吴恩达)
   * [蘑菇先生](#蘑菇先生)(个人公众号: 蘑菇先生学习记 & 某大厂算法工程师。,胜不骄，败不馁...)
   * [阿里妈妈技术](#阿里妈妈技术)
-  * [缄默笔记](#缄默笔记)(公众号"缄默笔记"，分享推荐系统学习笔记,...)
   * [张俊林](#张俊林)(你所不知道的事,Heil Hydra！嗯。...)
+  * [缄默笔记](#缄默笔记)(公众号"缄默笔记"，分享推荐系统学习笔记,...)
   * [King James](#king-james)(公众号：KingJames讲策略，算法出身的策略产品；,1. 专注于...)
   * [大林](#大林)
   * [李沐](#李沐)(https://github.com/mli。...)
@@ -105,9 +102,9 @@
   * [王峰](#王峰)(http://happynear.wang/。...)
   * [kaiyuan](#kaiyuan)
   * [北冥有鱼](#北冥有鱼)(zepengzhang.com。...)
+  * [机器学习推荐算法](#机器学习推荐算法)
   * [九老师](#九老师)
   * [黑猫白猫cutecat](#黑猫白猫cutecat)
-  * [机器学习推荐算法](#机器学习推荐算法)
   * [arXivDaily](#arxivdaily)
   * [bytecoder](#bytecoder)
   * [PaperWeekly](#paperweekly)(欢迎关注同名微信公众号：PaperWeekly,厚积薄发。...)
@@ -2621,6 +2618,52 @@ https://item.jd.com/13484669.html。
 | 45 | [新一代自动出价范式：在线强化学习SORL框架](https://zhuanlan.zhihu.com/p/595146953) | 2022-12-29 11:41:55 |
 
 
+## 张俊林
+> 介绍： 你所不知道的事,Heil Hydra！嗯。
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [技术神秘化的去魅：Sora关键技术逆向工程图解](https://zhuanlan.zhihu.com/p/687928845) | 2024-03-20 08:45:41 |
+| 2 | [Sora能作为物理世界模拟器吗](https://zhuanlan.zhihu.com/p/684089478) | 2024-02-27 08:31:36 |
+| 3 | [大模型“涌现现象”存在吗](https://zhuanlan.zhihu.com/p/677172089) | 2024-01-11 09:23:20 |
+| 4 | [大语言模型为何拥有智能](https://zhuanlan.zhihu.com/p/675045781) | 2023-12-29 08:41:58 |
+| 5 | [AIGC优质模型导读：数据为王DALL-E 3](https://zhuanlan.zhihu.com/p/669578590) | 2023-11-30 09:34:42 |
+| 6 | [世界的参数倒影：为何GPT通过Next Token Prediction可以产生智能](https://zhuanlan.zhihu.com/p/632795115) | 2023-05-28 15:07:48 |
+| 7 | [当前炼制“大语言模型”的两个现象](https://zhuanlan.zhihu.com/p/622365988) | 2023-04-16 19:51:04 |
+| 8 | [大语言模型的涌现能力：现象与解释](https://zhuanlan.zhihu.com/p/621438653) | 2023-04-12 20:17:37 |
+| 9 | [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623) | 2023-01-09 08:28:15 |
+| 10 | [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 2022-12-06 09:39:22 |
+| 11 | [推荐系统排序环节的特征Embedding建模](https://zhuanlan.zhihu.com/p/573576653) | 2022-10-14 18:33:04 |
+| 12 | [对比学习视角:重新审视推荐系统的召回粗排模型](https://zhuanlan.zhihu.com/p/424198603) | 2021-10-28 19:35:14 |
+| 13 | [利用Contrastive Learning对抗数据噪声：对比学习在微博场景的实践](https://zhuanlan.zhihu.com/p/370782081) | 2021-05-09 10:26:26 |
+| 14 | [对比学习（Contrastive Learning）:研究进展精要](https://zhuanlan.zhihu.com/p/367290573) | 2021-04-24 10:41:59 |
+| 15 | [SENet双塔模型：在推荐领域召回粗排的应用及其它](https://zhuanlan.zhihu.com/p/358779957) | 2021-03-21 17:56:21 |
+| 16 | [乘风破浪的PTM：两年来预训练模型的技术进展](https://zhuanlan.zhihu.com/p/254821426) | 2020-09-20 09:01:54 |
+| 17 | [知识蒸馏在推荐系统的应用](https://zhuanlan.zhihu.com/p/143155437) | 2020-05-24 10:04:23 |
+| 18 | [推荐系统中稀疏特征Embedding的优化表示方法](https://zhuanlan.zhihu.com/p/141517705) | 2020-05-17 09:49:00 |
+| 19 | [推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681) | 2019-12-29 12:11:44 |
+| 20 | [2019人工智能技术发展趋势](https://zhuanlan.zhihu.com/p/93225103) | 2019-11-22 21:21:34 |
+| 21 | [对NLP以及推荐系统未来发展趋势的看法](https://zhuanlan.zhihu.com/p/79677478) | 2019-08-25 11:02:20 |
+| 22 | [XLNet:运行机制及和Bert的异同比较](https://zhuanlan.zhihu.com/p/70257427) | 2019-06-22 10:49:56 |
+| 23 | [Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展](https://zhuanlan.zhihu.com/p/68446772) | 2019-06-09 10:31:09 |
+| 24 | [FFM及DeepFFM模型在推荐系统的探索](https://zhuanlan.zhihu.com/p/67795161) | 2019-06-02 12:19:11 |
+| 25 | [Bert时代的创新：Bert应用模式比较及其它](https://zhuanlan.zhihu.com/p/65470719) | 2019-05-12 12:17:33 |
+| 26 | [推荐系统召回四模型之二：沉重的FFM模型](https://zhuanlan.zhihu.com/p/59528983) | 2019-03-18 07:57:44 |
+| 27 | [关于百度ERNIE及将知识图谱引入Bert](https://zhuanlan.zhihu.com/p/59503959) | 2019-03-17 11:55:02 |
+| 28 | [推荐系统召回四模型之：全能的FM模型](https://zhuanlan.zhihu.com/p/58160982) | 2019-03-03 10:55:41 |
+| 29 | [效果惊人的GPT 2.0模型：它告诉了我们什么](https://zhuanlan.zhihu.com/p/56865533) | 2019-02-16 12:01:14 |
+| 30 | [关于“中文字型深度学习模型Glyce+田字格CNN”的个人看法](https://zhuanlan.zhihu.com/p/56060002) | 2019-01-31 01:05:25 |
+| 31 | [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941) | 2019-01-13 10:08:49 |
+| 32 | [天空之城：拉马努金式思维训练法](https://zhuanlan.zhihu.com/p/51934140) | 2018-12-09 10:18:48 |
+| 33 | [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699) | 2018-11-11 15:00:27 |
+| 34 | [深度学习中的Normalization模型](https://zhuanlan.zhihu.com/p/43200897) | 2018-08-28 23:55:15 |
+| 35 | [NF:集成人工生命和遗传算法自动发现神经网络最优结构](https://zhuanlan.zhihu.com/p/42243262) | 2018-08-16 23:41:48 |
+| 36 | [机器码农：深度学习自动编程](https://zhuanlan.zhihu.com/p/39775730) | 2018-07-15 09:39:09 |
+| 37 | [Batch Normalization导读](https://zhuanlan.zhihu.com/p/38176412) | 2018-06-17 10:12:08 |
+| 38 | [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161) | 2018-06-02 09:45:57 |
+| 39 | [2017年AI技术前沿进展与趋势](https://zhuanlan.zhihu.com/p/37057045) | 2018-05-19 22:27:39 |
+
+
 ## 缄默笔记
 > 介绍： 公众号"缄默笔记"，分享推荐系统学习笔记,
 
@@ -2664,51 +2707,6 @@ https://item.jd.com/13484669.html。
 | 36 | [推荐系统(三) DESTINE：基于解耦自注意网络的CTR模型](https://zhuanlan.zhihu.com/p/463728021) | 2022-02-03 09:18:34 |
 | 37 | [推荐系统(二) XCrossNet：面向特征结构学习的CTR模型](https://zhuanlan.zhihu.com/p/463484924) | 2022-02-01 16:18:52 |
 | 38 | [推荐系统(一)  FINT：基于特征域交叉的CTR模型](https://zhuanlan.zhihu.com/p/463335052) | 2022-01-31 13:12:13 |
-
-
-## 张俊林
-> 介绍： 你所不知道的事,Heil Hydra！嗯。
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [Sora能作为物理世界模拟器吗](https://zhuanlan.zhihu.com/p/684089478) | 2024-02-27 08:31:36 |
-| 2 | [大模型“涌现现象”存在吗](https://zhuanlan.zhihu.com/p/677172089) | 2024-01-11 09:23:20 |
-| 3 | [大语言模型为何拥有智能](https://zhuanlan.zhihu.com/p/675045781) | 2023-12-29 08:41:58 |
-| 4 | [AIGC优质模型导读：数据为王DALL-E 3](https://zhuanlan.zhihu.com/p/669578590) | 2023-11-30 09:34:42 |
-| 5 | [世界的参数倒影：为何GPT通过Next Token Prediction可以产生智能](https://zhuanlan.zhihu.com/p/632795115) | 2023-05-28 15:07:48 |
-| 6 | [当前炼制“大语言模型”的两个现象](https://zhuanlan.zhihu.com/p/622365988) | 2023-04-16 19:51:04 |
-| 7 | [大语言模型的涌现能力：现象与解释](https://zhuanlan.zhihu.com/p/621438653) | 2023-04-12 20:17:37 |
-| 8 | [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623) | 2023-01-09 08:28:15 |
-| 9 | [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 2022-12-06 09:39:22 |
-| 10 | [推荐系统排序环节的特征Embedding建模](https://zhuanlan.zhihu.com/p/573576653) | 2022-10-14 18:33:04 |
-| 11 | [对比学习视角:重新审视推荐系统的召回粗排模型](https://zhuanlan.zhihu.com/p/424198603) | 2021-10-28 19:35:14 |
-| 12 | [利用Contrastive Learning对抗数据噪声：对比学习在微博场景的实践](https://zhuanlan.zhihu.com/p/370782081) | 2021-05-09 10:26:26 |
-| 13 | [对比学习（Contrastive Learning）:研究进展精要](https://zhuanlan.zhihu.com/p/367290573) | 2021-04-24 10:41:59 |
-| 14 | [SENet双塔模型：在推荐领域召回粗排的应用及其它](https://zhuanlan.zhihu.com/p/358779957) | 2021-03-21 17:56:21 |
-| 15 | [乘风破浪的PTM：两年来预训练模型的技术进展](https://zhuanlan.zhihu.com/p/254821426) | 2020-09-20 09:01:54 |
-| 16 | [知识蒸馏在推荐系统的应用](https://zhuanlan.zhihu.com/p/143155437) | 2020-05-24 10:04:23 |
-| 17 | [推荐系统中稀疏特征Embedding的优化表示方法](https://zhuanlan.zhihu.com/p/141517705) | 2020-05-17 09:49:00 |
-| 18 | [推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681) | 2019-12-29 12:11:44 |
-| 19 | [2019人工智能技术发展趋势](https://zhuanlan.zhihu.com/p/93225103) | 2019-11-22 21:21:34 |
-| 20 | [对NLP以及推荐系统未来发展趋势的看法](https://zhuanlan.zhihu.com/p/79677478) | 2019-08-25 11:02:20 |
-| 21 | [XLNet:运行机制及和Bert的异同比较](https://zhuanlan.zhihu.com/p/70257427) | 2019-06-22 10:49:56 |
-| 22 | [Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展](https://zhuanlan.zhihu.com/p/68446772) | 2019-06-09 10:31:09 |
-| 23 | [FFM及DeepFFM模型在推荐系统的探索](https://zhuanlan.zhihu.com/p/67795161) | 2019-06-02 12:19:11 |
-| 24 | [Bert时代的创新：Bert应用模式比较及其它](https://zhuanlan.zhihu.com/p/65470719) | 2019-05-12 12:17:33 |
-| 25 | [推荐系统召回四模型之二：沉重的FFM模型](https://zhuanlan.zhihu.com/p/59528983) | 2019-03-18 07:57:44 |
-| 26 | [关于百度ERNIE及将知识图谱引入Bert](https://zhuanlan.zhihu.com/p/59503959) | 2019-03-17 11:55:02 |
-| 27 | [推荐系统召回四模型之：全能的FM模型](https://zhuanlan.zhihu.com/p/58160982) | 2019-03-03 10:55:41 |
-| 28 | [效果惊人的GPT 2.0模型：它告诉了我们什么](https://zhuanlan.zhihu.com/p/56865533) | 2019-02-16 12:01:14 |
-| 29 | [关于“中文字型深度学习模型Glyce+田字格CNN”的个人看法](https://zhuanlan.zhihu.com/p/56060002) | 2019-01-31 01:05:25 |
-| 30 | [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941) | 2019-01-13 10:08:49 |
-| 31 | [天空之城：拉马努金式思维训练法](https://zhuanlan.zhihu.com/p/51934140) | 2018-12-09 10:18:48 |
-| 32 | [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699) | 2018-11-11 15:00:27 |
-| 33 | [深度学习中的Normalization模型](https://zhuanlan.zhihu.com/p/43200897) | 2018-08-28 23:55:15 |
-| 34 | [NF:集成人工生命和遗传算法自动发现神经网络最优结构](https://zhuanlan.zhihu.com/p/42243262) | 2018-08-16 23:41:48 |
-| 35 | [机器码农：深度学习自动编程](https://zhuanlan.zhihu.com/p/39775730) | 2018-07-15 09:39:09 |
-| 36 | [Batch Normalization导读](https://zhuanlan.zhihu.com/p/38176412) | 2018-06-17 10:12:08 |
-| 37 | [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161) | 2018-06-02 09:45:57 |
-| 38 | [2017年AI技术前沿进展与趋势](https://zhuanlan.zhihu.com/p/37057045) | 2018-05-19 22:27:39 |
 
 
 ## King James
@@ -3530,6 +3528,24 @@ https://item.jd.com/13484669.html。
 | 12 | [【CS224W Lecture 1 & 2】 图机器学习导论 & 传统图机器学习方法](https://zhuanlan.zhihu.com/p/384238476) | 2021-06-26 17:22:44 |
 
 
+## 机器学习推荐算法
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [PixelRec \| 大规模短视频封面图像推荐数据集](https://zhuanlan.zhihu.com/p/688052950) | 2024-03-20 14:43:02 |
+| 2 | [推荐新范式 \| 以数据为中心的推荐系统](https://zhuanlan.zhihu.com/p/685921580) | 2024-03-08 10:57:27 |
+| 3 | [LLM-InS: 面向冷启动物品推荐的大语言模型交互模拟器](https://zhuanlan.zhihu.com/p/684725277) | 2024-03-01 11:24:49 |
+| 4 | [WSDM2024 \| Adapter4Rec: 系统探究适配器微调对于可迁移推荐的影响](https://zhuanlan.zhihu.com/p/684389843) | 2024-02-28 15:54:00 |
+| 5 | [WWW2024推荐系统论文整理，包括大模型/跨域/序列/可信推荐等热门主题](https://zhuanlan.zhihu.com/p/683516906) | 2024-02-23 10:16:36 |
+| 6 | [ICDE2023推荐系统论文整理](https://zhuanlan.zhihu.com/p/681620265) | 2024-02-06 10:48:52 |
+| 7 | [MicroLens \| 大规模内容驱动短视频推荐数据集](https://zhuanlan.zhihu.com/p/675213913) | 2023-12-29 16:19:06 |
+| 8 | [AAAI2024推荐系统论文集锦, 包含37篇相关论文及部分开源代码](https://zhuanlan.zhihu.com/p/673884610) | 2023-12-24 11:50:41 |
+| 9 | [WWW研讨会征稿 \| 主题: Recommendation With Generative Models](https://zhuanlan.zhihu.com/p/671941773) | 2023-12-13 10:05:19 |
+| 10 | [ICLR2024推荐系统投稿论文一览](https://zhuanlan.zhihu.com/p/669386030) | 2023-11-29 10:23:00 |
+| 11 | [NeurlPS2023推荐系统论文集锦](https://zhuanlan.zhihu.com/p/665852006) | 2023-11-09 09:01:09 |
+
+
 ## 九老师
 
 
@@ -3564,23 +3580,6 @@ https://item.jd.com/13484669.html。
 | 9 | [微软深度CTR预估模型xDeepFM：融合显式和隐式特征交互信息](https://zhuanlan.zhihu.com/p/403377718) | 2021-08-26 12:54:34 |
 | 10 | [淘宝推荐算法精排模型BST：Transformer建模用户行为序列](https://zhuanlan.zhihu.com/p/403372207) | 2021-08-25 12:02:42 |
 | 11 | [Google深度学习CTR预估模型DCN续集：DCN-v2](https://zhuanlan.zhihu.com/p/401904819) | 2021-08-20 18:20:16 |
-
-
-## 机器学习推荐算法
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [推荐新范式 \| 以数据为中心的推荐系统](https://zhuanlan.zhihu.com/p/685921580) | 2024-03-08 10:57:27 |
-| 2 | [LLM-InS: 面向冷启动物品推荐的大语言模型交互模拟器](https://zhuanlan.zhihu.com/p/684725277) | 2024-03-01 11:24:49 |
-| 3 | [WSDM2024 \| Adapter4Rec: 系统探究适配器微调对于可迁移推荐的影响](https://zhuanlan.zhihu.com/p/684389843) | 2024-02-28 15:54:00 |
-| 4 | [WWW2024推荐系统论文整理，包括大模型/跨域/序列/可信推荐等热门主题](https://zhuanlan.zhihu.com/p/683516906) | 2024-02-23 10:16:36 |
-| 5 | [ICDE2023推荐系统论文整理](https://zhuanlan.zhihu.com/p/681620265) | 2024-02-06 10:48:52 |
-| 6 | [MicroLens \| 大规模内容驱动短视频推荐数据集](https://zhuanlan.zhihu.com/p/675213913) | 2023-12-29 16:19:06 |
-| 7 | [AAAI2024推荐系统论文集锦, 包含37篇相关论文及部分开源代码](https://zhuanlan.zhihu.com/p/673884610) | 2023-12-24 11:50:41 |
-| 8 | [WWW研讨会征稿 \| 主题: Recommendation With Generative Models](https://zhuanlan.zhihu.com/p/671941773) | 2023-12-13 10:05:19 |
-| 9 | [ICLR2024推荐系统投稿论文一览](https://zhuanlan.zhihu.com/p/669386030) | 2023-11-29 10:23:00 |
-| 10 | [NeurlPS2023推荐系统论文集锦](https://zhuanlan.zhihu.com/p/665852006) | 2023-11-09 09:01:09 |
 
 
 ## arXivDaily
