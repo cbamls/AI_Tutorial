@@ -25,25 +25,26 @@
 
 # 滚动周报
 
-> 注：算法大牛本周发布的笔记汇总，统计区间(2024-03-27 ~ 2024-04-03), 本周报更新时间:2024-04-03 23:33:37
+> 注：算法大牛本周发布的笔记汇总，统计区间(2024-03-28 ~ 2024-04-04), 本周报更新时间:2024-04-04 22:33:44
 
 | 序号 | 佳作 | 作者 | 时间 |
 | --- | --- | --- | --- |
-| 1 | [用户画像算法：历史、现状与未来](https://zhuanlan.zhihu.com/p/690616411) | DataFunTalk | 2024-04-03 17:51:06 |
-| 2 | [卷大模型没意义，卷应用机会更大](https://zhuanlan.zhihu.com/p/690569491) | DataFunTalk | 2024-04-03 14:50:09 |
-| 3 | [活动推荐｜上海交通大学品牌出海&跨境电商研修班第01期](https://zhuanlan.zhihu.com/p/690426016) | 姚凯飞 | 2024-04-02 18:17:56 |
-| 4 | [大模型在金融领域落地思路与实践](https://zhuanlan.zhihu.com/p/690416708) | DataFunTalk | 2024-04-02 17:44:00 |
-| 5 | [字节智能运维场景的LLM应用实践](https://zhuanlan.zhihu.com/p/690320347) | DataFunTalk | 2024-04-02 10:52:13 |
-| 6 | [InternLM2技术报告](https://zhuanlan.zhihu.com/p/690251291) | 刘聪NLP | 2024-04-01 21:48:21 |
-| 7 | [ETL原罪是什么？NoETL怎么搞？](https://zhuanlan.zhihu.com/p/690226956) | DataFunTalk | 2024-04-01 18:54:26 |
-| 8 | [快手强化学习与多任务推荐](https://zhuanlan.zhihu.com/p/690224687) | DataFunTalk | 2024-04-01 18:28:27 |
-| 9 | [大模型对齐阶段的Scaling Laws](https://zhuanlan.zhihu.com/p/690101989) | 李rumor | 2024-04-01 09:52:29 |
-| 10 | [云端如何部署测试Qwen1.5-MoE模型](https://zhuanlan.zhihu.com/p/689776733) | 大林 | 2024-03-29 17:17:34 |
-| 11 | [滴滴国际化出行场景指标体系建设](https://zhuanlan.zhihu.com/p/689721633) | DataFunTalk | 2024-03-29 14:06:39 |
-| 12 | [Soul 基于 AIGC 的实践与探索](https://zhuanlan.zhihu.com/p/689698346) | DataFunTalk | 2024-03-29 11:39:35 |
-| 13 | [Qwen1.5-MoE模型：2.7B的激活参数量达到7B模型的性能](https://zhuanlan.zhihu.com/p/689637785) | 刘聪NLP | 2024-03-29 03:19:23 |
-| 14 | [吴恩达来信： 智能体设计模式2：Reflection](https://zhuanlan.zhihu.com/p/689492556) | 吴恩达 | 2024-03-28 11:50:19 |
-| 15 | [阿里通用多模态大模型 OFA 研究实践](https://zhuanlan.zhihu.com/p/689373516) | DataFunTalk | 2024-03-27 18:02:42 |
+| 1 | [吴恩达来信：智能体设计模式3：工具使用](https://zhuanlan.zhihu.com/p/690698468) | 吴恩达 | 2024-04-04 11:34:05 |
+| 2 | [粗排\|三塔: 缺交叉就补交叉](https://zhuanlan.zhihu.com/p/690678769) | 亦一 | 2024-04-04 08:38:37 |
+| 3 | [用户画像算法：历史、现状与未来](https://zhuanlan.zhihu.com/p/690616411) | DataFunTalk | 2024-04-03 17:51:06 |
+| 4 | [卷大模型没意义，卷应用机会更大](https://zhuanlan.zhihu.com/p/690569491) | DataFunTalk | 2024-04-03 14:50:09 |
+| 5 | [活动推荐｜上海交通大学品牌出海&跨境电商研修班第01期](https://zhuanlan.zhihu.com/p/690426016) | 姚凯飞 | 2024-04-02 18:17:56 |
+| 6 | [大模型在金融领域落地思路与实践](https://zhuanlan.zhihu.com/p/690416708) | DataFunTalk | 2024-04-02 17:44:00 |
+| 7 | [字节智能运维场景的LLM应用实践](https://zhuanlan.zhihu.com/p/690320347) | DataFunTalk | 2024-04-02 10:52:13 |
+| 8 | [InternLM2技术报告](https://zhuanlan.zhihu.com/p/690251291) | 刘聪NLP | 2024-04-01 21:48:21 |
+| 9 | [ETL原罪是什么？NoETL怎么搞？](https://zhuanlan.zhihu.com/p/690226956) | DataFunTalk | 2024-04-01 18:54:26 |
+| 10 | [快手强化学习与多任务推荐](https://zhuanlan.zhihu.com/p/690224687) | DataFunTalk | 2024-04-01 18:28:27 |
+| 11 | [大模型对齐阶段的Scaling Laws](https://zhuanlan.zhihu.com/p/690101989) | 李rumor | 2024-04-01 09:52:29 |
+| 12 | [云端如何部署测试Qwen1.5-MoE模型](https://zhuanlan.zhihu.com/p/689776733) | 大林 | 2024-03-29 17:17:34 |
+| 13 | [滴滴国际化出行场景指标体系建设](https://zhuanlan.zhihu.com/p/689721633) | DataFunTalk | 2024-03-29 14:06:39 |
+| 14 | [Soul 基于 AIGC 的实践与探索](https://zhuanlan.zhihu.com/p/689698346) | DataFunTalk | 2024-03-29 11:39:35 |
+| 15 | [Qwen1.5-MoE模型：2.7B的激活参数量达到7B模型的性能](https://zhuanlan.zhihu.com/p/689637785) | 刘聪NLP | 2024-03-29 03:19:23 |
+| 16 | [吴恩达来信： 智能体设计模式2：Reflection](https://zhuanlan.zhihu.com/p/689492556) | 吴恩达 | 2024-03-28 11:50:19 |
 # 大牛笔记
   * [DataFunTalk](#datafuntalk)
   * [朱翔宇](#朱翔宇)(「炼丹笔记 」「阿里云天池大赛赛题解析」作者,《阿里云天池大赛赛题解...)
@@ -65,9 +66,9 @@
   * [吴海波](#吴海波)(机器学习,蘑菇街VP，WeShop全球化。...)
   * [王喆](#王喆)(广告/推荐 Engineering Manager,广告/推荐, E...)
   * [zenRRan](#zenrran)(公众号：「深度学习自然语言处理」，小小NLPer~,不做螺丝钉，学以...)
+  * [吴恩达](#吴恩达)
   * [琦琦](#琦琦)(一个爱跳舞 的程序猿,建议尽量不要私信我，极有可能漏看。
 有疑问可在...)
-  * [吴恩达](#吴恩达)
   * [阿里妈妈技术](#阿里妈妈技术)
   * [蘑菇先生](#蘑菇先生)(个人公众号: 蘑菇先生学习记 & 某大厂算法工程师。,胜不骄，败不馁...)
   * [张俊林](#张俊林)(你所不知道的事,Heil Hydra！嗯。...)
@@ -1610,92 +1611,93 @@ https://item.jd.com/13484669.html。
 
 | 序号 | 佳作 | 时间 |
 | --- | --- | --- |
-| 1 | [特征交叉 \| autoInt: 将attention运用于交叉](https://zhuanlan.zhihu.com/p/685465569) | 2024-03-05 22:59:30 |
-| 2 | [粗排系列汇总](https://zhuanlan.zhihu.com/p/681808861) | 2024-02-07 19:03:50 |
-| 3 | [粗排\|基于整个推荐链路看粗排](https://zhuanlan.zhihu.com/p/680204749) | 2024-01-28 13:40:01 |
-| 4 | [《围城》：为什么方鸿渐桃花运不断](https://zhuanlan.zhihu.com/p/661472315) | 2023-10-15 23:08:47 |
-| 5 | [多场景多目标系列总结](https://zhuanlan.zhihu.com/p/659417899) | 2023-10-03 16:10:23 |
-| 6 | [多场景多目标 \| 多场景模块基于POSO思路](https://zhuanlan.zhihu.com/p/659416340) | 2023-10-03 15:55:53 |
-| 7 | [特征交叉 \| 业界方法实际应用与思考总结](https://zhuanlan.zhihu.com/p/650457945) | 2023-08-16 19:47:31 |
-| 8 | [值得去一次的地方](https://zhuanlan.zhihu.com/p/650295051) | 2023-08-16 09:18:55 |
-| 9 | [特征交叉 \| CAN: LR思路巧用MLP后重获活力](https://zhuanlan.zhihu.com/p/647111860) | 2023-07-31 21:28:13 |
-| 10 | [多场景多目标 \| [快手2023]PEPNet 模型如何做到大而全](https://zhuanlan.zhihu.com/p/645264991) | 2023-07-22 21:44:32 |
-| 11 | [多场景 \| 基于独立建模的信息融合](https://zhuanlan.zhihu.com/p/645174846) | 2023-07-22 10:26:10 |
-| 12 | [损失函数 \| weighted log loss: 基于交叉熵分类损失实现回归问题](https://zhuanlan.zhihu.com/p/640806671) | 2023-07-01 11:21:24 |
-| 13 | [损失函数: triplet loss](https://zhuanlan.zhihu.com/p/639129690) | 2023-06-24 11:10:02 |
-| 14 | [损失函数：focal loss](https://zhuanlan.zhihu.com/p/639004674) | 2023-06-23 13:41:57 |
-| 15 | [损失函数：交叉熵损失](https://zhuanlan.zhihu.com/p/637808962) | 2023-06-18 12:32:21 |
-| 16 | [损失函数：常用的分类和回归损失](https://zhuanlan.zhihu.com/p/637760288) | 2023-06-17 16:51:47 |
-| 17 | [去海口可以玩什么](https://zhuanlan.zhihu.com/p/636209925) | 2023-06-11 11:38:18 |
-| 18 | [多目标模型结构如何一步步从简到繁](https://zhuanlan.zhihu.com/p/625832485) | 2023-04-29 12:35:39 |
-| 19 | [多目标 \| 样本权重: DTP以结果反馈为导向双管齐下](https://zhuanlan.zhihu.com/p/623933804) | 2023-04-22 11:21:07 |
-| 20 | [多目标 \| 样本权重：概览](https://zhuanlan.zhihu.com/p/622333495) | 2023-04-16 15:28:39 |
-| 21 | [《围城》：人会在生活里找到生活的逻辑](https://zhuanlan.zhihu.com/p/620573560) | 2023-04-09 19:02:52 |
-| 22 | [《围城》：命运偏爱地给了方鸿渐一段爱情](https://zhuanlan.zhihu.com/p/620444337) | 2023-04-08 22:31:44 |
-| 23 | [多目标 \| 模型结构: (AAAI2023)FDN引入约束做特征分解，缓解负迁移](https://zhuanlan.zhihu.com/p/619589325) | 2023-04-05 18:56:24 |
-| 24 | [多目标 \| 模型结构: PLE显式细化expert表征](https://zhuanlan.zhihu.com/p/619511214) | 2023-04-04 22:36:16 |
-| 25 | [多场景 \| 联合建模: star结构在参数层面拆分与融合](https://zhuanlan.zhihu.com/p/618920189) | 2023-04-02 19:31:19 |
-| 26 | [损失函数：模型学习的指挥棒](https://zhuanlan.zhihu.com/p/618604847) | 2023-03-31 21:53:24 |
-| 27 | [多场景 \| 联合建模: mmoe拆分信息表征](https://zhuanlan.zhihu.com/p/615212871) | 2023-03-19 14:43:28 |
-| 28 | [多目标 \| 模型结构: MMoE实际应用，改进必不可少](https://zhuanlan.zhihu.com/p/615021892) | 2023-03-18 14:43:30 |
-| 29 | [多目标 \| 模型结构：MMoE开辟新方向](https://zhuanlan.zhihu.com/p/614342245) | 2023-03-15 23:56:30 |
-| 30 | [多目标 \| 模型结构: ESM2细化目标依赖路径](https://zhuanlan.zhihu.com/p/613727494) | 2023-03-13 22:39:45 |
-| 31 | [多目标 \| 模型结构: ESMM从目标关系出发](https://zhuanlan.zhihu.com/p/613438144) | 2023-03-12 23:04:08 |
-| 32 | [多目标汇总](https://zhuanlan.zhihu.com/p/613094769) | 2023-03-11 10:17:50 |
-| 33 | [多场景 \| 联合建模: bias tower另起炉灶学习场景信息](https://zhuanlan.zhihu.com/p/612462886) | 2023-03-09 00:34:41 |
-| 34 | [多场景 \| 联合建模: 巧用poso gate强化场景信息](https://zhuanlan.zhihu.com/p/611881134) | 2023-03-07 00:47:18 |
-| 35 | [多场景 \| 联合建模: hard-share未必不行](https://zhuanlan.zhihu.com/p/611499122) | 2023-03-05 16:39:03 |
-| 36 | [多场景系列汇总](https://zhuanlan.zhihu.com/p/611497598) | 2023-03-05 16:24:56 |
-| 37 | [多场景建模 \| 概览](https://zhuanlan.zhihu.com/p/611289214) | 2023-03-04 15:39:19 |
-| 38 | [长序列建模 \| ETA: 端到端建模实现目标一致性](https://zhuanlan.zhihu.com/p/609240360) | 2023-02-25 08:18:29 |
-| 39 | [长序列建模 \| SIM: 朴素的往往是有效的](https://zhuanlan.zhihu.com/p/606664124) | 2023-02-15 22:31:10 |
-| 40 | [特征交叉 \| xDeepFM: 站在DeepFM和DCN的肩膀上](https://zhuanlan.zhihu.com/p/600119672) | 2023-01-19 20:23:42 |
-| 41 | [特征交叉 \| DCN-m: 显式高阶特征交叉进阶版](https://zhuanlan.zhihu.com/p/598886667) | 2023-01-14 09:50:31 |
-| 42 | [特征交叉 \| DCN-v: 显式高阶特征交叉不是梦](https://zhuanlan.zhihu.com/p/597345829) | 2023-01-07 20:43:43 |
-| 43 | [特征交叉 \| DCN系列：解放高阶交叉的人工设计](https://zhuanlan.zhihu.com/p/597346245) | 2023-01-07 19:31:15 |
-| 44 | [BN有效性分析及其应用](https://zhuanlan.zhihu.com/p/596135443) | 2023-01-03 09:58:27 |
-| 45 | [一文读懂Batch Normalization](https://zhuanlan.zhihu.com/p/594944859) | 2022-12-31 11:07:25 |
-| 46 | [神经网络基础知识汇总](https://zhuanlan.zhihu.com/p/595642750) | 2022-12-31 11:04:35 |
-| 47 | [推荐基础知识汇总](https://zhuanlan.zhihu.com/p/595640823) | 2022-12-31 10:58:41 |
-| 48 | [用户行为序列建模汇总](https://zhuanlan.zhihu.com/p/595639487) | 2022-12-31 10:47:26 |
-| 49 | [特征交叉方法汇总](https://zhuanlan.zhihu.com/p/595637610) | 2022-12-31 10:40:59 |
-| 50 | [特张交叉 \| DeepFM: 绕不开的业界强base](https://zhuanlan.zhihu.com/p/592475293) | 2022-12-19 13:51:13 |
-| 51 | [特征交叉 \| PNN: product层实现特征交叉](https://zhuanlan.zhihu.com/p/592861542) | 2022-12-19 13:38:02 |
-| 52 | [特征交叉 \| FNN和NFM: FM与DNN输入的结合](https://zhuanlan.zhihu.com/p/592481321) | 2022-12-17 11:13:44 |
-| 53 | [特征交叉 \| FwFM和AFM: 显式特征交叉权重精细化](https://zhuanlan.zhihu.com/p/591046784) | 2022-12-11 21:36:01 |
-| 54 | [特征交叉 \| FFM: 显式特征交叉按域精细化](https://zhuanlan.zhihu.com/p/590365336) | 2022-12-08 21:54:42 |
-| 55 | [特征交叉 \| FM：embedding化特征交叉鼻祖](https://zhuanlan.zhihu.com/p/588733973) | 2022-12-03 14:09:55 |
-| 56 | [特征交叉：wide&deep开启DNN模型特征交叉时代](https://zhuanlan.zhihu.com/p/587217795) | 2022-11-29 22:57:17 |
-| 57 | [用户行为长序列建模MIMN方法和思考](https://zhuanlan.zhihu.com/p/584921328) | 2022-11-19 20:08:23 |
-| 58 | [过拟合-dropout原理和在模型中多种应用](https://zhuanlan.zhihu.com/p/580914279) | 2022-11-06 19:01:51 |
-| 59 | [用户行为长序列建模SDM方法](https://zhuanlan.zhihu.com/p/578530030) | 2022-10-29 20:52:01 |
-| 60 | [用户行为长序列建模概览](https://zhuanlan.zhihu.com/p/578570915) | 2022-10-29 20:36:31 |
-| 61 | [AUC离线和在线表现不一致问题：两个维度](https://zhuanlan.zhihu.com/p/574109405) | 2022-10-16 15:40:54 |
-| 62 | [用户行为序列建模din系列方法总结](https://zhuanlan.zhihu.com/p/569922102) | 2022-10-01 13:11:02 |
-| 63 | [用户行为序列建模dsin方法](https://zhuanlan.zhihu.com/p/569817483) | 2022-09-30 22:08:28 |
-| 64 | [用户行为序列建模dien方法](https://zhuanlan.zhihu.com/p/567758526) | 2022-09-24 16:18:41 |
-| 65 | [用户行为序列建模din方法和实际应用](https://zhuanlan.zhihu.com/p/563325440) | 2022-09-11 11:43:55 |
-| 66 | [用户行为序列建模self attention和具体实现](https://zhuanlan.zhihu.com/p/561976363) | 2022-09-06 23:52:53 |
-| 67 | [用户行为序列建模概览](https://zhuanlan.zhihu.com/p/557460569) | 2022-08-24 21:52:32 |
-| 68 | [多目标样本权重-DTP和不确定性加权](https://zhuanlan.zhihu.com/p/550676384) | 2022-08-08 20:25:35 |
-| 69 | [多目标样本权重-GradNorm和DWA原理详解和实现](https://zhuanlan.zhihu.com/p/542296680) | 2022-07-16 13:27:26 |
-| 70 | [POSO方法的实际应用和分析思考](https://zhuanlan.zhihu.com/p/536499073) | 2022-07-01 22:11:25 |
-| 71 | [用户冷启POSO论文详读](https://zhuanlan.zhihu.com/p/534056942) | 2022-06-26 19:55:18 |
-| 72 | [多目标模型结构PLE详解和效果分析](https://zhuanlan.zhihu.com/p/530636262) | 2022-06-18 17:42:13 |
-| 73 | [多目标模型结构-MMoE和实际应用思考](https://zhuanlan.zhihu.com/p/527185153) | 2022-06-10 21:49:22 |
-| 74 | [多目标模型结构-ESMM和ESM2](https://zhuanlan.zhihu.com/p/524256107) | 2022-06-04 19:14:19 |
-| 75 | [推荐中多目标的必要性和实现思路](https://zhuanlan.zhihu.com/p/514293940) | 2022-05-14 12:40:15 |
-| 76 | [激活函数选择和具体应用以及相关面试题](https://zhuanlan.zhihu.com/p/508652400) | 2022-05-03 09:16:49 |
-| 77 | [深入理解深度学习中常见激活函数](https://zhuanlan.zhihu.com/p/508119920) | 2022-05-01 20:20:17 |
-| 78 | [ctr模型特征交叉结构总结与业务应用和思考](https://zhuanlan.zhihu.com/p/499809627) | 2022-04-16 22:26:55 |
-| 79 | [特征交叉 \| 从曾将的王者LR开始](https://zhuanlan.zhihu.com/p/475769817) | 2022-03-04 16:05:37 |
-| 80 | [一句话理解tensorflow中的乘法](https://zhuanlan.zhihu.com/p/472445655) | 2022-02-25 18:54:59 |
-| 81 | [如何防止过拟合(1)-正则化](https://zhuanlan.zhihu.com/p/469842480) | 2022-02-20 15:28:52 |
-| 82 | [从偏差方差角度理解过拟合](https://zhuanlan.zhihu.com/p/464351701) | 2022-02-06 19:56:13 |
-| 83 | [如何计算AUC](https://zhuanlan.zhihu.com/p/462734871) | 2022-01-28 16:31:01 |
-| 84 | [什么是好的推荐，重新理解AUC](https://zhuanlan.zhihu.com/p/460549028) | 2022-01-22 13:27:55 |
-| 85 | [为什么需要推荐](https://zhuanlan.zhihu.com/p/458069387) | 2022-01-16 15:35:17 |
-| 86 | [写在前面](https://zhuanlan.zhihu.com/p/458067297) | 2022-01-16 15:28:14 |
+| 1 | [粗排\|三塔: 缺交叉就补交叉](https://zhuanlan.zhihu.com/p/690678769) | 2024-04-04 08:38:37 |
+| 2 | [特征交叉 \| autoInt: 将attention运用于交叉](https://zhuanlan.zhihu.com/p/685465569) | 2024-03-05 22:59:30 |
+| 3 | [粗排系列汇总](https://zhuanlan.zhihu.com/p/681808861) | 2024-02-07 19:03:50 |
+| 4 | [粗排\|基于整个推荐链路看粗排](https://zhuanlan.zhihu.com/p/680204749) | 2024-01-28 13:40:01 |
+| 5 | [《围城》：为什么方鸿渐桃花运不断](https://zhuanlan.zhihu.com/p/661472315) | 2023-10-15 23:08:47 |
+| 6 | [多场景多目标系列总结](https://zhuanlan.zhihu.com/p/659417899) | 2023-10-03 16:10:23 |
+| 7 | [多场景多目标 \| 多场景模块基于POSO思路](https://zhuanlan.zhihu.com/p/659416340) | 2023-10-03 15:55:53 |
+| 8 | [特征交叉 \| 业界方法实际应用与思考总结](https://zhuanlan.zhihu.com/p/650457945) | 2023-08-16 19:47:31 |
+| 9 | [值得去一次的地方](https://zhuanlan.zhihu.com/p/650295051) | 2023-08-16 09:18:55 |
+| 10 | [特征交叉 \| CAN: LR思路巧用MLP后重获活力](https://zhuanlan.zhihu.com/p/647111860) | 2023-07-31 21:28:13 |
+| 11 | [多场景多目标 \| [快手2023]PEPNet 模型如何做到大而全](https://zhuanlan.zhihu.com/p/645264991) | 2023-07-22 21:44:32 |
+| 12 | [多场景 \| 基于独立建模的信息融合](https://zhuanlan.zhihu.com/p/645174846) | 2023-07-22 10:26:10 |
+| 13 | [损失函数 \| weighted log loss: 基于交叉熵分类损失实现回归问题](https://zhuanlan.zhihu.com/p/640806671) | 2023-07-01 11:21:24 |
+| 14 | [损失函数: triplet loss](https://zhuanlan.zhihu.com/p/639129690) | 2023-06-24 11:10:02 |
+| 15 | [损失函数：focal loss](https://zhuanlan.zhihu.com/p/639004674) | 2023-06-23 13:41:57 |
+| 16 | [损失函数：交叉熵损失](https://zhuanlan.zhihu.com/p/637808962) | 2023-06-18 12:32:21 |
+| 17 | [损失函数：常用的分类和回归损失](https://zhuanlan.zhihu.com/p/637760288) | 2023-06-17 16:51:47 |
+| 18 | [去海口可以玩什么](https://zhuanlan.zhihu.com/p/636209925) | 2023-06-11 11:38:18 |
+| 19 | [多目标模型结构如何一步步从简到繁](https://zhuanlan.zhihu.com/p/625832485) | 2023-04-29 12:35:39 |
+| 20 | [多目标 \| 样本权重: DTP以结果反馈为导向双管齐下](https://zhuanlan.zhihu.com/p/623933804) | 2023-04-22 11:21:07 |
+| 21 | [多目标 \| 样本权重：概览](https://zhuanlan.zhihu.com/p/622333495) | 2023-04-16 15:28:39 |
+| 22 | [《围城》：人会在生活里找到生活的逻辑](https://zhuanlan.zhihu.com/p/620573560) | 2023-04-09 19:02:52 |
+| 23 | [《围城》：命运偏爱地给了方鸿渐一段爱情](https://zhuanlan.zhihu.com/p/620444337) | 2023-04-08 22:31:44 |
+| 24 | [多目标 \| 模型结构: (AAAI2023)FDN引入约束做特征分解，缓解负迁移](https://zhuanlan.zhihu.com/p/619589325) | 2023-04-05 18:56:24 |
+| 25 | [多目标 \| 模型结构: PLE显式细化expert表征](https://zhuanlan.zhihu.com/p/619511214) | 2023-04-04 22:36:16 |
+| 26 | [多场景 \| 联合建模: star结构在参数层面拆分与融合](https://zhuanlan.zhihu.com/p/618920189) | 2023-04-02 19:31:19 |
+| 27 | [损失函数：模型学习的指挥棒](https://zhuanlan.zhihu.com/p/618604847) | 2023-03-31 21:53:24 |
+| 28 | [多场景 \| 联合建模: mmoe拆分信息表征](https://zhuanlan.zhihu.com/p/615212871) | 2023-03-19 14:43:28 |
+| 29 | [多目标 \| 模型结构: MMoE实际应用，改进必不可少](https://zhuanlan.zhihu.com/p/615021892) | 2023-03-18 14:43:30 |
+| 30 | [多目标 \| 模型结构：MMoE开辟新方向](https://zhuanlan.zhihu.com/p/614342245) | 2023-03-15 23:56:30 |
+| 31 | [多目标 \| 模型结构: ESM2细化目标依赖路径](https://zhuanlan.zhihu.com/p/613727494) | 2023-03-13 22:39:45 |
+| 32 | [多目标 \| 模型结构: ESMM从目标关系出发](https://zhuanlan.zhihu.com/p/613438144) | 2023-03-12 23:04:08 |
+| 33 | [多目标汇总](https://zhuanlan.zhihu.com/p/613094769) | 2023-03-11 10:17:50 |
+| 34 | [多场景 \| 联合建模: bias tower另起炉灶学习场景信息](https://zhuanlan.zhihu.com/p/612462886) | 2023-03-09 00:34:41 |
+| 35 | [多场景 \| 联合建模: 巧用poso gate强化场景信息](https://zhuanlan.zhihu.com/p/611881134) | 2023-03-07 00:47:18 |
+| 36 | [多场景 \| 联合建模: hard-share未必不行](https://zhuanlan.zhihu.com/p/611499122) | 2023-03-05 16:39:03 |
+| 37 | [多场景系列汇总](https://zhuanlan.zhihu.com/p/611497598) | 2023-03-05 16:24:56 |
+| 38 | [多场景建模 \| 概览](https://zhuanlan.zhihu.com/p/611289214) | 2023-03-04 15:39:19 |
+| 39 | [长序列建模 \| ETA: 端到端建模实现目标一致性](https://zhuanlan.zhihu.com/p/609240360) | 2023-02-25 08:18:29 |
+| 40 | [长序列建模 \| SIM: 朴素的往往是有效的](https://zhuanlan.zhihu.com/p/606664124) | 2023-02-15 22:31:10 |
+| 41 | [特征交叉 \| xDeepFM: 站在DeepFM和DCN的肩膀上](https://zhuanlan.zhihu.com/p/600119672) | 2023-01-19 20:23:42 |
+| 42 | [特征交叉 \| DCN-m: 显式高阶特征交叉进阶版](https://zhuanlan.zhihu.com/p/598886667) | 2023-01-14 09:50:31 |
+| 43 | [特征交叉 \| DCN-v: 显式高阶特征交叉不是梦](https://zhuanlan.zhihu.com/p/597345829) | 2023-01-07 20:43:43 |
+| 44 | [特征交叉 \| DCN系列：解放高阶交叉的人工设计](https://zhuanlan.zhihu.com/p/597346245) | 2023-01-07 19:31:15 |
+| 45 | [BN有效性分析及其应用](https://zhuanlan.zhihu.com/p/596135443) | 2023-01-03 09:58:27 |
+| 46 | [一文读懂Batch Normalization](https://zhuanlan.zhihu.com/p/594944859) | 2022-12-31 11:07:25 |
+| 47 | [神经网络基础知识汇总](https://zhuanlan.zhihu.com/p/595642750) | 2022-12-31 11:04:35 |
+| 48 | [推荐基础知识汇总](https://zhuanlan.zhihu.com/p/595640823) | 2022-12-31 10:58:41 |
+| 49 | [用户行为序列建模汇总](https://zhuanlan.zhihu.com/p/595639487) | 2022-12-31 10:47:26 |
+| 50 | [特征交叉方法汇总](https://zhuanlan.zhihu.com/p/595637610) | 2022-12-31 10:40:59 |
+| 51 | [特张交叉 \| DeepFM: 绕不开的业界强base](https://zhuanlan.zhihu.com/p/592475293) | 2022-12-19 13:51:13 |
+| 52 | [特征交叉 \| PNN: product层实现特征交叉](https://zhuanlan.zhihu.com/p/592861542) | 2022-12-19 13:38:02 |
+| 53 | [特征交叉 \| FNN和NFM: FM与DNN输入的结合](https://zhuanlan.zhihu.com/p/592481321) | 2022-12-17 11:13:44 |
+| 54 | [特征交叉 \| FwFM和AFM: 显式特征交叉权重精细化](https://zhuanlan.zhihu.com/p/591046784) | 2022-12-11 21:36:01 |
+| 55 | [特征交叉 \| FFM: 显式特征交叉按域精细化](https://zhuanlan.zhihu.com/p/590365336) | 2022-12-08 21:54:42 |
+| 56 | [特征交叉 \| FM：embedding化特征交叉鼻祖](https://zhuanlan.zhihu.com/p/588733973) | 2022-12-03 14:09:55 |
+| 57 | [特征交叉：wide&deep开启DNN模型特征交叉时代](https://zhuanlan.zhihu.com/p/587217795) | 2022-11-29 22:57:17 |
+| 58 | [用户行为长序列建模MIMN方法和思考](https://zhuanlan.zhihu.com/p/584921328) | 2022-11-19 20:08:23 |
+| 59 | [过拟合-dropout原理和在模型中多种应用](https://zhuanlan.zhihu.com/p/580914279) | 2022-11-06 19:01:51 |
+| 60 | [用户行为长序列建模SDM方法](https://zhuanlan.zhihu.com/p/578530030) | 2022-10-29 20:52:01 |
+| 61 | [用户行为长序列建模概览](https://zhuanlan.zhihu.com/p/578570915) | 2022-10-29 20:36:31 |
+| 62 | [AUC离线和在线表现不一致问题：两个维度](https://zhuanlan.zhihu.com/p/574109405) | 2022-10-16 15:40:54 |
+| 63 | [用户行为序列建模din系列方法总结](https://zhuanlan.zhihu.com/p/569922102) | 2022-10-01 13:11:02 |
+| 64 | [用户行为序列建模dsin方法](https://zhuanlan.zhihu.com/p/569817483) | 2022-09-30 22:08:28 |
+| 65 | [用户行为序列建模dien方法](https://zhuanlan.zhihu.com/p/567758526) | 2022-09-24 16:18:41 |
+| 66 | [用户行为序列建模din方法和实际应用](https://zhuanlan.zhihu.com/p/563325440) | 2022-09-11 11:43:55 |
+| 67 | [用户行为序列建模self attention和具体实现](https://zhuanlan.zhihu.com/p/561976363) | 2022-09-06 23:52:53 |
+| 68 | [用户行为序列建模概览](https://zhuanlan.zhihu.com/p/557460569) | 2022-08-24 21:52:32 |
+| 69 | [多目标样本权重-DTP和不确定性加权](https://zhuanlan.zhihu.com/p/550676384) | 2022-08-08 20:25:35 |
+| 70 | [多目标样本权重-GradNorm和DWA原理详解和实现](https://zhuanlan.zhihu.com/p/542296680) | 2022-07-16 13:27:26 |
+| 71 | [POSO方法的实际应用和分析思考](https://zhuanlan.zhihu.com/p/536499073) | 2022-07-01 22:11:25 |
+| 72 | [用户冷启POSO论文详读](https://zhuanlan.zhihu.com/p/534056942) | 2022-06-26 19:55:18 |
+| 73 | [多目标模型结构PLE详解和效果分析](https://zhuanlan.zhihu.com/p/530636262) | 2022-06-18 17:42:13 |
+| 74 | [多目标模型结构-MMoE和实际应用思考](https://zhuanlan.zhihu.com/p/527185153) | 2022-06-10 21:49:22 |
+| 75 | [多目标模型结构-ESMM和ESM2](https://zhuanlan.zhihu.com/p/524256107) | 2022-06-04 19:14:19 |
+| 76 | [推荐中多目标的必要性和实现思路](https://zhuanlan.zhihu.com/p/514293940) | 2022-05-14 12:40:15 |
+| 77 | [激活函数选择和具体应用以及相关面试题](https://zhuanlan.zhihu.com/p/508652400) | 2022-05-03 09:16:49 |
+| 78 | [深入理解深度学习中常见激活函数](https://zhuanlan.zhihu.com/p/508119920) | 2022-05-01 20:20:17 |
+| 79 | [ctr模型特征交叉结构总结与业务应用和思考](https://zhuanlan.zhihu.com/p/499809627) | 2022-04-16 22:26:55 |
+| 80 | [特征交叉 \| 从曾将的王者LR开始](https://zhuanlan.zhihu.com/p/475769817) | 2022-03-04 16:05:37 |
+| 81 | [一句话理解tensorflow中的乘法](https://zhuanlan.zhihu.com/p/472445655) | 2022-02-25 18:54:59 |
+| 82 | [如何防止过拟合(1)-正则化](https://zhuanlan.zhihu.com/p/469842480) | 2022-02-20 15:28:52 |
+| 83 | [从偏差方差角度理解过拟合](https://zhuanlan.zhihu.com/p/464351701) | 2022-02-06 19:56:13 |
+| 84 | [如何计算AUC](https://zhuanlan.zhihu.com/p/462734871) | 2022-01-28 16:31:01 |
+| 85 | [什么是好的推荐，重新理解AUC](https://zhuanlan.zhihu.com/p/460549028) | 2022-01-22 13:27:55 |
+| 86 | [为什么需要推荐](https://zhuanlan.zhihu.com/p/458069387) | 2022-01-16 15:35:17 |
+| 87 | [写在前面](https://zhuanlan.zhihu.com/p/458067297) | 2022-01-16 15:28:14 |
 
 
 ## 张小磊
@@ -2427,6 +2429,62 @@ https://item.jd.com/13484669.html。
 | 51 | [一种巧妙且简单的数据增强方法 - MixUp 小综述](https://zhuanlan.zhihu.com/p/407089225) | 2021-09-05 18:06:58 |
 
 
+## 吴恩达
+
+
+| 序号 | 佳作 | 时间 |
+| --- | --- | --- |
+| 1 | [吴恩达来信：智能体设计模式3：工具使用](https://zhuanlan.zhihu.com/p/690698468) | 2024-04-04 11:34:05 |
+| 2 | [吴恩达来信： 智能体设计模式2：Reflection](https://zhuanlan.zhihu.com/p/689492556) | 2024-03-28 11:50:19 |
+| 3 | [吴恩达来信：智能体如何优化LLM性能](https://zhuanlan.zhihu.com/p/688226963) | 2024-03-21 12:00:17 |
+| 4 | [吴恩达来信：低数据重力下的发展](https://zhuanlan.zhihu.com/p/686957251) | 2024-03-14 11:20:33 |
+| 5 | [吴恩达来信：AI智能体的黎明时刻](https://zhuanlan.zhihu.com/p/685840097) | 2024-03-07 20:01:06 |
+| 6 | [吴恩达来信：Python包的管理难题](https://zhuanlan.zhihu.com/p/684571718) | 2024-02-29 14:55:06 |
+| 7 | [吴恩达来信：AI企业家们的三个主题](https://zhuanlan.zhihu.com/p/683387104) | 2024-02-22 15:06:00 |
+| 8 | [吴恩达来信：大型语言模型变成商品会怎么样？](https://zhuanlan.zhihu.com/p/681913934) | 2024-02-12 13:08:17 |
+| 9 | [吴恩达来信：这个世界需要智能](https://zhuanlan.zhihu.com/p/681480265) | 2024-02-05 11:16:41 |
+| 10 | [吴恩达：席卷世界经济论坛的AI议题](https://zhuanlan.zhihu.com/p/679860480) | 2024-01-26 11:24:07 |
+| 11 | [吴恩达来信：实现AGI的最简单方法](https://zhuanlan.zhihu.com/p/679194411) | 2024-01-22 17:03:24 |
+| 12 | [吴恩达来信：纽约时报与OpenAI和微软的版权较量](https://zhuanlan.zhihu.com/p/676214060) | 2024-01-05 13:29:29 |
+| 13 | [吴恩达来信：迎接2024的变与不变](https://zhuanlan.zhihu.com/p/675541705) | 2024-01-01 20:11:49 |
+| 14 | [吴恩达来信：蓬勃发展的LLM](https://zhuanlan.zhihu.com/p/670265067) | 2023-12-04 12:20:24 |
+| 15 | [吴恩达来信：勇敢发声，为AI发展助力！](https://zhuanlan.zhihu.com/p/668434373) | 2023-11-23 17:10:08 |
+| 16 | [吴恩达：AI Fund建立初创公司的小心得](https://zhuanlan.zhihu.com/p/656897807) | 2023-09-18 11:52:12 |
+| 17 | [吴恩达来信：学习AI for Good, then do good！](https://zhuanlan.zhihu.com/p/654908040) | 2023-09-07 17:17:19 |
+| 18 | [吴恩达来信：很久以前，LLMs......](https://zhuanlan.zhihu.com/p/653478315) | 2023-08-31 12:11:12 |
+| 19 | [吴恩达来信：多了解LLMs一点吧~](https://zhuanlan.zhihu.com/p/652063928) | 2023-08-24 13:52:31 |
+| 20 | [吴恩达来信：基于LLMs构建应用程序的小tips](https://zhuanlan.zhihu.com/p/650667002) | 2023-08-17 17:01:09 |
+| 21 | [吴恩达来信：LLMs能否理解世界？](https://zhuanlan.zhihu.com/p/649274642) | 2023-08-10 20:06:24 |
+| 22 | [吴恩达来信：将一项工作分解为多个任务](https://zhuanlan.zhihu.com/p/647735080) | 2023-08-03 14:22:44 |
+| 23 | [吴恩达来信：加注水印的利与弊](https://zhuanlan.zhihu.com/p/646356914) | 2023-07-27 18:28:48 |
+| 24 | [吴恩达来信：进一步完善AI相关版权法](https://zhuanlan.zhihu.com/p/644954760) | 2023-07-21 10:05:48 |
+| 25 | [吴恩达来信：快速构建，悉心调试](https://zhuanlan.zhihu.com/p/643312431) | 2023-07-13 13:40:13 |
+| 26 | [吴恩达来信：基于提示的开发在加速](https://zhuanlan.zhihu.com/p/642661646) | 2023-07-10 17:00:14 |
+| 27 | [吴恩达来信：关于AI监管](https://zhuanlan.zhihu.com/p/640443083) | 2023-06-29 17:06:12 |
+| 28 | [吴恩达来信：AI的民主化](https://zhuanlan.zhihu.com/p/637266619) | 2023-06-15 12:52:59 |
+| 29 | [吴恩达来信：吴老师喊你上课啦！](https://zhuanlan.zhihu.com/p/633864756) | 2023-06-01 11:51:11 |
+| 30 | [吴恩达来信：更“省”数据的大型预训练模型](https://zhuanlan.zhihu.com/p/633010516) | 2023-05-29 12:13:50 |
+| 31 | [吴恩达来信：超越测试集——prompting改变了机器学习](https://zhuanlan.zhihu.com/p/630439740) | 2023-05-18 19:05:21 |
+| 32 | [吴恩达来信：LLMs的美好未来](https://zhuanlan.zhihu.com/p/623672319) | 2023-04-21 11:14:50 |
+| 33 | [吴恩达来信： 以合法和公平的方式向前发展](https://zhuanlan.zhihu.com/p/620097609) | 2023-04-07 12:44:05 |
+| 34 | [吴恩达来信：此GPT非彼GPT](https://zhuanlan.zhihu.com/p/618425166) | 2023-03-31 10:35:20 |
+| 35 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 2023-03-24 11:28:53 |
+| 36 | [吴恩达来信：风浪面前，团结就是力量！](https://zhuanlan.zhihu.com/p/614454824) | 2023-03-16 13:05:15 |
+| 37 | [吴恩达来信：区别人工智能生成与人类生成](https://zhuanlan.zhihu.com/p/612640260) | 2023-03-09 16:23:24 |
+| 38 | [吴恩达来信：LandingLens震撼发布，免费羊毛等你来薅！](https://zhuanlan.zhihu.com/p/610707617) | 2023-03-02 13:15:51 |
+| 39 | [吴恩达来信：充满希望的chat-based search](https://zhuanlan.zhihu.com/p/608825488) | 2023-02-23 15:30:04 |
+| 40 | [吴恩达来信：ChatGPT很酷，RL也很酷](https://zhuanlan.zhihu.com/p/606827548) | 2023-02-16 13:20:19 |
+| 41 | [吴恩达来信：合法vs公平](https://zhuanlan.zhihu.com/p/604883301) | 2023-02-09 17:04:03 |
+| 42 | [吴恩达来信：靠语言进化的LLMs](https://zhuanlan.zhihu.com/p/602832542) | 2023-02-02 13:43:21 |
+| 43 | [吴恩达来信：来自LLMs的巨大“威胁”？](https://zhuanlan.zhihu.com/p/600121157) | 2023-01-19 20:15:20 |
+| 44 | [吴恩达来信：即将绽放的LLMs](https://zhuanlan.zhihu.com/p/598545150) | 2023-01-12 15:42:34 |
+| 45 | [吴恩达来信：2023人工智能热点展望](https://zhuanlan.zhihu.com/p/596730259) | 2023-01-05 11:30:41 |
+| 46 | [吴恩达来信：一起畅想2023及未来吧！](https://zhuanlan.zhihu.com/p/595204817) | 2022-12-29 15:25:59 |
+| 47 | [吴恩达来信：人工智能的辉煌一年](https://zhuanlan.zhihu.com/p/593809403) | 2022-12-23 12:56:05 |
+| 48 | [吴恩达来信：围绕内容审核建立信任并做出权衡](https://zhuanlan.zhihu.com/p/592072640) | 2022-12-15 17:10:14 |
+| 49 | [吴恩达来信：建立能够展现不同置信度的模型](https://zhuanlan.zhihu.com/p/590332091) | 2022-12-08 18:58:02 |
+
+
 ## 琦琦
 > 介绍： 一个爱跳舞 的程序猿,建议尽量不要私信我，极有可能漏看。
 有疑问可在文章下评论，我看到了会回复的~谢谢~。
@@ -2482,61 +2540,6 @@ https://item.jd.com/13484669.html。
 | 47 | [蘑菇街推荐算法之迷——self attention不如traditional attention？](https://zhuanlan.zhihu.com/p/256252184) | 2020-09-23 22:09:25 |
 | 48 | [来唠个嗑——深度学习之表示学习（理论结合实践的思考）](https://zhuanlan.zhihu.com/p/234224652) | 2020-09-16 22:06:08 |
 | 49 | [蘑菇街首页推荐视频流——增量学习与wide&deepFM实践（工程+算法）](https://zhuanlan.zhihu.com/p/212647751) | 2020-09-03 21:17:57 |
-
-
-## 吴恩达
-
-
-| 序号 | 佳作 | 时间 |
-| --- | --- | --- |
-| 1 | [吴恩达来信： 智能体设计模式2：Reflection](https://zhuanlan.zhihu.com/p/689492556) | 2024-03-28 11:50:19 |
-| 2 | [吴恩达来信：智能体如何优化LLM性能](https://zhuanlan.zhihu.com/p/688226963) | 2024-03-21 12:00:17 |
-| 3 | [吴恩达来信：低数据重力下的发展](https://zhuanlan.zhihu.com/p/686957251) | 2024-03-14 11:20:33 |
-| 4 | [吴恩达来信：AI智能体的黎明时刻](https://zhuanlan.zhihu.com/p/685840097) | 2024-03-07 20:01:06 |
-| 5 | [吴恩达来信：Python包的管理难题](https://zhuanlan.zhihu.com/p/684571718) | 2024-02-29 14:55:06 |
-| 6 | [吴恩达来信：AI企业家们的三个主题](https://zhuanlan.zhihu.com/p/683387104) | 2024-02-22 15:06:00 |
-| 7 | [吴恩达来信：大型语言模型变成商品会怎么样？](https://zhuanlan.zhihu.com/p/681913934) | 2024-02-12 13:08:17 |
-| 8 | [吴恩达来信：这个世界需要智能](https://zhuanlan.zhihu.com/p/681480265) | 2024-02-05 11:16:41 |
-| 9 | [吴恩达：席卷世界经济论坛的AI议题](https://zhuanlan.zhihu.com/p/679860480) | 2024-01-26 11:24:07 |
-| 10 | [吴恩达来信：实现AGI的最简单方法](https://zhuanlan.zhihu.com/p/679194411) | 2024-01-22 17:03:24 |
-| 11 | [吴恩达来信：纽约时报与OpenAI和微软的版权较量](https://zhuanlan.zhihu.com/p/676214060) | 2024-01-05 13:29:29 |
-| 12 | [吴恩达来信：迎接2024的变与不变](https://zhuanlan.zhihu.com/p/675541705) | 2024-01-01 20:11:49 |
-| 13 | [吴恩达来信：蓬勃发展的LLM](https://zhuanlan.zhihu.com/p/670265067) | 2023-12-04 12:20:24 |
-| 14 | [吴恩达来信：勇敢发声，为AI发展助力！](https://zhuanlan.zhihu.com/p/668434373) | 2023-11-23 17:10:08 |
-| 15 | [吴恩达：AI Fund建立初创公司的小心得](https://zhuanlan.zhihu.com/p/656897807) | 2023-09-18 11:52:12 |
-| 16 | [吴恩达来信：学习AI for Good, then do good！](https://zhuanlan.zhihu.com/p/654908040) | 2023-09-07 17:17:19 |
-| 17 | [吴恩达来信：很久以前，LLMs......](https://zhuanlan.zhihu.com/p/653478315) | 2023-08-31 12:11:12 |
-| 18 | [吴恩达来信：多了解LLMs一点吧~](https://zhuanlan.zhihu.com/p/652063928) | 2023-08-24 13:52:31 |
-| 19 | [吴恩达来信：基于LLMs构建应用程序的小tips](https://zhuanlan.zhihu.com/p/650667002) | 2023-08-17 17:01:09 |
-| 20 | [吴恩达来信：LLMs能否理解世界？](https://zhuanlan.zhihu.com/p/649274642) | 2023-08-10 20:06:24 |
-| 21 | [吴恩达来信：将一项工作分解为多个任务](https://zhuanlan.zhihu.com/p/647735080) | 2023-08-03 14:22:44 |
-| 22 | [吴恩达来信：加注水印的利与弊](https://zhuanlan.zhihu.com/p/646356914) | 2023-07-27 18:28:48 |
-| 23 | [吴恩达来信：进一步完善AI相关版权法](https://zhuanlan.zhihu.com/p/644954760) | 2023-07-21 10:05:48 |
-| 24 | [吴恩达来信：快速构建，悉心调试](https://zhuanlan.zhihu.com/p/643312431) | 2023-07-13 13:40:13 |
-| 25 | [吴恩达来信：基于提示的开发在加速](https://zhuanlan.zhihu.com/p/642661646) | 2023-07-10 17:00:14 |
-| 26 | [吴恩达来信：关于AI监管](https://zhuanlan.zhihu.com/p/640443083) | 2023-06-29 17:06:12 |
-| 27 | [吴恩达来信：AI的民主化](https://zhuanlan.zhihu.com/p/637266619) | 2023-06-15 12:52:59 |
-| 28 | [吴恩达来信：吴老师喊你上课啦！](https://zhuanlan.zhihu.com/p/633864756) | 2023-06-01 11:51:11 |
-| 29 | [吴恩达来信：更“省”数据的大型预训练模型](https://zhuanlan.zhihu.com/p/633010516) | 2023-05-29 12:13:50 |
-| 30 | [吴恩达来信：超越测试集——prompting改变了机器学习](https://zhuanlan.zhihu.com/p/630439740) | 2023-05-18 19:05:21 |
-| 31 | [吴恩达来信：LLMs的美好未来](https://zhuanlan.zhihu.com/p/623672319) | 2023-04-21 11:14:50 |
-| 32 | [吴恩达来信： 以合法和公平的方式向前发展](https://zhuanlan.zhihu.com/p/620097609) | 2023-04-07 12:44:05 |
-| 33 | [吴恩达来信：此GPT非彼GPT](https://zhuanlan.zhihu.com/p/618425166) | 2023-03-31 10:35:20 |
-| 34 | [吴恩达来信：持续推动AGI发展](https://zhuanlan.zhihu.com/p/616631701) | 2023-03-24 11:28:53 |
-| 35 | [吴恩达来信：风浪面前，团结就是力量！](https://zhuanlan.zhihu.com/p/614454824) | 2023-03-16 13:05:15 |
-| 36 | [吴恩达来信：区别人工智能生成与人类生成](https://zhuanlan.zhihu.com/p/612640260) | 2023-03-09 16:23:24 |
-| 37 | [吴恩达来信：LandingLens震撼发布，免费羊毛等你来薅！](https://zhuanlan.zhihu.com/p/610707617) | 2023-03-02 13:15:51 |
-| 38 | [吴恩达来信：充满希望的chat-based search](https://zhuanlan.zhihu.com/p/608825488) | 2023-02-23 15:30:04 |
-| 39 | [吴恩达来信：ChatGPT很酷，RL也很酷](https://zhuanlan.zhihu.com/p/606827548) | 2023-02-16 13:20:19 |
-| 40 | [吴恩达来信：合法vs公平](https://zhuanlan.zhihu.com/p/604883301) | 2023-02-09 17:04:03 |
-| 41 | [吴恩达来信：靠语言进化的LLMs](https://zhuanlan.zhihu.com/p/602832542) | 2023-02-02 13:43:21 |
-| 42 | [吴恩达来信：来自LLMs的巨大“威胁”？](https://zhuanlan.zhihu.com/p/600121157) | 2023-01-19 20:15:20 |
-| 43 | [吴恩达来信：即将绽放的LLMs](https://zhuanlan.zhihu.com/p/598545150) | 2023-01-12 15:42:34 |
-| 44 | [吴恩达来信：2023人工智能热点展望](https://zhuanlan.zhihu.com/p/596730259) | 2023-01-05 11:30:41 |
-| 45 | [吴恩达来信：一起畅想2023及未来吧！](https://zhuanlan.zhihu.com/p/595204817) | 2022-12-29 15:25:59 |
-| 46 | [吴恩达来信：人工智能的辉煌一年](https://zhuanlan.zhihu.com/p/593809403) | 2022-12-23 12:56:05 |
-| 47 | [吴恩达来信：围绕内容审核建立信任并做出权衡](https://zhuanlan.zhihu.com/p/592072640) | 2022-12-15 17:10:14 |
-| 48 | [吴恩达来信：建立能够展现不同置信度的模型](https://zhuanlan.zhihu.com/p/590332091) | 2022-12-08 18:58:02 |
 
 
 ## 阿里妈妈技术
